@@ -1,0 +1,214 @@
+{
+  "comment": "분야(domains)와 소스(sources)를 정합니다. domain이 어느 칸에 들어갈지를, lang이 한글/영문을 정합니다. 팟캐스트는 따로 표시하지 않습니다 — 오디오 첨부가 있는 항목은 수집기가 알아서 '듣기'로 보냅니다. verified가 true인 주소는 GitHub 러너에서 열리고 파싱되는 것을 확인한 것입니다. 나머지는 Actions의 'Check feeds'로 확인하세요. 죽은 소스는 data/feed.json의 report.failed에 남고 앱 하단에 표시됩니다. deep이 true인 소스는 저녁의 '심층 기사 하나' 후보가 됩니다.",
+  "domains": [
+    {
+      "id": "global",
+      "label": "글로벌 경제",
+      "focus": "미국 경제, 금리, 환율, 지정학",
+      "morning": 3
+    },
+    {
+      "id": "markets",
+      "label": "미국 증시",
+      "focus": "나스닥, 빅테크, ETF",
+      "morning": 2
+    },
+    {
+      "id": "tech",
+      "label": "AI·테크",
+      "focus": "AI 산업 변화, 신기술",
+      "morning": 3
+    },
+    {
+      "id": "korea",
+      "label": "한국 경제·산업",
+      "focus": "국내 산업, 정책, 기업",
+      "morning": 2
+    },
+    {
+      "id": "career",
+      "label": "커리어·비즈니스",
+      "focus": "조직관리, 리더십, 경영",
+      "morning": 0
+    }
+  ],
+  "sources": [
+    {
+      "id": "bbg-econ",
+      "domain": "global",
+      "lang": "en",
+      "name": "Bloomberg Economics",
+      "url": "https://feeds.bloomberg.com/economics/news.rss"
+    },
+    {
+      "id": "economist",
+      "domain": "global",
+      "lang": "en",
+      "name": "The Economist — The world this week",
+      "url": "https://www.economist.com/the-world-this-week/rss.xml",
+      "verified": true
+    },
+    {
+      "id": "axios",
+      "domain": "global",
+      "lang": "en",
+      "name": "Axios",
+      "url": "https://api.axios.com/feed/",
+      "verified": true
+    },
+    {
+      "id": "semafor",
+      "domain": "global",
+      "lang": "en",
+      "name": "Semafor",
+      "url": "https://www.semafor.com/rss.xml",
+      "verified": true
+    },
+    {
+      "id": "bbg-markets",
+      "domain": "markets",
+      "lang": "en",
+      "name": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss"
+    },
+    {
+      "id": "cnbc-top",
+      "domain": "markets",
+      "lang": "en",
+      "name": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
+    },
+    {
+      "id": "cnbc-invest",
+      "domain": "markets",
+      "lang": "en",
+      "name": "CNBC Investing",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069"
+    },
+    {
+      "id": "geeknews",
+      "domain": "tech",
+      "lang": "ko",
+      "name": "GeekNews",
+      "url": "https://news.hada.io/rss/news",
+      "verified": true
+    },
+    {
+      "id": "hn",
+      "domain": "tech",
+      "lang": "en",
+      "name": "Hacker News (200점 이상)",
+      "url": "https://hnrss.org/frontpage?points=200"
+    },
+    {
+      "id": "tldr",
+      "domain": "tech",
+      "lang": "en",
+      "name": "TLDR Tech",
+      "url": "https://tldr.tech/api/rss/tech",
+      "verified": true
+    },
+    {
+      "id": "stratechery",
+      "domain": "tech",
+      "lang": "en",
+      "name": "Stratechery",
+      "url": "https://stratechery.com/feed/",
+      "verified": true,
+      "deep": true
+    },
+    {
+      "id": "platformer",
+      "domain": "tech",
+      "lang": "en",
+      "name": "Platformer",
+      "url": "https://www.platformer.news/rss/",
+      "verified": true,
+      "deep": true
+    },
+    {
+      "id": "hankyung",
+      "domain": "korea",
+      "lang": "ko",
+      "name": "한국경제 경제",
+      "url": "https://www.hankyung.com/feed/economy"
+    },
+    {
+      "id": "mk",
+      "domain": "korea",
+      "lang": "ko",
+      "name": "매일경제 경제",
+      "url": "https://www.mk.co.kr/rss/30100041/"
+    },
+    {
+      "id": "yna-econ",
+      "domain": "korea",
+      "lang": "ko",
+      "name": "연합뉴스 경제",
+      "url": "https://www.yna.co.kr/rss/economy.xml"
+    },
+    {
+      "id": "uppity",
+      "domain": "korea",
+      "lang": "ko",
+      "name": "어피티",
+      "url": "https://uppity.co.kr/feed/",
+      "verified": true
+    },
+    {
+      "id": "hbr",
+      "domain": "career",
+      "lang": "en",
+      "name": "Harvard Business Review",
+      "url": "https://feeds.hbr.org/harvardbusiness",
+      "deep": true
+    },
+    {
+      "id": "pragmatic",
+      "domain": "career",
+      "lang": "en",
+      "name": "The Pragmatic Engineer",
+      "url": "https://newsletter.pragmaticengineer.com/feed",
+      "verified": true,
+      "deep": true
+    },
+    {
+      "id": "thedaily",
+      "domain": "global",
+      "lang": "en",
+      "name": "The Daily (NYT)",
+      "url": "https://feeds.simplecast.com/54nAGcIl"
+    },
+    {
+      "id": "planetmoney",
+      "domain": "markets",
+      "lang": "en",
+      "name": "Planet Money",
+      "url": "https://feeds.npr.org/510289/podcast.xml"
+    },
+    {
+      "id": "hardfork",
+      "domain": "tech",
+      "lang": "en",
+      "name": "Hard Fork",
+      "url": "https://feeds.simplecast.com/l2i9YnTd"
+    }
+  ],
+  "links": [
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com",
+      "note": "RSS를 닫았습니다. 글로벌 주요 뉴스를 직접 확인할 때."
+    },
+    {
+      "name": "Bloomberg 뉴스레터",
+      "url": "https://www.bloomberg.com/account/newsletters",
+      "note": "Five Things to Start Your Day 한국어판은 메일로 받으세요."
+    },
+    {
+      "name": "SmartNews",
+      "url": "https://www.smartnews.com",
+      "note": "무한 피드입니다. 쓴다면 타이머를 켜고."
+    }
+  ]
+}

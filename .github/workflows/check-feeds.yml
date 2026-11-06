@@ -1,0 +1,43 @@
+name: Check feeds
+
+# 수동 실행. 새 RSS 후보가 러너에서 열리고 파싱되는지, 팟캐스트 피드 주소가 무엇인지 확인합니다.
+# Actions 탭 → Check feeds → Run workflow. 출력의 최신 제목으로 발행처가 맞는지 꼭 보세요.
+on:
+  workflow_dispatch:
+    inputs:
+      feeds:
+        description: 'RSS 후보 주소 (공백 구분). 비우면 sources.json 전체를 확인합니다'
+        required: false
+        default: ''
+      podcasts:
+        description: '팟캐스트 이름 (쉼표 구분). 넣으면 피드 주소를 찾아 줍니다'
+        required: false
+        default: ''
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Check feeds
+        env:
+          FEEDS: ${{ inputs.feeds }}
+        run: |
+          if [ -n "$FEEDS" ]; then node scripts/check-feeds.mjs "$FEEDS"; else node scripts/check-feeds.mjs --all; fi
+      - name: Find podcasts
+        if: inputs.podcasts != ''
+        env:
+          SHOWS: ${{ inputs.podcasts }}
+        run: |
+          IFS=',' read -ra NAMES <<< "$SHOWS"
+          for name in "${NAMES[@]}"; do
+            n="$(echo "$name" | sed 's/^ *//; s/ *$//')"
+            [ -z "$n" ] && continue
+            echo "── $n"
+            node scripts/find-podcast.mjs "$n" || true
+          done

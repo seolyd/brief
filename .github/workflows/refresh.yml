@@ -1,0 +1,49 @@
+name: Refresh
+
+# 매일 21:30 UTC = 한국 06:30. 아침 브리핑이 일어나기 전에 준비됩니다.
+on:
+  schedule:
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run feed
+      # 키가 없으면 건너뛰고, 실패해도 피드 커밋은 막지 않습니다.
+      - name: Morning brief
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run brief
+      - name: Commit if changed
+        run: |
+          if [ -z "$(git status --porcelain public/data)" ]; then
+            echo "no change"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cp -r public/data "$RUNNER_TEMP/data"
+          for attempt in 1 2 3; do
+            git add public/data
+            git commit -q -m "Refresh feed" || true
+            if git push origin HEAD:${{ github.ref_name }}; then exit 0; fi
+            # 그사이 브랜치가 움직였으면 최신 위에 생성물만 다시 얹습니다.
+            git fetch -q origin ${{ github.ref_name }}
+            git reset -q --hard origin/${{ github.ref_name }}
+            cp -r "$RUNNER_TEMP/data/." public/data/
+          done
+          exit 1
