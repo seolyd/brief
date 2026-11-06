@@ -22,7 +22,8 @@ const config = JSON.parse(readFileSync(CONFIG_PATH, 'utf8'))
 const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_', processEntities: false })
 
 const asArray = (v) => (v == null ? [] : Array.isArray(v) ? v : [v])
-const textOf = (v) => (v && typeof v === 'object' ? (v['#text'] ?? '') : (v ?? ''))
+// 항상 문자열로 돌려줍니다. CNBC처럼 guid를 숫자로 보내는 피드가 있습니다.
+const textOf = (v) => String(v && typeof v === 'object' ? (v['#text'] ?? '') : (v ?? ''))
 
 /** 엔티티를 먼저 풀고 태그를 벗깁니다. &amp;는 마지막 — &amp;lt;가 태그로 살아나지 않게. */
 function stripHtml(s) {
@@ -65,7 +66,7 @@ function pickAudio(item) {
 }
 
 function pickLink(entry) {
-  if (typeof entry.link === 'string') return entry.link
+  if (entry.link != null && typeof entry.link !== 'object') return textOf(entry.link)
   const links = asArray(entry.link)
   const alt = links.find((l) => l?.['@_rel'] === 'alternate' && l?.['@_href'])
   return alt?.['@_href'] ?? links.find((l) => l?.['@_href'])?.['@_href'] ?? textOf(entry.id)
@@ -85,7 +86,7 @@ function readItems(xml) {
     return rss.map((i) => {
       const audioUrl = pickAudio(i)
       const guid = textOf(i.guid).trim()
-      const link = typeof i.link === 'string' ? i.link.trim() : pickLink(i)
+      const link = typeof i.link === 'object' ? pickLink(i) : textOf(i.link).trim()
       return {
         title: stripHtml(i.title),
         // 모든 회차의 link가 쇼 홈페이지인 피드가 있어서, 회차 주소를 link → guid → 오디오 순으로 찾습니다.
@@ -179,12 +180,14 @@ const kept = (previous.items ?? []).filter((i) => failedIds.has(i.sourceId))
 
 // 같은 기사가 여러 섹션 피드에 실리는 일이 잦아서 주소로도 거릅니다.
 const seenKeys = new Set()
+// 에피소드는 모든 회차의 link가 쇼 홈페이지인 피드가 있어서, 주소 대신 오디오 파일로 가립니다.
 const items = [...ok.flatMap((r) => r.rows), ...kept]
   .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
   .filter((item) => {
-    if (seenKeys.has(item.id) || seenKeys.has(item.url)) return false
+    const key = item.audioUrl ?? item.url
+    if (seenKeys.has(item.id) || seenKeys.has(key)) return false
     seenKeys.add(item.id)
-    seenKeys.add(item.url)
+    seenKeys.add(key)
     return true
   })
 
