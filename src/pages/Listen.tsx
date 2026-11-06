@@ -24,7 +24,15 @@ export function Listen() {
       {episodes.map((ep) => (
         <article key={ep.id} className={`episode${readIds.has(ep.id) ? ' read' : ''}`}>
           <div className="ep-head">
-            {ep.imageUrl && <img src={ep.imageUrl} alt="" loading="lazy" />}
+            {ep.imageUrl && (
+              <img
+                src={ep.imageUrl}
+                alt=""
+                loading="lazy"
+                // 표지가 안 열리면 빈 상자 대신 아예 숨깁니다.
+                onError={(e) => (e.currentTarget.style.display = 'none')}
+              />
+            )}
             <div>
               <div className="meta">
                 <span className="src">{ep.sourceName}</span>
