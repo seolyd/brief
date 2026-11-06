@@ -27,10 +27,13 @@
 | 글로벌 경제 | Bloomberg, The Economist, Axios, Semafor | 미국 경제, 금리, 환율, 지정학 |
 | 미국 증시 | Bloomberg Markets, CNBC | 나스닥, 빅테크, ETF |
 | AI·테크 | GeekNews, Hacker News, TLDR, Stratechery, Platformer | AI 산업 변화, 신기술 |
-| 한국 경제·산업 | 한경, 매경, 연합뉴스, 어피티 | 국내 산업, 정책, 기업 |
-| 커리어·비즈니스 | HBR, The Pragmatic Engineer | 조직관리, 리더십, 경영 |
+| 한국 경제·산업 | 매경, 서울경제, 연합뉴스, 어피티 | 국내 산업, 정책, 기업 |
+| 커리어·비즈니스 | Lenny's Newsletter, The Pragmatic Engineer | 조직관리, 리더십, 경영 |
 
-Reuters는 RSS를 닫아서 수집하지 않고, '습관' 탭에 바로가기로 둡니다.
+팟캐스트: The Daily, Planet Money, Hard Fork, 손에 잡히는 경제.
+
+Reuters는 RSS를 닫아서 수집하지 않고, '습관' 탭에 바로가기로 둡니다. 한경과 HBR은 GitHub 러너의
+요청을 막아서 서울경제와 Lenny's Newsletter로 대신했습니다.
 
 ## 어떻게 도나
 

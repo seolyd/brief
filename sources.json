@@ -1,5 +1,5 @@
 {
-  "comment": "분야(domains)와 소스(sources)를 정합니다. domain이 어느 칸에 들어갈지를, lang이 한글/영문을 정합니다. 팟캐스트는 따로 표시하지 않습니다 — 오디오 첨부가 있는 항목은 수집기가 알아서 '듣기'로 보냅니다. verified가 true인 주소는 GitHub 러너에서 열리고 파싱되는 것을 확인한 것입니다. 나머지는 Actions의 'Check feeds'로 확인하세요. 죽은 소스는 data/feed.json의 report.failed에 남고 앱 하단에 표시됩니다. deep이 true인 소스는 저녁의 '심층 기사 하나' 후보가 됩니다.",
+  "comment": "분야(domains)와 소스(sources)를 정합니다. domain이 어느 칸에 들어갈지를, lang이 한글/영문을 정합니다. 팟캐스트는 따로 표시하지 않습니다 — 오디오 첨부가 있는 항목은 수집기가 알아서 '듣기'로 보냅니다. verified가 true인 주소는 GitHub 러너에서 열리고 파싱되는 것을 확인한 것입니다. 새 주소는 넣기 전에 Actions의 'Check feeds'로 확인하세요. 한경(403), HBR(응답 없음), 머니투데이(응답 없음), 삼프로TV 팟캐스트(404)는 러너에서 막혀 뺐습니다. 죽은 소스는 data/feed.json의 report.failed에 남고 앱 하단에 표시됩니다. deep이 true인 소스는 저녁의 '심층 기사 하나' 후보가 됩니다.",
   "domains": [
     {
       "id": "global",
@@ -38,7 +38,8 @@
       "domain": "global",
       "lang": "en",
       "name": "Bloomberg Economics",
-      "url": "https://feeds.bloomberg.com/economics/news.rss"
+      "url": "https://feeds.bloomberg.com/economics/news.rss",
+      "verified": true
     },
     {
       "id": "economist",
@@ -69,21 +70,24 @@
       "domain": "markets",
       "lang": "en",
       "name": "Bloomberg Markets",
-      "url": "https://feeds.bloomberg.com/markets/news.rss"
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "verified": true
     },
     {
       "id": "cnbc-top",
       "domain": "markets",
       "lang": "en",
       "name": "CNBC Top News",
-      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "verified": true
     },
     {
       "id": "cnbc-invest",
       "domain": "markets",
       "lang": "en",
       "name": "CNBC Investing",
-      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069"
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069",
+      "verified": true
     },
     {
       "id": "geeknews",
@@ -98,7 +102,8 @@
       "domain": "tech",
       "lang": "en",
       "name": "Hacker News (200점 이상)",
-      "url": "https://hnrss.org/frontpage?points=200"
+      "url": "https://hnrss.org/frontpage?points=200",
+      "verified": true
     },
     {
       "id": "tldr",
@@ -127,25 +132,28 @@
       "deep": true
     },
     {
-      "id": "hankyung",
-      "domain": "korea",
-      "lang": "ko",
-      "name": "한국경제 경제",
-      "url": "https://www.hankyung.com/feed/economy"
-    },
-    {
       "id": "mk",
       "domain": "korea",
       "lang": "ko",
       "name": "매일경제 경제",
-      "url": "https://www.mk.co.kr/rss/30100041/"
+      "url": "https://www.mk.co.kr/rss/30100041/",
+      "verified": true
+    },
+    {
+      "id": "sedaily",
+      "domain": "korea",
+      "lang": "ko",
+      "name": "서울경제 경제",
+      "url": "https://www.sedaily.com/rss/economy",
+      "verified": true
     },
     {
       "id": "yna-econ",
       "domain": "korea",
       "lang": "ko",
       "name": "연합뉴스 경제",
-      "url": "https://www.yna.co.kr/rss/economy.xml"
+      "url": "https://www.yna.co.kr/rss/economy.xml",
+      "verified": true
     },
     {
       "id": "uppity",
@@ -154,14 +162,6 @@
       "name": "어피티",
       "url": "https://uppity.co.kr/feed/",
       "verified": true
-    },
-    {
-      "id": "hbr",
-      "domain": "career",
-      "lang": "en",
-      "name": "Harvard Business Review",
-      "url": "https://feeds.hbr.org/harvardbusiness",
-      "deep": true
     },
     {
       "id": "pragmatic",
@@ -173,25 +173,45 @@
       "deep": true
     },
     {
+      "id": "lenny",
+      "domain": "career",
+      "lang": "en",
+      "name": "Lenny's Newsletter",
+      "url": "https://www.lennysnewsletter.com/feed",
+      "deep": true,
+      "verified": true
+    },
+    {
       "id": "thedaily",
       "domain": "global",
       "lang": "en",
       "name": "The Daily (NYT)",
-      "url": "https://feeds.simplecast.com/54nAGcIl"
+      "url": "https://feeds.simplecast.com/54nAGcIl",
+      "verified": true
     },
     {
       "id": "planetmoney",
       "domain": "markets",
       "lang": "en",
       "name": "Planet Money",
-      "url": "https://feeds.npr.org/510289/podcast.xml"
+      "url": "https://feeds.npr.org/510289/podcast.xml",
+      "verified": true
     },
     {
       "id": "hardfork",
       "domain": "tech",
       "lang": "en",
       "name": "Hard Fork",
-      "url": "https://feeds.simplecast.com/l2i9YnTd"
+      "url": "https://feeds.simplecast.com/l2i9YnTd",
+      "verified": true
+    },
+    {
+      "id": "sonkyung",
+      "domain": "korea",
+      "lang": "ko",
+      "name": "손에 잡히는 경제 (MBC)",
+      "url": "https://minicast.imbc.com/PodCast/pod.aspx?code=1000671100000100000",
+      "verified": true
     }
   ],
   "links": [
