@@ -44,12 +44,15 @@ Reuters는 RSS를 닫아서 수집하지 않고, '습관' 탭에 바로가기로
    "오늘 알아야 할 10가지"를 써서 `public/data/brief.json`에 둡니다. 키가 없으면 건너뛰고,
    앱은 헤드라인으로 대신 보여줍니다. 모델에는 기사 번호만 보내고 답도 번호로 받아,
    출처 주소를 모델이 지어낼 수 없게 했습니다.
-3. `node scripts/mustread.mjs morning|evening` — **Must Read**. 하루 두 번(06:30, 18:30) Claude가 수집한 기사를
-   출발점으로 웹 검색으로 사실과 숫자를 확인하며 긴 브리핑 한 편을 씁니다(핵심 3가지, 분야별 항목마다
-   사실 → 표 → 해석 → 출처, 일정, 지켜보는 종목 판단, 오늘 기억할 3가지). 글 속 링크가 이번에 실제로 본
-   주소가 아니면 링크를 벗깁니다. 관심사와 지켜보는 종목은 `sources.json`의 `profile`에서 고칩니다.
-   웹 검색을 쓰는 긴 글이라 한 번에 API 비용이 브리핑보다 큽니다.
-4. 바뀐 파일을 커밋합니다. Vercel이 그 커밋을 배포합니다.
+3. 바뀐 파일을 커밋합니다. Vercel이 그 커밋을 배포합니다.
+
+### Must Read
+
+06:41과 18:41에 **Claude 예약 작업**(claude.ai의 Claude Code 예약 작업)이 새 세션을 열고
+[`docs/MUSTREAD.md`](docs/MUSTREAD.md)대로 씁니다. 방금 수집한 피드를 출발점으로 웹 검색으로 사실과 숫자를
+확인하고, `scripts/save-mustread.mjs`로 형식을 검사한 뒤 `public/data/mustread-<판>.json`을 커밋합니다.
+API 키가 필요 없고 Claude 구독 사용량을 씁니다. 관심사와 지켜보는 종목은 `sources.json`의 `profile`에서,
+글의 구조와 원칙은 `docs/MUSTREAD.md`에서 고칩니다.
 
 읽음 표시, 타이머 기록, '나중에' 목록은 전부 이 기기의 localStorage에만 있습니다.
 

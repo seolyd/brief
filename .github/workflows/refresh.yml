@@ -1,6 +1,7 @@
 name: Refresh
 
-# 하루 두 번. 21:30 UTC = 한국 06:30 (아침판), 09:30 UTC = 한국 18:30 (저녁판).
+# 하루 두 번. 21:30 UTC = 한국 06:30, 09:30 UTC = 한국 18:30.
+# Must Read는 여기서 쓰지 않습니다. 11분 뒤 Claude 예약 작업이 이 피드를 읽고 씁니다 (docs/MUSTREAD.md).
 on:
   schedule:
     - cron: '30 21 * * *'
@@ -8,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       edition:
-        description: 'Must Read 판. 비우면 실행 시각으로 정합니다'
+        description: '아침판이면 10가지 브리핑도 씁니다(API 키가 있을 때). 비우면 실행 시각으로 정합니다'
         type: choice
         options: ['', morning, evening]
         default: ''
@@ -23,8 +24,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    # 웹 검색을 하며 긴 글을 쓰므로 넉넉히 둡니다.
-    timeout-minutes: 30
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
@@ -47,16 +47,12 @@ jobs:
             if [ "$h" -lt 12 ]; then echo "name=morning" >> "$GITHUB_OUTPUT"; else echo "name=evening" >> "$GITHUB_OUTPUT"; fi
           fi
 
-      # 키가 없으면 둘 다 건너뛰고, 실패해도 피드 커밋은 막지 않습니다.
+      # 키가 없으면 건너뛰고, 실패해도 피드 커밋은 막지 않습니다.
       - name: Morning brief (10 items)
         if: steps.edition.outputs.name == 'morning'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run brief
-      - name: Must Read
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: node scripts/mustread.mjs ${{ steps.edition.outputs.name }}
 
       - name: Commit if changed
         run: |

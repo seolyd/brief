@@ -32,8 +32,7 @@ export function MustRead({ edition, onFinished }: { edition: Edition; onFinished
     return (
       <Empty>
         {edition === 'morning' ? '오늘 아침' : '오늘 저녁'} Must Read가 아직 없습니다.{' '}
-        {edition === 'morning' ? '매일 06:30' : '매일 18:30'}에 준비됩니다. 처음이라면 저장소 Secret에
-        ANTHROPIC_API_KEY가 있어야 쓰입니다.
+        {edition === 'morning' ? '매일 아침 7시' : '매일 저녁 7시'} 전후로 준비됩니다.
       </Empty>
     )
   }
