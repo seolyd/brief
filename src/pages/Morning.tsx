@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { pickHeadlines, type BriefItem } from '../lib/data'
 import { useSession } from '../lib/session'
 import { useLater, useReadIds } from '../lib/store'
@@ -6,6 +6,7 @@ import { useData } from '../lib/useData'
 import { Empty, Page } from '../components/Page'
 import { EndCard, SessionBar } from '../components/SessionBar'
 import { ArticleRow } from '../components/ArticleRow'
+import { MustRead, Segments } from '../components/MustRead'
 
 const today = () =>
   new Date().toLocaleDateString('ko-KR', { month: 'long', day: 'numeric', weekday: 'long' })
@@ -15,6 +16,8 @@ export function Morning() {
   const session = useSession('morning')
   const [readIds, markRead] = useReadIds()
   const [, addLater] = useLater()
+  // Must Read가 먼저입니다. 짧은 목록은 시간이 없는 날을 위한 것입니다.
+  const [view, setView] = useState<'must' | 'list'>('must')
 
   const headlines = feed ? pickHeadlines(feed) : []
   // 브리핑이 있으면 브리핑 항목이, 없으면 헤드라인이 오늘의 "다 읽음" 기준입니다.
@@ -25,8 +28,8 @@ export function Morning() {
 
   // 다 읽으면 타이머가 남았어도 끝냅니다. 남은 시간을 채우려 다른 걸 찾지 않게.
   useEffect(() => {
-    if (allRead && session.active) session.stop()
-  }, [allRead, session])
+    if (view === 'list' && allRead && session.active) session.stop()
+  }, [view, allRead, session])
 
   return (
     <Page kicker={today()} title="Morning Brief">
@@ -39,6 +42,19 @@ export function Morning() {
       ) : (
         <>
           <SessionBar kind="morning" session={session} />
+          <Segments
+            value={view}
+            onChange={setView}
+            options={[
+              { id: 'must', label: 'Must Read' },
+              { id: 'list', label: brief ? '10가지' : '헤드라인' },
+            ]}
+          />
+
+          {view === 'must' ? (
+            <MustRead edition="morning" onFinished={() => session.active && session.stop()} />
+          ) : (
+          <>
           {keys.length > 0 && (
             <p className="progress">
               {readCount} / {keys.length} 읽음
@@ -101,6 +117,8 @@ export function Morning() {
           )}
 
           {allRead && <EndCard title="다 읽었습니다." body="오늘 아침은 여기까지. 앱을 닫으세요." />}
+          </>
+          )}
         </>
       )}
     </Page>

@@ -1,10 +1,17 @@
 name: Refresh
 
-# 매일 21:30 UTC = 한국 06:30. 아침 브리핑이 일어나기 전에 준비됩니다.
+# 하루 두 번. 21:30 UTC = 한국 06:30 (아침판), 09:30 UTC = 한국 18:30 (저녁판).
 on:
   schedule:
     - cron: '30 21 * * *'
+    - cron: '30 9 * * *'
   workflow_dispatch:
+    inputs:
+      edition:
+        description: 'Must Read 판. 비우면 실행 시각으로 정합니다'
+        type: choice
+        options: ['', morning, evening]
+        default: ''
 
 permissions:
   contents: write
@@ -16,6 +23,8 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    # 웹 검색을 하며 긴 글을 쓰므로 넉넉히 둡니다.
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
@@ -24,11 +33,31 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run feed
-      # 키가 없으면 건너뛰고, 실패해도 피드 커밋은 막지 않습니다.
-      - name: Morning brief
+
+      - name: Pick edition
+        id: edition
+        env:
+          INPUT: ${{ inputs.edition }}
+        run: |
+          if [ -n "$INPUT" ]; then
+            echo "name=$INPUT" >> "$GITHUB_OUTPUT"
+          else
+            # 한국 시간 정오 전이면 아침판입니다.
+            h=$(TZ=Asia/Seoul date +%H)
+            if [ "$h" -lt 12 ]; then echo "name=morning" >> "$GITHUB_OUTPUT"; else echo "name=evening" >> "$GITHUB_OUTPUT"; fi
+          fi
+
+      # 키가 없으면 둘 다 건너뛰고, 실패해도 피드 커밋은 막지 않습니다.
+      - name: Morning brief (10 items)
+        if: steps.edition.outputs.name == 'morning'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run brief
+      - name: Must Read
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/mustread.mjs ${{ steps.edition.outputs.name }}
+
       - name: Commit if changed
         run: |
           if [ -z "$(git status --porcelain public/data)" ]; then
@@ -39,7 +68,7 @@ jobs:
           cp -r public/data "$RUNNER_TEMP/data"
           for attempt in 1 2 3; do
             git add public/data
-            git commit -q -m "Refresh feed" || true
+            git commit -q -m "Refresh feed (${{ steps.edition.outputs.name }})" || true
             if git push origin HEAD:${{ github.ref_name }}; then exit 0; fi
             # 그사이 브랜치가 움직였으면 최신 위에 생성물만 다시 얹습니다.
             git fetch -q origin ${{ github.ref_name }}

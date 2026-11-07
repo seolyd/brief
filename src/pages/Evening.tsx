@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { within, type FeedItem } from '../lib/data'
 import { useSession } from '../lib/session'
@@ -7,6 +7,7 @@ import { useData } from '../lib/useData'
 import { Empty, Page } from '../components/Page'
 import { EndCard, SessionBar } from '../components/SessionBar'
 import { ArticleRow } from '../components/ArticleRow'
+import { MustRead, Segments } from '../components/MustRead'
 
 const GEEK_COUNT = 5
 
@@ -15,6 +16,7 @@ export function Evening() {
   const session = useSession('evening')
   const [readIds, markRead] = useReadIds()
   const [later, addLater] = useLater()
+  const [view, setView] = useState<'must' | 'list'>('must')
 
   const items = feed?.items ?? []
   // GeekNews는 하루 발행량이 많아서 최근 24시간 중 다섯 개만. 비는 날은 48시간까지 봅니다.
@@ -30,8 +32,8 @@ export function Evening() {
   const keys = [...geek.map((i) => i.id), ...(deep ? [deep.id] : [])]
   const allRead = keys.length > 0 && keys.every((k) => readIds.has(k))
   useEffect(() => {
-    if (allRead && session.active) session.stop()
-  }, [allRead, session])
+    if (view === 'list' && allRead && session.active) session.stop()
+  }, [view, allRead, session])
 
   const row = (i: FeedItem) => (
     <ArticleRow
@@ -53,6 +55,19 @@ export function Evening() {
       ) : (
         <>
           <SessionBar kind="evening" session={session} />
+          <Segments
+            value={view}
+            onChange={setView}
+            options={[
+              { id: 'must', label: 'Must Read' },
+              { id: 'list', label: 'GeekNews · 심층' },
+            ]}
+          />
+
+          {view === 'must' ? (
+            <MustRead edition="evening" onFinished={() => session.active && session.stop()} />
+          ) : (
+          <>
           {loading && <Empty>불러오는 중</Empty>}
 
           <section className="block">
@@ -76,6 +91,8 @@ export function Evening() {
           )}
 
           {allRead && <EndCard title="다 읽었습니다." body="오늘은 여기까지. 앱을 닫으세요." />}
+          </>
+          )}
         </>
       )}
     </Page>

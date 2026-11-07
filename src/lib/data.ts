@@ -125,3 +125,25 @@ export function relative(iso: string): string {
   const d = Math.floor(h / 24)
   return d === 1 ? '어제' : `${d}일 전`
 }
+
+export type Edition = 'morning' | 'evening'
+
+export interface MustReadFile {
+  edition: Edition
+  generatedAt: string
+  dateLine: string
+  markdown: string
+}
+
+/** 아침판은 그날 오전에, 저녁판은 그날 저녁에 씁니다. 하루가 지난 글은 내밀지 않습니다. */
+export async function loadMustRead(edition: Edition): Promise<MustReadFile | null> {
+  const m = await getJson<MustReadFile>(`/data/mustread-${edition}.json`)
+  if (!m?.generatedAt || typeof m.markdown !== 'string') return null
+  const ageHours = (Date.now() - Date.parse(m.generatedAt)) / 3_600_000
+  return ageHours < 26 ? m : null
+}
+
+/** 한국어 기준 분당 500자 남짓. 표와 목록이 섞여 있어 대략입니다. */
+export function readingMinutes(text: string): number {
+  return Math.max(1, Math.round(text.replace(/\s+/g, '').length / 500))
+}
