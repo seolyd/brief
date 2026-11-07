@@ -8,7 +8,9 @@
 
 ## 순서
 
-1. 최신 `main`을 받습니다. 06:30·18:30 GitHub Action이 방금 `public/data/feed.json`을 갱신했습니다.
+1. 최신 `main`을 받습니다. 06:30·18:30 GitHub Action이 `public/data/feed.json`을 갱신합니다.
+   GitHub 예약 실행은 늦거나 빠질 때가 있습니다. 피드가 갱신되지 않았어도 **기다리지 말고** 바로 쓰세요.
+   그때는 기사 목록이 오래됐으니 웹 검색 비중을 높여 오늘 소식을 직접 찾습니다.
 2. `node scripts/mustread-context.mjs <morning|evening>`을 실행합니다. 날짜 줄, 독자 프로필,
    지난 24시간 수집 기사 목록(제목·주소·발췌)이 나옵니다. 이미 오늘 이 판이 있으면 그렇다고 알려 주고,
    그때는 아무것도 하지 않고 끝냅니다.
