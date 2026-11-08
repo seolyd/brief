@@ -1,5 +1,5 @@
 {
-  "comment": "분야(domains)와 소스(sources)를 정합니다. domain이 어느 칸에 들어갈지를, lang이 한글/영문을 정합니다. 팟캐스트는 따로 표시하지 않습니다 — 오디오 첨부가 있는 항목은 수집기가 알아서 '듣기'로 보냅니다. verified가 true인 주소는 GitHub 러너에서 열리고 파싱되는 것을 확인한 것입니다. 새 주소는 넣기 전에 Actions의 'Check feeds'로 확인하세요. 한경(403), HBR(응답 없음), 머니투데이(응답 없음), 삼프로TV 팟캐스트(404)는 러너에서 막혀 뺐습니다. 죽은 소스는 data/feed.json의 report.failed에 남고 앱 하단에 표시됩니다. deep이 true인 소스는 저녁의 '심층 기사 하나' 후보가 됩니다.",
+  "comment": "분야(domains)와 소스(sources)를 정합니다. domain이 어느 칸에 들어갈지를, lang이 한글/영문을 정합니다. 팟캐스트는 따로 표시하지 않습니다 — 오디오 첨부가 있는 항목은 수집기가 알아서 '듣기'로 보냅니다. verified가 true인 주소는 GitHub 러너에서 열리고 파싱되는 것을 확인한 것입니다. 새 주소는 넣기 전에 Actions의 'Check feeds'로 확인하세요. 한경(403), HBR(응답 없음), 머니투데이(응답 없음), 삼프로TV 팟캐스트(404)는 러너에서 막혀 뺐습니다. 죽은 소스는 data/feed.json의 report.failed에 남고 앱 하단에 표시됩니다. deep이 true인 소스는 저녁의 '심층 기사 하나' 후보가 됩니다. domain이 news인 소스는 투자 칸(Inv)에 들어가지 않고 All.News와 All.Brief에만 쓰입니다.",
   "domains": [
     {
       "id": "global",
@@ -29,6 +29,12 @@
       "id": "career",
       "label": "커리어·비즈니스",
       "focus": "조직관리, 리더십, 경영",
+      "morning": 0
+    },
+    {
+      "id": "news",
+      "label": "주요 일간지",
+      "focus": "정치, 사회, 국제, 생활",
       "morning": 0
     }
   ],
@@ -211,6 +217,62 @@
       "lang": "ko",
       "name": "손에 잡히는 경제 (MBC)",
       "url": "https://minicast.imbc.com/PodCast/pod.aspx?code=1000671100000100000",
+      "verified": true
+    },
+    {
+      "id": "sbs-head",
+      "domain": "news",
+      "lang": "ko",
+      "name": "SBS 주요뉴스",
+      "url": "https://news.sbs.co.kr/news/headlineRssFeed.do",
+      "verified": true
+    },
+    {
+      "id": "khan",
+      "domain": "news",
+      "lang": "ko",
+      "name": "경향신문",
+      "url": "https://www.khan.co.kr/rss/rssdata/total_news.xml",
+      "verified": true
+    },
+    {
+      "id": "hani",
+      "domain": "news",
+      "lang": "ko",
+      "name": "한겨레",
+      "url": "https://www.hani.co.kr/rss/",
+      "verified": true
+    },
+    {
+      "id": "donga",
+      "domain": "news",
+      "lang": "ko",
+      "name": "동아일보",
+      "url": "https://rss.donga.com/total.xml",
+      "verified": true
+    },
+    {
+      "id": "kmib",
+      "domain": "news",
+      "lang": "ko",
+      "name": "국민일보",
+      "url": "https://www.kmib.co.kr/rss/data/kmibRssAll.xml",
+      "verified": true
+    },
+    {
+      "id": "yna-pol",
+      "domain": "news",
+      "lang": "ko",
+      "name": "연합뉴스 정치",
+      "url": "https://www.yna.co.kr/rss/politics.xml",
+      "verified": true
+    },
+    {
+      "id": "yna-intl",
+      "domain": "news",
+      "lang": "ko",
+      "name": "연합뉴스 국제",
+      "url": "https://www.yna.co.kr/rss/international.xml",
       "verified": true
     }
   ],

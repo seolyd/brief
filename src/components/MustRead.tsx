@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { loadMustRead, readingMinutes, type Edition, type MustReadFile } from '../lib/data'
+import { loadMustRead, readingMinutes, type BriefKind, type Edition, type MustReadFile } from '../lib/data'
 import { renderMarkdown } from '../lib/markdown'
 import { useReadIds } from '../lib/store'
 import { Empty } from './Page'
@@ -8,14 +8,22 @@ import { Empty } from './Page'
  * 큐레이션된 긴 글 한 편. 하루 두 번(아침·저녁) GitHub Action이 씁니다.
  * 끝까지 내려오면 "다 읽음" 하나만 있습니다. 다음 글을 이어 붙이지 않습니다.
  */
-export function MustRead({ edition, onFinished }: { edition: Edition; onFinished: () => void }) {
+export function MustRead({
+  edition,
+  kind = 'inv',
+  onFinished,
+}: {
+  edition: Edition
+  kind?: BriefKind
+  onFinished: () => void
+}) {
   const [doc, setDoc] = useState<MustReadFile | null>(null)
   const [loading, setLoading] = useState(true)
   const [readIds, markRead] = useReadIds()
 
   useEffect(() => {
     let alive = true
-    void loadMustRead(edition).then((m) => {
+    void loadMustRead(edition, kind).then((m) => {
       if (!alive) return
       setDoc(m)
       setLoading(false)
@@ -23,7 +31,7 @@ export function MustRead({ edition, onFinished }: { edition: Edition; onFinished
     return () => {
       alive = false
     }
-  }, [edition])
+  }, [edition, kind])
 
   const html = useMemo(() => (doc ? renderMarkdown(doc.markdown) : ''), [doc])
 
@@ -31,7 +39,7 @@ export function MustRead({ edition, onFinished }: { edition: Edition; onFinished
   if (!doc) {
     return (
       <Empty>
-        {edition === 'morning' ? '오늘 아침' : '오늘 저녁'} Must Read가 아직 없습니다.{' '}
+        {edition === 'morning' ? '오늘 아침' : '오늘 저녁'} {kind === 'inv' ? 'Inv.Brief' : 'All.Brief'}가 아직 없습니다.{' '}
         {edition === 'morning' ? '매일 아침 7시' : '매일 저녁 7시'} 전후로 준비됩니다.
       </Empty>
     )

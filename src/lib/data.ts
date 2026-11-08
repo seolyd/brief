@@ -1,6 +1,6 @@
 /** GitHub Action이 매일 아침 쓰는 두 정적 파일의 모양과 읽기. */
 
-export type DomainId = 'global' | 'markets' | 'tech' | 'korea' | 'career'
+export type DomainId = 'global' | 'markets' | 'tech' | 'korea' | 'career' | 'news'
 
 export interface Domain {
   id: DomainId
@@ -136,8 +136,12 @@ export interface MustReadFile {
 }
 
 /** 아침판은 그날 오전에, 저녁판은 그날 저녁에 씁니다. 하루가 지난 글은 내밀지 않습니다. */
-export async function loadMustRead(edition: Edition): Promise<MustReadFile | null> {
-  const m = await getJson<MustReadFile>(`/data/mustread-${edition}.json`)
+/** inv: 투자·경제 중심(기존 Must Read), all: 투자를 뺀 일반 뉴스 브리프. */
+export type BriefKind = 'inv' | 'all'
+
+export async function loadMustRead(edition: Edition, kind: BriefKind = 'inv'): Promise<MustReadFile | null> {
+  const file = kind === 'inv' ? `mustread-${edition}` : `allbrief-${edition}`
+  const m = await getJson<MustReadFile>(`/data/${file}.json`)
   if (!m?.generatedAt || typeof m.markdown !== 'string') return null
   const ageHours = (Date.now() - Date.parse(m.generatedAt)) / 3_600_000
   return ageHours < 26 ? m : null
@@ -146,4 +150,21 @@ export async function loadMustRead(edition: Edition): Promise<MustReadFile | nul
 /** 한국어 기준 분당 500자 남짓. 표와 목록이 섞여 있어 대략입니다. */
 export function readingMinutes(text: string): number {
   return Math.max(1, Math.round(text.replace(/\s+/g, '').length / 500))
+}
+
+/**
+ * All.News: 주요 일간지 헤드라인. 신문사마다 최근 12시간에서 몇 개씩만.
+ * 같은 사건을 여러 신문이 다루는 게 정상이라 신문사 단위로 묶어 보여줍니다.
+ */
+export function dailyHeadlines(feed: FeedFile, perPaper = 5): Array<{ source: string; items: FeedItem[] }> {
+  const pool = feed.items.filter((i) => i.domain === 'news' && i.kind === 'article')
+  const recent = pool.filter((i) => within(i, 12))
+  const use = recent.length >= 10 ? recent : pool.filter((i) => within(i, 24))
+  const bySource = new Map<string, FeedItem[]>()
+  for (const i of use) {
+    const list = bySource.get(i.sourceName) ?? []
+    if (list.length < perPaper) list.push(i)
+    bySource.set(i.sourceName, list)
+  }
+  return [...bySource.entries()].map(([source, items]) => ({ source, items }))
 }

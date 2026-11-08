@@ -14,8 +14,7 @@
 
 | 탭 | 하는 일 |
 | --- | --- |
-| 아침 | **Must Read** (긴 아침 브리핑 한 편) · 오늘 알아야 할 10가지 또는 분야별 헤드라인 |
-| 저녁 | **Must Read** (긴 저녁 브리핑 한 편) · GeekNews 5개 + 심층 기사 1개 |
+| 아침 · 저녁 | 같은 네 칸. **Inv.Brief** (투자·경제 긴 글) · **Inv.News** (분야별 헤드라인) · **All.Brief** (일반 뉴스 긴 글) · **All.News** (주요 일간지 헤드라인) |
 | 듣기 | 팟캐스트, 쇼마다 최신 회차 하나. 앱 안에서 재생, 들은 위치 기억 |
 | 나중에 | 바로 보지 않을 영상·글 목록. 비우는 곳 |
 | 습관 | 지난 7일 사용 시간, 유튜브 접근 방식 바꾸기 체크리스트 |
@@ -29,6 +28,7 @@
 | AI·테크 | GeekNews, Hacker News, TLDR, Stratechery, Platformer | AI 산업 변화, 신기술 |
 | 한국 경제·산업 | 매경, 서울경제, 연합뉴스, 어피티 | 국내 산업, 정책, 기업 |
 | 커리어·비즈니스 | Lenny's Newsletter, The Pragmatic Engineer | 조직관리, 리더십, 경영 |
+| 주요 일간지 (All) | SBS 주요뉴스, 경향, 한겨레, 동아, 국민일보, 연합뉴스 정치·국제 | 정치, 사회, 국제, 생활 |
 
 팟캐스트: The Daily, Planet Money, Hard Fork, 손에 잡히는 경제.
 
@@ -46,11 +46,12 @@ Reuters는 RSS를 닫아서 수집하지 않고, '습관' 탭에 바로가기로
    출처 주소를 모델이 지어낼 수 없게 했습니다.
 3. 바뀐 파일을 커밋합니다. Vercel이 그 커밋을 배포합니다.
 
-### Must Read
+### Must Read (Inv.Brief · All.Brief)
 
 06:41과 18:41에 **Claude 예약 작업**(claude.ai의 Claude Code 예약 작업)이 새 세션을 열고
 [`docs/MUSTREAD.md`](docs/MUSTREAD.md)대로 씁니다. 방금 수집한 피드를 출발점으로 웹 검색으로 사실과 숫자를
-확인하고, `scripts/save-mustread.mjs`로 형식을 검사한 뒤 `public/data/mustread-<판>.json`을 커밋합니다.
+확인하고, `scripts/save-mustread.mjs`로 형식을 검사한 뒤 `public/data/mustread-<판>.json`(Inv)과
+`public/data/allbrief-<판>.json`(All)을 커밋합니다.
 API 키가 필요 없고 Claude 구독 사용량을 씁니다. 관심사와 지켜보는 종목은 `sources.json`의 `profile`에서,
 글의 구조와 원칙은 `docs/MUSTREAD.md`에서 고칩니다.
 

@@ -7,17 +7,20 @@ export function ArticleRow({
   onOpen,
   onLater,
   showExcerpt = true,
+  showSource = true,
 }: {
   item: FeedItem
   read: boolean
   onOpen: () => void
   onLater?: () => void
   showExcerpt?: boolean
+  /** 신문사별로 묶인 목록에서는 머리에 이름이 있으니 줄마다 반복하지 않습니다. */
+  showSource?: boolean
 }) {
   return (
     <article className={`row${read ? ' read' : ''}`}>
       <div className="meta">
-        <span className="src">{item.sourceName}</span>
+        {showSource && <span className="src">{item.sourceName}</span>}
         <span>{relative(item.publishedAt)}</span>
         {item.lang === 'en' && <span className="tag">EN</span>}
       </div>
