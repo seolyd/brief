@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:51:16.622Z",
+  "generatedAt": "2026-11-08T00:53:02.920Z",
   "domains": [
     {
       "id": "global",
@@ -50,6 +50,522 @@
     }
   ],
   "items": [
+    {
+      "id": "mk:https://www.mk.co.kr/news/economy/12201595",
+      "sourceId": "mk",
+      "sourceName": "매일경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“금리 1%P 오르면 생명보험사 자본 8조 감소”…보험연구원 발표 ‘주목’",
+      "url": "https://www.mk.co.kr/news/economy/12201595",
+      "publishedAt": "2026-11-08T00:52:30.000Z",
+      "excerpt": "기본자본비율 81%→63% 하락 위험 보험연구원 “금리위험 관리 강화해야”향후 금리가 추가로 상승하면 생명보험사들의 자본건전성이 크게 악화될 수 있다는 분석이 나왔다. 금리가 오르.."
+    },
+    {
+      "id": "sedaily:https://www.sedaily.com/article/20111491",
+      "sourceId": "sedaily",
+      "sourceName": "서울경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "기차역에서 밥 먹으러 갔다가 “이건 선 넘었네”…음식값 12%씩 뛰더니 결국",
+      "url": "https://www.sedaily.com/article/20111491",
+      "publishedAt": "2026-11-08T00:41:17.000Z",
+      "excerpt": ""
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261108014200030",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "CJ푸드빌 빕스, 잠실에 '그릴 다이닝' 매장 개점…연내 8곳 확대",
+      "url": "https://www.yna.co.kr/view/AKR20261108014200030",
+      "publishedAt": "2026-11-08T00:15:11.000Z",
+      "excerpt": "(서울=연합뉴스) 김세린 기자 = CJ푸드빌이 운영하는 외식 브랜드 빕스는 오는 9일 서울 잠실 롯데캐슬플라자에 '그릴 다이닝' 모델을 적용한 ..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261108013000003",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "\"제조업 파업에 근로손실일수 45% 증가…N% 성과배분 요구 확산\"",
+      "url": "https://www.yna.co.kr/view/AKR20261108013000003",
+      "publishedAt": "2026-11-08T00:09:51.000Z",
+      "excerpt": "(서울=연합뉴스) 장하나 기자 = 올해 노사 분규는 작년보다 감소했으나 자동차와 조선 등 주요 제조업의 파업으로 근로손실일수는 오히려 증가한 것..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261106086200054",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "광주송정역·금호타이어공장 일대 '반도체 관문도시' 조성",
+      "url": "https://www.yna.co.kr/view/AKR20261106086200054",
+      "publishedAt": "2026-11-08T00:02:01.000Z",
+      "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시가 광주송정역과 금호타이어 광주공장 이전부지, 군공항 이전부지 등을 연결하는 394만㎡ 규..."
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=36781&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "웹에서 AI가 일으키는 온갖 부작용에 어떻게 대처하고 계신가요?",
+      "url": "https://news.hada.io/topic?id=36781&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-08T00:02:00.000Z",
+      "excerpt": "검색 결과 상단을 저품질 AI 콘텐츠 가 차지하면서 웹이 망가졌다고 느낌. LLM 요약이 그나마 쓸 만한 이유도 이전 검색보다 나아서가 아니라, 검색 결과 아래에 묻힌 좋은 링크를 언급해 주기 때문임 Google과 DuckDuckGo의 요청 제한 으로 오류나 대기 안내를 자주 접하며, 새로고침하며 결과를 기다리는 데 1분 이상 허비하기도 함. 비로그인 상태의 GitHub 탐색 제한과 곳곳의 Anubis 차단까지 겹쳐 생산성이 …"
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261106145700061",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "'군포 복합물류터미널 이전 촉구' 범시민추진위 출범",
+      "url": "https://www.yna.co.kr/view/AKR20261106145700061",
+      "publishedAt": "2026-11-08T00:00:05.000Z",
+      "excerpt": "(군포=연합뉴스) 이우성 기자 = 1990년대 초 경기 군포시에 들어선 뒤 도심 확장으로 한복판에 자리 잡게 된 군포복합물류터미널의 이전을 요구..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261106182900004",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "'232억 펀드 불완전판매' 증권사 임원 감봉…법원 \"과도한 제재\"",
+      "url": "https://www.yna.co.kr/view/AKR20261106182900004",
+      "publishedAt": "2026-11-08T00:00:02.000Z",
+      "excerpt": "(서울=연합뉴스) 이영섭 기자 = 펀드 불완전판매에 대한 감독 책임으로 감봉 처분을 받은 삼성증권 전 임원이 소송을 통해 구제받았다."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+      "publishedAt": "2026-11-08T00:00:00.000Z",
+      "excerpt": "The unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese and Indian stocks as well as companies poised to benefit from easing inflation and t…"
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261107048800002",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[게시판] 우리은행, 국민대 산학협력단과 대한천일은행 학술대회",
+      "url": "https://www.yna.co.kr/view/AKR20261107048800002",
+      "publishedAt": "2026-11-08T00:00:00.000Z",
+      "excerpt": "▲ 우리은행은 6일 서울 중구 본점에서 국민대 산학협력단과 '대한천일은행의 민족자본 형성과 회계장부의 학술 가치 연구'를 주제로 학술대회를 했다..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261108012300003",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "무보, '수출성장 플래닛' 기업 21곳 신규 선발…맞춤형 지원",
+      "url": "https://www.yna.co.kr/view/AKR20261108012300003",
+      "publishedAt": "2026-11-07T23:54:48.000Z",
+      "excerpt": "(서울=연합뉴스) 장보인 기자 = 한국무역보험공사는 중소·중견기업을 글로벌 수출기업으로 육성하는 지원 프로그램 '수출성장 플래닛'의 회원사 21..."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
+      "publishedAt": "2026-11-07T23:54:25.000Z",
+      "excerpt": "Australian home sales and auction clearance rates climbed, offering hopes of a recovery for a property market that has slumped as interest rates rose this year."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261108006100003",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "경기 아파트값 상승률 8주째 서울 상회…주도지역 서울→경기",
+      "url": "https://www.yna.co.kr/view/AKR20261108006100003",
+      "publishedAt": "2026-11-07T23:47:05.000Z",
+      "excerpt": "(서울=연합뉴스) 임기창 기자 = 서울 아파트 매매가격 상승세가 강남권 약세 영향으로 둔화를 이어가는 동안 경기지역이 남부권 중심으로 강세를 지..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261108011100030",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "세븐일레븐, 소용량 '원핸드 간편식' 확대…'스몰 밀' 소비 겨냥",
+      "url": "https://www.yna.co.kr/view/AKR20261108011100030",
+      "publishedAt": "2026-11-07T23:35:48.000Z",
+      "excerpt": "(서울=연합뉴스) 김세린 기자 = 코리아세븐이 운영하는 편의점 세븐일레븐은 한 손에 들고 먹을 수 있는 소용량 '원핸드 간편식' 제품군을 확대했..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261106108500052",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "양산시 3년간 수의계약 1만4천건·특정업체 136건…\"쏠림 심각\"",
+      "url": "https://www.yna.co.kr/view/AKR20261106108500052",
+      "publishedAt": "2026-11-07T23:35:00.000Z",
+      "excerpt": "(양산=연합뉴스) 이준영 기자 = 경남 양산시가 최근 3년간 1만4천여건이 넘는 수의계약을 체결하면서 특정 업체들에 반복적으로 수의계약을 집행한..."
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=36780&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "MaxxBench - “DeepSWE 점수는 좋네요. 그런데 진짜인가요?”",
+      "url": "https://news.hada.io/topic?id=36780&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-07T23:34:44.000Z",
+      "excerpt": "MaxxBench 는 DeepSWE의 89개 과제에서 요구사항이나 시작 코드를 조금 바꿔, 코딩 에이전트가 익숙한 정답 대신 달라진 작업에 적응하는지 평가함 참조 패치 증가량은 중앙값 17줄, 3.5% 에 불과했지만, 비교한 12개 구성의 최고점과 최저점 차이는 DeepSWE의 20.9%p에서 MaxxBench의 48.3%p로 커짐 여러 모델이 새 요구사항을 이해하고도 숨겨진 테스트에 대한 추측 을 우선함. 다만 Claude …"
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Trump offers UFC chief Dana White press secretary job",
+      "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+      "publishedAt": "2026-11-07T23:13:38.000Z",
+      "excerpt": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, minister says",
+      "url": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
+      "publishedAt": "2026-11-07T22:39:10.000Z",
+      "excerpt": "The gunman aimed at random people as he drove into the Main Square, a major tourist destination in the center of the city, Krakow police said."
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=36779&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "Show HN: Coldframe, 슈퍼마켓 냉장 제어기로 위장하는 허니팟",
+      "url": "https://news.hada.io/topic?id=36779&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-07T22:38:27.000Z",
+      "excerpt": "Coldframe 은 냉장 제어기를 흉내 내 접속 출처, 시도한 비밀번호, 사용한 공개 익스플로잇을 기록하며, 실제 장비나 제어 기능은 제공하지 않는 허니팟임 Danfoss AK-SM 800A 와 Copeland/Dixell XWEB EVO 두 가지 장비를 모방하며, 로그인 화면뿐 아니라 HTTP 헤더, 인증 흐름 등 실제 장비의 웹 지문을 재현함 취약한 계정이나 특정 인증 우회로 로그인하면 가짜 냉장 진열대 대시보드 를 제공…"
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/israel-eisenkot-netanyahu.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+      "url": "https://www.cnbc.com/2026/11/07/israel-eisenkot-netanyahu.html",
+      "publishedAt": "2026-11-07T22:36:37.000Z",
+      "excerpt": "Eisenkot, who ran as the main challenger to Prime Minister Benjamin Netanyahu, is now a step closer to ousting Israel's longest-serving premier."
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=36778&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "모든 Windows 11 앱은 Electron을 버려야 한다, Discord가 그 이유를 보여줬다",
+      "url": "https://news.hada.io/topic?id=36778&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-07T22:35:27.000Z",
+      "excerpt": "Discord가 Electron 기반 데스크톱 앱을 Rust와 GPUI로 재구축 하고 있음. 시작 속도 비교 영상에서는 새 앱을 늦게 켰는데도 친구 목록이 먼저 뜸 새 클라이언트는 계정 2개를 동시 실행하면서도 RAM 290.2MB 를 사용함. 기존 1GB보다 약 70% 적지만, 아직 동일 조건 비교 벤치마크는 없음 빠른 초기화와 새 아키텍처 덕분에 “Starting” 화면을 없애고 , 업데이트는 백그라운드에서 자동으로 처리함…"
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+      "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+      "publishedAt": "2026-11-07T22:17:52.000Z",
+      "excerpt": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+      "publishedAt": "2026-11-07T21:59:10.000Z",
+      "excerpt": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin."
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=36777&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "산마리노 여행 노트",
+      "url": "https://news.hada.io/topic?id=36777&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-07T21:51:56.000Z",
+      "excerpt": "이탈리아에 둘러싸인 인구 약 3만 3,500명의 산마리노는 작고 위협적이지 않은 국가라는 지위와 외교 를 활용해 수백 년간 독립을 유지해 왔음 세계에서 가장 오래 지속된 공화국을 자처하지만 301년 건국설은 근거가 희박 하며, 실제 정치체제도 과두정, 파시즘, 공산당 참여 연립정부를 거쳐 변화해 왔음 이탈리아와의 관계는 생존뿐 아니라 경제도 좌우함. 전후 좌파 정부의 카지노 실험 은 이탈리아의 국경 검문에 막혀 실패했고, 오늘…"
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=36776&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "10달러짜리 4G USB 동글로 홈 서버 돌리기",
+      "url": "https://news.hada.io/topic?id=36776&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-07T21:48:55.000Z",
+      "excerpt": "배송비 포함 10달러에 구매한 4G USB 동글(OpenStick) 에 Debian을 설치하고, Podman으로 DNS 차단, AI 에이전트, 모니터링, RSS 등을 운영하는 홈랩 구축 RAM 512MB, 1GHz ARM Cortex-A53 4코어 와 4GB eMMC를 갖췄으며, 설치 과정은 다소 복잡하지만 적은 전력으로 소음 없이 홈 서버를 운영할 수 있음 AdGuard Home 으로 DNS 수준에서 유해 도메인을 차단하고,…"
+    },
+    {
+      "id": "axios:https://www.axios.com/2026/11/07/jensen-huang-nvidia-congress-china-spy",
+      "sourceId": "axios",
+      "sourceName": "Axios",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
+      "url": "https://www.axios.com/2026/11/07/jensen-huang-nvidia-congress-china-spy",
+      "publishedAt": "2026-11-07T21:06:38.000Z",
+      "excerpt": "Nvidia CEO Jensen Huang is facing increasing congressional scrutiny after multiple reports Friday night suggested he had a romantic relationship with a purported Chinese spy. Why it matters: Huang is arguably the world's most powerful CEO, …"
+    },
+    {
+      "id": "sedaily:https://www.sedaily.com/article/20111480",
+      "sourceId": "sedaily",
+      "sourceName": "서울경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "고용·가계대출 동향은...美 10월 물가 촉각[한동훈의 위클리전망대]",
+      "url": "https://www.sedaily.com/article/20111480",
+      "publishedAt": "2026-11-07T21:00:05.000Z",
+      "excerpt": ""
+    },
+    {
+      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-07/us-inflation-set-to-simmer-down-some-after-recent-pickup",
+      "sourceId": "bbg-econ",
+      "sourceName": "Bloomberg Economics",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "US Inflation Set to Simmer Down Some After Recent Pickup",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/us-inflation-set-to-simmer-down-some-after-recent-pickup",
+      "publishedAt": "2026-11-07T21:00:00.000Z",
+      "excerpt": "Prices for US goods and services probably rose at a slower pace in October after two particularly uncomfortable months for American consumers."
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=36775&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "에이전트 메모리 설계 - 무엇을 기억하고, 잘못된 기억은 어떻게 고칠까",
+      "url": "https://news.hada.io/topic?id=36775&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-07T20:51:20.000Z",
+      "excerpt": "Anthropic은 AI 에이전트가 다음 세션을 위해 무엇을 기억하고, 쌓인 기억을 어떻게 정리할지 Claude로 실험함 에이전트는 검증된 해결법이나 이어서 할 일을 노트로 남겨 다음 세션에서 다시 활용 할 수 있음 드리밍(dreaming) 은 세션 사이에 메모를 원본 대화 로그와 대조해 오류를 고치고, 여러 세션에 흩어진 노트를 주제별로 연결하는 과정임. 관련 내용을 위키로 묶어 나중에 찾아보기 쉽게 만들 수 있음 내부 문서…"
+    },
+    {
+      "id": "axios:https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
+      "sourceId": "axios",
+      "sourceName": "Axios",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Netanyahu rival Eisenkot tapped to form Israeli government",
+      "url": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
+      "publishedAt": "2026-11-07T20:48:32.000Z",
+      "excerpt": "Israeli President Isaac Herzog announced Saturday that he will task Gadi Eisenkot , leader of the opposition Yashar party, with forming a new government, dealing a major setback to Prime Minister Benjamin Netanyahu . Why it matters: Eisenko…"
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=36774&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "요즘은 이런 걸 만들지 않는다: Borland Turbo Pascal 7",
+      "url": "https://news.hada.io/topic?id=36774&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-07T20:48:20.000Z",
+      "excerpt": "Turbo Pascal 7 은 Windows용 객체 지향 라이브러리, 그래픽 UI 설계 도구, 소스 수준 디버거를 하나의 IDE로 통합해 당시 복잡했던 Windows 프로그래밍의 진입 장벽을 낮춤 Object Windows Library 는 Windows C API를 객체 지향 방식으로 감싸 UI 모델에 맞게 개발할 수 있도록 했으며, 통합 환경은 명령줄 도구와 복잡한 정의 파일을 직접 다루는 부담을 줄임 CP/M 시절의 자원…"
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=36773&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "Apple의 그레이 리스트: iPhone이 철자 입력을 도와주지 않는 단어와 문구들",
+      "url": "https://news.hada.io/topic?id=36773&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-07T20:45:20.000Z",
+      "excerpt": "Apple 운영체제에서 10만 개가 넘는 단어와 문구 의 예측 입력 완성을 제한하는 그레이 리스트 가 발견됨 제한된 문구는 예측 입력에 나타나지 않으며, 스와이프 입력 에서도 “United Ireland”가 “United Iceland”로 바뀌는 등 다른 표현으로 대체되는 경우가 있음 목록에는 마약과 성행위 관련 표현뿐 아니라 정치적으로 민감한 문구 , “iMessage isn’t working”처럼 Apple 서비스의 문제를…"
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=36772&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "Microsoft Research의 AI Frontiers 그룹이 막을 내림",
+      "url": "https://news.hada.io/topic?id=36772&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-07T20:42:20.000Z",
+      "excerpt": "AI Frontiers(AIF) 가 Microsoft AI로 재편된 뒤 막을 내림. 공동 설립에 참여한 John Langford는 팀원들의 거취를 최대한 정리하고 회사를 떠남 약 50명 규모 의 AIF는 개인 연구만으로 경쟁하기 어려워진 AI 환경에 대응해 조직적인 연구를 추진했으며, 에이전트와 새로운 모델 역량을 개발함 Langford가 경험한 Microsoft AI의 규모 확장 중심 전략 은 AIF의 연구 지향과 양립하기 …"
+    },
+    {
+      "id": "mk:https://www.mk.co.kr/news/economy/12200763",
+      "sourceId": "mk",
+      "sourceName": "매일경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "매월 56만원 대출이자 vs 56만원 ‘따박따박’ 저축 … 5년 후 자산 차이는?",
+      "url": "https://www.mk.co.kr/news/economy/12200763",
+      "publishedAt": "2026-11-07T20:30:00.000Z",
+      "excerpt": "대출이자 착시와 상환 방식대출은 자본주의 사회에서 레버리지를 활용해 자산을 형성하거나 일시적인 유동성 위기를 넘길 수 있는 유용한 금융 도구입니다. 그러나 대출은 설탕이나 담배처럼.."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
+      "publishedAt": "2026-11-07T20:00:00.000Z",
+      "excerpt": "Selling billions of dollars of corporate bonds on Election Day seemed like a real gamble."
+    },
+    {
+      "id": "hn:https://blog.bosscher.ch/posts/openstick/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "publishedAt": "2026-11-07T18:12:12.000Z",
+      "excerpt": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 307 # Comments: 76"
+    },
+    {
+      "id": "hn:https://hunch.net/?p=13764006",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "publishedAt": "2026-11-07T18:02:17.000Z",
+      "excerpt": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 345 # Comments: 200"
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-07/bloomberg-this-weekend-11-7-2026-video",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "New Chief of Staff, Chain Reaction Tech Selloff",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-07/bloomberg-this-weekend-11-7-2026-video",
+      "publishedAt": "2026-11-07T17:14:41.000Z",
+      "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Yorkville Ives & Co. Partner & Senior M…"
+    },
+    {
+      "id": "hn:https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "publishedAt": "2026-11-07T17:06:36.000Z",
+      "excerpt": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 332 # Comments: 223"
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/iran-us-task-force-land-commerce.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Expanding on naval blockade, U.S. military looks to restrict Iranian land commerce",
+      "url": "https://www.cnbc.com/2026/11/07/iran-us-task-force-land-commerce.html",
+      "publishedAt": "2026-11-07T16:56:33.000Z",
+      "excerpt": "Task Force Iron Gate will focus in part on halting the flow of dual-use technologies used by Iran and stemming what Washington calls illegal revenue streams."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/investingclub/2026/11/07/decisive-election-dramatic-stock-swings-how-we-handled-the-market-last-week.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
+      "url": "https://www.cnbc.com/investingclub/2026/11/07/decisive-election-dramatic-stock-swings-how-we-handled-the-market-last-week.html",
+      "publishedAt": "2026-11-07T16:31:00.000Z",
+      "excerpt": "On Friday, Jim Cramer revealed his strategy for navigating this new era at the Investing Club's 4th Annual Meeting."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+      "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "publishedAt": "2026-11-07T16:02:33.000Z",
+      "excerpt": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "publishedAt": "2026-11-07T15:59:54.000Z",
+      "excerpt": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out t…"
+    },
     {
       "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video",
       "sourceId": "bbg-markets",
@@ -111,30 +627,6 @@
       "excerpt": "Three days before Russia and Ukraine are due to take part in U.S.-brokered talks, explosions rocked Kyiv as Moscow unleashed waves of ballistic missiles."
     },
     {
-      "id": "geeknews:https://news.hada.io/topic?id=36761&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Zed의 Delta 공개 베타 - 자체 저장소에서 PR을 끄고 작업 스레드에서 리뷰",
-      "url": "https://news.hada.io/topic?id=36761&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-07T15:01:17.000Z",
-      "excerpt": "Zed가 Delta 공개 베타 를 출시함. 에이전트와의 대화 스레드에 동료를 초대해 코딩과 리뷰를 함께 진행하며, 협업을 위해 먼저 코드를 커밋하고 푸시할 필요가 없음 리뷰 하위 스레드 는 원래 에이전트의 맥락과 격리된 작업 트리를 제공함. 리뷰어는 기존 작업을 방해하지 않고 코드를 탐색하거나 수정하고, 수정 결과를 부모 스레드에 반영할 수 있음 기반 기술인 DeltaDB 는 커밋 사이의 편집과 사람 및 에이전트의 메시지를 함…"
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=36760&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Entire, 에이전트 시대를 위한 분산 Git 네트워크 공개",
-      "url": "https://news.hada.io/topic?id=36760&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-07T15:00:02.000Z",
-      "excerpt": "Entire 가 기존 GitHub 저장소를 지역별 미러로 복제하는 분산 Git 네트워크 프리뷰 를 공개함. 코드는 기존 위치에 두고 에이전트의 clone/pull 트래픽을 미러로 분산함 현재 미국, EU, 호주 리전에서 대기자 명단을 통해 이용할 수 있으며, 향후 공개/비공개 저장소의 네이티브 호스팅과 네트워크 완전 탈중앙화를 추진함 대규모 동시 에이전트 작업에 맞춰 Git 백엔드를 재구축했으며, 자체 초기 테스트 에서 Cur…"
-    },
-    {
       "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-07/protein-craze-fuels-an-investment-boom-in-livestock-health",
       "sourceId": "bbg-markets",
       "sourceName": "Bloomberg Markets",
@@ -145,30 +637,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-07/protein-craze-fuels-an-investment-boom-in-livestock-health",
       "publishedAt": "2026-11-07T15:00:00.000Z",
       "excerpt": "Animal health companies are tapping into the protein craze, investing billions of dollars to build up businesses focused on making cattle, pigs and poultry healthier for human consumption."
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=36759&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "코딩 에이전트를 위한 버전 관리 벤치마크",
-      "url": "https://news.hada.io/topic?id=36759&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-07T14:58:53.000Z",
-      "excerpt": "GitButler 팀이 운영하는 vc-bench 에서 Claude Code와 Codex에 같은 버전 관리 작업을 맡기고 Git, Jujutsu, GitButler를 비교함 전체 360회 중 359회 성공 . 기본 Git과 GitButler는 각각 120회 모두 통과했고, Jujutsu에서 한 번 실패함 GitButler는 이 실험에서 Git보다 작업 시간이 약 65% 짧고 , 실행한 명령은 약 78% 적었음 어떤 명령을 썼는지…"
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=36758&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "GitLab, Git 호환성을 유지한 에이전트용 소스 관리 시스템 개발",
-      "url": "https://news.hada.io/topic?id=36758&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-07T14:56:46.000Z",
-      "excerpt": "GitLab이 대규모 저장소에서 수천 개 에이전트의 동시 작업 을 지원하는 차세대 소스 코드 관리(SCM)를 개발 중이며, 현재 비공개 베타에서 고객 저장소와 워크로드로 성능을 검증하고 있음 Git 프로토콜 호환성 을 유지하면서 공유 객체 스토리지와 수평 확장 가능한 무상태 컴퓨팅을 결합하고, 에이전트가 전체 저장소를 반복 복제하지 않고 필요한 파일과 이력만 요청하도록 설계함 초기 내부 테스트에서 작업 완료 속도 최대 50배 …"
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-07/ecb-s-lagarde-says-inflation-likely-to-stay-high-in-near-future",
@@ -183,90 +651,6 @@
       "excerpt": "Inflation is likely to remain high in the near future, European Central Bank President Christine Lagarde told the Japanese newspaper Yomiuri Shimbun, adding that second-round effects so far are no worse than anticipated."
     },
     {
-      "id": "geeknews:https://news.hada.io/topic?id=36757&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Pangram Image 1.0 공개 - 사진과 영상에서 AI로 만든 부분을 탐지",
-      "url": "https://news.hada.io/topic?id=36757&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-07T14:49:20.000Z",
-      "excerpt": "Pangram이 AI 이미지 탐지 모델 Image 1.0 과 영상 탐지에 특화된 경량 모델 Image Flash 1.0 을 공개함 Image 1.0은 실제로 찍은 사진 안에 AI 생성 이미지가 섞여 있어도 해당 영역을 히트맵으로 표시함 압축, 축소, 흐림 등에 대응하도록 학습했으며, 최소 입력 크기를 512×512에서 256×256으로 낮춤 실제 사진 100장과 12개 생성 모델로 만든 대응 이미지 1,200장을 사용한 Pan…"
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=36756&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Unleash - 재배포 없이 새 기능을 켜고 끄는 오픈소스 기능 플래그 서버",
-      "url": "https://news.hada.io/topic?id=36756&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-07T14:46:20.000Z",
-      "excerpt": "새 기능을 최종 사용자에게 언제, 어떻게 공개할지 제어하는 오픈소스 기능 관리 솔루션으로, 프로덕션 코드를 작고 관리하기 쉬운 단위로 배포할 수 있게 함 내부 사용자에게 먼저 공개한 뒤 전체 사용자의 10%, 50%처럼 대상을 넓힐 수 있음 사용자 ID를 기준으로 배정하면 같은 사용자에게 일관된 경험을 제공하며, 문제가 생기면 재배포 없이 플래그를 끌 수 있음 A/B 테스트 에서는 버전별로 트래픽 비율을 정하고, 어떤 버전이 …"
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "America's newest small business owners with no employees are off to a hot start in AI era",
-      "url": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
-      "publishedAt": "2026-11-07T14:45:01.000Z",
-      "excerpt": "New small business formation is rising for owners who can grow with AI serving in finance, marketing and design roles, eliminating the need for hiring."
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=36755&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "웹사이트 1만 5천 곳이 감염된 것을 알고 있다. 어떻게 알려야 할까?",
-      "url": "https://news.hada.io/topic?id=36755&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-07T14:43:20.000Z",
-      "excerpt": "Report URI가 악성 JavaScript에 감염된 웹사이트 15,579곳 을 확인했으며, 이들 사이트의 월간 방문 횟수는 보수적으로 추산해도 1억 3,500만 회 이상 임 위협 인텔리전스의 탐지 효율은 높아졌지만 책임 있는 통보 는 이를 따라가지 못해, 피해 조직에 알릴 수 있는 속도보다 감염 사이트를 발견하는 속도가 훨씬 빠름 감염 사이트에서는 카드 정보 탈취, ClickFix, 기기 공격, 악성 리디렉션 이 발생하며,…"
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=36754&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Need for Speed Underground 2, 브라우저에서 온라인으로 플레이",
-      "url": "https://news.hada.io/topic?id=36754&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-07T14:40:20.000Z",
-      "excerpt": "Underground 2 Revived 는 원작 PC 게임 코드를 Chrome과 Firefox용으로 재컴파일해 브라우저에서 실행하는 팬 프로젝트임 와이드스크린 을 지원하며, 친구들과 자유 주행하거나 최대 120fps로 온라인 레이스를 즐길 수 있음 게임의 Online 메뉴에서 EA 로그인 없이 서버의 로비, 채팅, 레이스에 참여하며, 방과 친구, 크루 기능으로 함께 플레이할 상대를 관리함 컨트롤러, 레이싱 휠, 터치 조작 을 …"
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/midterm-election-blue-wave-trump-renewable-energy.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "What midterm election blue wave rebuke of Trump means for renewable energy",
-      "url": "https://www.cnbc.com/2026/11/07/midterm-election-blue-wave-trump-renewable-energy.html",
-      "publishedAt": "2026-11-07T14:33:32.000Z",
-      "excerpt": "The conservative war on renewable energy suffered a big loss in the rout of President Trump and the GOP in midterm elections. Investors should pay attention."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/fsa-forfeit.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Many workers lose unused FSA money — but could still come out ahead. Here's how",
-      "url": "https://www.cnbc.com/2026/11/07/fsa-forfeit.html",
-      "publishedAt": "2026-11-07T14:30:01.000Z",
-      "excerpt": "While experts say it's best to use up your FSA money, the tax savings on your contributions could outweigh any amount you forfeit. Here's how to tell."
-    },
-    {
       "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-07/young-travelers-are-warming-up-to-cruises-video",
       "sourceId": "bbg-markets",
       "sourceName": "Bloomberg Markets",
@@ -279,102 +663,6 @@
       "excerpt": "On Bloomberg This Weekend, Bloomberg News travel journalist Brittany Chang explains why cruises are attracting more Gen Z and millennial travelers as higher airfare and hotel costs make all-inclusive vacations increasingly appealing. Chang …"
     },
     {
-      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-07/economy-and-democracy-drove-the-blue-wave-video",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Economy and Democracy Drove the Blue Wave",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/economy-and-democracy-drove-the-blue-wave-video",
-      "publishedAt": "2026-11-07T14:19:05.000Z",
-      "excerpt": "On Bloomberg This Weekend, Rutgers University's Ashley Koning says affordability, concerns about democracy and government corruption helped drive voters toward Democrats, with significant shifts among Latino, young and independent voters. K…"
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/make-it/2026/11/07/dumpster-diver-resale-business.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "31-year-old dumpster diver brought in $140,000 in 12 months: I 'did much more than I thought was possible'",
-      "url": "https://www.cnbc.com/make-it/2026/11/07/dumpster-diver-resale-business.html",
-      "publishedAt": "2026-11-07T14:15:01.000Z",
-      "excerpt": "Carter Stevens started reselling discarded items from dumpsters around Nashville, Tennessee, in March 2024. Months earlier, he'd been living in his car."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Mark Cuban says he doesn’t ‘give a f---' about growing his net worth—a healthy mindset for non-billionaires too, a financial therapist says",
-      "url": "https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
-      "publishedAt": "2026-11-07T14:05:01.000Z",
-      "excerpt": "The billionaire serial entrepreneur says he cares more about the impact he can have by spending and investing, rather than worrying about amassing more wealth."
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-07/berkshire-makes-record-9-6-billion-buyback-video",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Berkshire Makes Record $9.6 Billion Buyback",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/berkshire-makes-record-9-6-billion-buyback-video",
-      "publishedAt": "2026-11-07T14:00:16.000Z",
-      "excerpt": "On Bloomberg This Weekend, Bloomberg Intelligence Senior Insurance Analyst Matthew Palazola breaks down Berkshire Hathaway's third-quarter results, including a record $9.6 billion in share buybacks and weaker insurance earnings. Palazola te…"
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Will this week's blue wave election usher in a Democratic president in 2028?",
-      "url": "https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html",
-      "publishedAt": "2026-11-07T14:00:01.000Z",
-      "excerpt": "A CNBC analysis of historical election data finds wave elections don't necessarily spell trouble for the party in power during the next presidential year."
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=36753&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "에이전트 규모의 Git 인프라로 가는 가교 - GitHub의 Azure 이전기",
-      "url": "https://news.hada.io/topic?id=36753&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-07T13:57:34.000Z",
-      "excerpt": "GitHub는 저장소 99.99999%의 복사본을 Azure로 이전 했으며, 지역 간 지연 때문에 이전이 막힌 고부하 저장소를 위해 쓰기 직렬화 범위를 저장소 전체에서 개별 참조로 바꾸고 있음 참조별 쿼럼 은 같은 참조를 수정하는 쓰기만 서로 기다리게 해 서로 다른 브랜치의 동시 쓰기를 허용하며, 현실적인 트래픽을 사용한 내부 테스트에서 처리량이 3~4배 높아지고 지연은 낮아짐 가상 쓰기 복제본 은 Azure Blob Stor…"
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Turkey Arrests Former Regulatory Executive in Growing Fund Probe",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
-      "publishedAt": "2026-11-07T13:56:55.000Z",
-      "excerpt": "Turkish authorities arrested the former deputy chairman of the country’s markets regulator, state-run Anadolu Agency reported on Saturday, the latest executive to be caught up in a widening fund scandal."
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=36752&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Git 다음에는 무엇이 올까",
-      "url": "https://news.hada.io/topic?id=36752&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-07T13:55:30.000Z",
-      "excerpt": "East River Source Control(ERSC)은 기존 Git 클라이언트와 프로토콜을 그대로 사용하면서, 서버에서는 자체 엔진에 코드를 저장 하는 버전 관리 시스템을 개발 중임 AI 에이전트가 병렬로 작업하면서 저장소 크기, 활성 브랜치 수, 병합 경합 이 커짐. 격리된 클라우드 환경에서 작업을 시작할 때 빠르게 클론할 필요도 커짐 Git 호환성을 유지해 기존 도구를 계속 쓸 수 있게 하고, 자체 저장 엔진의 수평 확…"
-    },
-    {
       "id": "axios:https://www.axios.com/2026/11/07/stephen-miller-trump-chief-of-staff-style",
       "sourceId": "axios",
       "sourceName": "Axios",
@@ -385,54 +673,6 @@
       "url": "https://www.axios.com/2026/11/07/stephen-miller-trump-chief-of-staff-style",
       "publishedAt": "2026-11-07T13:43:44.000Z",
       "excerpt": "Stephen Miller is no Susie Wiles: He believes in almost limitless presidential power, considers the Democratic Party an extremist organization, and dreams of ruthless crackdowns on immigration and foreign adversaries. Why it matters: Miller…"
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/worlds-50-best-restaurants-2026-asador-etxebarri.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "World’s No. 1 restaurant crowned as contest comes under increasing scrutiny",
-      "url": "https://www.cnbc.com/2026/11/07/worlds-50-best-restaurants-2026-asador-etxebarri.html",
-      "publishedAt": "2026-11-07T13:38:44.000Z",
-      "excerpt": "Asador Etxebarri in Atxondo, Spain, is the world's top restaurant, according to the 50 Best Restaurants, which announced its 2026 list."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
-      "url": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
-      "publishedAt": "2026-11-07T13:30:01.000Z",
-      "excerpt": "Rep. Josh Gottheimer disclosed new AI-linked stock purchases months after voting for a congressional trading ban, as Democrats prepare to regulate the industry."
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-07/wall-street-strategists-call-stock-rout-a-fresh-reason-to-buy",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/wall-street-strategists-call-stock-rout-a-fresh-reason-to-buy",
-      "publishedAt": "2026-11-07T13:30:00.000Z",
-      "excerpt": "A slew of Wall Street strategists were banking on a short-term selloff following the US midterm elections to give investors an opportunity to buy stocks at a discount."
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-07/by-the-way-headlines-you-may-have-missed-video",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "By The Way: Headlines You May Have Missed",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-07/by-the-way-headlines-you-may-have-missed-video",
-      "publishedAt": "2026-11-07T13:25:55.000Z",
-      "excerpt": "The guide for when to pee during movies, taking PTO to play GTA, ignoring the Foie Gras ban, and kids loving their mom and dad's music: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but go…"
     },
     {
       "id": "mk:https://www.mk.co.kr/news/economy/12201540",
@@ -471,6 +711,18 @@
       "excerpt": "Clean energy firms, specialty REITs and airline companies and others may be beneficiaries of the 2026 U.S. midterm elections, per Wall Street analysts."
     },
     {
+      "id": "axios:https://www.axios.com/2026/11/07/democrats-state-office-sweeps-2026",
+      "sourceId": "axios",
+      "sourceName": "Axios",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "In 5 states, Republicans may lose every statewide executive race on the ballot",
+      "url": "https://www.axios.com/2026/11/07/democrats-state-office-sweeps-2026",
+      "publishedAt": "2026-11-07T12:30:07.000Z",
+      "excerpt": "Single-holder executive offices only; excludes courts, commissions and federal offices. Data: Associated Press; Axios analysis; Chart: Andrew Pantazi/Axios Democrats' midterm gains extended deep into the machinery of state government: They …"
+    },
+    {
       "id": "sedaily:https://www.sedaily.com/article/20111479",
       "sourceId": "sedaily",
       "sourceName": "서울경제 경제",
@@ -495,6 +747,18 @@
       "excerpt": "Some 14 years after taking the Chinese Communist Party’s helm, he remains focused on instituting loyalty and obedience."
     },
     {
+      "id": "hn:https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "publishedAt": "2026-11-07T11:11:15.000Z",
+      "excerpt": "Article URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ Comments URL: https://news.ycombinator.com/item…"
+    },
+    {
       "id": "thedaily:52f44c79-7a89-4444-a314-f6b1ee9fb7eb",
       "sourceId": "thedaily",
       "sourceName": "The Daily (NYT)",
@@ -508,18 +772,6 @@
       "audioUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5a033179-92e3-43c1-bd01-45ea0c152d0f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=5a033179-92e3-43c1-bd01-45ea0c152d0f&amp;feed=54nAGcIl",
       "durationSec": 2502,
       "imageUrl": "https://image.simplecastcdn.com/images/a320151a-6588-41ea-8741-6dd30a9312b4/f5d8fde2-1461-49b9-b80c-4db0bcc98d6f/3000x3000/serial_metro_ep_2_diamond_district_3000x3000.jpg?aid=rss_feed"
-    },
-    {
-      "id": "hn:https://uploadyourram.org",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Upload Your RAM",
-      "url": "https://uploadyourram.org",
-      "publishedAt": "2026-11-07T10:15:26.000Z",
-      "excerpt": "Article URL: https://uploadyourram.org Comments URL: https://news.ycombinator.com/item?id=50403214 Points: 223 # Comments: 196"
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-07/charting-the-global-economy-job-growth-in-us-tops-all-forecasts",
@@ -555,7 +807,19 @@
       "title": "Every Mac comes with an (undocumented) family member classifier",
       "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
       "publishedAt": "2026-11-07T09:46:03.000Z",
-      "excerpt": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 330 # Comments: 180"
+      "excerpt": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 582 # Comments: 333"
+    },
+    {
+      "id": "hn:https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Running a law firm on Free software",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "publishedAt": "2026-11-07T09:39:06.000Z",
+      "excerpt": "Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 229 # Comments: 110"
     },
     {
       "id": "hn:https://nfsu2.xyz/",
@@ -567,7 +831,7 @@
       "title": "Need for Speed Underground 2 online in the browser",
       "url": "https://nfsu2.xyz/",
       "publishedAt": "2026-11-07T09:36:36.000Z",
-      "excerpt": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 373 # Comments: 121"
+      "excerpt": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 787 # Comments: 224"
     },
     {
       "id": "mk:https://www.mk.co.kr/news/economy/12201494",
@@ -666,18 +930,6 @@
       "excerpt": "The union representing about 250 security workers at the US’s busiest ports agreed to continue negotiations on a new labor contract for two more weeks, their employers said."
     },
     {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261107034800030",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "세계식량가격지수 하락 전환…곡물·육류·유제품 내려",
-      "url": "https://www.yna.co.kr/view/AKR20261107034800030",
-      "publishedAt": "2026-11-07T05:52:59.000Z",
-      "excerpt": "(서울=연합뉴스) 한주홍 기자 = 석 달 연속 오름세를 보였던 세계식량가격지수가 지난달 하락 전환했다."
-    },
-    {
       "id": "sedaily:https://www.sedaily.com/article/20111445",
       "sourceId": "sedaily",
       "sourceName": "서울경제 경제",
@@ -690,6 +942,30 @@
       "excerpt": ""
     },
     {
+      "id": "hn:https://asahilinux.org/2026/11/progress-report-7-3/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "publishedAt": "2026-11-07T05:20:18.000Z",
+      "excerpt": "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/ Comments URL: https://news.ycombinator.com/item?id=50401867 Points: 309 # Comments: 253"
+    },
+    {
+      "id": "hn:https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "publishedAt": "2026-11-07T04:54:36.000Z",
+      "excerpt": "Article URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals Comments URL: https://news.ycombinator.com/item?id=50401740 Points: 206 # Comments: 184"
+    },
+    {
       "id": "mk:https://www.mk.co.kr/news/economy/12201441",
       "sourceId": "mk",
       "sourceName": "매일경제 경제",
@@ -700,54 +976,6 @@
       "url": "https://www.mk.co.kr/news/economy/12201441",
       "publishedAt": "2026-11-07T04:05:24.000Z",
       "excerpt": "특검법, 손실회피성 위험한 물타기 판돈 잃은 겜블러 같은 초조함 노출 본전 심리 못 깨면 모든 자산 잃을 수도대니얼 카너먼. 어제(6일) 범여권의 조작기소특별검사법 강행 처리를 보.."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261106142200030",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "농식품부, 우리술 품평회 수상작 국내외 판로 확대 지원",
-      "url": "https://www.yna.co.kr/view/AKR20261106142200030",
-      "publishedAt": "2026-11-07T04:00:01.000Z",
-      "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부가 올해 대한민국 우리술 품평회 수상작의 해외 판로 개척과 국내 소비 확대를 지원한다고 7일 밝혔..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261107014453008",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "미래에셋증권도 3만9천여명 정보유출…당국에 전날 밤 신고(종합2보)",
-      "url": "https://www.yna.co.kr/view/AKR20261107014453008",
-      "publishedAt": "2026-11-07T03:47:45.000Z",
-      "excerpt": "(서울=연합뉴스) 황철환 배영경 기자 = 금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261107029500052",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "경남도·창원시, 전국 최초로 중국에 단감 수출",
-      "url": "https://www.yna.co.kr/view/AKR20261107029500052",
-      "publishedAt": "2026-11-07T03:03:49.000Z",
-      "excerpt": "(창원=연합뉴스) 이정훈 기자 = 경남도와 창원시는 전국에서 처음으로 단감을 중국에 수출했다고 7일 밝혔다."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261107027400030",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "송미령 장관, '푸드위크 코리아' 방문…\"K푸드 지속 성장 지원\"",
-      "url": "https://www.yna.co.kr/view/AKR20261107027400030",
-      "publishedAt": "2026-11-07T03:00:01.000Z",
-      "excerpt": "(서울=연합뉴스) 한주홍 기자 = 송미령 농림축산식품부 장관은 7일 서울 강남구 코엑스에서 진행 중인 국내 최대 규모의 식품산업 박람회 '푸드위..."
     },
     {
       "id": "sedaily:https://www.sedaily.com/article/20111434",
@@ -772,18 +1000,6 @@
       "url": "https://www.sedaily.com/article/20111433",
       "publishedAt": "2026-11-07T02:09:15.000Z",
       "excerpt": ""
-    },
-    {
-      "id": "mk:https://www.mk.co.kr/news/realestate/12201431",
-      "sourceId": "mk",
-      "sourceName": "매일경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "강남 급매물 35억 ‘뚝’ 떨어졌는데…집값 3.5억 ‘껑충’ 뛰는 곳 보니",
-      "url": "https://www.mk.co.kr/news/realestate/12201431",
-      "publishedAt": "2026-11-07T02:04:10.000Z",
-      "excerpt": "서울 월계·정릉·길음 등 상승세 지속서울 아파트 매매시장에서 강남권은 내리막을 걷는 반면 외곽 지역은 가파르게 치솟는 이른바 ‘디커플링(탈동조화)’ 현상이 뚜렷하다. 수십억 원대 .."
     },
     {
       "id": "sedaily:https://www.sedaily.com/article/20111430",
@@ -834,54 +1050,6 @@
       "excerpt": ""
     },
     {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261107025000011",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "url": "https://www.yna.co.kr/view/AKR20261107025000011",
-      "publishedAt": "2026-11-07T01:30:00.000Z",
-      "excerpt": "[연합뉴스 이 시각 헤드라인] - 10:30"
-    },
-    {
-      "id": "sedaily:https://www.sedaily.com/article/20111421",
-      "sourceId": "sedaily",
-      "sourceName": "서울경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "마이크론, 노조와 성과급 갈등에 대만 HBM 공장 건설 사실상 중단",
-      "url": "https://www.sedaily.com/article/20111421",
-      "publishedAt": "2026-11-07T01:28:34.000Z",
-      "excerpt": ""
-    },
-    {
-      "id": "sedaily:https://www.sedaily.com/article/20111419",
-      "sourceId": "sedaily",
-      "sourceName": "서울경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“청년 세금 덜 낸다”…19~34세 5년간 소득공제 감면 추진",
-      "url": "https://www.sedaily.com/article/20111419",
-      "publishedAt": "2026-11-07T01:27:42.000Z",
-      "excerpt": ""
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261107024700017",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "토스, 여성공학인 성장지원 우수기업 산업통상부 장관상",
-      "url": "https://www.yna.co.kr/view/AKR20261107024700017",
-      "publishedAt": "2026-11-07T01:25:18.000Z",
-      "excerpt": "(서울=연합뉴스) 한상용 기자 = 토스 운영사 비바리퍼블리카는 '2026 산업현장 여성공학인대회'에서 여성공학인 성장지원 우수기관·기업 부문 산..."
-    },
-    {
       "id": "axios:https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal",
       "sourceId": "axios",
       "sourceName": "Axios",
@@ -892,66 +1060,6 @@
       "url": "https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal",
       "publishedAt": "2026-11-07T01:10:14.000Z",
       "excerpt": "Vice President Vance has spent the past two weeks personally involved in indirect talks with Iran aimed at reaching a new ceasefire and resuming nuclear negotiations, according to two sources with knowledge of the matter. Why it matters: Va…"
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261106140000062",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "태백시, 공공이불빨래방 3호점 추진…취약계층 돌봄 확대",
-      "url": "https://www.yna.co.kr/view/AKR20261106140000062",
-      "publishedAt": "2026-11-07T01:10:01.000Z",
-      "excerpt": "(태백=연합뉴스) 이상학 기자 = 강원 태백시가 취약계층의 생활 편의를 높이고 노인일자리를 확대하기 위해 공공이불빨래방 3호점 조성에 나선다."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261106161400017",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[바이오사이언스] 신약 경쟁 치열한데…정부 R&D 투자 2년째 감소",
-      "url": "https://www.yna.co.kr/view/AKR20261106161400017",
-      "publishedAt": "2026-11-07T01:00:05.000Z",
-      "excerpt": "(서울=연합뉴스) 박상현 기자 = 정부의 신약 관련 연구개발(R&amp;D) 투자액이 2022년 정점을 찍은 뒤 2년 연속 감소한 것으로 나타났..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261106164400061",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "성남시, 내년 장애인 252명에 공공일자리 제공",
-      "url": "https://www.yna.co.kr/view/AKR20261106164400061",
-      "publishedAt": "2026-11-07T01:00:04.000Z",
-      "excerpt": "(성남=연합뉴스) 이우성 기자 = 경기 성남시는 내년 장애인 공공일자리 사업에 39억원을 투입해 252명에게 일자리를 제공한다고 7일 밝혔다."
-    },
-    {
-      "id": "mk:https://www.mk.co.kr/news/economy/12201386",
-      "sourceId": "mk",
-      "sourceName": "매일경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“美 중간선거 후폭풍, 데이터센터 제동에”…13.6조 원전 ‘선급금’ 논란",
-      "url": "https://www.mk.co.kr/news/economy/12201386",
-      "publishedAt": "2026-11-07T00:13:19.000Z",
-      "excerpt": "미국 중간선거에서 민주당이 승리하며 인공지능(AI) 데이터센터 규제 강화를 예고한 가운데 최대 100억 달러(약 13조6000억원) 규모의 한미 원전 투자 선급금 지급 문제를 두고.."
-    },
-    {
-      "id": "hn:https://mitchellh.com/writing/libghostty-1-0",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Libghostty 1.0",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "publishedAt": "2026-11-06T23:30:52.000Z",
-      "excerpt": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 854 # Comments: 140"
     },
     {
       "id": "planetmoney:https://www.npr.org/2026/11/06/nx-s1-6032860/fire-insurance-industry-destruction-lab",
@@ -1017,18 +1125,6 @@
       "excerpt": "Three Republican House members also recently requested Huang appear in a private briefing on whether he was the target of a Chinese spy."
     },
     {
-      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-06/us-job-gains-may-be-spreading-from-ai-buildout-to-implementation",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "US Job Gains May Be Spreading From AI Buildout to Implementation",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-job-gains-may-be-spreading-from-ai-buildout-to-implementation",
-      "publishedAt": "2026-11-06T20:40:32.000Z",
-      "excerpt": "White-collar consulting jobs tied to AI implementation may be joining blue-collar construction and manufacturing jobs tied to the data center buildout as a driver of US employment growth."
-    },
-    {
       "id": "axios:https://www.axios.com/2026/11/06/mississippi-colom-hyde-smith-inactive-voter-registrations",
       "sourceId": "axios",
       "sourceName": "Axios",
@@ -1039,18 +1135,6 @@
       "url": "https://www.axios.com/2026/11/06/mississippi-colom-hyde-smith-inactive-voter-registrations",
       "publishedAt": "2026-11-06T20:26:01.000Z",
       "excerpt": "Americans on both sides of the political aisle are watching the nail-bitingly close Mississippi Senate race , where a controversial voter-roll cleanup has come under scrutiny after some voters reported problems casting their ballots. Why it…"
-    },
-    {
-      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-credit-surges-by-most-in-nearly-four-years",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "US Consumer Credit Surges by Most in Nearly Four Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-credit-surges-by-most-in-nearly-four-years",
-      "publishedAt": "2026-11-06T20:06:48.000Z",
-      "excerpt": "US consumer borrowing jumped in September by the most in nearly four years, boosted by a run-up in credit card balances and higher non-revolving credit."
     },
     {
       "id": "axios:https://www.axios.com/2026/11/06/navajo-nation-first-woman-president-tribe",
@@ -1077,18 +1161,6 @@
       "excerpt": "One House Republican told Semafor the move was “a horrible decision.”"
     },
     {
-      "id": "hn:https://hightouch.com/blog/llm-judges-identity-resolution",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "publishedAt": "2026-11-06T19:48:51.000Z",
-      "excerpt": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 531 # Comments: 128"
-    },
-    {
       "id": "pragmatic:https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
       "sourceId": "pragmatic",
       "sourceName": "The Pragmatic Engineer",
@@ -1102,18 +1174,6 @@
       "excerpt": "The Summit is back in San Francisco, for the second year, and registrations are open for February 10, 2027"
     },
     {
-      "id": "hn:https://pwn.ai/blog/firecracker-escape",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "publishedAt": "2026-11-06T19:33:38.000Z",
-      "excerpt": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 261 # Comments: 113"
-    },
-    {
       "id": "semafor:https://www.semafor.com/article/11/05/2026/democrats-ceo-targets-remain-a-work-in-progress",
       "sourceId": "semafor",
       "sourceName": "Semafor",
@@ -1124,42 +1184,6 @@
       "url": "https://www.semafor.com/article/11/05/2026/democrats-ceo-targets-remain-a-work-in-progress",
       "publishedAt": "2026-11-06T18:56:09.000Z",
       "excerpt": "The party is finalizing its plans to scrutinize corruption and tackle affordability in the next Congress."
-    },
-    {
-      "id": "axios:https://www.axios.com/2026/11/06/trump-joe-rogan-calley-means",
-      "sourceId": "axios",
-      "sourceName": "Axios",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "Ex-RFK Jr. adviser says Trump admin corruption prompted resignation",
-      "url": "https://www.axios.com/2026/11/06/trump-joe-rogan-calley-means",
-      "publishedAt": "2026-11-06T18:52:51.000Z",
-      "excerpt": "Calley Means , a former adviser to Health Secretary Robert F. Kennedy Jr. , said he resigned from the Trump administration over alleged internal corruption from a \"concentrated group of people.\" Why it matters: Means left the Trump administ…"
-    },
-    {
-      "id": "axios:https://www.axios.com/2026/11/06/jeffries-speaker-democrats-house-calls-petition",
-      "sourceId": "axios",
-      "sourceName": "Axios",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "House Democrats \"inundated\" with calls telling them not to elect Jeffries speaker",
-      "url": "https://www.axios.com/2026/11/06/jeffries-speaker-democrats-house-calls-petition",
-      "publishedAt": "2026-11-06T18:46:42.000Z",
-      "excerpt": "Democratic House members and members-elect are being bombarded with phone calls and emails urging them not to elect Minority Leader Hakeem Jeffries (D-N.Y.) as speaker, more than a dozen lawmakers and aides tell Axios. Why it matters: The c…"
-    },
-    {
-      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-06/fed-s-daly-says-more-rate-increases-likely-needed-to-tame-prices",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "Fed’s Daly Says More Rate Hikes Likely Needed to Tame Prices",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/fed-s-daly-says-more-rate-increases-likely-needed-to-tame-prices",
-      "publishedAt": "2026-11-06T18:24:52.000Z",
-      "excerpt": "Federal Reserve Bank of San Francisco President Mary Daly said more interest-rate increases are likely to be needed to tame inflation, but it’s too soon to know how much higher rates will need to go."
     },
     {
       "id": "stratechery:https://stratechery.com/2026/falling-leaves-and-stocks/",
@@ -1307,28 +1331,16 @@
       "excerpt": "The Invesco Pharmaceuticals ETF continues to outperform as other areas of the market weaken, making it an investment opportunity worth watching."
     },
     {
-      "id": "hn:https://kevinboone.me/efitest_index.html",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
+      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-06/knot-and-de-cos-are-the-only-two-candidates-for-ecb-president",
+      "sourceId": "bbg-econ",
+      "sourceName": "Bloomberg Economics",
+      "domain": "global",
       "lang": "en",
       "kind": "article",
-      "title": "First steps in bare-metal programming using UEFI",
-      "url": "https://kevinboone.me/efitest_index.html",
-      "publishedAt": "2026-11-06T16:50:29.000Z",
-      "excerpt": "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 236 # Comments: 48"
-    },
-    {
-      "id": "hn:https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "publishedAt": "2026-11-06T13:35:27.000Z",
-      "excerpt": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 352 # Comments: 241"
+      "title": "Dutchman and Spaniard in Two-Horse Race for ECB Presidency",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/knot-and-de-cos-are-the-only-two-candidates-for-ecb-president",
+      "publishedAt": "2026-11-06T16:17:47.000Z",
+      "excerpt": "The choice for European Central Bank President Christine Lagarde’s successor probably comes down to Dutchman Klaas Knot and Spaniard Pablo Hernandez de Cos."
     },
     {
       "id": "sonkyung:https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261106.mp3",
@@ -1356,30 +1368,6 @@
       "url": "https://www.cnbc.com/2026/11/06/apple-is-on-a-tear-but-it-wont-be-for-long-per-daiwa-capital-markets.html",
       "publishedAt": "2026-11-06T12:37:22.000Z",
       "excerpt": "Apple has outperformed in 2026, but the stock is likely to lose momentum next year due to several macroeconomic headwinds, per Daiwa Capital Markets."
-    },
-    {
-      "id": "axios:https://www.axios.com/2026/11/06/ai-government-hackers-fridge-hacks",
-      "sourceId": "axios",
-      "sourceName": "Axios",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "How AI is enabling faster, more dangerous cyber warfare",
-      "url": "https://www.axios.com/2026/11/06/ai-government-hackers-fridge-hacks",
-      "publishedAt": "2026-11-06T12:15:06.000Z",
-      "excerpt": "Refrigerator hacks. $6.3 billion crypto heists . 14-country espionage campaigns carried out in just 11 days. All in the span of a week. Why it matters: State-backed hackers are finding new ways to launch cyberattacks at remarkable speed and…"
-    },
-    {
-      "id": "hn:https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Tesla to wind down Cybertruck production",
-      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "publishedAt": "2026-11-06T12:13:51.000Z",
-      "excerpt": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 1081 # Comments: 1937"
     },
     {
       "id": "stratechery:https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
@@ -1453,18 +1441,6 @@
       "audioUrl": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1106_1.mp3",
       "durationSec": 3981,
       "imageUrl": "https://img.imbc.com/adams/Program/20263/134194093443196502.jpg"
-    },
-    {
-      "id": "hn:https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "publishedAt": "2026-11-06T04:00:28.000Z",
-      "excerpt": "Article URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50388001 Points: 367 # Comments: 307"
     },
     {
       "id": "uppity:https://uppity.co.kr/%eb%af%b8%ea%b5%ad-%ec%a4%91%ea%b0%84%ec%84%a0%ea%b1%b0-%eb%b8%94%eb%a3%a8-%ec%93%b0%eb%82%98%eb%af%b8-%ea%b4%80%ec%84%b8-%eb%b6%80%eb%8b%b4-%ec%a4%84%ea%b3%a0-%eb%b0%98%eb%8f%84/",
@@ -2088,19 +2064,6 @@
       "imageUrl": "https://image.simplecastcdn.com/images/12d3db32-0c1e-4c49-b672-cf6fe68edf5d/c7ad2106-c464-4c75-9045-5849873dd050/3000x3000/3000241103_km_nyc_marathon_f_633966.jpg?aid=rss_feed"
     },
     {
-      "id": "lenny:https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
-      "sourceId": "lenny",
-      "sourceName": "Lenny's Newsletter",
-      "domain": "career",
-      "deep": true,
-      "lang": "en",
-      "kind": "article",
-      "title": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
-      "publishedAt": "2026-10-31T16:14:41.000Z",
-      "excerpt": "Community Wisdom 304"
-    },
-    {
       "id": "thedaily:e7a49173-1e04-4b80-a8d2-7dbcd7236b35",
       "sourceId": "thedaily",
       "sourceName": "The Daily (NYT)",
@@ -2341,6 +2304,21 @@
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!8MSN!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"
     },
     {
+      "id": "lenny:https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "sourceId": "lenny",
+      "sourceName": "Lenny's Newsletter",
+      "domain": "career",
+      "deep": true,
+      "lang": "en",
+      "kind": "episode",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "publishedAt": "2026-10-18T12:31:36.000Z",
+      "excerpt": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+      "audioUrl": "https://api.substack.com/feed/podcast/219139599/eec213eb065b870b843f049939de6fc2.mp3",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!8MSN!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"
+    },
+    {
       "id": "planetmoney:https://www.npr.org/2026/10/16/nx-s1-6005392/sundance-hollywood-movies-apple-disney",
       "sourceId": "planetmoney",
       "sourceName": "Planet Money",
@@ -2570,8 +2548,8 @@
     "ok": [
       {
         "id": "bbg-econ",
-        "count": 10,
-        "parsed": 14
+        "count": 9,
+        "parsed": 9
       },
       {
         "id": "economist",
@@ -2610,8 +2588,8 @@
       },
       {
         "id": "hn",
-        "count": 10,
-        "parsed": 10
+        "count": 9,
+        "parsed": 9
       },
       {
         "id": "tldr",
