@@ -58,27 +58,5 @@ export function useReadIds(): [Set<string>, (id: string) => void] {
   return [new Set(ids), mark]
 }
 
-export interface LaterItem {
-  id: string
-  url: string
-  title: string
-  savedAt: number
-}
-
-export function useLater(): [LaterItem[], (item: Omit<LaterItem, 'id' | 'savedAt'>) => void, (id: string) => void] {
-  const [items, setItems] = useStored<LaterItem[]>('later', [])
-  const add = useCallback(
-    (item: Omit<LaterItem, 'id' | 'savedAt'>) =>
-      setItems((prev) =>
-        prev.some((p) => p.url === item.url)
-          ? prev
-          : [{ ...item, id: crypto.randomUUID(), savedAt: Date.now() }, ...prev],
-      ),
-    [setItems],
-  )
-  const remove = useCallback((id: string) => setItems((prev) => prev.filter((p) => p.id !== id)), [setItems])
-  return [items, add, remove]
-}
-
 export const todayKey = (d = new Date()) =>
   `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`

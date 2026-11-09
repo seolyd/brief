@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { dailyHeadlines, pickHeadlines, type Edition, type FeedItem } from '../lib/data'
 import { useSession } from '../lib/session'
-import { read, useLater, useReadIds, write } from '../lib/store'
+import { read, useReadIds, write } from '../lib/store'
 import { useData } from '../lib/useData'
 import { Empty, Page } from './Page'
 import { EndCard, SessionBar } from './SessionBar'
@@ -61,17 +61,12 @@ export function EditionView({ edition, kicker, title }: { edition: Edition; kick
 
 function useRow() {
   const [readIds, markRead] = useReadIds()
-  const [, addLater] = useLater()
   const row = (i: FeedItem) => (
     <ArticleRow
       key={i.id}
       item={i}
       read={readIds.has(i.id)}
       onOpen={() => markRead(i.id)}
-      onLater={() => {
-        addLater({ url: i.url, title: i.title })
-        markRead(i.id)
-      }}
     />
   )
   return { readIds, row }

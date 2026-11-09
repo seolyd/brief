@@ -5,14 +5,12 @@ export function ArticleRow({
   item,
   read,
   onOpen,
-  onLater,
   showExcerpt = true,
   showSource = true,
 }: {
   item: FeedItem
   read: boolean
   onOpen: () => void
-  onLater?: () => void
   showExcerpt?: boolean
   /** 신문사별로 묶인 목록에서는 머리에 이름이 있으니 줄마다 반복하지 않습니다. */
   showSource?: boolean
@@ -28,11 +26,6 @@ export function ArticleRow({
         {item.title}
       </a>
       {showExcerpt && item.excerpt && <p className="excerpt">{item.excerpt}</p>}
-      {onLater && (
-        <button type="button" className="link small" onClick={onLater}>
-          나중에 읽기
-        </button>
-      )}
     </article>
   )
 }
