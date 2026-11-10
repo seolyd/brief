@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T03:38:11.302Z",
+  "generatedAt": "2026-11-10T04:23:27.372Z",
   "domains": [
     {
       "id": "global",
@@ -177,15 +177,27 @@
       "excerpt": "빈 정(뒷줄 왼쪽) 박사와 레이슬 정(오른쪽) 대표 부부가 최근 아프리카를 방문해 아동들과 함께 손을 흔들고 있다. 월드비전 제공 1979년 남중국해. 세 살배기 아이였던 빈 정(50) 박사는 가족과 함께 베트남을 탈출해 작은 배에 몸을 싣고 있었다. 먹을 것도 물도 떨어진 채 며칠째 바다를 떠돌던 이들에게 희망은 거의 남아 있지 않았다. 지나가던 모든 배가 이들을 외면하거나 약탈의 위협을 가했다. 그때 한 척의 배가 다가왔다…"
     },
     {
+      "id": "hani:https://www.hani.co.kr/arti/society/society_general/1286586.html",
+      "sourceId": "hani",
+      "sourceName": "한겨레",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "경찰, 부동산 범죄 단속 1년간 3565명 적발…내년까지 3차 단속 이어가",
+      "url": "https://www.hani.co.kr/arti/society/society_general/1286586.html",
+      "publishedAt": "2026-11-10T04:23:26.298Z",
+      "excerpt": ""
+    },
+    {
       "id": "hani:https://www.hani.co.kr/arti/society/schooling/1286585.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "유아 사교육비 얼마?…내년부터 매년 조사·공개",
+      "title": "유아 사교육비 내년부터 매년 조사·공개…시장 규모까지 파악",
       "url": "https://www.hani.co.kr/arti/society/schooling/1286585.html",
-      "publishedAt": "2026-11-10T03:38:10.721Z",
+      "publishedAt": "2026-11-10T04:23:26.298Z",
       "excerpt": ""
     },
     {
@@ -197,7 +209,7 @@
       "kind": "article",
       "title": "Could the scandal at Nvidia rattle Korea’s semiconductor industry?",
       "url": "https://www.hani.co.kr/arti/english_edition/e_business/1286584.html",
-      "publishedAt": "2026-11-10T03:38:10.721Z",
+      "publishedAt": "2026-11-10T04:23:26.298Z",
       "excerpt": ""
     },
     {
@@ -209,7 +221,7 @@
       "kind": "article",
       "title": "공정위, 네이버-두나무 기업결합 심의 착수…18일 결론 나나",
       "url": "https://www.hani.co.kr/arti/economy/economy_general/1286583.html",
-      "publishedAt": "2026-11-10T03:38:10.721Z",
+      "publishedAt": "2026-11-10T04:23:26.298Z",
       "excerpt": ""
     },
     {
@@ -221,7 +233,7 @@
       "kind": "article",
       "title": "강남 병원에 환자 소개해 ‘진료비 페이백’…17억 챙긴 일당 검거",
       "url": "https://www.hani.co.kr/arti/society/society_general/1286582.html",
-      "publishedAt": "2026-11-10T03:38:10.721Z",
+      "publishedAt": "2026-11-10T04:23:26.298Z",
       "excerpt": ""
     },
     {
@@ -233,7 +245,7 @@
       "kind": "article",
       "title": "3분기 수출액 60%, 10개 기업이 벌어…무역집중도 역대 최대",
       "url": "https://www.hani.co.kr/arti/economy/economy_general/1286581.html",
-      "publishedAt": "2026-11-10T03:38:10.721Z",
+      "publishedAt": "2026-11-10T04:23:26.298Z",
       "excerpt": ""
     },
     {
@@ -245,7 +257,7 @@
       "kind": "article",
       "title": "불닭보다 캡사이신 농도가 높다니…매운 라면 12종 뜯어봤다",
       "url": "https://www.hani.co.kr/arti/economy/economy_general/1286580.html",
-      "publishedAt": "2026-11-10T03:38:10.721Z",
+      "publishedAt": "2026-11-10T04:23:26.298Z",
       "excerpt": ""
     },
     {
@@ -257,7 +269,7 @@
       "kind": "article",
       "title": "스틸 미 대사 “한국 활동 미국 기업, 공정한 조건서 경쟁할 수 있어야”",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1286579.html",
-      "publishedAt": "2026-11-10T03:38:10.721Z",
+      "publishedAt": "2026-11-10T04:23:26.298Z",
       "excerpt": ""
     },
     {
@@ -269,7 +281,7 @@
       "kind": "article",
       "title": "‘나흘 만에 경질’ 백악관 대변인, 복귀 시도?… “트럼프 관심 끌려 해”",
       "url": "https://www.hani.co.kr/arti/international/america/1286578.html",
-      "publishedAt": "2026-11-10T03:38:10.721Z",
+      "publishedAt": "2026-11-10T04:23:26.298Z",
       "excerpt": ""
     },
     {
@@ -281,20 +293,320 @@
       "kind": "article",
       "title": "‘모든 거리 구걸 금지’…조례 추진 ‘독일 뒤셀도르프시’에 무슨 일이",
       "url": "https://www.hani.co.kr/arti/international/international_general/1286577.html",
-      "publishedAt": "2026-11-10T03:38:10.721Z",
+      "publishedAt": "2026-11-10T04:23:26.298Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/society/society_general/1286576.html",
-      "sourceId": "hani",
-      "sourceName": "한겨레",
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261110/134998073/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "한덕수 석방되나…대법, 구속만료 하루 전 19일 전원합의체 심리",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1286576.html",
-      "publishedAt": "2026-11-10T03:38:10.721Z",
-      "excerpt": ""
+      "title": "대학병원서 ‘상습 절도’ 20대 여대생…재판 중에도 훔쳤다",
+      "url": "https://www.donga.com/news/Society/article/all/20261110/134998073/2",
+      "publishedAt": "2026-11-10T04:17:00.000Z",
+      "excerpt": "대학병원에서 상습적으로 절도 행각을 벌인 20대 여성이 공소청으로 넘겨졌다.광주 동부경찰서는 절도 혐의로 20대 여대생을 구속 송치했다고 10일 밝혔다.이 여성은 9월 말 광주 한 대학병원 탈의실 등에서 6차례에 걸쳐 70만원 상당의 현금 등 금품을 훔친 혐의를 받고 있다. 그는 실습하는 학생이나 직원들이 사물함을 잠그지 않는 점을 노려 5월에도 200만 원 상당을 훔치는 등 상습적으로 절도 행각을 벌인 것으로 조사됐다. 앞서…"
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-10/australia-ahead-11-10-2026-video",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Australia Faces New US Reality After Midterms",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/australia-ahead-11-10-2026-video",
+      "publishedAt": "2026-11-10T04:13:22.000Z",
+      "excerpt": "Australia's government is closely watching President Trump's approach to foreign policy for the remainder of his term. While the Democrats take control of Congress in January, Trump will retain broad, unilateral authority over areas includi…"
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611101306001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "240만원 넣으면 500만원으로 돌려받는다…충북도, 새마을금고와 ‘청년 두배 적금’ 추진",
+      "url": "https://www.khan.co.kr/article/202611101306001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-10T04:06:00.000Z",
+      "excerpt": "신용한 충북지사(가운데)가 10일 새마을금고중앙회와 ‘충북 청년 자산형성 및 지역정착을 위한 업무협약’을 하고 기념 촬영을 하고 있다. 충북도 제공.충북도가 지역 청년 독립을 위해 ‘두배 적금’ 사업을 추진한다.충북도는 10일 새마을금고중앙회와 ‘충북 청년 자산형성 및 지역정착을 위한 업무협약’을 했다.이번 협약으로 추진되는 ‘충북 사회초년생 청년 두배 적···"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Sports/article/all/20261110/134998299/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "사격 오세희, 세계선수권 소총 3자세 은메달…LA올림픽 티켓 확보",
+      "url": "https://www.donga.com/news/Sports/article/all/20261110/134998299/1",
+      "publishedAt": "2026-11-10T04:05:05.000Z",
+      "excerpt": "오세희(충북보건과학대)가 2026 국제사격연맹(ISSF) 도하 세계선수권대회에서 은메달을 따며 2028 로스앤젤레스(LA) 올림픽 출전권을 획득했다.오세희는 9일(현지 시간) 카타르 도하 루사일 사격장에서 열린 대회 여자 50m 소총 3자세 결선에서 357.7점을 쏴 은메달을 목에 걸었다.금메달은 알렉산드라 스토야디노비치(세르비아·358.4점), 동메달은 노바타 미사키(일본·348.2점)가 차지했다.입상에 성공한 오세희는 이 …"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261110/134998296/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "경찰 ‘지하철 출근길 이동권 시위’ 박경석 전장연 대표 송치",
+      "url": "https://www.donga.com/news/Society/article/all/20261110/134998296/1",
+      "publishedAt": "2026-11-10T04:04:54.000Z",
+      "excerpt": "경찰이 서울 지하철 5호선 광화문역에서 출근길 시위를 벌인 박경석 전국장애인차별철폐연대(전장연) 상임대표를 공소청에 넘겼다.10일 경찰에 따르면 서울 종로경찰서는 지난달 30일 박 대표를 공동퇴거불응과 업무방해 혐의로 서울중앙지방공소청에 송치했다.박 대표는 지난해 11월 18일 오전 8시쯤 광화문역에서 이동권 시위를 벌이며 철도종사자의 퇴거 요구에 불응하고 업무를 방해한 혐의를 받는다.경찰은 시위 참가자 가운데 박 대표만 송치…"
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261110075651001",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "스틸美대사 \"韓진출 美기업, 공정한 환경서 경쟁할 수 있어야\"(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261110075651001",
+      "publishedAt": "2026-11-10T04:04:16.000Z",
+      "excerpt": "(서울=연합뉴스) 민선희 안정훈 기자 = 미셸 스틸 주한미국대사는 10일 한미 경제 협력과 관련, \"약속한 대로 한국에 진출한 미국 기업이 공정..."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261110/134998287/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "양주 병원 주차장 4m 옹벽 아래로 승용차 추락…70대 남성 경상",
+      "url": "https://www.donga.com/news/Society/article/all/20261110/134998287/1",
+      "publishedAt": "2026-11-10T04:02:29.000Z",
+      "excerpt": "9일 낮 12시 7분께 경기 양주시 만송동 한 병원 야외주차장에서 70대 남성이 몰던 승용차가 가드레일을 들이받고 약 4m 옹벽 아래로 추락했다.이 사고로 A 씨가 양측 다리에 찰과상을 입고 출동한 구급대에 의해 병원으로 옮겨졌다.경찰은 자세한 사고 경위를 조사 중이다.(양주=뉴스1)"
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261110064700530",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "영유아 적은 지역, 500세대 넘어도 국공립 어린이집 설치 예외",
+      "url": "https://www.yna.co.kr/view/AKR20261110064700530",
+      "publishedAt": "2026-11-10T03:59:05.000Z",
+      "excerpt": "(세종=연합뉴스) 고상민 기자 = 앞으로 영유아 인구가 적은 지역에서는 500세대 이상 공동주택이라도 국공립 어린이집을 의무적으로 설치하지 않아..."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
+      "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+      "publishedAt": "2026-11-10T03:58:46.000Z",
+      "excerpt": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
+      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+      "publishedAt": "2026-11-10T03:56:15.000Z",
+      "excerpt": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611101256001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "박성현 광양시장, 포스코 노사에 “상생과 협력 지혜 모아야”",
+      "url": "https://www.khan.co.kr/article/202611101256001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-10T03:56:00.000Z",
+      "excerpt": "임금협상 합의안 부결에 호소문노동자 권익·지역경제 안정 강조박성현 광양시장이 10일 오전 광양시청에서 포스코 노사에 상생과 협력을 촉구하는 호소문을 발표하고 있다. 광양시 제공박성현 전남광주 광양시장이 임금협상 잠정합의안 부결로 교섭을 다시 이어가게 된 포스코 노사에 대화와 타협을 통한 조속한 합의를 촉구했다.박 시장은 10일 발표한 ‘포스코 노사에 드리는···"
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611101247001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“강남권 좋은 병원서 치료”…17억 챙긴 ‘환자 알선’ 일당 등 58명 검거",
+      "url": "https://www.khan.co.kr/article/202611101247001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-10T03:47:00.000Z",
+      "excerpt": "경찰 로고. 경향신문DB서울 강남권 소재 병원에 환자를 알선해주고 그 대가로 17억원을 챙긴 일당이 경찰에 붙잡혔다.서울경찰청 광역수사단 금융범죄수사대는 강남권 병·의원에 환자를 알선해 준 뒤 진료비 일부를 수수료로 취득한 혐의로 브로커 총책·모집책 등 39명을 검거해 지난달 30일 서울중앙공소청에 송치했다고 10일 밝혔다. 경찰은 환자를 알선받은 병원의 ···"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Politics/article/all/20261110/134998234/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "‘청해부대 작전구역 2배 확대’ 국무회의 통과…해상초계기 등 추가 파견",
+      "url": "https://www.donga.com/news/Politics/article/all/20261110/134998234/1",
+      "publishedAt": "2026-11-10T03:47:00.000Z",
+      "excerpt": "정부가 소말리아 아덴만 해역에서 작전 중인 청해부대의 작전 구역을 중동 해상 요충지인 호르무즈 해협 인근 오만 남방 해역까지 2배 확대하고 전력을 보강하는 내용을 핵심으로 한 파견 연장 동의안을 국무회의에서 의결했다.국방부는 10일 이재명 대통령 주재로 열린 국무회의에서 ‘국군부대의 소말리아 아덴만 해역 및 오만 남방 외해 파견 연장 동의안’과 ‘국군부대의 아랍에미리트(UAE) 군 교육훈련 지원 등에 관한 파견 연장 동의안(아…"
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261110054951001",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "국무회의서 '청해부대 작전구역 확대' 의결…국회 제출 수순(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261110054951001",
+      "publishedAt": "2026-11-10T03:45:01.000Z",
+      "excerpt": "(서울=연합뉴스) 임형섭 김효정 기자 = 이재명 대통령이 10일 청와대에서 주재한 국무회의에서 청해부대의 임무 구역 확대 및 추가 자산 파견 등..."
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838518",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "\"두 사람, 불편할 정도로\" 우려…'젠슨 황 연인' 행방묘연",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838518",
+      "publishedAt": "2026-11-10T03:45:00.000Z",
+      "excerpt": "▲ 2025년 한 식당에서 포착된 젠슨 황 엔비디아 CEO와 앨리스 황엔비디아를 이끄는 젠슨 황 최고경영자가 중국 스파이 의혹을 받는…"
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838044",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "\"어둠의 오은영\" 섬뜩한 얼굴…결국 논란 터지자",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838044",
+      "publishedAt": "2026-11-10T03:45:00.000Z",
+      "excerpt": "모닝 핫토픽 첫 번째 소식, '귀신 훈육은 아동학대냐'.한국민속촌의 귀신 훈육이라는 프로그램이 있습니다.일명 어둠의 오은영이라고 …"
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838045",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "\"내쫓는 거냐\" 노숙인들 반발…달라지는 서울역?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838045",
+      "publishedAt": "2026-11-10T03:45:00.000Z",
+      "excerpt": "서울역 광장 일대가 금주 구역으로 지정됐습니다.대낮 음주 또 고성방가로 불안과 민원이 끊이질 않아서인데요.그럼 첫날은 서울역 풍경은 어땠을까요.…"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261110093700083",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "中, 2차대전 당시 실종된 미군 조종사 유해 인계…군사협력 지속",
+      "url": "https://www.yna.co.kr/view/AKR20261110093700083",
+      "publishedAt": "2026-11-10T03:44:26.000Z",
+      "excerpt": "(베이징=연합뉴스) 한종구 특파원 = 중국이 제2차 세계대전 당시 일본군과 싸우던 자국군을 지원하다 실종된 미군 조종사들의 유해를 미국에 인계했..."
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838951",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "국무회의서 '청해부대 작전구역 확대' 의결…국회 제출 수순",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838951",
+      "publishedAt": "2026-11-10T03:44:00.000Z",
+      "excerpt": "▲ 지난 5월 청해부대 48진 왕건함의 부산작전기지 출항 모습. 왕건함은 지난달 2일 출항한 청해부대 49진 충무공이순신함과 임무를 …"
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838860",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "위장 퇴사에 위장 미혼…부정청약 '354건' 적발",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838860",
+      "publishedAt": "2026-11-10T03:44:00.000Z",
+      "excerpt": "정부가 최근 아파트 청약에 당첨된 사람들을 대상으로 조사를 벌인 결과, 부정청약 의심 사례 354건이 적발됐습니다. 청약 당첨을 위해서 고소득 …"
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838726",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "선관위 특검 \"선관위, 경기도교육감 개표상황표 은닉·위조\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838726",
+      "publishedAt": "2026-11-10T03:44:00.000Z",
+      "excerpt": "▲ 이태한 선관위 특검6·3지방선거 투표용지 부족 사태를 수사하는 이태한 선거관리위원회 특별검사팀이 선관위 직원이 경기도교육감 선거 …"
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838054",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "\"한국 남자랑 결혼할래요\"…일본서 난리인 이유",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838054",
+      "publishedAt": "2026-11-10T03:44:00.000Z",
+      "excerpt": "끝으로 일본에서 한국 남성과 결혼하고 싶어 하는 일본 여성들이 늘었잖아요.한일 커플만 전문으로 연결해 주는 결혼 상담소까지 등장했다고요.호사카 …"
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/china-oil-imports-rebound-as-more-crude-flows-from-persian-gulf",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "China Oil Imports Rebound as More Crude Flows From Persian Gulf",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/china-oil-imports-rebound-as-more-crude-flows-from-persian-gulf",
+      "publishedAt": "2026-11-10T03:42:53.000Z",
+      "excerpt": "Chinese crude oil imports rose to a seven-month high in October on a recovery in shipments from the Persian Gulf."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/rising-fuel-flows-through-hormuz-may-help-ease-strained-market",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Rising Fuel Flows Through Hormuz May Help Ease Strained Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/rising-fuel-flows-through-hormuz-may-help-ease-strained-market",
+      "publishedAt": "2026-11-10T03:39:50.000Z",
+      "excerpt": "The volume of refined products being loaded within the Persian Gulf is rising, with most of that exiting the Strait of Hormuz and providing some relief to one of the tightest corners of the global oil market nine months into the Iran war."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/japan-30-year-bond-sale-sees-weaker-demand-than-12-month-average-mwa53xcl",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Japan 30-Year Bond Sale Sees Weaker Demand After JGB Swings",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/japan-30-year-bond-sale-sees-weaker-demand-than-12-month-average-mwa53xcl",
+      "publishedAt": "2026-11-10T03:38:06.000Z",
+      "excerpt": "Japan’s 30-year government bond auction drew soft demand as sharp moves in the yield curve following a selloff in AI-related stocks damped investor risk appetite."
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261110021800530",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "하수·폐수에서 에너지 뽑아쓴다…'재생에너지원' 포함",
+      "url": "https://www.yna.co.kr/view/AKR20261110021800530",
+      "publishedAt": "2026-11-10T03:36:51.000Z",
+      "excerpt": "(서울=연합뉴스) 이재영 기자 = 앞으로 하수와 폐수도 등 버려지는 물의 열도 재생에너지로 인정돼 냉난방에 활용할 수 있게 된다."
     },
     {
       "id": "khan:https://www.khan.co.kr/article/202611101234001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
@@ -327,7 +639,7 @@
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "“젠슨 황, 불륜 의혹 이미 1년 전 ‘스캔들’ 관리 홍보 업체와 계약”",
+      "title": "불륜 터질때 대비? 젠슨 황, 1년전 ‘성추문 해결사’ 고용",
       "url": "https://www.donga.com/news/Inter/article/all/20261110/134998224/1",
       "publishedAt": "2026-11-10T03:33:00.000Z",
       "excerpt": "젠슨 황 엔비디아 최고경영자(CEO)가 중국 스파이로 의심되는 여성과의 추문이 공개되기 1년 전 ‘스캔들’을 전문적으로 관리하는 홍보 회사와 업무를 시작했다는 보도가 나왔다. 이 업체는 적어도 2025년 10월부터 황 CEO의 비공개 소통을 담당했다고 전해진다. 9일(현지시간) 미국 매체 와이어드에 따르면 황 CEO의 비공개 소통을 담당했던 홍보 회사 창립자인 리사 헬러(Risa Heller)가 성추행 혐의와 기타 개인적 논란…"
@@ -343,18 +655,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261110090800009",
       "publishedAt": "2026-11-10T03:31:45.000Z",
       "excerpt": "(타이베이=연합뉴스) 김철문 통신원 = 발트 3국 중 하나인 리투아니아 당국이 자국 주재 대만 대표처의 명칭 변경을 요청했던 것으로 알려졌다."
-    },
-    {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838951",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "국무회의서 '청해부대 작전구역 확대' 의결…국회 제출 수순",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838951",
-      "publishedAt": "2026-11-10T03:30:00.000Z",
-      "excerpt": "▲ 지난 5월 청해부대 48진 왕건함의 부산작전기지 출항 모습. 왕건함은 지난달 2일 출항한 청해부대 49진 충무공이순신함과 임무를 …"
     },
     {
       "id": "donga:https://www.donga.com/news/Economy/article/all/20261110/134998085/1",
@@ -429,16 +729,16 @@
       "excerpt": "(서울=연합뉴스) 임형섭 기자 = 이재명 대통령이 10일 청와대에서 주재한 국무회의에서는 청해부대의 임무 구역 확대 및 추가 자산 파견 등을 내..."
     },
     {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838860",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
+      "id": "geeknews:https://news.hada.io/topic?id=36930&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
       "lang": "ko",
       "kind": "article",
-      "title": "위장 퇴사에 위장 미혼…부정청약 '354건' 적발",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838860",
-      "publishedAt": "2026-11-10T03:15:00.000Z",
-      "excerpt": "정부가 최근 아파트 청약에 당첨된 사람들을 대상으로 조사를 벌인 결과, 부정청약 의심 사례 354건이 적발됐습니다. 청약 당첨을 위해서 고소득 …"
+      "title": "Ask GN: AI 코딩 에이전트에게 셸 명령 권한을 어디까지 주시나요?",
+      "url": "https://news.hada.io/topic?id=36930&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-10T03:15:29.000Z",
+      "excerpt": "Claude Code·Codex·Cursor 같은 에이전트에게 셸 명령을 맡길 때 다들 어떻게 쓰시는지 궁금합니다. 공개된 사고 보고서를 모아 보면 홈 폴더나 저장소, 데이터베이스가 날아간 경우가 꽤 있습니다. 그런데 명령 자체가 위험해 보이지 않는 경우가 많았습니다. rm은 스크립트나 테스트 파일 안에 있고, 에이전트는 그 스크립트를 실행했을 뿐이었습니다. prisma migrate reset이나 git stash drop처…"
     },
     {
       "id": "khan:https://www.khan.co.kr/article/202611101211001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
@@ -471,7 +771,7 @@
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "‘젠슨 황 불륜녀’ 관련 메가스피드, AI칩 中공급 우회로 의혹",
+      "title": "젠슨 황 불륜女, 中투자자에 “엔비디아 GPU 확보 문제 없다” 과시",
       "url": "https://www.donga.com/news/Inter/article/all/20261110/134998058/1",
       "publishedAt": "2026-11-10T03:08:00.000Z",
       "excerpt": "젠슨 황의 불륜 상대이자 중국 정보기관의 스파이란 의혹을 받고 있는 앨리스 황이 몸담았던 싱가포르 데이터업체 메가스피드가 엔비디아의 인공지능(AI) 반도체를 중국에 공급하는 통로로 이용됐다는 의혹이 커지고 있다. 앨리스 황은 메가스피드를 통해 엔비디아에 접근했고, 이후에는 엔비디아와의 관계를 앞세워 중국 투자자들을 유치한 것으로 알려졌다.9일(현지시간) 파이낸셜타임스(FT)와 블룸버그통신 등에 따르면 메가스피드는 중국 게임업체…"
@@ -630,19 +930,7 @@
       "title": "Singapore Launches Gold Vaulting Service for Central Banks",
       "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-launches-gold-vaulting-service-for-central-banks",
       "publishedAt": "2026-11-10T03:00:10.000Z",
-      "excerpt": "Singapore has launched a gold vaulting service for overseas central banks and official institutions, seeking to capitalize on global demand to diversify storage of bullion reserves."
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261110066100001",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "국민에 감사 아이디어 받아보니…'미래사회 준비' 최다",
-      "url": "https://www.yna.co.kr/view/AKR20261110066100001",
-      "publishedAt": "2026-11-10T03:00:09.000Z",
-      "excerpt": "(서울=연합뉴스) 이상현 기자 = 감사원은 내년도 감사계획 수립에 국민 시각을 반영하고자 지난 한달 간 '국민제안 감사 아이디어'를 공모한 결과..."
+      "excerpt": "Singapore has launched a gold vaulting service for foreign central banks and official institutions, seeking to tap growing demand to diversify where bullion reserves are stored."
     },
     {
       "id": "yna-econ:https://www.yna.co.kr/view/AKR20261110061100002",
@@ -711,22 +999,10 @@
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "지난달 고속도로 사망자 80% 급증…경찰 한달간 ‘사고 유발 요인’ 집중 단속",
+      "title": "‘크루즈 컨트롤’ 켜고 달리다 쾅? 지난달 고속도로 사망자 80% 급증…경찰 한달간 ‘사고 유발 요인’ 집중 단속",
       "url": "https://www.khan.co.kr/article/202611101200001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
       "publishedAt": "2026-11-10T03:00:00.000Z",
       "excerpt": "서울 서대문구 경찰청. 김창길 기자지난달 전국 고속도로에서 발생한 교통사고 사망자가 전년 대비 80% 넘게 증가한 것으로 집계됐다. 경찰은 한달간 고속도로순찰대를 중심으로 화물차 과속과 안전띠 미착용 등을 집중 단속한다.경찰청은 10일 “연말 고속도로 교통사고 예방과 사망자 감소를 위해 오는 11일부터 다음달 10일까지 한달 간 ‘고속도로 사고 유발 요인 ···"
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261110076852004",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "선관위 특검 \"선관위, 경기도교육감 개표상황표 은닉·위조\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261110076852004",
-      "publishedAt": "2026-11-10T03:00:00.000Z",
-      "excerpt": "(서울=연합뉴스) 황재하 최윤선 기자 = 6·3지방선거 투표용지 부족 사태를 수사하는 이태한 선거관리위원회 특별검사팀이 선관위 직원이 경기도교육..."
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261110089600704",
@@ -741,18 +1017,6 @@
       "excerpt": "(서울=연합뉴스) 은행 비리 연루로 파면된 산티아고 페냐 전 파라과이 대통령의 여름 별장."
     },
     {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261110/134998051/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "와이앤아처, 방콕서 ‘A-STREAM’ 개최…애그테크 스타트업 6곳 동남아 공략",
-      "url": "https://www.donga.com/news/Economy/article/all/20261110/134998051/1",
-      "publishedAt": "2026-11-10T02:59:00.000Z",
-      "excerpt": "국내 농식품·애그테크 스타트업 6곳이 태국 방콕에서 현지 투자자와 바이어를 만나 동남아시아 진출 가능성을 타진했다.스타트업 액셀러레이터 와이앤아처는 지난 4~7일 방콕에서 ‘2026 A-STREAM in Bangkok’을 열었다고 10일 밝혔다. A-STREAM은 국내 스타트업의 해외 진출과 투자 유치를 지원하는 네트워킹 프로그램으로, 올해로 10년째다.참가 기업은 한국농업기술진흥원의 액셀러레이터 육성지원사업에 참여 중인 곳들…"
-    },
-    {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261110084400009",
       "sourceId": "yna-intl",
       "sourceName": "연합뉴스 국제",
@@ -765,9 +1029,9 @@
       "excerpt": "(서울=연합뉴스) 류미나 기자 = 중동 중재국으로 나선 카타르 총리가 도널드 트럼프 미국 대통령을 만나 이란전 종전 합의를 위한 긍정적 논의를 ..."
     },
     {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261110088800704",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261110088800704",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
@@ -775,18 +1039,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261110088800704",
       "publishedAt": "2026-11-10T02:58:13.000Z",
       "excerpt": "(서울=연합뉴스) 폴란드가 주문한 한국산 K2 전차와 K9 자주포 올해 마지막 인도 물량 수십 대가 현지에 도착했습니다."
-    },
-    {
-      "id": "donga:https://www.donga.com/news/It/article/all/20261110/134998131/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "콜린알포세레이트 임상재평가 제도 개선 논의…“질환 특성·축적된 근거 함께 살펴야”",
-      "url": "https://www.donga.com/news/It/article/all/20261110/134998131/1",
-      "publishedAt": "2026-11-10T02:58:11.000Z",
-      "excerpt": "의약품 임상재평가 제도 개선 논의가 평가 기간 단축을 넘어 질환별 특성과 축적된 임상 근거를 어떻게 반영할 것인지로 확대되고 있다. 올해 국정감사에서는 재평가 장기화와 기한 연장 제도에 대한 개선 요구가 제기됐지만, 경도인지장애처럼 장기간 관찰이 필요한 질환은 임상시험의 특수성과 유효성 검증에 필요한 기간을 함께 고려해야 한다는 의견도 나온다.10일 업계에 따르면 올해 국회 보건복지위원회 국정감사에서는 콜린알포세레이트 등을 대…"
     },
     {
       "id": "khan:https://www.khan.co.kr/article/202611101158011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
@@ -825,30 +1077,6 @@
       "excerpt": "(서울=연합뉴스) 김정은 기자 = 러시아의 한 비밀 네트워크가 소셜미디어를 통해 지난달 프랑스에서 발생한 폭동을 정치적으로 이용하려 했다는 유럽..."
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
-      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-      "publishedAt": "2026-11-10T02:55:48.000Z",
-      "excerpt": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September."
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261110/134998128/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "해발 2123ｍ 스키장에 KFC 입점…“경관 훼손” 반발도",
-      "url": "https://www.donga.com/news/Inter/article/all/20261110/134998128/2",
-      "publishedAt": "2026-11-10T02:55:00.000Z",
-      "excerpt": "이탈리아의 유명 스키장 두 곳에 미국 패스트푸드 체인 KFC가 들어선다는 소식에 현지에서 반발이 일고 있다. 9일(현지시간) 영국 가디언에 따르면 KFC는 오는 12월 5일 이탈리아 북부 돌로미티산맥의 유명 휴양지인 코르티나담페초와 마돈나 디 캄필리오에 매장을 연다. 이탈리아 스키 슬로프에 패스트푸드 매장이 들어서는 것은 이번이 처음이다. 코르티나담페초 매장은 해발 2123ｍ에 있는 팔로리아 산악 클럽 내부에 들어선다. 이곳에…"
-    },
-    {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261110064100009",
       "sourceId": "yna-intl",
       "sourceName": "연합뉴스 국제",
@@ -885,30 +1113,6 @@
       "excerpt": "(서울=연합뉴스) 강류나 기자 = 온라인투자연계금융업체(온투업체) 6개사의 개인신용대출 가운데 민간 중금리대출이 차지하는 비중이 95%에 육박하..."
     },
     {
-      "id": "khan:https://www.khan.co.kr/article/202611101152001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“태국서 큰돈 벌게 해줄게” 속여 조직원 모집…태국 150억대 보이스피싱 조직 구속 기소",
-      "url": "https://www.khan.co.kr/article/202611101152001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-10T02:52:00.000Z",
-      "excerpt": "서울남부지방공소청. 박민규 기자태국을 거점으로 한국 내 피해자 700여명에게서 150억여원을 가로챈 보이스피싱 범죄단체 조직원들이 재판에 넘겨졌다.서울남부공소청 형사3부(부장검사 김창희)는 보이스피싱 범죄단체 ‘룽거 컴퍼니’ 소속 한국인 조직원 27명을 범죄단체가입·활동, 통신사기피해환급법 위반 등 혐의로 구속 기소했다고 10일 밝혔다. ‘룽거’는 중국인 ···"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261110088200091",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "바이낸스 해킹한 北해커, 1회용 밈코인 만들어 돈세탁",
-      "url": "https://www.yna.co.kr/view/AKR20261110088200091",
-      "publishedAt": "2026-11-10T02:50:29.000Z",
-      "excerpt": "(샌프란시스코=연합뉴스) 권영전 특파원 = 세계 최대 가상화폐 거래소 바이낸스를 해킹해 가상자산을 탈취한 북한 해커들이 일회용 밈코인을 만들어 ..."
-    },
-    {
       "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-10/hegseth-hits-out-at-critics-as-massie-pushes-impeachment-video",
       "sourceId": "bbg-markets",
       "sourceName": "Bloomberg Markets",
@@ -921,18 +1125,6 @@
       "excerpt": "President Donald Trump and Secretary of State Marco Rubio defended Defense Secretary Pete Hegseth after Republican representative Thomas Massie introduced articles of impeachment over military operations in Iran. Hegseth has rejected calls …"
     },
     {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261110/134997505/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "병원 퇴사뒤 일용직 꼼수…의사부부, 신혼부부 특공 당첨됐다",
-      "url": "https://www.donga.com/news/Economy/article/all/20261110/134997505/1",
-      "publishedAt": "2026-11-10T02:49:00.000Z",
-      "excerpt": "한 의사 부부는 서울에서 분양하는 주택의 입주자모집공고일 직전 근무하던 병원에서 허위로 퇴사했다. 공고일 직후 다시 입사한 이들은 신혼부부 특별공급 소득우선 물량에 당첨됐다. 소득이 높았던 이들은 청약자의 소득을 공고일 기준으로 판단한다는 점을 악용한 것이다. 이들은 공고일 당시 다른 병원에서 일용직으로 근무하고 있었다.경기 분당구의 연립주택에서 함께 살던 아버지와 두 아들은 각각 집을 1채씩 소유하고 있었다. 두 아들은 서울…"
-    },
-    {
       "id": "yna-econ:https://www.yna.co.kr/view/AKR20261110088900003",
       "sourceId": "yna-econ",
       "sourceName": "연합뉴스 경제",
@@ -943,54 +1135,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261110088900003",
       "publishedAt": "2026-11-10T02:47:50.000Z",
       "excerpt": "(세종=연합뉴스) 오진송 기자 = 지난 9월 국내 건설수주가 반도체 생산시설 등 대형 민간 사업에 힘입어 작년 동월 대비 49% 증가한 것으로 ..."
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261110/134998110/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "中 선전에 미군 수송기 속속 착륙…“트럼프 APEC 참석 준비”",
-      "url": "https://www.donga.com/news/Inter/article/all/20261110/134998110/1",
-      "publishedAt": "2026-11-10T02:46:16.000Z",
-      "excerpt": "오는 18~19일 열리는 아시아태평양경제협력체(APEC) 정상회의를 앞두고 중국 선전에서 미 공군의 대형 수송기(C-17) 여러 대가 포착됐다고 홍콩 사우스차이나모닝포스트(SCMP)가 9일 보도했다.SCMP는 지난 주말 미 공군 대형 수송기들이 선전에 착륙하는 모습이 포착됐다고 전했다. 이는 도널드 트럼프 미국 대통령의 APEC 정상회의 참석을 사전 준비하기 위한 움직임으로 보인다고 분석했다.매체에 따르면 지금까지 선전에 도착…"
-    },
-    {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838726",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "선관위 특검 \"선관위, 경기도교육감 개표상황표 은닉·위조\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838726",
-      "publishedAt": "2026-11-10T02:46:00.000Z",
-      "excerpt": "▲ 이태한 선관위 특검6·3지방선거 투표용지 부족 사태를 수사하는 이태한 선거관리위원회 특별검사팀이 선관위 직원이 경기도교육감 선거 …"
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611101144001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[단독]이용철 법무장관 내정자, 과거 문서 처리 미흡 직원 ‘40% 감봉’···벌금형 선고유예 받았었다",
-      "url": "https://www.khan.co.kr/article/202611101144001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-10T02:44:00.000Z",
-      "excerpt": "성남산업진흥재단 대표 재직 시절 특정 직원에 과도한 감봉조치법원 “정기지급 기준 등 위반”근로기준법 위반 벌금형 선고유예신임 법무부 장관 후보자로 지명된 이용철 방위사업청장이 9일 경기 과천시 정부과천청사 방위사업청으로 출근하며 취재진의 질문에 답하고 있다. 2026.11.9 권도현 기자이용철 법무부 장관 내정자가 2015년 성남산업진흥재단 대표 재직 당시···"
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611101143001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "서대문구, 주민센터·복지관·병원 연결···1001명 통합돌봄 제공했다[서울25]",
-      "url": "https://www.khan.co.kr/article/202611101143001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-10T02:43:00.000Z",
-      "excerpt": "3월 통합돌봄 사업 시작···총 1001명에 돌봄서비스 제공의료·건강관리·일상돌봄·주거지원까지 한 번에서대문구 동주민센터 돌봄매니저가 퇴원 환자 가정을 방문해 건강 상태와 일상생활의 어려움을 확인하고 있다. 서대문구 제공.서울 서대문구가 의료·요양·생활 지원을 하나의 돌봄 체계로 연결한 ‘통합돌봄’ 사업을 통해 6개월간 1000명이 넘는 주민들에게 돌봄서비···"
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-10/chinese-trade-surplus-surpasses-1-trillion-for-second-time-ever",
@@ -1089,18 +1233,6 @@
       "excerpt": "A leveraged product tracking Kioxia Holdings Corp. debuts in Hong Kong on Tuesday, the first such single-stock instrument in the city since a similar SK Hynix Inc. product helped trigger extreme volatility in the underlying stock and drew m…"
     },
     {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838518",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"두 사람, 불편할 정도로\" 우려…'젠슨 황 연인' 행방묘연",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838518",
-      "publishedAt": "2026-11-10T01:59:00.000Z",
-      "excerpt": "▲ 2025년 한 식당에서 포착된 젠슨 황 엔비디아 CEO와 앨리스 황엔비디아를 이끄는 젠슨 황 최고경영자가 중국 스파이 의혹을 받는…"
-    },
-    {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838053",
       "sourceId": "sbs-head",
       "sourceName": "SBS 주요뉴스",
@@ -1113,18 +1245,6 @@
       "excerpt": "최근 온라인상에 80년대, 90년대생들이 우리 세대에 정말 힘들었다고 소개한 게시물이 화제인데요.선배 세대들이 그건 약과라고 했다면서요.최근 온…"
     },
     {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838044",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"어둠의 오은영\" 섬뜩한 얼굴…결국 논란 터지자",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838044",
-      "publishedAt": "2026-11-10T01:59:00.000Z",
-      "excerpt": "모닝 핫토픽 첫 번째 소식, '귀신 훈육은 아동학대냐'.한국민속촌의 귀신 훈육이라는 프로그램이 있습니다.일명 어둠의 오은영이라고 …"
-    },
-    {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838052",
       "sourceId": "sbs-head",
       "sourceName": "SBS 주요뉴스",
@@ -1135,30 +1255,6 @@
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838052",
       "publishedAt": "2026-11-10T01:59:00.000Z",
       "excerpt": "먼저 부산 불꽃축제에서 해변에 돗자리 하나 깔아놓고 10만 원에 팔려다 적발된 중학생이 있다고요.부산경찰청이 부산 불꽃축제 현장에서 암표 거래와…"
-    },
-    {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838054",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"한국 남자랑 결혼할래요\"…일본서 난리인 이유",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838054",
-      "publishedAt": "2026-11-10T01:58:00.000Z",
-      "excerpt": "끝으로 일본에서 한국 남성과 결혼하고 싶어 하는 일본 여성들이 늘었잖아요.한일 커플만 전문으로 연결해 주는 결혼 상담소까지 등장했다고요.호사카 …"
-    },
-    {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838045",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"내쫓는 거냐\" 노숙인들 반발…달라지는 서울역?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838045",
-      "publishedAt": "2026-11-10T01:58:00.000Z",
-      "excerpt": "서울역 광장 일대가 금주 구역으로 지정됐습니다.대낮 음주 또 고성방가로 불안과 민원이 끊이질 않아서인데요.그럼 첫날은 서울역 풍경은 어땠을까요.…"
     },
     {
       "id": "mk:https://www.mk.co.kr/news/economy/12203675",
@@ -1233,18 +1329,6 @@
       "excerpt": "China Water Environment Group, one of the nation’s largest sewage treatment firms, is seeking to restructure about $410 million of offshore loans, according to people familiar with the matter, adding to a growing number of Chinese state-bac…"
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
-      "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
-      "publishedAt": "2026-11-10T01:50:57.000Z",
-      "excerpt": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off."
-    },
-    {
       "id": "geeknews:https://news.hada.io/topic?id=36923&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "sourceId": "geeknews",
       "sourceName": "GeekNews",
@@ -1267,6 +1351,18 @@
       "url": "https://uppity.co.kr/%eb%af%b8%ea%b5%ad-%ec%a6%9d%ec%8b%9c-%ea%b8%89%eb%9d%bd-%ed%97%a4%ec%a7%80%ed%8e%80%eb%93%9c-%eb%a7%a4%eb%ac%bc%ec%9d%b4-%eb%82%99%ed%8f%ad-%ed%82%a4%ec%9b%a0%ec%96%b4%ec%9a%94/",
       "publishedAt": "2026-11-10T01:48:04.000Z",
       "excerpt": "지난 5일(현지 시각) 미국 증시는 나스닥지수가 하루 만에 5.5% 떨어질 만큼 낙폭이 컸어요. 중간선거에서 민주당이 상·하원을 모두 가져가면서 AI 데이터센터 규제가 강해질 거란 우려가 퍼진 탓이에요. 바로 다음 날인 6일 나스닥지수는 소폭 반등했지만 전날 하락분의 약 5분의 1을 되찾는 수준에 그쳤어요. 그런데 이번 하락은 반도체 업황 침체 우려만으로는 설명이 잘 안 되는 대목이 있어요. 5일 급락 시 증시에서는 S&P50…"
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838680",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "손님이 시비 말렸다고…살인미수 '전과 23범' 재판 결과",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838680",
+      "publishedAt": "2026-11-10T01:46:00.000Z",
+      "excerpt": "주점에서 술값 시비를 말리던 손님을 깨진 맥주병으로 찔러 살해하려 한 60대 남성이 중형을 선고받았습니다.부산지법 형사6부 임성철 부장판사는 살…"
     },
     {
       "id": "cnbc-top:https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
@@ -1341,18 +1437,6 @@
       "excerpt": "Singapore’s benchmark interest rate climbed to the highest level in more than a year on tighter local liquidity and expectations for further US interest-rate hikes."
     },
     {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/berkshire-tests-wider-yen-spreads-in-latest-japan-bond-deal",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Berkshire Tests Wider Yen Spreads in Latest Japan Bond Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/berkshire-tests-wider-yen-spreads-in-latest-japan-bond-deal",
-      "publishedAt": "2026-11-10T01:16:38.000Z",
-      "excerpt": "Berkshire Hathaway Inc. is marketing its latest yen bond deal at wider levels than it offered in April, highlighting how investors are demanding more compensation to buy debt."
-    },
-    {
       "id": "mk:https://www.mk.co.kr/news/economy/12203616",
       "sourceId": "mk",
       "sourceName": "매일경제 경제",
@@ -1399,18 +1483,6 @@
       "url": "https://news.hada.io/topic?id=36922&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "publishedAt": "2026-11-10T01:04:26.000Z",
       "excerpt": "OT의 네트워크 연결 은 운영 효율을 높이고 원격 제어를 도입하며 유지보수 비용을 줄이는 결정이 누적된 결과로, 이제 전력과 수도, 식품 보관에 깊이 얽혀 있어 단순히 끊기 어려움 IT/OT 융합과 공급업체의 구축 방식 표준화 로 산업 시스템의 비용은 줄었지만, 공격자가 익숙한 기술과 반복 가능한 구조가 확산돼 공격의 규모 확대와 자동화도 쉬워짐 원격 지원 은 산업 운영과 공급업체 계약의 일부가 됐으며, 공식 DMZ 외에도 현…"
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/indonesia-markets-second-panda-bond-offering-despite-msci-threat",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Indonesia Markets Second Panda Bond Offering Despite MSCI Threat",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/indonesia-markets-second-panda-bond-offering-despite-msci-threat",
-      "publishedAt": "2026-11-10T01:02:37.000Z",
-      "excerpt": "Indonesia has begun marketing its second yuan-denominated bond in China’s domestic debt market, even as Southeast Asia’s largest economy grapples with the threat of a double downgrade from MSCI Inc."
     },
     {
       "id": "semafor:https://www.semafor.com/article/11/09/2026/new-white-house-chief-of-staff-miller-shuts-door-on-big-business",
@@ -1497,18 +1569,6 @@
       "excerpt": "Party senators skeptical of John Thune’s leadership don’t appear to have the votes to delay his reelection — but fractures are emerging."
     },
     {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/inflation-data-to-test-limits-of-treasury-rally-after-haven-bid",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Inflation Data to Test Limits of Treasury Rally After Haven Bid",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/inflation-data-to-test-limits-of-treasury-rally-after-haven-bid",
-      "publishedAt": "2026-11-10T00:46:46.000Z",
-      "excerpt": "Bond traders are waiting for a key inflation report on Tuesday for clues on the direction of the Federal Reserve’s policy path and whether the recent Treasury rally has more room to run."
-    },
-    {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/09/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
       "sourceId": "cnbc-invest",
       "sourceName": "CNBC Investing",
@@ -1557,18 +1617,6 @@
       "excerpt": "Google이 8세대 TPU에 TPU 8tx 와 TPU 8i Max 를 추가해, 대규모 학습부터 저지연 추론, 기밀 컴퓨팅, 대규모 컨텍스트까지 담당하는 네 가지 시스템을 구성함 기존 TPU 칩을 바탕으로 패키징, 메모리, 네트워크, 보안 구성을 바꿔 용도별 시스템을 만듦. Google은 이 방식으로 특화 시스템을 수년 대신 수개월 안에 내놓을 수 있다고 봄 TPU 8tx 는 사용 중인 민감 데이터와 모델 가중치까지 하드웨어 …"
     },
     {
-      "id": "geeknews:https://news.hada.io/topic?id=36917&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "raea - AI가 코드로 만든 영상/3D/게임을 GPU에서 렌더링하는 엔진",
-      "url": "https://news.hada.io/topic?id=36917&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-10T00:30:02.000Z",
-      "excerpt": "만들고 싶은 것을 말하면 AI 에이전트가 React/TypeScript 코드로 작성 하고 GPU로 렌더링 영상 및 모션 그래픽 은 텍스트, SVG, 애니메이션을 합성해 MP4로 작성 3D/게임 은 Bevy로 렌더링하며, 입력/물리/사운드를 넣어 실시간으로 실행하거나 독립 실행 프로그램으로 제작 에이전트가 특정 프레임을 이미지로 뽑아 확인하고 코드를 고치는 작업 까지 할 수 있음 잘린 텍스트, 낮은 대비, 화면 멈춤, 음량 문제…"
-    },
-    {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-10/boj-summary-suggests-good-chance-of-near-term-interest-rate-hike",
       "sourceId": "bbg-econ",
       "sourceName": "Bloomberg Economics",
@@ -1579,30 +1627,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-10/boj-summary-suggests-good-chance-of-near-term-interest-rate-hike",
       "publishedAt": "2026-11-10T00:29:44.000Z",
       "excerpt": "The Bank of Japan’s brief record of the latest policy meeting indicated many board members see a near-term interest rate hike as necessary, signaling there’s a good chance for a December move."
-    },
-    {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008838051",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"다 나을 때까지 병원 다녀야지\" 이제 불가능?…'8주룰' 등장",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838051",
-      "publishedAt": "2026-11-10T00:12:00.000Z",
-      "excerpt": "화요일 친절한 경제 한지연 기자 나와 있습니다. 한 기자, 최근에 교통사고 보험금을 과잉 청구하는 것을 막으려고 새로운 제도가 하나 도입이 됐죠."
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/south-korean-stocks-jump-as-chipmakers-roar-back-on-dip-buying",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "South Korean Stocks Jump as Chipmakers Roar Back on Dip Buying",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/south-korean-stocks-jump-as-chipmakers-roar-back-on-dip-buying",
-      "publishedAt": "2026-11-10T00:09:22.000Z",
-      "excerpt": "South Korean stocks climbed, lifted by heavyweight chipmakers as investors waded back into the artificial intelligence trade following the recent selloff."
     },
     {
       "id": "cnbc-top:https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
@@ -1713,7 +1737,7 @@
       "title": "Fable 5.2 one-shotted my nephew's dream game",
       "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
       "publishedAt": "2026-11-09T23:08:13.000Z",
-      "excerpt": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 229 # Comments: 153"
+      "excerpt": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 248 # Comments: 166"
     },
     {
       "id": "cnbc-top:https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
@@ -1821,7 +1845,7 @@
       "title": "TPU 8tx and TPU 8i Max",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
       "publishedAt": "2026-11-09T21:56:57.000Z",
-      "excerpt": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 225 # Comments: 67"
+      "excerpt": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 228 # Comments: 70"
     },
     {
       "id": "axios:https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed",
@@ -2016,7 +2040,7 @@
       "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
       "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
       "publishedAt": "2026-11-09T20:04:55.000Z",
-      "excerpt": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 302 # Comments: 226"
+      "excerpt": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 310 # Comments: 230"
     },
     {
       "id": "hn:https://postalpro.usps.com/zcb",
@@ -2028,7 +2052,7 @@
       "title": "USPS now offers official ZIP Code boundary polygons",
       "url": "https://postalpro.usps.com/zcb",
       "publishedAt": "2026-11-09T19:58:59.000Z",
-      "excerpt": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 516 # Comments: 267"
+      "excerpt": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 539 # Comments: 274"
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
@@ -2076,7 +2100,7 @@
       "title": "E-means: Outperforming k-means in one-tenth the epochs",
       "url": "https://e-means.github.io/",
       "publishedAt": "2026-11-09T18:45:43.000Z",
-      "excerpt": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 296 # Comments: 23"
+      "excerpt": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 309 # Comments: 28"
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-09/bank-of-england-bailey-backs-trade-opportunities-as-burnham-pursues-new-eu-deal",
@@ -2112,7 +2136,7 @@
       "title": "Google Gemini routes personal Drive files and emails to human annotators",
       "url": "https://github.com/thisisme6598/gemini_files/",
       "publishedAt": "2026-11-09T18:24:38.000Z",
-      "excerpt": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 462 # Comments: 111"
+      "excerpt": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 476 # Comments: 113"
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-09/meloni-backs-gas-price-cap-to-curb-bills-ahead-of-italy-election",
@@ -2136,7 +2160,7 @@
       "title": "Claude Fable 5.2 and Mythos 5.2",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "publishedAt": "2026-11-09T18:01:10.000Z",
-      "excerpt": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 255 # Comments: 629"
+      "excerpt": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 312 # Comments: 666"
     },
     {
       "id": "hn:https://research.meta.ai/blog/muse-ember",
@@ -2148,7 +2172,7 @@
       "title": "Muse Ember: Our smallest, most efficient model",
       "url": "https://research.meta.ai/blog/muse-ember",
       "publishedAt": "2026-11-09T17:58:46.000Z",
-      "excerpt": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 261 # Comments: 110"
+      "excerpt": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 265 # Comments: 111"
     },
     {
       "id": "hn:https://www.watched.earth",
@@ -2221,7 +2245,7 @@
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "publishedAt": "2026-11-09T16:00:45.000Z",
-      "excerpt": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 483 # Comments: 266"
+      "excerpt": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 488 # Comments: 271"
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/09/key-ai-chip-index-just-broke-its-long-term-trendline-what-history-says-happen-next.html",
@@ -3505,7 +3529,7 @@
       {
         "id": "sbs-head",
         "count": 10,
-        "parsed": 17
+        "parsed": 16
       },
       {
         "id": "khan",
