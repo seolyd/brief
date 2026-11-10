@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T17:00:17.105Z",
+  "generatedAt": "2026-11-10T18:19:06.549Z",
   "domains": [
     {
       "id": "global",
@@ -57,6 +57,18 @@
   ],
   "items": [
     {
+      "id": "kmib:https://www.kmib.co.kr/article/20261110502292",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "국정 그립 세게 잡는 李⋯ 핵심 요직 이례적 빠른 교체",
+      "url": "https://www.kmib.co.kr/article/20261110502292",
+      "publishedAt": "2026-11-11T14:58:51.000Z",
+      "excerpt": "이재명 대통령이 청와대 요직인 대통령비서실장과 국정상황실장을 이전 정부에 비해 이례적으로 빠르게 교체하고 있다. 정부 안팎의 모든 정보가 거치고 대통령에 직보할 수 있는 직무 특성상 과거 정부에선 대통령 측근을 기용하고 상대적으로 긴 임기를 보장했었다. 국정 ‘그립’을 세게 잡는 이 대통령의 리더십에 따라 해당 보직이 과거와 달리 실무 수행 역할로 좁혀진 것 아니냐는 분석이 나온다. 국정상황실장은 정부 부처와 국가정보원, 경찰…"
+    },
+    {
       "id": "kmib:https://www.kmib.co.kr/article/20261110502281",
       "sourceId": "kmib",
       "sourceName": "국민일보",
@@ -67,6 +79,18 @@
       "url": "https://www.kmib.co.kr/article/20261110502281",
       "publishedAt": "2026-11-11T14:37:40.000Z",
       "excerpt": "연합뉴스TV 제공 금융권 보안을 전담하는 금융보안원이 해킹 공격을 받았다. 금융사가 제출한 서류 일부가 유출된 것으로 파악됐다. 연쇄 해킹 사태 수습을 맡아온 기관의 보안망마저 뚫리면서 시스템 전반에 대한 신뢰가 흔들리고 있다. 금융보안원은 주민등록번호나 신용정보 같은 중요한 정보는 유출되지 않았다는 입장이다. 금융보안원은 지난 9일 정보보호 상시평가 지원 시스템이 해킹 공격을 받은 사실을 파악하고 금융위원회 등에 관련 내용을…"
+    },
+    {
+      "id": "kmib:https://www.kmib.co.kr/article/20261110502279",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "이틈에⋯ 구글, 차세대 칩 내놓고 엔비디아 독주 도전장",
+      "url": "https://www.kmib.co.kr/article/20261110502279",
+      "publishedAt": "2026-11-11T14:37:36.000Z",
+      "excerpt": "구글 클라우드는 9일(현지시간) 8세대 텐서처리장치(TPU) 시스템 ‘8tx’와 ‘8i 맥스’를 공개했다. 지난 4월 출시했던 학습용 TPU ‘8t’와 추론용 ‘8i’에 이어 올해에만 4종의 TPU 시스템을 내놓으며 엔비디아가 장악한 인공지능(AI) 반도체 시장 추격에 속도를 높이고 있다. 구글 클라우드 제공 인공지능(AI) 반도체 시장을 장악해 온 엔비디아가 젠슨 황 최고경영자(CEO)의 스캔들로 창사 이래 최대 리더십 위기…"
     },
     {
       "id": "kmib:https://www.kmib.co.kr/article/20261110502219",
@@ -93,6 +117,42 @@
       "excerpt": "뉴시스 제주 동문재래시장이 중소벤처기업부의 ‘2026년 전통시장 백년시장 육성사업’에 선정되면서 제주를 대표하는 역사·문화 관광시장으로 도약할 전망이다. 제주시는 동문재래시장이 백년시장 육성사업 대상지로 선정돼 올해부터 2년간 국비와 지방비 27억원을 투입, 브랜드 개발과 디지털 아카이브 구축, 테마거리 조성 등을 추진한다고 10일 밝혔다. 백년시장 육성사업은 오랜 역사와 고유한 문화적 가치를 지닌 전통시장을 지역 대표 명소로…"
     },
     {
+      "id": "kmib:https://www.kmib.co.kr/article/20261110502187",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[이명희의 그래도] 마음에 몰아치는 파도는 믿음으로 이끄는 연단의 손길",
+      "url": "https://www.kmib.co.kr/article/20261110502187",
+      "publishedAt": "2026-11-11T11:35:10.000Z",
+      "excerpt": "게티이미지뱅크 에이브러햄 링컨은 평생 우울증에 시달렸다. 가난한 집에서 태어나 공부를 제대로 하지도 못했고 9살에 어머니가 돌아가셨다. 하나뿐인 남동생도 어릴 때 죽었고 누나도 유산 후 몸 관리를 잘 못해 세상을 떠났다. 결혼을 약속했던 첫 사랑 연인도 열병으로 죽음을 맞았다. 링컨은 슬픔을 못이겨 몇 번이나 자살을 시도했고 친구들이 그를 수시로 감시했다. 친구들은 링컨이 주머니칼도 갖고 다니지 못하게 했다. 스물세 살의 링컨…"
+    },
+    {
+      "id": "kmib:https://www.kmib.co.kr/article/20261110502184",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[겨자씨] 은혜에는 표준어가 없다",
+      "url": "https://www.kmib.co.kr/article/20261110502184",
+      "publishedAt": "2026-11-11T11:32:00.000Z",
+      "excerpt": "“신문 보고 전화했습니다.” 한 남자가 같은 집주인에게 세 번 전화를 겁니다. 통화할 때마다 표준 미국 영어, 흑인 영어, 멕시코계 미국인 영어로 말씨를 바꿉니다. 백인 주민이 많은 지역에서는 흑인, 멕시코계 미국인 영어로 말했을 때 약속잡기가 더 어려웠습니다. 사회언어학자 존 보의 연구는 말소리만으로 인종이나 민족적 배경을 짐작해 차별하는 ‘언어적 프로파일링’을 보여줍니다. 오순절 예루살렘에서는 다른 일이 일어납니다. 여러 …"
+    },
+    {
+      "id": "kmib:https://www.kmib.co.kr/article/20261110502180",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "유언장 쓰고 생전 장례식까지⋯ 소망의 완주 도와",
+      "url": "https://www.kmib.co.kr/article/20261110502180",
+      "publishedAt": "2026-11-11T11:31:55.000Z",
+      "excerpt": "박진옥 나눔과나눔 상임이사가 지난 8일 경기도 고양 동녘교회에서 웰다잉 교육을 진행하고 있다. &nbsp;교회 제공 하늘색 셔츠에 흰 바지를 입고 고향 나무 아래 앉는다. 가족과 오랜 벗 앞에서 책 ‘나무를 심은 사람’을 소개하고 한 시간여 동안 담소를 나눈다. 지난 8일 경기도 고양 동녘교회(김경환 목사)에서 열린 죽음 교육 중 남인자(59) 집사가 밝힌 ‘생전 장례식’ 풍경이다. 남 집사가 말한 고향 나무는 충남 논산 옥녀…"
+    },
+    {
       "id": "kmib:https://www.kmib.co.kr/article/20261110502178",
       "sourceId": "kmib",
       "sourceName": "국민일보",
@@ -117,66 +177,6 @@
       "excerpt": "“알다시피 선택할 수 있는 다른 단백질원이 정말 많다.” 보수의 텃밭인 미국 미시시피주의 공화당 소속 신디 하이드스미스 상원의원은 지난 2월 한 방송에서 소고기 가격이 너무 오르지 않았느냐는 사회자의 질문에 천연덕스럽게 답했다. “빵이 없으면 케이크를 먹으면 되지 않느냐”는 전설적 발언의 2026년 미시시피 버전이다. 민주당의 스콧 콜롬 후보는 이 발언에 “다른 단백질을 고르라고? 차라리 다른 상원의원을 고르겠다”는 유권자들의…"
     },
     {
-      "id": "kmib:https://www.kmib.co.kr/article/20261110502174",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[부고] 박선영씨 별세 外",
-      "url": "https://www.kmib.co.kr/article/20261110502174",
-      "publishedAt": "2026-11-11T11:20:38.000Z",
-      "excerpt": "▲박선영씨 별세, 박현수(경찰청 미래치안정책국장)씨 부친상=10일 충남대병원, 발인 12일 7시30분(042-280-8181) ▲박진성(전 경기도 양평군 청운면장)씨 별세, 박상옥(전 국가인권위원회 근무) 박용준(법무법인 대륙아주 변호사)씨 부친상, 김진수(광주매일신문 서울취재본부장)씨 빙부상=10일 이대목동병원, 발인 12일 오전 6시(02-2650-2760) ▲정경남씨 별세, 유상훈 유대희 유숙 유미씨 모친상, 최치봉(더팩…"
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261110502172",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "백건우 “70년 음악 여정, 나와 한국의 역사⋯ 은퇴 없어”",
-      "url": "https://www.kmib.co.kr/article/20261110502172",
-      "publishedAt": "2026-11-11T11:20:35.000Z",
-      "excerpt": "데뷔 70주년을 맞은 피아니스트 백건우가 10일 서울 여의도 신영체임버홀에서 자서전 출간 관련 기자간담회를 열고 있다. 연합뉴스 “예술에 은퇴란 없습니다. 열정이 있는 한 연주는 계속됩니다.” 피아니스트 백건우(80)가 올해 데뷔 70주년을 맞아 자신의 음악 인생을 집대성한 첫 자서전 ‘백건우 나의 이야기’를 출간한다. 10일 서울 여의도 신영체임버홀에서 열린 기자간담회에서 은퇴 여부를 묻는 질문에 그는 “나이가 들면 그 나이…"
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261110502169",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“트럼프 거짓말 무덤까지 따라갈 것”",
-      "url": "https://www.kmib.co.kr/article/20261110502169",
-      "publishedAt": "2026-11-11T11:20:31.000Z",
-      "excerpt": "조 바이든(오른쪽) 전 미국 대통령이 대통령 재임 시절인 2024년 11월 13일 미국 워싱턴DC 백악관 집무실에서 도널드 트럼프 당시 대통령 당선인과 만나 악수하고 있다. AP연합뉴스 조 바이든 전 미국 대통령은 도널드 트럼프 대통령이 2021년 1월 6일 의사당 난입 사태를 주도했다며 “그가 한 일은 무덤까지 따라가야 한다”고 비판했다. 바이든 전 대통령은 9일(현지시간) 미국 시사잡지 디애틀랜틱에 공개한 회고록 ‘프라미스…"
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261110502167",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "국제결제은행 산하 CPMI 의장에 신현송 총재 선임⋯비서구권 최초",
-      "url": "https://www.kmib.co.kr/article/20261110502167",
-      "publishedAt": "2026-11-11T11:20:25.000Z",
-      "excerpt": "신현송( 사진 ) 한국은행 총재가 국제결제은행(BIS) 산하 지급 및 시장인프라위원회(CPMI) 의장으로 선임됐다. CPMI는 국제 지급결제 분야의 핵심 규범을 제정하는 BIS 핵심 기구다. 미국과 유럽 이외 지역의 중앙은행 총재가 의장을 맡는 것은 이번이 처음이다. 한국은행은 10일 신 총재가 BIS 세계경제회의(GEM)에서 회원국 간 협의를 거쳐 CPMI 의장으로 선임됐다고 밝혔다. 임기는 이달 1일부터 3년이다. CPMI…"
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261110502165",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "SK이노 농어촌 도서관 7곳 추가 개소",
-      "url": "https://www.kmib.co.kr/article/20261110502165",
-      "publishedAt": "2026-11-11T11:20:22.000Z",
-      "excerpt": "SK이노베이션은 지난 8일 경북 구미 고아지역아동센터에서 ‘2026년 농어촌 아이들을 위한 행복드림(Dream) 도서관 개소식’( 사진 )을 열었다고 10일 밝혔다. 정재승 한국과학기술원(KAIST) 뇌인지과학과 교수도 행사에 참석해 로봇과 뇌과학 기술 발전을 주제로 특별 강연을 진행했다. SK이노베이션은 2024년부터 농어촌 지역 아동센터에 도서관을 조성하고 도서를 기부하는 행복드림 도서관 사업을 진행하고 있다. 이 사업은 …"
-    },
-    {
       "id": "hani:https://www.hani.co.kr/arti/international/america/1286711.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
@@ -185,7 +185,7 @@
       "kind": "article",
       "title": "‘탄핵 위기’ 헤그세스 “이란전은 성공한 작전…탄핵은 정치 쇼”",
       "url": "https://www.hani.co.kr/arti/international/america/1286711.html",
-      "publishedAt": "2026-11-10T17:00:13.973Z",
+      "publishedAt": "2026-11-10T18:19:05.210Z",
       "excerpt": ""
     },
     {
@@ -197,7 +197,7 @@
       "kind": "article",
       "title": "사우디 국영방송 “미국·이란, 우라늄 농축 제한 등 합의 근접”",
       "url": "https://www.hani.co.kr/arti/international/international_general/1286710.html",
-      "publishedAt": "2026-11-10T17:00:13.973Z",
+      "publishedAt": "2026-11-10T18:19:05.210Z",
       "excerpt": ""
     },
     {
@@ -209,7 +209,7 @@
       "kind": "article",
       "title": "앤트로픽 공모가 70∼78달러 …기업가치 1.4조달러 목표",
       "url": "https://www.hani.co.kr/arti/international/globaleconomy/1286709.html",
-      "publishedAt": "2026-11-10T17:00:13.973Z",
+      "publishedAt": "2026-11-10T18:19:05.210Z",
       "excerpt": ""
     },
     {
@@ -221,7 +221,7 @@
       "kind": "article",
       "title": "이 대통령 “이주노동자는 산업현장 동료…‘존중·안전한 일터’ 챙기겠다”",
       "url": "https://www.hani.co.kr/arti/politics/assembly/1286708.html",
-      "publishedAt": "2026-11-10T17:00:13.973Z",
+      "publishedAt": "2026-11-10T18:19:05.210Z",
       "excerpt": ""
     },
     {
@@ -233,7 +233,7 @@
       "kind": "article",
       "title": "한-미 외교장관 파리서 환담…한-미 관계·북한·안보협상 논의",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1286707.html",
-      "publishedAt": "2026-11-10T17:00:13.973Z",
+      "publishedAt": "2026-11-10T18:19:05.210Z",
       "excerpt": ""
     },
     {
@@ -245,7 +245,7 @@
       "kind": "article",
       "title": "변상일 삼성화재배 16강 진출…시니어조 합류 목진석도 불굴의 승리",
       "url": "https://www.hani.co.kr/arti/sports/baduk/1286706.html",
-      "publishedAt": "2026-11-10T17:00:13.973Z",
+      "publishedAt": "2026-11-10T18:19:05.210Z",
       "excerpt": ""
     },
     {
@@ -257,7 +257,7 @@
       "kind": "article",
       "title": "금융보안원마저 뚫렸다…해킹에 금융사 정보 유출",
       "url": "https://www.hani.co.kr/arti/economy/finance/1286705.html",
-      "publishedAt": "2026-11-10T17:00:13.973Z",
+      "publishedAt": "2026-11-10T18:19:05.210Z",
       "excerpt": ""
     },
     {
@@ -269,7 +269,7 @@
       "kind": "article",
       "title": "‘군복무 특혜 의혹’ 추미애 지사 아들 귀국…공소청, 2년 만에 수사 재개",
       "url": "https://www.hani.co.kr/arti/society/society_general/1286704.html",
-      "publishedAt": "2026-11-10T17:00:13.973Z",
+      "publishedAt": "2026-11-10T18:19:05.210Z",
       "excerpt": ""
     },
     {
@@ -281,7 +281,7 @@
       "kind": "article",
       "title": "민주 “주가누르기 방지법 정기국회 처리”…이견 해소는 못해",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1286703.html",
-      "publishedAt": "2026-11-10T17:00:13.973Z",
+      "publishedAt": "2026-11-10T18:19:05.210Z",
       "excerpt": ""
     },
     {
@@ -293,8 +293,296 @@
       "kind": "article",
       "title": "‘가정폭력·음주운전 은폐’ 곽명우, 2년 만에 OK저축은행 복귀",
       "url": "https://www.hani.co.kr/arti/society/society_general/1286702.html",
-      "publishedAt": "2026-11-10T17:00:13.973Z",
+      "publishedAt": "2026-11-10T18:19:05.210Z",
       "excerpt": ""
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/alphabet-shares-appear-to-have-bottomed-how-to-play-it-for-a-quick-rebound.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
+      "url": "https://www.cnbc.com/2026/11/10/alphabet-shares-appear-to-have-bottomed-how-to-play-it-for-a-quick-rebound.html",
+      "publishedAt": "2026-11-10T18:15:24.000Z",
+      "excerpt": "After a brutal sell-off, Alphabet appears to be showing signs of a floor. Here's how to trade it with options"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261111001251072",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "美연준 월러 이사 \"12월 50bp 인상도 고려\"…'빅스텝' 거론(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261111001251072",
+      "publishedAt": "2026-11-10T18:11:03.000Z",
+      "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 미국 연방준비제도(Fed·연준) 고위 인사들이 10일(현지시간) 기준금리 추가 인상 필요성을 잇달아 강조하면..."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
+      "url": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
+      "publishedAt": "2026-11-10T18:08:40.000Z",
+      "excerpt": "As high prices continue to strain household budgets, many consumers have turned to credit cards to help make ends meet."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/clearlake-said-to-weigh-3-5-billion-sale-of-packaging-firm-ipg",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Clearlake Said to Weigh $3.5 Billion Sale of Packaging Firm IPG",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/clearlake-said-to-weigh-3-5-billion-sale-of-packaging-firm-ipg",
+      "publishedAt": "2026-11-10T18:07:36.000Z",
+      "excerpt": "Clearlake Capital Group is exploring a sale of packaging company IPG, which could fetch more than $3.5 billion, according to people familiar with the matter."
+    },
+    {
+      "id": "cnbc-invest:https://www.cnbc.com/2026/11/09/take-two-the-wait-is-almost-over.html",
+      "sourceId": "cnbc-invest",
+      "sourceName": "CNBC Investing",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "The wait is almost over for this blockbuster video game. I see 35% upside in the stock",
+      "url": "https://www.cnbc.com/2026/11/09/take-two-the-wait-is-almost-over.html",
+      "publishedAt": "2026-11-10T18:05:52.000Z",
+      "excerpt": "Grand Theft Auto VI is almost here, and investor Paul Meeks says Wall Street is underestimating just how big it could be for Take-Two Interactive."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261111003700071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "美국방 탄핵 선봉장은 與의원…트럼프 '찍어내기' 정치 부메랑",
+      "url": "https://www.yna.co.kr/view/AKR20261111003700071",
+      "publishedAt": "2026-11-10T18:05:10.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 홍정규 특파원 = 피트 헤그세스 미국 국방부 장관의 탄핵소추안을 재발의한 토머스 매시 하원의원(공화·켄터키)은 헌법과 원칙을..."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/theres-a-trade-developing-in-energy-stocks-you-should-attack-now-says-jay-woods.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "There's a trade developing in energy stocks you should 'attack' now, says Jay Woods",
+      "url": "https://www.cnbc.com/2026/11/10/theres-a-trade-developing-in-energy-stocks-you-should-attack-now-says-jay-woods.html",
+      "publishedAt": "2026-11-10T18:01:41.000Z",
+      "excerpt": "As brent crude drops below $90 and energy stocks pull back, there's a trade developing in the space that you should \"attack right now,\" says investor Jay Woods."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "S&P 500 falls after hot CPI ignites inflation concerns: Live updates",
+      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+      "publishedAt": "2026-11-10T17:59:58.000Z",
+      "excerpt": "Traders reacted to a pivotal consumer inflation report as well as new comments from a key Federal Reserve official."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Microsoft shares drop after Anthropic unveils tools that could compete with Office",
+      "url": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
+      "publishedAt": "2026-11-10T17:55:23.000Z",
+      "excerpt": "Follow below as CNBC breaks down the biggest stock market moves of the day."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+      "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "publishedAt": "2026-11-10T17:49:39.000Z",
+      "excerpt": "Treasury yields moved higher after hotter-than-expected CPI report."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
+      "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+      "publishedAt": "2026-11-10T17:48:47.000Z",
+      "excerpt": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/dollar-set-for-best-day-since-september-as-cpi-lifts-hike-bets",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Dollar Set for Best Day Since September as CPI Lifts Hike Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/dollar-set-for-best-day-since-september-as-cpi-lifts-hike-bets",
+      "publishedAt": "2026-11-10T17:43:37.000Z",
+      "excerpt": "The dollar headed for its strongest gain since September after hotter-than-forecast US inflation reinforced expectations for a Federal Reserve interest-rate hike next month."
+    },
+    {
+      "id": "axios:https://www.axios.com/2026/11/10/hegseth-impeachment-iran-jd-vance",
+      "sourceId": "axios",
+      "sourceName": "Axios",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Vance says Hegseth impeachment vote \"isn't about Iran\"",
+      "url": "https://www.axios.com/2026/11/10/hegseth-impeachment-iran-jd-vance",
+      "publishedAt": "2026-11-10T17:34:03.000Z",
+      "excerpt": "Vice President JD Vance on Tuesday said that the vote to impeach Defense Secretary Pete Hegseth \"isn't about Iran,\" but rather his willingness to take on challenges at the Pentagon. Why it matters: It's the latest instance of the Trump admi…"
+    },
+    {
+      "id": "axios:https://www.axios.com/2026/11/10/inflation-cpi-interest-rates",
+      "sourceId": "axios",
+      "sourceName": "Axios",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Harsh new inflation reality",
+      "url": "https://www.axios.com/2026/11/10/inflation-cpi-interest-rates",
+      "publishedAt": "2026-11-10T17:30:00.000Z",
+      "excerpt": "America's inflation problem is stubborn, broadening out and showing no sign of letting up. Why it matters: October marked the third straight month of hotter-than-expected inflation , defying repeated predictions over the last couple of year…"
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/trump-administration-moves-to-cut-food-stamps-for-6point3-million-people.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Trump administration moves to cut food stamps for 6.3 million people",
+      "url": "https://www.cnbc.com/2026/11/10/trump-administration-moves-to-cut-food-stamps-for-6point3-million-people.html",
+      "publishedAt": "2026-11-10T17:27:51.000Z",
+      "excerpt": "Under the USDA's proposed change, nearly 18% of SNAP recipients would lose benefits, according to an agency analysis included in the proposed rule."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/ceo-pay-disclosures-set-for-ozempic-diet-as-sec-eases-rules",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "CEO Pay Disclosures Set for ‘Ozempic Diet’ as SEC Eases Rules",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/ceo-pay-disclosures-set-for-ozempic-diet-as-sec-eases-rules",
+      "publishedAt": "2026-11-10T17:24:05.000Z",
+      "excerpt": "The Securities and Exchange Commission’s forthcoming executive compensation proposal would amount to a “major Ozempic diet” for required disclosures, a senior agency official said Tuesday."
+    },
+    {
+      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-10/corn-jumps-after-usda-cuts-us-yield-in-another-surprise-move",
+      "sourceId": "bbg-econ",
+      "sourceName": "Bloomberg Economics",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Corn Jumps After USDA Cuts US Yield in Another Surprise Move",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/corn-jumps-after-usda-cuts-us-yield-in-another-surprise-move",
+      "publishedAt": "2026-11-10T17:22:36.000Z",
+      "excerpt": "Corn surged after the US Department of Agriculture slashed the yield and production more than analysts anticipated."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/boeing-jet-deliveries-drop-14percent-in-october.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Boeing jet deliveries drop 14% in October",
+      "url": "https://www.cnbc.com/2026/11/10/boeing-jet-deliveries-drop-14percent-in-october.html",
+      "publishedAt": "2026-11-10T17:21:53.000Z",
+      "excerpt": "Boeing said on Tuesday it delivered 49 jets in October, down from 57 the previous month and 53 a year earlier."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261111003500072",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "美민주, 트럼프 유착 대기업 조사착수…\"내년 1월4일까지 자료내라\"",
+      "url": "https://www.yna.co.kr/view/AKR20261111003500072",
+      "publishedAt": "2026-11-10T17:19:02.000Z",
+      "excerpt": "(뉴욕=연합뉴스) 임수정 특파원 = 미국 중간선거에서 상·하원을 모두 장악한 민주당이 아마존과 애플, 구글 등 주요 대기업을 상대로 대대적인 조..."
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008839756",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "'금융보안 문지기' 금융보안원도 해킹으로 정보 유출",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839756",
+      "publishedAt": "2026-11-10T17:13:00.000Z",
+      "excerpt": "금융권의 사이버 위협 탐지와 대응을 주관하는 금융보안원의 시스템이 해킹당해 일부 정보가 유출된 것으로 확인됐습니다.금융당국 등에 따르면 금융보안…"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261111003400072",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "미 휘발유 가격 갤런당 4달러 아래로…7월 20일 이후 처음",
+      "url": "https://www.yna.co.kr/view/AKR20261111003400072",
+      "publishedAt": "2026-11-10T17:07:56.000Z",
+      "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 미국의 휘발유 가격이 전국 평균 4달러 아래로 내려왔다. 지난 7월 말 이후 약 넉 달만이다."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/us-raises-forecasts-for-2027-gasoline-and-diesel-prices",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "US Raises Forecasts for 2027 Gasoline and Diesel Prices",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-raises-forecasts-for-2027-gasoline-and-diesel-prices",
+      "publishedAt": "2026-11-10T17:07:15.000Z",
+      "excerpt": "The US raised its projections for the price of diesel and gasoline next year, indicating that consumer relief will be limited even as oil flows pick up from the Middle East."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/peloton-draws-6-8-billion-of-demand-for-debut-junk-bond-sale",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Peloton Draws $6.8 Billion of Demand for Debut Junk-Bond Sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/peloton-draws-6-8-billion-of-demand-for-debut-junk-bond-sale",
+      "publishedAt": "2026-11-10T17:02:51.000Z",
+      "excerpt": "Peloton Interactive Inc. has attracted strong investor demand for its debut junk-bond sale, allowing the fitness company to boost the deal’s size and slash borrowing costs."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/franklin-templeton-brazil-trims-risk-sees-no-changes-with-lula",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Franklin Templeton Brazil Trims Risk, Sees No Changes With Lula",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/franklin-templeton-brazil-trims-risk-sees-no-changes-with-lula",
+      "publishedAt": "2026-11-10T16:56:02.000Z",
+      "excerpt": "Franklin Templeton Brazil is cutting risk across its portfolio on expectations that President Luiz Inácio Lula da Silva’s new administration won’t bring about the changes investors see as key to improve the nation’s finances."
     },
     {
       "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/morgan-stanley-says-argentina-bonds-price-in-too-much-pessimism",
@@ -309,18 +597,6 @@
       "excerpt": "The selloff in Argentina’s debt amid a dramatic shift in expectations ahead of the country’s presidential election next year has gone too far, according to Morgan Stanley."
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "S&P 500 falls after hot CPI ignites inflation concerns: Live updates",
-      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-      "publishedAt": "2026-11-10T16:51:31.000Z",
-      "excerpt": "Traders reacted to a pivotal consumer inflation report as well as new comments from a key Federal Reserve official."
-    },
-    {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261111002500079",
       "sourceId": "yna-intl",
       "sourceName": "연합뉴스 국제",
@@ -331,6 +607,18 @@
       "url": "https://www.yna.co.kr/view/AKR20261111002500079",
       "publishedAt": "2026-11-10T16:51:14.000Z",
       "excerpt": "(카이로=연합뉴스) 김상훈 특파원 = 이란 국가안보 최고 책임자가 최근 불거진 미국과의 무력 충돌 종식 및 핵 협상 재개설을 전면 부인하며 미국..."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-10/bloomberg-surveillance-11-10-2026-video",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Fed's Waller Puts Jumbo Rate Hike on the Table Ahead of Hot Inflation Print",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/bloomberg-surveillance-11-10-2026-video",
+      "publishedAt": "2026-11-10T16:47:18.000Z",
+      "excerpt": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surv…"
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261110177151082",
@@ -369,18 +657,6 @@
       "excerpt": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET."
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-      "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-      "publishedAt": "2026-11-10T16:44:11.000Z",
-      "excerpt": "Treasury yields moved higher after hotter-than-expected CPI report."
-    },
-    {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261111001600071",
       "sourceId": "yna-intl",
       "sourceName": "연합뉴스 국제",
@@ -399,10 +675,22 @@
       "domain": "markets",
       "lang": "en",
       "kind": "article",
-      "title": "Wall Street Bonuses Expected to Rise by 30% For Some",
+      "title": "Wall Street Bonuses Could Rise by 30%, Says Johnson Associates",
       "url": "https://www.bloomberg.com/news/videos/2026-11-10/wall-street-bonuses-expected-to-rise-by-30-for-some-video",
       "publishedAt": "2026-11-10T16:39:38.000Z",
       "excerpt": "Wall Street bonuses are expected to rise this year. Johnson Associates’ Chris Connors joins Bloomberg Open Interest to explain why strong business performance and AI-driven efficiencies could mean bigger rewards for top performers and why c…"
+    },
+    {
+      "id": "hn:https://neil.fraser.name/news/2026/11/10/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "publishedAt": "2026-11-10T16:37:44.000Z",
+      "excerpt": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 258 # Comments: 34"
     },
     {
       "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/uae-energy-contractor-nmdc-plans-december-acquisition-ceo-says",
@@ -415,54 +703,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-10/uae-energy-contractor-nmdc-plans-december-acquisition-ceo-says",
       "publishedAt": "2026-11-10T16:37:35.000Z",
       "excerpt": "Energy and marine services company NMDC Group PJSC aims to announce an acquisition next month as the Middle Eastern company looks to boost growth after the war caused a slump in its regional business, said Chief Executive Officer Yasser Zag…"
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-10/fed-needs-to-raise-rates-two-more-times-logan-says-video",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Fed Needs to Raise Rates at Least Two More Times, Logan Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/fed-needs-to-raise-rates-two-more-times-logan-says-video",
-      "publishedAt": "2026-11-10T16:36:43.000Z",
-      "excerpt": "\"It remains clear to me, given the current outlook, that the FOMC needs to implement at least two more 25-basis-point rate increases,\" Federal Reserve Bank of Dallas President Lorie Logan says during a conference in Houston. (Source: Bloomb…"
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Here's the inflation breakdown for October 2026 — in one chart",
-      "url": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
-      "publishedAt": "2026-11-10T16:36:40.000Z",
-      "excerpt": "The consumer price index rose 0.4% in October, a reduction from September but a level economists said is still uncomfortably high."
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-10/bucks-president-on-building-beyond-giannis-video",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Bucks President on Building Beyond Giannis",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/bucks-president-on-building-beyond-giannis-video",
-      "publishedAt": "2026-11-10T16:34:48.000Z",
-      "excerpt": "Can the Milwaukee Bucks stay compelling beyond a superstar? President Josh Glessing joins Bloomberg Open Interest to discuss building for the future, rising sports-team valuations, institutional investment and how fragmented broadcasts can …"
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/hedge-funds-ask-sec-cftc-to-go-slow-in-push-to-24-7-trading",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Hedge Funds Ask SEC, CFTC to Go Slow in Push to 24/7 Trading",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/hedge-funds-ask-sec-cftc-to-go-slow-in-push-to-24-7-trading",
-      "publishedAt": "2026-11-10T16:34:10.000Z",
-      "excerpt": "The Trump administration should proceed slowly in the ramp up to round-the-clock trading, the Managed Funds Association said in a letter sent Tuesday to US government regulators."
     },
     {
       "id": "axios:https://www.axios.com/2026/11/09/thune-senate-republican-leadership-elections",
@@ -487,54 +727,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261111000251079",
       "publishedAt": "2026-11-10T16:30:30.000Z",
       "excerpt": "(카이로=연합뉴스) 김상훈 특파원 = 지난달 27일(현지시간) 치러진 총선을 통해 선출된 이스라엘의 제26대 크네세트(의회)가 10일 공식 출범..."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
-      "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
-      "publishedAt": "2026-11-10T16:30:23.000Z",
-      "excerpt": "Anthropic is on target for an IPO that could value the AI company at over $1.4 trillion. Investors had multiple ways to buy the stock much earlier."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes—do this instead",
-      "url": "https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
-      "publishedAt": "2026-11-10T16:30:01.000Z",
-      "excerpt": "Former Google recruiter Farah Sharghi shares her best advice for how to turn coffee chats into real introductions and interviews."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "U.S. gas prices fall below $4 for the first time since July",
-      "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-      "publishedAt": "2026-11-10T16:29:09.000Z",
-      "excerpt": "Americans may finally find some relief at the pump."
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/tribunal-finds-emerge-canada-mismanaged-cathie-wood-linked-etfs",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Tribunal Finds Emerge Canada Mismanaged Cathie Wood-Linked ETFs",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/tribunal-finds-emerge-canada-mismanaged-cathie-wood-linked-etfs",
-      "publishedAt": "2026-11-10T16:28:30.000Z",
-      "excerpt": "The failed investment firm that sold Toronto-listed versions of Cathie Wood’s exchange-traded funds took self-dealing loans, maintained improper records and failed to act in the best interest of its funds, Canada’s top securities regulator …"
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261111002000085",
@@ -573,52 +765,16 @@
       "excerpt": "10월 CPI 전달보다 0.4% 페드워치, 12월 인상 100%미국 내 유가발 인플레이션 우려가 여전한 데다 최근 고용 시장이 안정되면서 12월 추가 금리 인상 전망이 힘을 얻고 .."
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/jeffrey-epstein-house-oversight-doj.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
+      "id": "hn:https://www.blender.org/download/releases/5-3/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
       "lang": "en",
       "kind": "article",
-      "title": "House Oversight calls on DOJ to interview key Epstein witnesses, says govt. ‘failed’ survivors",
-      "url": "https://www.cnbc.com/2026/11/10/jeffrey-epstein-house-oversight-doj.html",
-      "publishedAt": "2026-11-10T16:17:20.000Z",
-      "excerpt": "\"The federal government has failed the survivors of Jeffrey Epstein and Ghislaine Maxwell's horrific crimes for decades,\" Rep. James Comer, R-Ky., said."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/bridgepoint-sees-opportunity-in-re-rated-real-estate.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Bridgepoint sees opportunity in 're-rated' real estate",
-      "url": "https://www.cnbc.com/2026/11/10/bridgepoint-sees-opportunity-in-re-rated-real-estate.html",
-      "publishedAt": "2026-11-10T16:13:27.000Z",
-      "excerpt": "While higher interest rates are chasing many investors away from real estate, Bridgepoint Group sees opportunity in overlooked corners of the property market."
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-10/goldman-citi-among-banks-in-270-million-stablecoin-backing",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Goldman, Citi Among Banks in $270 Million Stablecoin Backing",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/goldman-citi-among-banks-in-270-million-stablecoin-backing",
-      "publishedAt": "2026-11-10T16:12:55.000Z",
-      "excerpt": "A group of financial firms including Goldman Sachs Group Inc., Citigroup Inc., Banco Santander SA and Deutsche Bank AG have committed around $270 million in funding toward a joint stablecoin venture, according to people familiar with the ma…"
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-10/nagel-ecb-rate-hike-in-december-looks-rather-obvious-video",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Nagel: ECB Rate Hike in December Looks ‘Rather Obvious’",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/nagel-ecb-rate-hike-in-december-looks-rather-obvious-video",
-      "publishedAt": "2026-11-10T16:11:37.000Z",
-      "excerpt": "European Central Bank Governing Council member Joachim Nagel said there’s a strong case to raise interest rates in December to tame inflation. In an interview with Bloomberg Television in Riga on Tuesday, he said inflation is “too high.\" (S…"
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "url": "https://www.blender.org/download/releases/5-3/",
+      "publishedAt": "2026-11-10T16:15:43.000Z",
+      "excerpt": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 241 # Comments: 33"
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=36948&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -633,33 +789,9 @@
       "excerpt": "안녕하세요. 평소에 코딩과 소프트웨어 개발에 관심이 많은 중학교 2학년입니다. 최근 LLM과 AI 기술이 가파르게 성장하는 모습을 보며, '이제는 사람이 쓰는 프로그램뿐만 아니라 AI가 직접 활용하는 프로그램을 만드는 시대가 오지 않을까?'라는 생각이 들었습니다. 그 첫 발걸음으로 \"AI가 자율적으로 픽셀 아트를 생성하고, 이를 프로젝트에 직접 주입할 수 있게 만들면 어떨까?\"라는 아이디어를 떠올렸습니다. 이 아이디어를 바탕으…"
     },
     {
-      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-sparks-larger-rate-hike-debate-on-hot-cpi-video",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Fed’s Waller Sparks Larger Rate Hike Debate After Hot Inflation",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-sparks-larger-rate-hike-debate-on-hot-cpi-video",
-      "publishedAt": "2026-11-10T16:04:03.000Z",
-      "excerpt": "Federal Reserve Governor Christopher Waller on Tuesday lit up debate around a possible half-percentage-point interest rate increase by the central bank in December after inflation data came in hotter than expected. PIMCO Economist Tiffany W…"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261111001000099",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "'월드컵 돌풍' 카보베르데 15일 대선…첫 여성 후보 도전",
-      "url": "https://www.yna.co.kr/view/AKR20261111001000099",
-      "publishedAt": "2026-11-10T16:02:15.000Z",
-      "excerpt": "(요하네스버그=연합뉴스) 나확진 특파원 = 서부 아프리카 섬나라 카보베르데가 오는 15일(현지시간) 대통령 선거를 실시한다."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/10/gold-has-been-in-a-bear-market-since-january-katie-stockton-sees-a-comeback-ahead.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
+      "id": "cnbc-invest:https://www.cnbc.com/2026/11/10/gold-has-been-in-a-bear-market-since-january-katie-stockton-sees-a-comeback-ahead.html",
+      "sourceId": "cnbc-invest",
+      "sourceName": "CNBC Investing",
       "domain": "markets",
       "lang": "en",
       "kind": "article",
@@ -667,18 +799,6 @@
       "url": "https://www.cnbc.com/2026/11/10/gold-has-been-in-a-bear-market-since-january-katie-stockton-sees-a-comeback-ahead.html",
       "publishedAt": "2026-11-10T16:01:46.000Z",
       "excerpt": "GLD has stabilized above support defined by previous lows near $360, said the founding partner of Fairlead Strategies."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261111001200072",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "美연준 월러 이사 \"12월 50bp 인상도 고려\"…'빅스텝' 거론",
-      "url": "https://www.yna.co.kr/view/AKR20261111001200072",
-      "publishedAt": "2026-11-10T16:00:40.000Z",
-      "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 크리스토퍼 월러 미국 연방준비제도(Fed·연준) 이사는 10일(현지시간) 연설에서 오는 12월 기준금리 인상..."
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=36947&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -705,16 +825,16 @@
       "excerpt": "The share of overdue consumer loans rose marginally in the third quarter as new delinquencies related to housing loans worsened."
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261110180051071",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
+      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-10/ex-world-bank-economist-is-running-for-polish-rate-setting-panel",
+      "sourceId": "bbg-econ",
+      "sourceName": "Bloomberg Economics",
+      "domain": "global",
+      "lang": "en",
       "kind": "article",
-      "title": "美국방 \"날 탄핵하는 건 정치쇼\" 기자회견…트럼프 \"잘했다, A+\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261110180051071",
-      "publishedAt": "2026-11-10T15:50:20.000Z",
-      "excerpt": "(워싱턴=연합뉴스) 홍정규 특파원 = 피트 헤그세스 미국 국방부 장관은 10일(현지시간) 자신에 대한 연방의회의 탄핵소추 표결을 가리켜 \"정치적..."
+      "title": "Ex-World Bank Economist Is Running For Polish Rate-Setting Panel",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/ex-world-bank-economist-is-running-for-polish-rate-setting-panel",
+      "publishedAt": "2026-11-10T15:55:55.000Z",
+      "excerpt": "Former World Bank economist Marcin Piątkowski is being considered as one of the candidates to join the Polish central bank’s Monetary Policy Council, according to people familiar with the matter."
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-10/fed-s-logan-favors-at-least-two-hikes-says-pace-could-quicken",
@@ -727,18 +847,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-logan-favors-at-least-two-hikes-says-pace-could-quicken",
       "publishedAt": "2026-11-10T15:50:00.000Z",
       "excerpt": "Federal Reserve Bank of Dallas President Lorie Logan said she still sees the need for at least two quarter-point rate increases, but that the pace of those hikes may need to be quicker than the Fed is moving this fall."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261111000800109",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "툰베리 \"그린워싱 서커스\"…UN 기후회의서 비판 쏟아져",
-      "url": "https://www.yna.co.kr/view/AKR20261111000800109",
-      "publishedAt": "2026-11-10T15:48:20.000Z",
-      "excerpt": "(로마=연합뉴스) 민경락 특파원 = 화석 연료에 대한 과도한 의존을 경고하는 목소리가 10일(현지시간) 튀르키예에서 열린 유엔(UN) 기후변화협..."
     },
     {
       "id": "semafor:https://www.semafor.com/article/11/10/2026/jensen-huangs-chinese-spy-scandal-tests-whether-any-ceo-is-indispensable",
@@ -1343,18 +1451,6 @@
       "excerpt": "The Czech central bank said a cautious approach to monetary policy is warranted due the outlook for higher inflation."
     },
     {
-      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-10/poland-s-maslowska-sees-growing-case-for-rate-hike-in-january",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "Poland’s Maslowska Sees Growing Case for January Rate Hike",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/poland-s-maslowska-sees-growing-case-for-rate-hike-in-january",
-      "publishedAt": "2026-11-10T12:46:22.000Z",
-      "excerpt": "The Polish central bank’s latest inflation forecasts support the case for an interest rate increase in January, according to Monetary Policy Council member Gabriela Maslowska."
-    },
-    {
       "id": "khan:https://www.khan.co.kr/article/202611102146001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
       "sourceId": "khan",
       "sourceName": "경향신문",
@@ -1547,30 +1643,6 @@
       "excerpt": "로봇이 사람처럼 공중에서 360도 한 바퀴 몸을 돌립니다. 현대차가 발 대신 바퀴가 달린 새로운 아틀라스를 공개했습니다. 삼성과 협력도 발표하면서 개발에 속도를 내는 분위기입니다.정혜진 기자가 취재했습니다."
     },
     {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008839755",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "남극 바다에 '철' 풀었더니…\"온난화 예방\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839755",
-      "publishedAt": "2026-11-10T12:32:00.000Z",
-      "excerpt": "지구온난화를 늦추기 위해 대기 중 이산화탄소를 줄이는 다양한 기술이 연구되고 있습니다. 그중 하나가 바다에 철분을 뿌려 식물성 플랑크톤의 광합성을 촉진하는 건데요."
-    },
-    {
-      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-10/brazil-central-bank-sees-economy-slowing-as-inflation-rises",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "Brazil Central Bank Signals Caution on Price Rise, Slowdown",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/brazil-central-bank-sees-economy-slowing-as-inflation-rises",
-      "publishedAt": "2026-11-10T12:30:35.000Z",
-      "excerpt": "Brazil’s central bank signaled it would remain cautious as inflation pressures mount, saying high interest rates are increasingly weighing on economic activity even as supply shocks help push prices higher."
-    },
-    {
       "id": "khan:https://www.khan.co.kr/article/202611102127005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
       "sourceId": "khan",
       "sourceName": "경향신문",
@@ -1628,7 +1700,7 @@
       "title": "AlphaProof Code",
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
       "publishedAt": "2026-11-10T12:11:12.000Z",
-      "excerpt": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 413 # Comments: 136"
+      "excerpt": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 467 # Comments: 151"
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/10/riot-platforms-jefferies-upgrade-corsicana.html",
@@ -1840,30 +1912,6 @@
       "url": "https://www.axios.com/2026/11/10/el-salvador-state-department-haiti-gangs",
       "publishedAt": "2026-11-10T10:20:13.000Z",
       "excerpt": "State Department officials have quietly raised objections to El Salvador's gang-fighting efforts in Haiti — even as President Trump has offered his full support, according to diplomatic notes and informed sources. On Monday, El Salvador iss…"
-    },
-    {
-      "id": "axios:https://www.axios.com/2026/11/10/ai-race-politics-slowdown",
-      "sourceId": "axios",
-      "sourceName": "Axios",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "How Nvidia's crisis and politics could deliver the pause AI leaders want",
-      "url": "https://www.axios.com/2026/11/10/ai-race-politics-slowdown",
-      "publishedAt": "2026-11-10T10:15:05.000Z",
-      "excerpt": "A political backlash against AI and data centers — now compounded by a crisis facing the technology's most influential champion — could help force a slowdown that industry leaders have struggled to achieve voluntarily. Why it matters: Tappi…"
-    },
-    {
-      "id": "axios:https://www.axios.com/2026/11/10/trump-veto-threats-blue-wave",
-      "sourceId": "axios",
-      "sourceName": "Axios",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "The new battle for Congress: Trump's veto",
-      "url": "https://www.axios.com/2026/11/10/trump-veto-threats-blue-wave",
-      "publishedAt": "2026-11-10T10:10:08.000Z",
-      "excerpt": "Democrats will charge into January with a sweeping mandate — but as President Trump has repeatedly noted, his veto power can deliver a robust roadblock to his opponents' agenda. Why it matters: Democrats may be forced to compromise to get l…"
     },
     {
       "id": "yna-pol:https://www.yna.co.kr/view/AKR20261110168500504",
@@ -2151,19 +2199,7 @@
       "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
       "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
       "publishedAt": "2026-11-10T06:01:08.000Z",
-      "excerpt": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 579 # Comments: 204"
-    },
-    {
-      "id": "hn:https://maurycyz.com/projects/fading/",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Your TV can see through walls (2025)",
-      "url": "https://maurycyz.com/projects/fading/",
-      "publishedAt": "2026-11-10T05:24:45.000Z",
-      "excerpt": "Article URL: https://maurycyz.com/projects/fading/ Comments URL: https://news.ycombinator.com/item?id=50436410 Points: 238 # Comments: 103"
+      "excerpt": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 616 # Comments: 217"
     },
     {
       "id": "uppity:https://uppity.co.kr/%eb%8b%a4%ec%9d%8c-%ec%a4%91-%ea%b4%80%ec%84%b8-%eb%b6%80%eb%8b%b4%ec%9e%90%eb%a5%bc-%ea%b3%a0%eb%a5%b4%ec%8b%9c%ec%98%a4-%ec%88%98%ec%9e%85%ec%97%85%ec%9e%90-%ec%88%98%ec%b6%9c%ec%97%85%ec%9e%90/",
@@ -2224,18 +2260,6 @@
       "url": "https://www.cnbc.com/2026/11/09/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
       "publishedAt": "2026-11-10T00:44:59.000Z",
       "excerpt": "Tech shares bounced to start the week, lifting the Nasdaq Composite to a 2.7% gain on the day. The three major averages rose even as Nvidia sat out the rally."
-    },
-    {
-      "id": "hn:https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Locating the source of a mysterious beep",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "publishedAt": "2026-11-10T00:10:46.000Z",
-      "excerpt": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 290 # Comments: 148"
     },
     {
       "id": "tldr:https://tldr.tech/tech/2026-11-10",
@@ -2304,18 +2328,6 @@
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!8MSN!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"
     },
     {
-      "id": "cnbc-invest:https://www.cnbc.com/2026/11/09/the-wait-is-almost-over-for-this-blockbuster-video-game-i-see-35percent-upside-in-the-stock.html",
-      "sourceId": "cnbc-invest",
-      "sourceName": "CNBC Investing",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "The wait is almost over for this blockbuster video game. I see 35% upside in the stock",
-      "url": "https://www.cnbc.com/2026/11/09/the-wait-is-almost-over-for-this-blockbuster-video-game-i-see-35percent-upside-in-the-stock.html",
-      "publishedAt": "2026-11-09T20:07:26.000Z",
-      "excerpt": "Grand Theft Auto VI is almost here, and investor Paul Meeks says Wall Street is underestimating just how big it could be for Take-Two Interactive."
-    },
-    {
       "id": "hn:https://postalpro.usps.com/zcb",
       "sourceId": "hn",
       "sourceName": "Hacker News (200점 이상)",
@@ -2325,19 +2337,7 @@
       "title": "USPS now offers official ZIP Code boundary polygons",
       "url": "https://postalpro.usps.com/zcb",
       "publishedAt": "2026-11-09T19:58:59.000Z",
-      "excerpt": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 701 # Comments: 367"
-    },
-    {
-      "id": "hn:https://e-means.github.io/",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "publishedAt": "2026-11-09T18:45:43.000Z",
-      "excerpt": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 476 # Comments: 68"
+      "excerpt": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 711 # Comments: 372"
     },
     {
       "id": "hn:https://www.anthropic.com/claude-fable-and-mythos-5-2",
@@ -2349,7 +2349,7 @@
       "title": "Claude Fable 5.2 and Mythos 5.2",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "publishedAt": "2026-11-09T18:01:10.000Z",
-      "excerpt": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 808 # Comments: 943"
+      "excerpt": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 833 # Comments: 960"
     },
     {
       "id": "lenny:https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
@@ -2363,18 +2363,6 @@
       "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
       "publishedAt": "2026-11-09T16:01:20.000Z",
       "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network"
-    },
-    {
-      "id": "hn:https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "publishedAt": "2026-11-09T16:00:45.000Z",
-      "excerpt": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 570 # Comments: 327"
     },
     {
       "id": "economist:https://www.economist.com/the-world-this-week/2026/11/09/cover-story-newsletter-wipeout",
@@ -2402,18 +2390,6 @@
       "excerpt": "Watch now (39 mins) | 🎙️ Hackmamba founder William Imoh shows the native app he built with Codex to learn Norwegian, and the Lord of the Rings Grok bot fellowship that helps run his company",
       "audioUrl": "https://api.substack.com/feed/podcast/223506048/0e772a6b2d54aca00c8dfa53a9591eb4.mp3",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!8MSN!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"
-    },
-    {
-      "id": "hn:https://www.foldableflight.com",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "publishedAt": "2026-11-09T12:19:22.000Z",
-      "excerpt": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 1150 # Comments: 166"
     },
     {
       "id": "stratechery:https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/",
@@ -3431,8 +3407,8 @@
       },
       {
         "id": "hn",
-        "count": 9,
-        "parsed": 9
+        "count": 6,
+        "parsed": 6
       },
       {
         "id": "tldr",
