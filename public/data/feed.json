@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:46:42.165Z",
+  "generatedAt": "2026-11-14T16:45:02.101Z",
   "domains": [
     {
       "id": "global",
@@ -65,7 +65,7 @@
       "kind": "article",
       "title": "김도영, APBC 첫 홈런 ‘쾅’…한국 야구, 대만 꺾고 일본과 결승전",
       "url": "https://www.hani.co.kr/arti/international/international_general/1287342.html",
-      "publishedAt": "2026-11-14T15:46:41.709Z",
+      "publishedAt": "2026-11-14T16:45:01.659Z",
       "excerpt": ""
     },
     {
@@ -77,7 +77,7 @@
       "kind": "article",
       "title": "국힘, 부산역서 ‘이재명 탈옥법’ 규탄…“죽은 법에 근거한 특검”",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1287341.html",
-      "publishedAt": "2026-11-14T15:46:41.709Z",
+      "publishedAt": "2026-11-14T16:45:01.659Z",
       "excerpt": ""
     },
     {
@@ -89,7 +89,7 @@
       "kind": "article",
       "title": "MS 글로벌 장애, 36시간 만에 복구…정부는 이용자 불편 점검",
       "url": "https://www.hani.co.kr/arti/economy/economy_general/1287340.html",
-      "publishedAt": "2026-11-14T15:46:41.709Z",
+      "publishedAt": "2026-11-14T16:45:01.659Z",
       "excerpt": ""
     },
     {
@@ -101,7 +101,7 @@
       "kind": "article",
       "title": "내일 비 그친다네, 단풍 구경 나갈까…낮 최고 21도",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1287339.html",
-      "publishedAt": "2026-11-14T15:46:41.709Z",
+      "publishedAt": "2026-11-14T16:45:01.659Z",
       "excerpt": ""
     },
     {
@@ -113,7 +113,7 @@
       "kind": "article",
       "title": "한동훈 “최민희, 우기면 추하다…이 대통령·윤 재판 똑같다더니”",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1287338.html",
-      "publishedAt": "2026-11-14T15:46:41.709Z",
+      "publishedAt": "2026-11-14T16:45:01.659Z",
       "excerpt": ""
     },
     {
@@ -125,7 +125,7 @@
       "kind": "article",
       "title": "빗줄기 뚫고 “노 워”…청해부대 확대 파병 규탄 [포토]",
       "url": "https://www.hani.co.kr/arti/society/society_general/1287337.html",
-      "publishedAt": "2026-11-14T15:46:41.709Z",
+      "publishedAt": "2026-11-14T16:45:01.659Z",
       "excerpt": ""
     },
     {
@@ -137,7 +137,7 @@
       "kind": "article",
       "title": "중기중앙회 “노란우산 가입자 주소·연락처 유출 가능성”",
       "url": "https://www.hani.co.kr/arti/economy/economy_general/1287336.html",
-      "publishedAt": "2026-11-14T15:46:41.709Z",
+      "publishedAt": "2026-11-14T16:45:01.659Z",
       "excerpt": ""
     },
     {
@@ -149,7 +149,7 @@
       "kind": "article",
       "title": "전 세계 핵폭탄 피해자 수백만명 이를 수도…서울서 피해 증언",
       "url": "https://www.hani.co.kr/arti/area/yeongnam/1287335.html",
-      "publishedAt": "2026-11-14T15:46:41.709Z",
+      "publishedAt": "2026-11-14T16:45:01.659Z",
       "excerpt": ""
     },
     {
@@ -161,7 +161,7 @@
       "kind": "article",
       "title": "잠실구장 2032년엔 꼭 만나자…백발 노장과 전설들, 빗속의 작별",
       "url": "https://www.hani.co.kr/arti/society/society_general/1287334.html",
-      "publishedAt": "2026-11-14T15:46:41.709Z",
+      "publishedAt": "2026-11-14T16:45:01.659Z",
       "excerpt": ""
     },
     {
@@ -173,8 +173,80 @@
       "kind": "article",
       "title": "“트럼프, 시진핑 회담서 젠슨 황 ‘스파이 연루 의혹’ 거론 안 할듯”",
       "url": "https://www.hani.co.kr/arti/international/international_general/1287333.html",
-      "publishedAt": "2026-11-14T15:46:41.709Z",
+      "publishedAt": "2026-11-14T16:45:01.659Z",
       "excerpt": ""
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261115000900071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "백악관 '野의회 조사' 대응전략은…\"조사 예고를 범죄로 간주\"",
+      "url": "https://www.yna.co.kr/view/AKR20261115000900071",
+      "publishedAt": "2026-11-14T16:40:23.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 박성민 특파원 = 미국 백악관이 미국 중간선거 결과 차기 의회 권력을 차지한 민주당이 도널드 트럼프 행정부에 대한 광범위한 ..."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-14/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-14/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "publishedAt": "2026-11-14T16:22:29.000Z",
+      "excerpt": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out t…"
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Ground stop followed updates to older L3Harris communication system: DOT’s Duffy",
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "publishedAt": "2026-11-14T16:18:49.000Z",
+      "excerpt": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "The Entrepreneurs Behind Poppi Start Over",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video",
+      "publishedAt": "2026-11-14T16:13:04.000Z",
+      "excerpt": "Poppi founders Allison and Stephen Ellsworth tell Bloomberg This Weekend how they turned a farmers market business into a nearly $2 billion beverage brand and what they learned from the decade-long journey. Speaking with hosts David Gura an…"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261115000800109",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "美 이어 러도 \"19일 미중러 정상회담 개최\" 확인",
+      "url": "https://www.yna.co.kr/view/AKR20261115000800109",
+      "publishedAt": "2026-11-14T16:08:20.000Z",
+      "excerpt": "(로마=연합뉴스) 민경락 특파원 = 미국에 이어 러시아도 미국·중국·러시아 간 3자 정상회담을 열 계획이라고 공식 발표했다."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "publishedAt": "2026-11-14T15:50:43.000Z",
+      "excerpt": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers."
     },
     {
       "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
@@ -201,6 +273,18 @@
       "excerpt": "(런던=연합뉴스) 김지연 특파원 = 프랑스에서 14일(현지시간) 물가 급등과 열악한 교육 여건에 항의하는 학생과 노동자들의 시위가 5주 연속 벌..."
     },
     {
+      "id": "geeknews:https://news.hada.io/topic?id=37163&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "Nvidia 이사, Jensen Huang 스캔들 몇 주 전 주식 약 1.3조원 매각",
+      "url": "https://news.hada.io/topic?id=37163&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-14T15:39:16.000Z",
+      "excerpt": "Nvidia의 2대 주주이자 이사인 Mark Stevens 가 2026년 3분기에 약 420만 주, 약 9억 4,600만 달러($946m) 규모의 주식을 매각함. Jensen Huang CEO의 11월 12일 사임에 앞선 거래임 매각에 사전 거래 계획 은 없었지만, 이것만으로 문제가 있다고 볼 수는 없음. 내부자의 주식 매각에는 회사 실적과 무관한 유동성 확보 등 다양한 이유가 있을 수 있음 첫 두 차례 매각은 견조한 2분기 …"
+    },
+    {
       "id": "cnbc-top:https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
       "sourceId": "cnbc-top",
       "sourceName": "CNBC Top News",
@@ -213,6 +297,18 @@
       "excerpt": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang."
     },
     {
+      "id": "geeknews:https://news.hada.io/topic?id=37162&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "Unsloth Qwen3.8-27B 양자화 모델, Dynamic v3.1 업데이트",
+      "url": "https://news.hada.io/topic?id=37162&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-14T15:36:16.000Z",
+      "excerpt": "Unsloth가 Dynamic V3.1 프리뷰 를 적용한 Qwen3.8-27B GGUF를 공개함. 자체 평가에서 기존 양자화 모델과 같은 크기로 대부분의 벤치마크 정확도가 5~10% 개선됨 2~6비트 양자화 모델 대부분 을 갱신했으며, 기존 UD3와 성능이 비슷해 개선 폭이 충분하지 않았던 3비트 모델은 유지함 Terminal Bench 2.1, DeepSWE v1.1 등으로 평가했으며, 컨텍스트 길이와 반복 측정 횟수 에 따…"
+    },
+    {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261114045251109",
       "sourceId": "yna-intl",
       "sourceName": "연합뉴스 국제",
@@ -223,18 +319,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261114045251109",
       "publishedAt": "2026-11-14T15:33:42.000Z",
       "excerpt": "(로마=연합뉴스) 민경락 특파원 = 미국이 중재하는 러시아와 우크라이나 종전 협상에서 우크라이나의 북대서양조약기구(NATO·나토) 가입 대가로 ..."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
-      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-      "publishedAt": "2026-11-14T15:32:27.000Z",
-      "excerpt": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up."
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261115000300072",
@@ -585,18 +669,6 @@
       "excerpt": "젠슨 황 전 엔비디아 최고경영자(CEO)의 불명예 퇴진으로 인공지능(AI) 산업의 순환거래 생태계가 위협받을 수 있다는 우려가 커지고 있다. 사진은 12일(현지시간) 미국 캘리포니아주 엔비디아 본사 앞에서 한 남성이 황 전 CEO 사임을 슬퍼하며 초와 꽃을 놓고 가는 모습. AFP연합뉴스 젠슨 황 엔비디아 최고경영자(CEO)가 물러나면서 그를 중심으로 인공지능(AI) 산업에 구축된 ‘순환 거래’ 생태계는 크게 흔들릴 위험에 처…"
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Italy fines Meta $887 million over Android users' data access",
-      "url": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
-      "publishedAt": "2026-11-14T13:38:23.000Z",
-      "excerpt": "Italy fined ⁠Meta Platforms $887 million ‌for allegedly ​accessing Android users' photographs ⁠and ‌videos ‌without obtaining ⁠consent ⁠or informing ⁠them."
-    },
-    {
       "id": "geeknews:https://news.hada.io/topic?id=37156&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "sourceId": "geeknews",
       "sourceName": "GeekNews",
@@ -607,30 +679,6 @@
       "url": "https://news.hada.io/topic?id=37156&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "publishedAt": "2026-11-14T13:32:33.000Z",
       "excerpt": "The Secret of Monkey Island(1990) 의 8개 에디션과 13개 디스플레이 모드를 동일한 12개 장면으로 비교하는 팬 제작 사이트임 모든 버전에서 같은 순간과 구도 를 맞춰, 장면이 아닌 기종에 따른 화면 차이를 비교할 수 있음 화면은 주로 ScummVM 으로 캡처했으며, Atari ST 흑백 화면만 Hatari 에뮬레이터를 사용함 캡처에 최근접 이웃 확대와 4:3 화면비 보정 을 적용해 1600×1200…"
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-14/ukraine-peace-push-turns-to-nato-and-donbas-video",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Ukraine Peace Push Turns to NATO and Donbas",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-14/ukraine-peace-push-turns-to-nato-and-donbas-video",
-      "publishedAt": "2026-11-14T13:30:12.000Z",
-      "excerpt": "Bloomberg Economics defense lead Becca Wasser tells Bloomberg This Weekend that a US proposal linking NATO membership to Ukrainian concessions in the Donbas represents movement in peace talks but faces significant political and security hur…"
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-14/miller-s-white-house-ascent-rattles-mexico-trade-negotiators",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Miller’s White House Ascent Rattles Mexico Trade Negotiators",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/miller-s-white-house-ascent-rattles-mexico-trade-negotiators",
-      "publishedAt": "2026-11-14T13:30:00.000Z",
-      "excerpt": "A new and not-so-friendly face is poised to loom over the negotiating table where the US and Mexico are still trying to hammer out a trade deal."
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261114049000109",
@@ -1092,30 +1140,6 @@
       "excerpt": "The chaos from the FAA's nationwide ground stop lingered into early Saturday morning, with thousands of flights cancelled as airlines played catch-up. Why it matters: Millions of travelers will find themselves inconvenienced over what the g…"
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261114045400009",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "정부가 백신 안믿더니…美, 26년만에 홍역 청정국 지위 상실",
-      "url": "https://www.yna.co.kr/view/AKR20261114045400009",
-      "publishedAt": "2026-11-14T10:24:04.000Z",
-      "excerpt": "(서울=연합뉴스) 오수진 기자 = 꾸준한 예방 접종으로 오랫동안 홍역 감염 관리에 성공한 미국이 최근 수천 명의 환자가 발생하며 26년만에 '홍..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261114045200109",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "젤렌스키 \"美, '우크라 나토 가입 대가' 돈바스 양도안 질의\"",
-      "url": "https://www.yna.co.kr/view/AKR20261114045200109",
-      "publishedAt": "2026-11-14T10:09:23.000Z",
-      "excerpt": "(로마=연합뉴스) 민경락 특파원 = 미국이 중재하는 러시아와 우크라이나 종전 협상에서 우크라이나의 북대서양조약기구(NATO·나토) 가입 대가로 ..."
-    },
-    {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-14/world-economy-latest-us-inflation-report-supports-fed-rate-hike",
       "sourceId": "bbg-econ",
       "sourceName": "Bloomberg Economics",
@@ -1356,30 +1380,6 @@
       "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소기업중앙회는 11일 노란우산 홈페이지에 대한 외부의 비정상적인 접근과 함께 일부 고객 개인정보의 제3자 조..."
     },
     {
-      "id": "geeknews:https://news.hada.io/topic?id=37150&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "AI가 코딩을 해결했다면, 왜 내 소프트웨어는 여전히 그대로일까? [영상]",
-      "url": "https://news.hada.io/topic?id=37150&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-14T06:37:18.000Z",
-      "excerpt": "Jonathan Blow는 AI의 코드 생성 속도와 저렴한 비용 은 인정하지만, 복잡한 소프트웨어의 품질과 사용자 경험이 크게 개선됐다는 증거는 보지 못했다고 평가함 좋은 프로그래밍의 핵심은 코드 작성량이 아니라 시스템 전체의 제약과 상호작용을 이해하고 유지하는 판단력 이며, 현재 LLM은 이를 충분히 엄밀하게 수행하지 못한다고 봄 소프트웨어 산업은 오래된 설계 위에 계층과 기능을 계속 쌓으면서 복잡성과 변경 비용 을 키워왔으…"
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=37149&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Nvidia, 자사 GPU를 구매할 AI 스타트업에 투자해 공급 부족을 인위적으로 조성했다는 의혹",
-      "url": "https://news.hada.io/topic?id=37149&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-14T06:34:18.000Z",
-      "excerpt": "Nvidia, 자사 GPU를 구매할 AI 스타트업에 투자해 공급 부족을 인위적으로 조성했다는 의혹"
-    },
-    {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-14/blackstone-s-airtrunk-advances-11-billion-india-data-center-bet",
       "sourceId": "bbg-econ",
       "sourceName": "Bloomberg Economics",
@@ -1461,7 +1461,7 @@
       "title": "Monkey Island: all 13 versions side by side",
       "url": "https://monkeyisland.pages.dev/",
       "publishedAt": "2026-11-14T04:23:30.000Z",
-      "excerpt": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 304 # Comments: 90"
+      "excerpt": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 327 # Comments: 102"
     },
     {
       "id": "mk:https://www.mk.co.kr/news/economy/12208844",
@@ -1509,7 +1509,7 @@
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "publishedAt": "2026-11-14T02:52:59.000Z",
-      "excerpt": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 854 # Comments: 509"
+      "excerpt": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 903 # Comments: 540"
     },
     {
       "id": "yna-econ:https://www.yna.co.kr/view/AKR20261114029100003",
@@ -1533,7 +1533,7 @@
       "title": "Ggml v1.0.0",
       "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
       "publishedAt": "2026-11-14T02:28:29.000Z",
-      "excerpt": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 351 # Comments: 53"
+      "excerpt": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 363 # Comments: 56"
     },
     {
       "id": "yna-econ:https://www.yna.co.kr/view/AKR20261114026000030",
@@ -1725,7 +1725,7 @@
       "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
       "url": "https://unsloth.ai/docs/models/qwen3.8",
       "publishedAt": "2026-11-14T00:06:04.000Z",
-      "excerpt": "Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 209 # Comments: 63"
+      "excerpt": "Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 214 # Comments: 66"
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-14/fed-s-jefferson-says-inflation-will-determine-rate-decisions",
@@ -1776,7 +1776,7 @@
       "title": "Terminal borders that don't cost a cell",
       "url": "https://www.joshka.net/cell-borders/",
       "publishedAt": "2026-11-13T23:06:40.000Z",
-      "excerpt": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 350 # Comments: 151"
+      "excerpt": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 370 # Comments: 159"
     },
     {
       "id": "mk:https://www.mk.co.kr/news/economy/12208336",
@@ -1801,18 +1801,6 @@
       "url": "https://www.axios.com/2026/11/13/medicaid-work-requirements-six-month-delay",
       "publishedAt": "2026-11-13T22:46:47.000Z",
       "excerpt": "The Trump administration announced a six-month delay Friday in enforcing the Medicaid work requirements that were scheduled to take effect in January. Why it matters: The announcement pauses a set of rules that state officials have warned t…"
-    },
-    {
-      "id": "hn:https://orcasairband.com/",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
-      "publishedAt": "2026-11-13T22:04:24.000Z",
-      "excerpt": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 285 # Comments: 66"
     },
     {
       "id": "semafor:https://www.semafor.com/article/11/13/2026/the-machine-doesnt-stop-abu-dhabis-wartime-plan-for-keeping-its-cultural-ambition-alive",
@@ -2004,7 +1992,7 @@
       "title": "Found: A protein that drives ageing without unleashing inflammation",
       "url": "https://www.nature.com/articles/d41586-026-03638-3",
       "publishedAt": "2026-11-13T19:25:21.000Z",
-      "excerpt": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 231 # Comments: 59"
+      "excerpt": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 236 # Comments: 64"
     },
     {
       "id": "hn:https://open.m-vave.com/fm1-workbench",
@@ -2016,7 +2004,7 @@
       "title": "FM-1 Workbench",
       "url": "https://open.m-vave.com/fm1-workbench",
       "publishedAt": "2026-11-13T19:14:02.000Z",
-      "excerpt": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 255 # Comments: 167"
+      "excerpt": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 259 # Comments: 169"
     },
     {
       "id": "semafor:https://www.semafor.com/article/11/13/2026/hassett-expected-to-depart-white-house",
@@ -2140,18 +2128,6 @@
       "excerpt": "Apple's safe haven status has driven its multiples to all-time highs, bringing it in line with some high quality consumer stocks."
     },
     {
-      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-13/nagel-says-highly-probable-that-ecb-will-have-to-act-again",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "Nagel Says ‘Highly Probable’ That ECB Will Have to Act Again",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/nagel-says-highly-probable-that-ecb-will-have-to-act-again",
-      "publishedAt": "2026-11-13T16:32:05.000Z",
-      "excerpt": "European Central Bank Governing Council member Joachim Nagel said it’s very likely that borrowing costs will have to be raised further due to upward pressure on consumer prices."
-    },
-    {
       "id": "hn:https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "sourceId": "hn",
       "sourceName": "Hacker News (200점 이상)",
@@ -2161,7 +2137,7 @@
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
       "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "publishedAt": "2026-11-13T15:08:44.000Z",
-      "excerpt": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 395 # Comments: 553"
+      "excerpt": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 418 # Comments: 583"
     },
     {
       "id": "sonkyung:https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/coffee_1115.mp3",
@@ -2728,6 +2704,18 @@
       "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
       "publishedAt": "2026-11-10T15:00:21.000Z",
       "excerpt": "A deep conversation on the biggest challenges of developing with AI – while trying not to mention the phrase “AI” once. Why? To dig up the fundamentals that are as important as ever"
+    },
+    {
+      "id": "hn:https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "publishedAt": "2026-11-10T14:16:05.000Z",
+      "excerpt": "Article URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/ Comments URL: https://news.ycombinator.com/item?id=50440709 Points: 333 # Comments: 204"
     },
     {
       "id": "stratechery:https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/",
@@ -3379,8 +3367,8 @@
     "ok": [
       {
         "id": "bbg-econ",
-        "count": 10,
-        "parsed": 11
+        "count": 9,
+        "parsed": 9
       },
       {
         "id": "economist",
@@ -3420,7 +3408,7 @@
       {
         "id": "hn",
         "count": 10,
-        "parsed": 11
+        "parsed": 10
       },
       {
         "id": "tldr",
