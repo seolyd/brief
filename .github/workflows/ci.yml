@@ -14,4 +14,4 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
-      - run: node --check scripts/fetch-feed.mjs && node --check scripts/brief.mjs
+      - run: node --check scripts/fetch-feed.mjs && node --check scripts/brief.mjs && node --check scripts/save-qt.mjs && node scripts/qt-context.mjs 2026-02-28 > /dev/null

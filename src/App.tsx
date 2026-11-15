@@ -6,6 +6,7 @@ import { TabBar } from './components/TabBar'
 import { Morning } from './pages/Morning'
 import { Evening } from './pages/Evening'
 import { Listen } from './pages/Listen'
+import { Qt } from './pages/Qt'
 
 export function App() {
   const [data, setData] = useState<DataState>({ loading: true, feed: null, brief: null })
@@ -21,6 +22,7 @@ export function App() {
           <Route path="/" element={<Morning />} />
           <Route path="/evening" element={<Evening />} />
           <Route path="/listen" element={<Listen />} />
+          <Route path="/qt" element={<Qt />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
         <TabBar />
