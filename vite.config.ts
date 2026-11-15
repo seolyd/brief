@@ -30,8 +30,14 @@ export default defineConfig({
             handler: 'NetworkFirst',
             options: { cacheName: 'data' },
           },
+          {
+            // 성경 본문과 QT 읽기표는 거의 바뀌지 않습니다. 한 번 받으면 오프라인에서도 읽습니다.
+            urlPattern: ({ url }) => url.pathname.startsWith('/bible/') || url.pathname.startsWith('/qt/'),
+            handler: 'StaleWhileRevalidate',
+            options: { cacheName: 'bible' },
+          },
         ],
-        navigateFallbackDenylist: [/^\/data\//],
+        navigateFallbackDenylist: [/^\/data\//, /^\/bible\//, /^\/qt\/plans/],
       },
     }),
   ],

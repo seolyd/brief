@@ -227,3 +227,88 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .prose th { font-weight: 700; color: var(--ink-2); border-bottom: 2px solid var(--line); white-space: nowrap; }
 /* 첫 열은 종목·지수 이름이라 쪼개지면 못 읽습니다. */
 .prose td:first-child { white-space: nowrap; font-weight: 600; }
+
+/* Daily QT */
+.qt-lead { margin: 14px 0 0; color: var(--ink-2); font-size: 16px; }
+.qt-note {
+  margin: 14px 0 0; padding: 10px 14px; border-radius: 10px; background: var(--accent-soft);
+  color: var(--ink-2); font-size: 15px;
+}
+.qt-head { margin-top: 20px; }
+.qt-day { margin: 0; color: var(--warm); font-size: 14px; font-weight: 600; }
+.qt-head h2 { margin: 2px 0 0; font-family: Georgia, serif; font-size: 26px; line-height: 1.3; letter-spacing: -0.01em; }
+.qt-title { margin: 4px 0 0; color: var(--ink-2); font-size: 17px; }
+.qt-key {
+  margin: 18px 0 0; padding: 14px 16px; border-radius: var(--radius); background: var(--surface);
+  border: 1px solid var(--line); border-left: 3px solid var(--warm);
+}
+.qt-key p { margin: 0; font-family: Georgia, serif; font-size: 1.08em; line-height: 1.6; }
+.qt-key cite { display: block; margin-top: 6px; color: var(--ink-3); font-size: 14px; font-style: normal; }
+.qt-block { margin-top: 28px; }
+.qt-block > h3 {
+  margin: 0 0 8px; font-size: 15px; font-weight: 700; color: var(--ink-2); letter-spacing: 0.02em;
+  padding-bottom: 6px; border-bottom: 1px solid var(--line);
+}
+.verses { list-style: none; margin: 0; padding: 0; }
+.verses .ch { display: block; margin: 12px 0 2px; color: var(--accent); font-weight: 700; font-size: 15px; }
+.verse {
+  display: block; width: 100%; text-align: left; border: 0; background: none; padding: 5px 6px; margin: 0 -6px;
+  border-radius: 8px; line-height: 1.8; font-size: 1em;
+}
+.verse sup { color: var(--warm); font-size: 0.7em; font-weight: 700; margin-right: 4px; font-variant-numeric: tabular-nums; }
+.verse.on { background: color-mix(in srgb, var(--warm) 18%, transparent); }
+.qt-src { margin: 10px 0 0; color: var(--ink-3); font-size: 14px; }
+.qt-prose { margin-top: 0; font-size: 1em; }
+.qt-questions { margin: 0; padding-left: 1.3em; }
+.qt-questions li { margin: 6px 0; }
+.qt-record label { display: grid; gap: 4px; margin-top: 12px; }
+.qt-record label span { font-size: 15px; font-weight: 600; color: var(--ink-2); }
+.qt-record textarea {
+  width: 100%; padding: 12px 14px; border-radius: 10px; border: 1px solid var(--line); resize: vertical;
+  background: var(--surface); color: var(--ink); font: inherit; font-size: 16px; line-height: 1.6;
+}
+.qt-saved { margin: 10px 0 0; color: var(--ink-3); font-size: 14px; }
+.qt-m { font-size: 17px; }
+.qt-l { font-size: 19px; }
+.qt-xl { font-size: 22px; }
+.qt-l .qt-record textarea { font-size: 18px; }
+.qt-xl .qt-record textarea { font-size: 20px; }
+
+.plans { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.plan {
+  width: 100%; text-align: left; display: grid; gap: 4px; padding: 14px 16px; border-radius: var(--radius);
+  border: 1px solid var(--line); background: var(--surface);
+}
+.plan.on { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
+.plan-title { font-weight: 700; font-size: 18px; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.plan-title em {
+  font-style: normal; font-size: 12px; font-weight: 700; color: var(--bg); background: var(--accent);
+  border-radius: 6px; padding: 1px 6px;
+}
+.plan-title em.soft { background: var(--line); color: var(--ink-2); }
+.plan-sum { color: var(--ink-2); font-size: 15px; }
+.plan-sample { color: var(--ink-3); font-size: 13px; }
+
+.qt-stats { margin-top: 18px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.qt-stats div {
+  padding: 12px 10px; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line);
+  display: flex; flex-direction: column; align-items: center; text-align: center;
+}
+.qt-stats strong { font-size: 26px; color: var(--accent); font-variant-numeric: tabular-nums; line-height: 1.2; }
+.qt-stats span { font-size: 13px; color: var(--ink-3); }
+.cal-head { display: flex; justify-content: space-between; align-items: center; }
+.cal-head .link { font-size: 22px; padding: 0 10px; }
+.cal-head .link:disabled { opacity: 0.3; }
+.cal { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; text-align: center; }
+.cal-w { font-size: 13px; color: var(--ink-3); padding: 4px 0; }
+.cal-d {
+  aspect-ratio: 1; border: 0; border-radius: 10px; background: none; font-size: 15px;
+  font-variant-numeric: tabular-nums; color: var(--ink-2);
+}
+.cal-d:disabled { color: var(--ink-3); opacity: 0.45; }
+.cal-d.has { background: var(--done); color: var(--bg); font-weight: 700; }
+.cal-d.today { box-shadow: inset 0 0 0 2px var(--accent); }
+.qt-list { list-style: none; margin: 0; padding: 0; }
+.qt-list li { border-bottom: 1px solid var(--line); }
+.qt-list button { width: 100%; text-align: left; border: 0; background: none; padding: 12px 0; display: grid; gap: 2px; }
+.qt-list .title { font-weight: 600; }
