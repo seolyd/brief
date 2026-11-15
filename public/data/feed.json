@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:19:07.742Z",
+  "generatedAt": "2026-11-15T17:27:59.657Z",
   "domains": [
     {
       "id": "global",
@@ -57,6 +57,66 @@
   ],
   "items": [
     {
+      "id": "kmib:https://www.kmib.co.kr/article/20261115501536",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "또 일본에 막힌 한국 야구⋯ APBC 3연속 준우승",
+      "url": "https://www.kmib.co.kr/article/20261115501536",
+      "publishedAt": "2026-11-16T14:43:58.000Z",
+      "excerpt": "한국의 세 번째 투수 조동욱이 15일 도쿄돔에서 열린 일본과의 2026 APBC 결승전 6회말에 등판해 역투하고 있다. AP연합뉴스 2026 아시아프로야구챔피언십(APBC) 결승에 나선 한국 야구가 또다시 일본의 벽에 막혔다. 이번 대회 일본과의 두 차례 맞대결에서 모두 패하며 한일전 연패를 13경기로 늘렸고, 3회 연속 준우승이라는 씁쓸한 성적표를 받았다. 최원호 감독이 이끄는 대표팀은 15일 일본 도쿄돔에서 열린 2026 …"
+    },
+    {
+      "id": "kmib:https://www.kmib.co.kr/article/20261115501508",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "부정행위 첨단장비 무방비 유통⋯ 감독관 ‘맨눈 감시’론 한계",
+      "url": "https://www.kmib.co.kr/article/20261115501508",
+      "publishedAt": "2026-11-16T13:28:58.000Z",
+      "excerpt": "스마트안경과 초소형 카메라 등을 활용한 시험 부정행위가 잇따르고 있지만 육안 감시에 의존하는 기존 감독체계로는 이를 잡아내기 어렵다는 지적이 나온다. 사진은 서울의 한 매장에 진열된 초소형 카메라들. 뉴시스 스마트안경과 초소형 카메라, 인공지능(AI)이 결합된 부정행위가 국가자격시험장을 파고들고 있지만 감독체계는 인간의 눈에만 의존할 뿐 첨단기기의 진화를 따라가지 못하고 있다. 첨단기기는 육안으로 식별하기 어려운 데다 짧은 순…"
+    },
+    {
+      "id": "kmib:https://www.kmib.co.kr/article/20261115501495",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "착하던 딸 갑자기 달라져⋯ 남친 ‘새엄마’의 가스라이팅 있었나",
+      "url": "https://www.kmib.co.kr/article/20261115501495",
+      "publishedAt": "2026-11-16T13:20:23.000Z",
+      "excerpt": "AI 생성 이미지 “엄마가 너무 미안해⋯.” 지난 13일 경기 고양시 서울시립승화원. 지난 10일 서울 성북구 정릉동의 한 에어비앤비 숙소에서 살해된 김모(15)양의 화장(火葬)이 진행되는 동안 화장장에는 김양 어머니의 통곡이 울려 퍼졌다. 옅은 미소를 띤 영정 속 앳된 얼굴은 화장장과는 어울리지 않는 모습이었다. 믿기지 않는 현실에 김양의 아버지는 고개를 떨군 채 참았던 눈물을 흘렸다. 10여명의 친척들도 천장을 바라보며 눈…"
+    },
+    {
+      "id": "kmib:https://www.kmib.co.kr/article/20261115501493",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "‘저가 매수’ 나선 개미들⋯ 마통 잔액 4년 3개월 만에 최대",
+      "url": "https://www.kmib.co.kr/article/20261115501493",
+      "publishedAt": "2026-11-16T13:18:44.000Z",
+      "excerpt": "연합뉴스 국내 5대 은행의 마이너스통장 잔액이 44조원을 웃돌며 4년 3개월 만에 최대 수준을 기록했다. 급격한 증시 조정 국면에서 주가 반등을 노린 투자자들이 신용대출로 투자 자금을 확보하고 있다는 분석이 나온다. 15일 금융권에 따르면 KB국민·신한·하나·우리·NH농협은행의 지난 12일 기준 마이너스통장 잔액은 44조2632억원으로 집계됐다. 2022년 8월 말(44조7699억원) 이후 최대 규모다. 지난달 말(43조595…"
+    },
+    {
+      "id": "kmib:https://www.kmib.co.kr/article/20261115501492",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“韓 반도체 낙수효과, 대만보다 더디게 나타날 수도”",
+      "url": "https://www.kmib.co.kr/article/20261115501492",
+      "publishedAt": "2026-11-16T13:18:39.000Z",
+      "excerpt": "연합뉴스 한국에서 ‘반도체 낙수효과’가 대만보다 더디게 나타날 수 있다는 전망이 나왔다. 반도체 쏠림과 증시 급락 등의 영향으로 소비 회복이 지연될 것이라는 분석이다. 인공지능(AI) 열풍에 따른 반도체 수출 호조가 한국의 경제성장률 상승을 이끌고 있지만 제조업 고용 구조와 K자형 양극화 양상이 내수 확산의 제약 요인으로 지목된다. 15일 한국은행 조사국 이준호 과장과 전민근 조사역이 최근 발표한 ‘대만 반도체 경기 호황의 특…"
+    },
+    {
       "id": "kmib:https://www.kmib.co.kr/article/20261115501465",
       "sourceId": "kmib",
       "sourceName": "국민일보",
@@ -93,88 +153,28 @@
       "excerpt": "1년 전 이때쯤 인공지능(AI) 산업을 지배했던 낙관론이 지금까지 이어졌다면 세상은 이 말에 귀를 기울였을지도 모르겠다. ‘엔비디아는 1092억 달러의 분기 매출을 달성해 전년 동기 대비 91% 성장할 것으로 전망된다.’ 주식 투자자라면 다음에 나오는 말이 더 솔깃할 수 있겠다. ‘조정 주당순이익(EPS)은 2.48달러로 1년 전보다 30% 이상 증가할 것으로 예상된다.’ 오는 18일 새벽 미국 뉴욕 증시 마감 직후 공개되는 …"
     },
     {
-      "id": "kmib:https://www.kmib.co.kr/article/20261115501413",
+      "id": "kmib:https://www.kmib.co.kr/article/20261115501423",
       "sourceId": "kmib",
       "sourceName": "국민일보",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "[단독] 특검, 선관위 과장 피의자 조사⋯ 선거물품 특혜 의혹 수사 확대",
-      "url": "https://www.kmib.co.kr/article/20261115501413",
-      "publishedAt": "2026-11-16T11:18:54.000Z",
-      "excerpt": "이태한 선거관리위원회 특별검사가 지난달 28일 6·3 지방선거 투표용지 공개 검증을 위해 서울 올림픽공원 핸드볼경기장에 도착해 대기하고 있다. 연합뉴스 중앙선거관리위원회의 선거물품 계약 관련 비리 의혹을 수사 중인 선관위 특검이 계약 업무를 총괄한 중앙선관위 선거기반과장을 지난 10일 피의자 신분으로 불러 조사한 것으로 파악됐다. 특검은 투표용지 부족 사태와 함께 수사의 다른 한 축인 선거물품 계약 비리 수사에도 속도를 내는 …"
+      "title": "“CPTPP 가입해야⋯ 한·미 FTA 때처럼 지도자 리더십 중요”",
+      "url": "https://www.kmib.co.kr/article/20261115501423",
+      "publishedAt": "2026-11-16T11:21:59.000Z",
+      "excerpt": "최석영 법무법인 광장 국제통상연구원장이 지난 9일 서울 중구 광장 사무실에서 국민일보와 인터뷰하고 있다. 그는 “법과 질서는 멀리 있고 주먹은 가까이 있는 시대”라며 국내 산업 경쟁력 강화와 장기적인 국익을 추구하는 리더십이 필요하다고 강조했다. 최현규 기자 세계무역기구(WTO) 체제하의 자유무역질서가 약화하고 있다. 미국의 관세·투자 압박과 중국의 핵심광물 수출 통제 등 ‘강대국의 힘’이 앞서는 시대다. 미국 중간선거로 정치…"
     },
     {
-      "id": "kmib:https://www.kmib.co.kr/article/20261115501411",
+      "id": "kmib:https://www.kmib.co.kr/article/20261115501421",
       "sourceId": "kmib",
       "sourceName": "국민일보",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "[포토] 수능 응시, 8년 만에 50만명 넘을까",
-      "url": "https://www.kmib.co.kr/article/20261115501411",
-      "publishedAt": "2026-11-16T11:18:51.000Z",
-      "excerpt": "2027학년도 대학수학능력시험을 나흘 앞둔 15일 서울 성북구 강북종로학원 한쪽에 책들이 수북이 쌓여 있다. 올해가 현 수능 체제로 치러지는 마지막 해인 데다 졸업생 지원자가 늘면서 수능 응시자가 8년 만에 50만명을 넘어설지 주목된다."
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261115501407",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "미·중·러, 첫 3자 정상회담⋯ 셈법 제각각 ‘제2 얄타’ 우려",
-      "url": "https://www.kmib.co.kr/article/20261115501407",
-      "publishedAt": "2026-11-16T11:17:42.000Z",
-      "excerpt": "미국·중국·러시아가 참여하는 3자 정상회담이 오는 19일 중국 선전에서 개최된다. 제2차 세계대전 이후 갈등과 공조를 반복해 온 미·중·러의 역사상 첫 정상회담이다. 다만 핵무기 감축(핵군축), 우크라이나 전쟁 등을 둘러싼 세 나라의 셈법이 상충돼 실질적 성과에 대해선 회의적인 시각이 우세하다. 14일(현지시간) AP·로이터통신 등에 따르면 미국 백악관과 러시아 크렘린궁은 오는 17~19일 열리는 아시아태평양경제협력체(APEC…"
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261115501405",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“기업 AI 비용 90% 절감”⋯ LGU+, 내년 토큰 사업 나선다",
-      "url": "https://www.kmib.co.kr/article/20261115501405",
-      "publishedAt": "2026-11-16T11:17:36.000Z",
-      "excerpt": "LG유플러스가 기업의 인공지능(AI) 운영 비용을 대폭 낮추는 사업에 뛰어든다. AI 모델 선택부터 연산 처리, 반도체 활용까지 전 과정에서 비용을 최대 90% 이상 절감한 기술을 바탕으로 내년부터 기업 간 거래(B2B)를 본격화할 계획이다. LG유플러스는 지난 12일 열린 ‘AI 토큰 최적화 스터디’에서 AI 운영 비용 절감 기술 개발 성과와 내년도 사업계획을 공개했다. LG유플러스는 AI 모델을 효율적으로 선택하고 활용하는…"
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261115501403",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "LG전자 美테네시 공장, 누적 생산 1000만대 돌파",
-      "url": "https://www.kmib.co.kr/article/20261115501403",
-      "publishedAt": "2026-11-16T11:17:32.000Z",
-      "excerpt": "LG전자 미국 테네시주 생산법인에서 지난 13일(현지시간) 열린 세탁가전 누적 생산 1000만대 돌파 기념행사에서 참석자들이 포즈를 취하고 있다. LG전자 제공 LG전자가 미국 테네시주 공장에서 생산한 세탁가전의 누적 생산량이 1000만대를 넘어섰다. 2018년 공장 가동을 시작한 지 8년 만에 이룬 성과다. 테네시 공장은 현지 생산을 바탕으로 공급망 경쟁력을 높이며 LG전자의 북미 가전 사업을 이끄는 핵심 거점으로 자리 잡았…"
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261115501400",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "승조원 없이 AI가 움직이는 600t 군함⋯ HD현대가 띄운 미래 전력",
-      "url": "https://www.kmib.co.kr/article/20261115501400",
-      "publishedAt": "2026-11-16T11:17:26.000Z",
-      "excerpt": "HD현대가 미국 인공지능(AI) 방산기업 안두릴과 공동개발한 무인수상함 ‘ASV 알파’가 지난 12일 울산 HD현대중공업 조선소 도크에 진수돼 있다. HD현대 제공 “하나, 둘, 셋!” 사회자의 힘찬 구령에 맞춰 참석자들이 오색 리본을 자르자 공중에 매달려 있던 샴페인 병이 함정 상단에 부딪쳐 산산조각 났다. 선체 위로 샴페인이 시원하게 쏟아져 내리는 동시에 화려한 축포가 연이어 터졌다. 새로운 군함의 탄생을 축하하고 안전한 …"
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261115501398",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘깃발’ 놓고 고민하는 정청래⋯ 신천지로 반전 노리지만 역부족",
-      "url": "https://www.kmib.co.kr/article/20261115501398",
-      "publishedAt": "2026-11-16T11:16:49.000Z",
-      "excerpt": "최민희 더불어민주당 최고위원의 발언 논란으로 당내 계파 갈등이 격화하고 있지만 친청(친정청래)계의 구심점인 정청래( 사진 ) 의원은 사흘째 침묵을 이어가고 있다. 신천지 집단 입당 의혹을 둘러싼 공방에는 적극적으로 목소리를 냈던 정 의원이 최 최고위원의 비공개 간담회 발언이 공개된 이후에는 장고에 들어간 모습이다. 정 의원이 김민석 대표 취임 100일을 기점으로 본격적인 정치 행보를 예고했던 만큼 향후 대응 방향에 관심이 쏠리…"
+      "title": "유니폼 반납한 호날두⋯ ‘7번’ 예우 갖춘 포르투갈",
+      "url": "https://www.kmib.co.kr/article/20261115501421",
+      "publishedAt": "2026-11-16T11:21:16.000Z",
+      "excerpt": "포르투갈축구협회(FPF)가 공개한 자국 대표팀의 새로운 7번 디자인. 크리스티아누 호날두가 쓰던 7번과 구분되도록 중간에 가로획이 들어가 있다. FPF 제공 국가대표로 맞붙는 ‘메호대전’은 더 이상 볼 수 없게 됐다. 리오넬 메시(39·인터 마이애미)에 이어 크리스티아누 호날두(41·알나스르)도 정든 국가대표팀 유니폼을 반납했다. 포르투갈축구협회(FPF)는 15일(한국시간) 대표팀에서 은퇴한 호날두를 기리기 위해 그를 상징하는…"
     },
     {
       "id": "hani:https://www.hani.co.kr/arti/politics/politics_general/1287458.html",
@@ -185,7 +185,7 @@
       "kind": "article",
       "title": "김민석, ‘발언 논란’ 최민희 징계 속도…중징계 땐 친명-친청 전면전",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1287458.html",
-      "publishedAt": "2026-11-15T16:19:07.037Z",
+      "publishedAt": "2026-11-15T17:27:59.657Z",
       "excerpt": ""
     },
     {
@@ -197,7 +197,7 @@
       "kind": "article",
       "title": "한국, 부끄러운 ‘준우승’…APBC 결승전 일본에 1-5 패",
       "url": "https://www.hani.co.kr/arti/international/international_general/1287457.html",
-      "publishedAt": "2026-11-15T16:19:07.037Z",
+      "publishedAt": "2026-11-15T17:27:59.657Z",
       "excerpt": ""
     },
     {
@@ -209,7 +209,7 @@
       "kind": "article",
       "title": "“한국 겨울 걱정했는데 든든”…이주노동자 위해 겨울옷·작업복 3만벌",
       "url": "https://www.hani.co.kr/arti/area/area_general/1287456.html",
-      "publishedAt": "2026-11-15T16:19:07.037Z",
+      "publishedAt": "2026-11-15T17:27:59.657Z",
       "excerpt": ""
     },
     {
@@ -221,7 +221,7 @@
       "kind": "article",
       "title": "폐지 법안 발의된 ‘제주 무사증 입국’…제주도 “관광·외교 핵심 제도” 반발",
       "url": "https://www.hani.co.kr/arti/area/jeju/1287455.html",
-      "publishedAt": "2026-11-15T16:19:07.037Z",
+      "publishedAt": "2026-11-15T17:27:59.657Z",
       "excerpt": ""
     },
     {
@@ -233,7 +233,7 @@
       "kind": "article",
       "title": "국제민중법정 “미 정부, 한국 원폭 피해자들에게 배상하라”",
       "url": "https://www.hani.co.kr/arti/area/yeongnam/1287454.html",
-      "publishedAt": "2026-11-15T16:19:07.037Z",
+      "publishedAt": "2026-11-15T17:27:59.657Z",
       "excerpt": ""
     },
     {
@@ -245,7 +245,7 @@
       "kind": "article",
       "title": "방치된 빈집에 숨 불어넣는 청주…돌봄·관광·예술의 ‘공유 공간’으로 재탄생",
       "url": "https://www.hani.co.kr/arti/area/chungcheong/1287453.html",
-      "publishedAt": "2026-11-15T16:19:07.037Z",
+      "publishedAt": "2026-11-15T17:27:59.657Z",
       "excerpt": ""
     },
     {
@@ -257,7 +257,7 @@
       "kind": "article",
       "title": "수백만명 치르는 국가시험 ‘AI 부정’ 비상…육안 감독만으로 역부족 우려",
       "url": "https://www.hani.co.kr/arti/society/society_general/1287452.html",
-      "publishedAt": "2026-11-15T16:19:07.037Z",
+      "publishedAt": "2026-11-15T17:27:59.657Z",
       "excerpt": ""
     },
     {
@@ -269,7 +269,7 @@
       "kind": "article",
       "title": "노동부 “올해 국가자격시험 AI 부정행위 전수조사…제보도 받을 것”",
       "url": "https://www.hani.co.kr/arti/society/labor/1287451.html",
-      "publishedAt": "2026-11-15T16:19:07.037Z",
+      "publishedAt": "2026-11-15T17:27:59.657Z",
       "excerpt": ""
     },
     {
@@ -281,7 +281,7 @@
       "kind": "article",
       "title": "스마트폰도 안 걷어…초소형 카메라로 문제 찍고 ‘AI 답’ 받아",
       "url": "https://www.hani.co.kr/arti/society/society_general/1287450.html",
-      "publishedAt": "2026-11-15T16:19:07.037Z",
+      "publishedAt": "2026-11-15T17:27:59.657Z",
       "excerpt": ""
     },
     {
@@ -293,8 +293,104 @@
       "kind": "article",
       "title": "“AI 안경만? 초소형 카메라 대책은 왜 없나”…수능앞 수험생 불안 확산",
       "url": "https://www.hani.co.kr/arti/society/schooling/1287449.html",
-      "publishedAt": "2026-11-15T16:19:07.037Z",
+      "publishedAt": "2026-11-15T17:27:59.657Z",
       "excerpt": ""
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261116001500098",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "나토, 내년 정상회의 건너뛸 듯…\"동맹 내 긴장 반영\"",
+      "url": "https://www.yna.co.kr/view/AKR20261116001500098",
+      "publishedAt": "2026-11-15T17:18:07.000Z",
+      "excerpt": "(브뤼셀=연합뉴스) 현윤경 특파원 = 북대서양조약기구(NATO)가 내년에 알바니아에서 개최하려던 정상회의를 건너뛸 예정이라고 AP통신이 15일(..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261116001300071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "\"러트닉, 가족 회사와 연관된 반도체 수출규제 완화 추진\"",
+      "url": "https://www.yna.co.kr/view/AKR20261116001300071",
+      "publishedAt": "2026-11-15T17:16:51.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 박성민 특파원 = 하워드 러트닉 미국 상무장관이 설립한 투자회사가 미국의 규제를 우회해 중국에 최첨단 인공지능(AI) 반도체..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261116001200071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "'빅3' 스트롱맨의 담판…제2의 얄타회담 돼 국제질서 뒤흔드나",
+      "url": "https://www.yna.co.kr/view/AKR20261116001200071",
+      "publishedAt": "2026-11-15T17:11:30.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 백나리 특파원 = 아시아태평양경제협력체(APEC) 정상회의를 계기로 미국과 중국, 러시아의 '빅3' 정상회담이 성사되면서 강..."
+    },
+    {
+      "id": "sedaily:https://www.sedaily.com/article/20114428",
+      "sourceId": "sedaily",
+      "sourceName": "서울경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“한국은 길 찾기 너무 어려워” 외국인 불만 쏟아졌는데…20년만에 규제 풀렸다",
+      "url": "https://www.sedaily.com/article/20114428",
+      "publishedAt": "2026-11-15T17:00:05.000Z",
+      "excerpt": ""
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+      "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+      "publishedAt": "2026-11-15T16:56:40.000Z",
+      "excerpt": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+      "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "publishedAt": "2026-11-15T16:49:11.000Z",
+      "excerpt": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter."
+    },
+    {
+      "id": "semafor:https://www.semafor.com/article/11/15/2026/under-pressure-lutnick-joins-trump-in-china",
+      "sourceId": "semafor",
+      "sourceName": "Semafor",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Under pressure, Lutnick joins Trump in China",
+      "url": "https://www.semafor.com/article/11/15/2026/under-pressure-lutnick-joins-trump-in-china",
+      "publishedAt": "2026-11-15T16:34:06.000Z",
+      "excerpt": "As Nvidia fallout deepens, Commerce Secretary faces mounting pressure over his role in slowing China chip curbs."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261116000800071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "트럼프·민주, 美항공사태 네탓 공방…예산 갈등으로 번져",
+      "url": "https://www.yna.co.kr/view/AKR20261116000800071",
+      "publishedAt": "2026-11-15T16:21:16.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 박성민 특파원 = 지난 13일(현지시간) 미국 전역에서 발생한 항공기 이륙 전면 중단 사태가 미 정치권의 네 탓 공방으로 번..."
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261116000700072",
@@ -633,18 +729,6 @@
       "excerpt": "\"하루 몇 시간만 투자하면 큰돈 벌 수 있다\", 요즘 유튜브에서 흔히 볼 수 있는 '부업 강의' 광고입니다. 그런데 이런 광고 보고 몇백만 원씩 냈다가 원하는 강의 듣지도 못하고, 환불까지 제대로 못 받는 피해가 속출하고 있습니다.박세원 기자가 취재했습니다."
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261115056800098",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "스페인 카나리아 제도에 이주민 밀물…\"수용 역량 한계 도달\"",
-      "url": "https://www.yna.co.kr/view/AKR20261115056800098",
-      "publishedAt": "2026-11-15T14:54:20.000Z",
-      "excerpt": "(브뤼셀=연합뉴스) 현윤경 특파원 = 북아프리카 모로코에서 가까운 스페인 카나리아 제도에 14일(현지시간) 하루에만 서아프리카에서 출발한 배를 ..."
-    },
-    {
       "id": "cnbc-top:https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
       "sourceId": "cnbc-top",
       "sourceName": "CNBC Top News",
@@ -667,6 +751,18 @@
       "url": "https://www.bloomberg.com/news/videos/2026-11-15/congress-presses-nvidia-over-china-chip-access-video",
       "publishedAt": "2026-11-15T14:50:56.000Z",
       "excerpt": "Democratic Rep. Raja Krishnamoorthi is on Bloomberg This Weekend to discuss the national security questions surrounding former Nvidia CEO Jensen Huang, including what Huang knew about alleged Chinese intelligence activity and whether restri…"
+    },
+    {
+      "id": "hn:https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "publishedAt": "2026-11-15T14:46:58.000Z",
+      "excerpt": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 395 # Comments: 243"
     },
     {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008846759",
@@ -753,18 +849,6 @@
       "excerpt": "시험 때 한 씨의 자리는 감독관 바로 앞, 맨 앞자리였습니다. 그런데도 잡히지 않았고, 심지어 회계사 시험에서까지 부정행위를 저질렀습니다. 그런데도, 한 씨가 실토하기 전까지 감독 당국은 \"문제를 찾지 못했다\"는 입장만 내놨습니다.이어서 전형우 기자입니다."
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261115055400099",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "요르단서 교회 총격 살해범 3명에 사형 선고…성탄절 행사도 취소",
-      "url": "https://www.yna.co.kr/view/AKR20261115055400099",
-      "publishedAt": "2026-11-15T14:28:43.000Z",
-      "excerpt": "(요하네스버그=연합뉴스) 나확진 특파원 = 지난달 요르단 남부에서 교회에 침입한 뒤 무차별 총격해 주민 9명을 살해하고 25명을 다치게 한 혐의..."
-    },
-    {
       "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-15/the-1973-oil-crisis-still-matters-today-video",
       "sourceId": "bbg-markets",
       "sourceName": "Bloomberg Markets",
@@ -799,30 +883,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-reshapes-washington-s-tech-debate-video",
       "publishedAt": "2026-11-15T14:10:32.000Z",
       "excerpt": "Veda Partners’ Henrietta Treyz and Washington Post national security reporter Tara Copp are on Bloomberg This Weekend to discuss how the Nvidia crisis is fueling bipartisan scrutiny of chip export controls and raising national security conc…"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261114048152084",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "아세안정상회의 개막…\"미얀마 평화 진전시 관계회복 고려\"(종합2보)",
-      "url": "https://www.yna.co.kr/view/AKR20261114048152084",
-      "publishedAt": "2026-11-15T14:08:52.000Z",
-      "excerpt": "(하노이=연합뉴스) 박진형 특파원 = 아세안(ASEAN·동남아시아국가연합) 회원국과 한국·미국·일본 등 주요국 정상들이 모이는 정상외교 무대인 ..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261115054900009",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "'남미 트럼프' 밀레이, 재선가도 흔들…월가, 승률 50%미만 예상",
-      "url": "https://www.yna.co.kr/view/AKR20261115054900009",
-      "publishedAt": "2026-11-15T14:04:27.000Z",
-      "excerpt": "(부에노스아이레스=연합뉴스) 김선정 통신원 = 하비에르 밀레이 아르헨티나 대통령이 2027년 재선을 앞두고 정치적 시험대에 올랐다."
     },
     {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008846752",
@@ -910,6 +970,18 @@
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846741",
       "publishedAt": "2026-11-15T13:18:00.000Z",
       "excerpt": "▲ 서울남부지법서울 양천구에서 70대 아내를 살해한 후 직접 신고한 80대 남성이 구속됐습니다.서울남부지법 김한성 부장판사는 오늘 오…"
+    },
+    {
+      "id": "hn:https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "publishedAt": "2026-11-15T13:15:22.000Z",
+      "excerpt": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 213 # Comments: 109"
     },
     {
       "id": "yna-pol:https://www.yna.co.kr/view/AKR20261115038551001",
@@ -1152,18 +1224,6 @@
       "excerpt": "(세종=연합뉴스) 이대희 김수현 기자 = 홍철호 전 대통령실 정무수석이 자신이 소유한 회사의 닭고기 납품 사업을 자녀 회사에 넘겨준 과정에서 부..."
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-      "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-      "publishedAt": "2026-11-15T12:00:01.000Z",
-      "excerpt": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum."
-    },
-    {
       "id": "axios:https://www.axios.com/2026/11/15/space-data-centers-risks-stargazing-report",
       "sourceId": "axios",
       "sourceName": "Axios",
@@ -1174,6 +1234,18 @@
       "url": "https://www.axios.com/2026/11/15/space-data-centers-risks-stargazing-report",
       "publishedAt": "2026-11-15T11:45:05.000Z",
       "excerpt": "Sprawling networks of space data centers could make it nearly impossible for humans to stargaze. That's just one of the many risks that come with placing tens of thousands of AI computers into orbit, according to a new report. Why it matter…"
+    },
+    {
+      "id": "hn:https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "publishedAt": "2026-11-15T11:40:51.000Z",
+      "excerpt": "Article URL: https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 212 # Comments: 90"
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=37200&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -1491,18 +1563,6 @@
       "excerpt": "(서울=연합뉴스) 강류나 기자 = 올해 세무사 시험 수석 합격자 A씨가 15일 인공지능(AI)를 이용한 부정행위를 자백하면서 공인회계사 1차 시..."
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
-      "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
-      "publishedAt": "2026-11-15T08:34:46.000Z",
-      "excerpt": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang."
-    },
-    {
       "id": "sedaily:https://www.sedaily.com/article/20114493",
       "sourceId": "sedaily",
       "sourceName": "서울경제 경제",
@@ -1728,7 +1788,7 @@
       "title": "Court denies motion to dismiss DRAM price fixing case",
       "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
       "publishedAt": "2026-11-15T01:18:36.000Z",
-      "excerpt": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 360 # Comments: 149"
+      "excerpt": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 386 # Comments: 164"
     },
     {
       "id": "sedaily:https://www.sedaily.com/article/20114373",
@@ -1764,19 +1824,7 @@
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
       "url": "https://retrocomputing.stackexchange.com/questions/17957",
       "publishedAt": "2026-11-14T22:22:49.000Z",
-      "excerpt": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 270 # Comments: 142"
-    },
-    {
-      "id": "sedaily:https://www.sedaily.com/article/20114198",
-      "sourceId": "sedaily",
-      "sourceName": "서울경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "대한항공, 화물사업 온라인 서비스 안착…반도체發 특수에 노 젓는다",
-      "url": "https://www.sedaily.com/article/20114198",
-      "publishedAt": "2026-11-14T22:00:05.000Z",
-      "excerpt": ""
+      "excerpt": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 278 # Comments: 145"
     },
     {
       "id": "hn:https://www.spacex.com/launches/starship-flight-15",
@@ -1788,7 +1836,7 @@
       "title": "SpaceX catches the Starship to end Flight 15",
       "url": "https://www.spacex.com/launches/starship-flight-15",
       "publishedAt": "2026-11-14T21:22:24.000Z",
-      "excerpt": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1454 # Comments: 980"
+      "excerpt": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1481 # Comments: 1017"
     },
     {
       "id": "lenny:https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
@@ -1825,7 +1873,7 @@
       "title": "A family tree of software job titles",
       "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
       "publishedAt": "2026-11-14T17:45:19.000Z",
-      "excerpt": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 382 # Comments: 189"
+      "excerpt": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 390 # Comments: 192"
     },
     {
       "id": "hn:https://www.crissyfield.de/research/lovable-en/",
@@ -1837,7 +1885,7 @@
       "title": "Lovable apps expose passport details and more than 200K private messages",
       "url": "https://www.crissyfield.de/research/lovable-en/",
       "publishedAt": "2026-11-14T17:43:10.000Z",
-      "excerpt": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 937 # Comments: 357"
+      "excerpt": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 944 # Comments: 360"
     },
     {
       "id": "axios:https://www.axios.com/2026/11/14/faa-ground-stop-outage-update",
@@ -1850,6 +1898,18 @@
       "url": "https://www.axios.com/2026/11/14/faa-ground-stop-outage-update",
       "publishedAt": "2026-11-14T16:56:12.000Z",
       "excerpt": "Transportation Secretary Sean Duffy said Saturday that all FAA systems are back to \"full operations\" after an hours-long outage Friday evening that grounded all air traffic across the U.S. The big picture: Duffy reiterated his plea to Congr…"
+    },
+    {
+      "id": "hn:https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "publishedAt": "2026-11-14T15:40:52.000Z",
+      "excerpt": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 263 # Comments: 118"
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/14/stocks-with-upside-potential-in-an-uncertain-market.html",
@@ -1898,18 +1958,6 @@
       "url": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
       "publishedAt": "2026-11-14T14:02:39.000Z",
       "excerpt": "Berkshire Hathaway's red-hot shares are ending a strong week with four consecutive fresh record high closes."
-    },
-    {
-      "id": "hn:https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "KDE: The documentary [video]",
-      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "publishedAt": "2026-11-14T13:43:28.000Z",
-      "excerpt": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 539 # Comments: 122"
     },
     {
       "id": "sonkyung:https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261114.mp3",
@@ -2184,18 +2232,6 @@
       "url": "https://www.semafor.com/article/11/13/2026/gen-z-uses-ai-daily-but-feels-guilty-about-it-survey-finds",
       "publishedAt": "2026-11-13T17:40:10.000Z",
       "excerpt": "A new survey from Milltown Partners, shared first with Semafor, found that 73% of Gen Z adults haven’t made up their minds on AI, while half said they expect AI to harm society."
-    },
-    {
-      "id": "semafor:https://www.semafor.com/article/11/13/2026/microsoft-reports-progress-in-restoring-service-after-global-outage",
-      "sourceId": "semafor",
-      "sourceName": "Semafor",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "Microsoft reports progress in restoring service after global outage",
-      "url": "https://www.semafor.com/article/11/13/2026/microsoft-reports-progress-in-restoring-service-after-global-outage",
-      "publishedAt": "2026-11-13T17:31:57.000Z",
-      "excerpt": "The outage is the kind of issue that reminds the world how much of our digital infrastructure is reliant on just a few companies."
     },
     {
       "id": "economist:https://www.economist.com/the-world-this-week/2026/11/13/cover-story-newsletter-an-ai-crash-or-a-bull-in-the-bath",
@@ -2726,18 +2762,6 @@
       "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
       "publishedAt": "2026-11-10T15:00:21.000Z",
       "excerpt": "A deep conversation on the biggest challenges of developing with AI – while trying not to mention the phrase “AI” once. Why? To dig up the fundamentals that are as important as ever"
-    },
-    {
-      "id": "hn:https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "publishedAt": "2026-11-10T14:16:05.000Z",
-      "excerpt": "Article URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/ Comments URL: https://news.ycombinator.com/item?id=50440709 Points: 599 # Comments: 318"
     },
     {
       "id": "stratechery:https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/",
@@ -3345,7 +3369,7 @@
       {
         "id": "semafor",
         "count": 10,
-        "parsed": 269
+        "parsed": 211
       },
       {
         "id": "bbg-markets",
@@ -3369,8 +3393,8 @@
       },
       {
         "id": "hn",
-        "count": 7,
-        "parsed": 7
+        "count": 9,
+        "parsed": 9
       },
       {
         "id": "tldr",
