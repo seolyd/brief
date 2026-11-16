@@ -1,7 +1,28 @@
 {
-  "rewrites": [{ "source": "/((?!data/|assets/|bible/|qt/).*)", "destination": "/index.html" }],
+  "rewrites": [
+    {
+      "source": "/((?!data/|assets/|bible/|qt/|wealth/|api/).*)",
+      "destination": "/index.html"
+    }
+  ],
   "headers": [
-    { "source": "/data/(.*)", "headers": [{ "key": "Cache-Control", "value": "no-cache" }] },
-    { "source": "/sw.js", "headers": [{ "key": "Cache-Control", "value": "no-cache" }] }
+    {
+      "source": "/data/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache"
+        }
+      ]
+    },
+    {
+      "source": "/sw.js",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache"
+        }
+      ]
+    }
   ]
 }
