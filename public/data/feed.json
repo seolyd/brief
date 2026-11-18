@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T02:57:10.509Z",
+  "generatedAt": "2026-11-18T03:55:48.390Z",
   "domains": [
     {
       "id": "global",
@@ -105,18 +105,6 @@
       "excerpt": "AFP연합뉴스 &nbsp; 샌안토니오 스퍼스와 LA 레이커스가 2026-2027 미국프로농구(NBA) 서부 콘퍼런스 선두 경쟁을 주도하고 있다. 샌안토니오는 12연승, 레이커스는 8연승을 달리며 나란히 상승세를 이어가는 중이다. 샌안토니오와 레이커스는 17일(한국시간) 기준 12승 2패를 기록해 공동 선두에 올라 있다. 휴스턴 로키츠가 11승 4패로 3위에 자리했고, 미네소타 팀버울브스와 멤피스 그리즐리스(이상 10승 4패)도…"
     },
     {
-      "id": "kmib:https://www.kmib.co.kr/article/20261117502048",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[너섬情談] 시험범위 밖의 공부",
-      "url": "https://www.kmib.co.kr/article/20261117502048",
-      "publishedAt": "2026-11-18T12:06:54.000Z",
-      "excerpt": "시험을 보기 위해 배우는 사회&nbsp; 새로운 것에 대한 궁금함을&nbsp; 해결해가는 즐거움을 찾아보길&nbsp; ‘나는 새도 떨어뜨린다’는 옛날 권세가들이 무색하게도, 오늘날 대한민국에는 비행기마저 잠시 멈춰 세우는 날이 있다. 바로 매년 11월 셋째 주 목요일이면 어김없이 찾아오는 대학수학능력시험 날이다. 무슨 시험 하나에 비행기까지 못 뜨게 하냐고 할 수도 있다. 하지만 수능은 초·중·고 장장 12년간의 공부가 한 장…"
-    },
-    {
       "id": "kmib:https://www.kmib.co.kr/article/20261117502038",
       "sourceId": "kmib",
       "sourceName": "국민일보",
@@ -177,124 +165,412 @@
       "excerpt": "정병오 기독교윤리실천운동 공동대표가 17일 서울 종로구 오디세이학교 도서관에서 미소짓고 있다. 정 대표 제공 “인공지능(AI)을 악용한 부정행위로 혼란스러운 요즘이지만 모든 시험엔 늘 부정행위가 있어 왔습니다. 대입 시험을 코앞에 둔 지금, 요행 아닌 정직에 의지하는 신앙적 결단이 필요합니다.” 정병오(60) 기독교윤리실천운동(기윤실) 공동대표가 19일 대학수학능력시험(수능)을 치르는 수험생에게 당부한 말이다. 최근 세무사 시…"
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/politics/assembly/1287889.html",
+      "id": "kmib:https://www.kmib.co.kr/article/20261117502026",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[가정예배 365-11월 18일] 네 죄 사함을 받았느니라",
+      "url": "https://www.kmib.co.kr/article/20261117502026",
+      "publishedAt": "2026-11-18T11:55:39.000Z",
+      "excerpt": "찬송 : ‘예수 앞에 나오면’ 287장(통205) 신앙고백 : 사도신경 본문 : 마가복음 2장 1~12절 말씀 : 예수님께서 가버나움에 계시다는 소식이 퍼지자 사람들이 한 집에 모여들었습니다. 군중이 문 앞까지 가득 차서 더는 들어갈 틈이 없었습니다. 그때 네 사람이 중풍병자 한 사람을 들것에 누여 데려옵니다. 친구들은 그를 예수님께 데려가고 싶었지만 사람들 때문에 가까이 갈 수 없었습니다. 어떻게 해야 했을까요. 그들은 지붕…"
+    },
+    {
+      "id": "hani:https://www.hani.co.kr/arti/international/america/1287899.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "당정 “수능 응시 대학생 ‘AI 커닝’ 적발 시 대학 퇴학 등 입법 추진”",
-      "url": "https://www.hani.co.kr/arti/politics/assembly/1287889.html",
-      "publishedAt": "2026-11-18T02:57:04.760Z",
+      "title": "[속보] “민주당, 알래스카 상원도 승리”…56석 확보 전망",
+      "url": "https://www.hani.co.kr/arti/international/america/1287899.html",
+      "publishedAt": "2026-11-18T03:55:48.011Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/politics/bluehouse/1287888.html",
+      "id": "hani:https://www.hani.co.kr/arti/society/society_general/1287898.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "국가안보실, 웹 언어 ‘자바’ 취약점 확인에 민·관·군 긴급대책회의",
-      "url": "https://www.hani.co.kr/arti/politics/bluehouse/1287888.html",
-      "publishedAt": "2026-11-18T02:57:04.760Z",
+      "title": "AI 부정행위 의혹 ‘리트 만점자’, 현직 변호사가 고발…수능 성적도 수사할 듯",
+      "url": "https://www.hani.co.kr/arti/society/society_general/1287898.html",
+      "publishedAt": "2026-11-18T03:55:48.011Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/english_edition/e_international/1287887.html",
+      "id": "hani:https://www.hani.co.kr/arti/economy/economy_general/1287897.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "[News analysis] Trump makes an impromptu bid for talks. Will Kim Jong-un bite?",
-      "url": "https://www.hani.co.kr/arti/english_edition/e_international/1287887.html",
-      "publishedAt": "2026-11-18T02:57:04.760Z",
+      "title": "결혼 안 하는 이유 ‘고용 불안’ 2위로…저출생 대책도 ‘일자리’ 급부상",
+      "url": "https://www.hani.co.kr/arti/economy/economy_general/1287897.html",
+      "publishedAt": "2026-11-18T03:55:48.011Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/sports/soccer/1287886.html",
+      "id": "hani:https://www.hani.co.kr/arti/english_edition/e_business/1287896.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "태극전사들, 카타르 이겼지만 아쉬움 토로…“많은 득점 기회 놓쳐”",
-      "url": "https://www.hani.co.kr/arti/sports/soccer/1287886.html",
-      "publishedAt": "2026-11-18T02:57:04.760Z",
+      "title": "KOSPI’s stunning reversal: From 9,000 to below 5,000 in five months",
+      "url": "https://www.hani.co.kr/arti/english_edition/e_business/1287896.html",
+      "publishedAt": "2026-11-18T03:55:48.011Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/area/capital/1287885.html",
+      "id": "hani:https://www.hani.co.kr/arti/economy/economy_general/1287895.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "체납 1위 ‘선박왕’ 권혁, 지방소득세 433억도 안 냈다",
-      "url": "https://www.hani.co.kr/arti/area/capital/1287885.html",
-      "publishedAt": "2026-11-18T02:57:04.760Z",
+      "title": "KDI, 내년 성장률 올해보다 높은 3.9%로 전망…“3분의 2는 반도체 기여”",
+      "url": "https://www.hani.co.kr/arti/economy/economy_general/1287895.html",
+      "publishedAt": "2026-11-18T03:55:48.011Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/culture/culture_general/1287884.html",
+      "id": "hani:https://www.hani.co.kr/arti/international/america/1287894.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "고경표 음주운전에 ‘보검 매직컬2’ 제작진 “시청자 불편 최소화”",
-      "url": "https://www.hani.co.kr/arti/culture/culture_general/1287884.html",
-      "publishedAt": "2026-11-18T02:57:04.760Z",
+      "title": "루비오 “트럼프, 김정은과 대화에 진지…회담 일정은 아직 없어”",
+      "url": "https://www.hani.co.kr/arti/international/america/1287894.html",
+      "publishedAt": "2026-11-18T03:55:48.011Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/economy/marketing/1287883.html",
+      "id": "hani:https://www.hani.co.kr/arti/society/society_general/1287893.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "삼성전기, 엔비디아 ‘차세대 GPU 기판’ 공급 늘린다…MLCC도 협력",
-      "url": "https://www.hani.co.kr/arti/economy/marketing/1287883.html",
-      "publishedAt": "2026-11-18T02:57:04.760Z",
+      "title": "조태용, 징역 2년6개월 확정…내란 때 “정치인 체포 지시 없었다” 위증",
+      "url": "https://www.hani.co.kr/arti/society/society_general/1287893.html",
+      "publishedAt": "2026-11-18T03:55:48.011Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/society/schooling/1287882.html",
+      "id": "hani:https://www.hani.co.kr/arti/sports/basketball/1287892.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "학교마다 수능 ‘단추 스티커’ 구하기 비상…대책 주고 마련은 ‘셀프’",
-      "url": "https://www.hani.co.kr/arti/society/schooling/1287882.html",
-      "publishedAt": "2026-11-18T02:57:04.760Z",
+      "title": "농구 보는 재미 늘겠네…남자농구 D리그 25일 개막",
+      "url": "https://www.hani.co.kr/arti/sports/basketball/1287892.html",
+      "publishedAt": "2026-11-18T03:55:48.011Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/economy/it/1287881.html",
+      "id": "hani:https://www.hani.co.kr/arti/economy/economy_general/1287891.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "중국 텔레그램서 ‘AI 커닝 장비’ 거래 활개…구독자 2만 넘기도",
-      "url": "https://www.hani.co.kr/arti/economy/it/1287881.html",
-      "publishedAt": "2026-11-18T02:57:04.760Z",
+      "title": "1∼9월 가계 빚 51조원 증가…작년 연간 증가 폭 근접",
+      "url": "https://www.hani.co.kr/arti/economy/economy_general/1287891.html",
+      "publishedAt": "2026-11-18T03:55:48.011Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/society/schooling/1287880.html",
+      "id": "hani:https://www.hani.co.kr/arti/economy/finance/1287890.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "수능 시험장에 흑색 연필만 반입 허용…지우개는 교육청이 배부",
-      "url": "https://www.hani.co.kr/arti/society/schooling/1287880.html",
-      "publishedAt": "2026-11-18T02:57:04.760Z",
+      "title": "“합의부터 하지 마세요”…금감원, ‘자동차 보험사기’ 대응요령 발표",
+      "url": "https://www.hani.co.kr/arti/economy/finance/1287890.html",
+      "publishedAt": "2026-11-18T03:55:48.011Z",
       "excerpt": ""
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008851722",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[속보] 이 대통령-시진핑, 한중정상회담 종료…34분간 대좌",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851722",
+      "publishedAt": "2026-11-18T03:54:00.000Z",
+      "excerpt": "▲ 시진핑 주석, 이재명 대통령이 대통령-시진핑, 한중정상회담 종료...34분간 대좌"
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Democrat Mary Peltola wins Alaska Senate election",
+      "url": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+      "publishedAt": "2026-11-18T03:51:15.000Z",
+      "excerpt": "Peltola's defeat of incumbent Republican Dan Sullivan gives Democrats a solid majority of 56 seats in the Senate as of January."
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118099600061",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "선관위, 명절 기간 조합원들에 햅쌀 제공한 현직 조합장 고발",
+      "url": "https://www.yna.co.kr/view/AKR20261118099600061",
+      "publishedAt": "2026-11-18T03:49:11.000Z",
+      "excerpt": "(수원=연합뉴스) 김솔 기자 = 선거관리위원회가 조합원들에게 명절 기간 선물용 햅쌀을 제공한 현직 조합장을 경찰에 고발했다."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+      "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+      "publishedAt": "2026-11-18T03:49:04.000Z",
+      "excerpt": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611181248001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[속보] 미국 민주당, 18년 만에 알래스카도 탈환···상원 100석 중 56석 확보",
+      "url": "https://www.khan.co.kr/article/202611181248001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-18T03:48:00.000Z",
+      "excerpt": "AFP연합뉴스미국 민주당이 알래스카까지 탈환했다.AFP통신은 지난 3일(현지시간) 치러진 연방 상원 선거에서 메리 펠톨라 민주당 후보가 접전 끝에 승리했다고 18일 보도했다.알래스카 원주민 출신인 펠톨라 후보는 50.12%를 득표해 45.80%를 얻은 댄 설리번 공화당 후보를 꺾었다. 이로써 민주당은 상원 100석 중 최종적으로 56석을 확보하게 됐다.알래···"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118088852083",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "시진핑 \"개방은 진보, 폐쇄는 낙후\"…자유무역 강조하며 美겨냥(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261118088852083",
+      "publishedAt": "2026-11-18T03:44:30.000Z",
+      "excerpt": "(베이징=연합뉴스) 김현정 특파원 = 시진핑 중국 국가주석이 18일 아시아태평양경제협력체(APEC) 최고경영자(CEO) 서밋에서 자유무역과 다자..."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Inter/article/all/20261118/135045702/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "베이조스 “젠슨 황 복귀 안 시킬거면 후임 내부서 발탁해야”",
+      "url": "https://www.donga.com/news/Inter/article/all/20261118/135045702/1",
+      "publishedAt": "2026-11-18T03:43:29.000Z",
+      "excerpt": "아마존 창업자 제프 베이조스가 엔비디아 이사회에 젠슨 황 전 최고경영자(CEO) 복귀를 추진하지 않을 것이라면 후임은 반드시 내부에서 발탁해야 한다고 조언했다.베이조스는 17일(현지 시간) 세마포의 ‘실리콘밸리와 세계’ 콘퍼런스에서 엔비디아 차기 CEO 인선과 관련해 “황 전 CEO를 다시 데려오지 않을 거라면 외부 인사는 절대 고용하지 않을 것”이라고 밝혔다.그는 “이처럼 복잡한 기업에서 외부 출신 CEO가 성공할 확률은 극…"
+    },
+    {
+      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-18/south-korea-s-household-loan-growth-slows-to-lowest-since-2025",
+      "sourceId": "bbg-econ",
+      "sourceName": "Bloomberg Economics",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "South Korea’s Household Loan Growth Slows to Lowest Since 2025",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/south-korea-s-household-loan-growth-slows-to-lowest-since-2025",
+      "publishedAt": "2026-11-18T03:43:16.000Z",
+      "excerpt": "South Korea’s household loan growth slowed to its weakest pace in more than a year in the third quarter, as a stock-market correction curbed unsecured borrowing and housing transactions fell."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-18/japan-20-year-bond-sale-demand-is-weaker-than-12-month-average",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Japan 20-Year Bond Sale Demand Is Weaker Than 12-Month Average",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/japan-20-year-bond-sale-demand-is-weaker-than-12-month-average",
+      "publishedAt": "2026-11-18T03:41:33.000Z",
+      "excerpt": "Japan’s 20-year government bond auction Wednesday saw lower demand than the 12-month average, as investors remained wary of further yield increases amid fiscal concerns."
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118099400001",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[속보] 李대통령-시진핑, 韓中 정상회담 종료…34분간 대좌",
+      "url": "https://www.yna.co.kr/view/AKR20261118099400001",
+      "publishedAt": "2026-11-18T03:41:02.000Z",
+      "excerpt": "("
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118098800053",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "경찰, '공무원 동원 당원모집' 권기창 안동시장 구속영장 신청",
+      "url": "https://www.yna.co.kr/view/AKR20261118098800053",
+      "publishedAt": "2026-11-18T03:38:58.000Z",
+      "excerpt": "(안동=연합뉴스) 김선형 기자 = 경북경찰청 반부패경제범죄수사2대는 공무원들을 동원해 국민의힘 당원 가입을 모집한 혐의(공직선거법 위반)로 권기..."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261118/135045680/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "특검, ‘퇴직금 미지급’ 쿠팡CFS 전·현직 대표 실형 구형…내달 21일 선고",
+      "url": "https://www.donga.com/news/Society/article/all/20261118/135045680/1",
+      "publishedAt": "2026-11-18T03:36:19.000Z",
+      "excerpt": "쿠팡·관봉권 특검팀(특별검사 안권섭)이 퇴직금 미지급 의혹으로 기소된 정종철 쿠팡풀필먼트서비스(CFS) 대표와 엄성환 전 대표에게 실형을 구형했다.특검팀은 18일 서울중앙지법 형사합의27부(부장판사 우인성) 심리로 진행된 정 대표와 엄 전 대표, 쿠팡CFS 법인의 근로자 퇴직급여 보장법 위반 등 혐의 결심공판에서 정 대표에게 징역 2년을 구형했다.엄 전 대표에게는 징역 1년 6개월을, 양벌규정 적용으로 함께 기소된 쿠팡CFS …"
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=37390&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime",
+      "url": "https://news.hada.io/topic?id=37390&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-18T03:30:59.000Z",
+      "excerpt": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime"
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+      "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+      "publishedAt": "2026-11-18T03:30:51.000Z",
+      "excerpt": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China’s market and manufacturing sector."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611181230001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "강원도, 1000만 원 이상 고액·상습 체납자 373명 명단공개",
+      "url": "https://www.khan.co.kr/article/202611181230001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-18T03:30:00.000Z",
+      "excerpt": "해외 도피 우려 대상자 법무부에 출국금지 요청강원도청 전경. 강원도 제공강원도가 지방세와 지방행정제재·부과금을 1000만원 이상 1년 넘게 내지 않은 고액·상습 체납자 373명의 인적사항을 18일 인터넷 홈페이지를 통해 공개했다.이번 명단공개는 고의로 납세 의무를 회피하는 악성 체납자에게 경종을 울리고, 성실 납세자가 우대받는 문화를 정착시키려는 조치다.공···"
+    },
+    {
+      "id": "axios:https://www.axios.com/2026/11/18/alaska-senate-results-dan-sullivan-peltola",
+      "sourceId": "axios",
+      "sourceName": "Axios",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave",
+      "url": "https://www.axios.com/2026/11/18/alaska-senate-results-dan-sullivan-peltola",
+      "publishedAt": "2026-11-18T03:29:32.000Z",
+      "excerpt": "Former Democratic Rep. Mary Peltola has defeated two-term Republican Sen. Dan S. Sullivan , flipping another GOP-held seat in a state President Trump carried comfortably in 2024, the AP projects. Why it matters: Peltola becomes the first De…"
+    },
+    {
+      "id": "sedaily:https://www.sedaily.com/article/20115877",
+      "sourceId": "sedaily",
+      "sourceName": "서울경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“어머니, 올해 김장은 쉬시죠” 했는데…사 먹으려면 4인 가족 ‘77만원’ 든다",
+      "url": "https://www.sedaily.com/article/20115877",
+      "publishedAt": "2026-11-18T03:28:29.000Z",
+      "excerpt": ""
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Economy/article/all/20261118/135045659/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "삼표그룹, DMC 수색역세권에 복합단지 조성…2027년 4월 준공 목표",
+      "url": "https://www.donga.com/news/Economy/article/all/20261118/135045659/1",
+      "publishedAt": "2026-11-18T03:27:08.000Z",
+      "excerpt": "삼표그룹이 서울 은평구 증산동 DMC 수색역세권에 주거·업무·상업시설을 결합한 복합단지 ‘에스피타워 앤 빌리지(SP Tower & Village)’를 조성한다. 그룹 통합 신사옥과 임대주택, 상업시설을 함께 개발하는 사업으로 자체 건설 소재 기술을 적용하고 향후 대형 복합개발사업에 필요한 경험도 확보한다는 계획이다.삼표그룹은 18일 DMC 수색 프로젝트의 공정률이 80%를 넘어섰으며 2027년 4월 말 준공을 목표로 공사를 진…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Politics/article/all/20261118/135045627/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "李-시진핑 세 번째 정상회담 34분간 진행…내일 미중러 회담 앞두고 촉각",
+      "url": "https://www.donga.com/news/Politics/article/all/20261118/135045627/1",
+      "publishedAt": "2026-11-18T03:26:00.000Z",
+      "excerpt": "이재명 대통령이 18일 시진핑 중국 국가주석과 취임 후 세 번째 정상회담을 시작했다. 이 대통령이 시 주석과 회담을 갖는 것은 작년 11월 경주, 올해 1월 베이징에 이어 세 번째다.아시아태평양경제협력체(APEC) 정상회의 참석을 위해 중국 선전을 방문한 이 대통령은 이날 시 주석과의 정상회담에 돌입했다. 양국 정상회담에서는 미·중·러 정상회담, 북·미 대화 등이 논의될 것이란 관측이 나온다. 이 대통령은 19일 예정된 사상 …"
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Three things to watch as Trump, Xi and Putin meet in China",
+      "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+      "publishedAt": "2026-11-18T03:25:32.000Z",
+      "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118098500009",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[속보] 美 '초접전' 알래스카 상원 선거서도 민주 승리",
+      "url": "https://www.yna.co.kr/view/AKR20261118098500009",
+      "publishedAt": "2026-11-18T03:25:11.000Z",
+      "excerpt": "("
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118097400073",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "미중러 '빅딜'에 소외될라…'신얄타 체제' 우려에 속 타는 일본",
+      "url": "https://www.yna.co.kr/view/AKR20261118097400073",
+      "publishedAt": "2026-11-18T03:23:27.000Z",
+      "excerpt": "(도쿄=연합뉴스) 이도연 특파원 = 19일 중국 선전에서 열리는 미국·중국·러시아 3국 정상회담을 앞두고 일본 내에서 자국이 소외되는 '신(新)..."
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118095400009",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "바이든, 일본군 위안부에 \"한국 여성 성노예화\" 언급",
+      "url": "https://www.yna.co.kr/view/AKR20261118095400009",
+      "publishedAt": "2026-11-18T03:22:05.000Z",
+      "excerpt": "(서울=연합뉴스) 임화섭 기자 = 조 바이든 전 미국 대통령이 17일(현지시간) 발간된 회고록 '프라미스 미, 아메리카'(Promise Me, ..."
     },
     {
       "id": "cnbc-top:https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
@@ -305,8 +581,501 @@
       "kind": "article",
       "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
       "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-      "publishedAt": "2026-11-18T02:52:51.000Z",
+      "publishedAt": "2026-11-18T03:17:55.000Z",
       "excerpt": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261118/135043385/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "미성년자에 노출사진 강요·협박한 10대, 징역 장기 7년 구형",
+      "url": "https://www.donga.com/news/Society/article/all/20261118/135043385/1",
+      "publishedAt": "2026-11-18T03:16:00.000Z",
+      "excerpt": "미성년자 2명에게 신체 일부가 노출된 사진을 촬영해 보내도록 하고, 또 다른 피해자에게는 사진 유포를 빌미로 협박한 10대 피고인에게 징역 장기 7년·단기 3년(소년법상 부정기형)이 구형됐다. 법원은 내년 1월 선고하기로 했다.17일 춘천지법 강릉지원에서 열린 아동·청소년의 성보호에 관한 법률 위반(성착취물제작등) 및 강요미수 등 혐의 공판에서 공소청 검사는 이같이 구형하고 성폭력 치료프로그램 이수명령과 아동·청소년 및 장애인…"
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118097800055",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "전주공소청, 이원택 전북지사 공직선거법 위반 혐의 소환 조사",
+      "url": "https://www.yna.co.kr/view/AKR20261118097800055",
+      "publishedAt": "2026-11-18T03:15:47.000Z",
+      "excerpt": "(전주=연합뉴스) 정경재 기자 = 공소청이 지난 6·3지방선거 과정에서 불거진 이원택 전북특별자치도지사의 '식비 대납' 의혹과 관련한 허위사실 ..."
+    },
+    {
+      "id": "platformer:https://www.platformer.news/jensen-wants-to-come-back/",
+      "sourceId": "platformer",
+      "sourceName": "Platformer",
+      "domain": "tech",
+      "deep": true,
+      "lang": "en",
+      "kind": "article",
+      "title": "Jensen wants to come back",
+      "url": "https://www.platformer.news/jensen-wants-to-come-back/",
+      "publishedAt": "2026-11-18T03:15:15.000Z",
+      "excerpt": "The former Nvidia CEO is getting a frosty reception from his fellow CEOs and his own board. Good."
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118098000001",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "李대통령-시진핑, 中 선전서 정상회담 시작…취임 후 세 번째",
+      "url": "https://www.yna.co.kr/view/AKR20261118098000001",
+      "publishedAt": "2026-11-18T03:12:32.000Z",
+      "excerpt": "(선전=연합뉴스) 임형섭 고동욱 기자 = 아시아태평양경제협력체(APEC) 정상회의 참석을 위해 중국 선전을 방문한 이재명 대통령은 18일 오전 ..."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611181211001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "방역 명부가 찬성 서명으로 둔갑···정읍 폐목재발전소 ‘주민 동의 조작’ 의혹 고발",
+      "url": "https://www.khan.co.kr/article/202611181211001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-18T03:11:00.000Z",
+      "excerpt": "우용태 정읍 폐목재화력발전소 반대대책위원장(가운데)과 법률대리인 권영국 변호사(왼쪽)가 18일 정읍경찰서 민원실에서 정읍시 환경매립장 주민지원협의체 위원장 A씨를 위계에 의한 공무집행방해와 사문서위조·위조사문서행사 혐의로 고소·고발하고 있다. 정읍 폐목재화력발전소 반대대책위 제공전북 정읍의 폐목재 화력발전소 인허가 과정에서 주민 동의 서명이 위조됐다는 의혹···"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Economy/article/all/20261118/135045562/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "KDI, 올해 성장률 3.8%·내년 3.9%로 상향…“성장 3분의 2는 반도체”",
+      "url": "https://www.donga.com/news/Economy/article/all/20261118/135045562/1",
+      "publishedAt": "2026-11-18T03:11:00.000Z",
+      "excerpt": "한국개발연구원(KDI)이 반도체 호황을 반영해 올해 우리나라 경제성장률 전망치를 3.8%, 내년은 3.9%로 대폭 상향 조정했다. 지난 8월 전망보다 각각 0.6%포인트(p), 1.7%p 높인 수치다.글로벌 인공지능(AI) 인프라 투자에 힘입어 수출과 설비투자가 높은 증가세를 이어가고, 내년에는 민간소비와 건설투자도 올해보다 개선될 것으로 내다봤다. 반도체의 경제 내 비중이 커지면서 내년 성장률의 3분의 2는 반도체와 관련 파…"
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118097300001",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "국힘, 與민주유공자법 추진에 \"내일 상정법안 모두 필리버스터\"",
+      "url": "https://www.yna.co.kr/view/AKR20261118097300001",
+      "publishedAt": "2026-11-18T03:09:46.000Z",
+      "excerpt": "(서울=연합뉴스) 이정현 이율립 기자 = 더불어민주당이 19일 본회의를 열고 민주유공자법 등 쟁점 법안 의결을 추진하는 가운데 국민의힘이 여야 ..."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/18/trump-withdraws-heidi-overton-as-nominee-to-lead-fda-sources-say.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Trump withdraws Heidi Overton as nominee to lead Food and Drug Administration, sources say",
+      "url": "https://www.cnbc.com/2026/11/18/trump-withdraws-heidi-overton-as-nominee-to-lead-fda-sources-say.html",
+      "publishedAt": "2026-11-18T03:09:36.000Z",
+      "excerpt": "U.S. President Donald Trump has withdrawn the nomination of Heidi Overton to lead the Food and Drug Administration due to insufficient support in Congress."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118089400009",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "대만 \"中, 자국 내 대만인에 항공권 제공…지방선거 개입\"",
+      "url": "https://www.yna.co.kr/view/AKR20261118089400009",
+      "publishedAt": "2026-11-18T03:09:08.000Z",
+      "excerpt": "(타이베이=연합뉴스) 김철문 통신원 = 대만 지방선거가 열흘 앞으로 다가온 가운데 대만이 중국의 대만 지방선거 개입 수단을 공개했다."
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118097900001",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[속보] 李대통령-시진핑, 中 선전서 정상회담 시작",
+      "url": "https://www.yna.co.kr/view/AKR20261118097900001",
+      "publishedAt": "2026-11-18T03:08:07.000Z",
+      "excerpt": "("
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611181208001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "오세훈 “세운4구역 소송, 국가유산청 반드시 질 것···정치적 목적 행정농단”",
+      "url": "https://www.khan.co.kr/article/202611181208001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-18T03:08:00.000Z",
+      "excerpt": "“국가유산청, 매장유산심의 4차례나 보류···합법을 가장해 ‘몽니’ 부리는 것”세운4구역 주민대표회의 지난 6월 국가유산청·정부에 250억원 규모 손해소송오세훈 서울시장이 지난 6일 국회에서 열린 서울 예산정책협의회에서 발언하고 있다. 박민규 선임기자서울 종로구 세운4구역 주민대표회의가 국가유산청과 정부를 상대로 낸 손해배상 청구소송과 관련해 오세훈 서울···"
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118096200001",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "與·반도체 업계 상생협약…\"공사 하도급대금 10일내 현금지급\"",
+      "url": "https://www.yna.co.kr/view/AKR20261118096200001",
+      "publishedAt": "2026-11-18T03:06:19.000Z",
+      "excerpt": "(서울=연합뉴스) 박재하 정연솔 기자 = 반도체 업계가 18일 더불어민주당의 중재로 생산시설 건설공사에서 하도급사의 대금 지급 기한을 7∼10일..."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261118/135045516/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "감기 걸렸는데 항생제?…국민 10명 중 7명 잘못 알고 있다",
+      "url": "https://www.donga.com/news/Society/article/all/20261118/135045516/1",
+      "publishedAt": "2026-11-18T03:06:15.000Z",
+      "excerpt": "항생제가 감기 치료에 도움이 된다고 잘못 알고 있는 국민이 10명 중 7명에 달하는 것으로 나타났다. 항생제 복용을 임의로 중단한 경험이 있는 비율도 66.2%에 달해 항생제에 대한 올바른 인식과 사용 실천을 높이기 위한 노력이 필요한 것으로 조사됐다.질병관리청은 세계 항생제 내성 인식주간(11월 18~24일)을 맞아 ‘나부터 바른 복용, 다 함께 내성 예방!’을 슬로건으로 항생제 내성 예방 캠페인을 운영한다고 18일 밝혔다.…"
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611181206001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "사람들이 인공지능에 기대하는 질병 진단 성능은··· “최소 90%는 넘어야”",
+      "url": "https://www.khan.co.kr/article/202611181206001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-18T03:06:00.000Z",
+      "excerpt": "현재 상용화된 인공지능 기반 당뇨망막병증 진단 기기 IDx-DR을 구동하는 모습. 디지털 다이아그노틱스(Digital Diagnostics) 홈페이지인공지능(AI)을 이용한 진단 기기의 정확도에 대해 사람들은 현재 기기 수준보다 더 높은 수준을 기대한다는 조사 결과가 나왔다. 특히 암 투병 경험이 있는 경우 기대 수준이 더 높은 것으로 나타났다.삼성서울병원···"
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118095500001",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "정점식 \"국힘몫 조작기소특검 추천 거부…도보투쟁 등 전개\"",
+      "url": "https://www.yna.co.kr/view/AKR20261118095500001",
+      "publishedAt": "2026-11-18T03:04:38.000Z",
+      "excerpt": "(서울=연합뉴스) 김연정 이율립 기자 = 국민의힘 정점식 원내대표는 18일 국무회의에서 의결돼 가동을 앞둔 '조작기소 특검'과 관련, \"특검법상..."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Sports/article/all/20261118/135045489/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "‘승률 50%’ 모레노 임시 감독 “한국 축구 더 좋게 만들 수 있다”",
+      "url": "https://www.donga.com/news/Sports/article/all/20261118/135045489/1",
+      "publishedAt": "2026-11-18T03:03:23.000Z",
+      "excerpt": "한국 축구대표팀의 임시 사령탑 계약 기간이 끝나는 로베르트 모레노 임시 감독이 재계약을 희망했다.한국은 17일(한국 시간) 카타르 도하의 압둘라 빈 칼리파 스타디움에서 열린 카타르와의 11월 A매치 2연전의 마지막이자, 올해 마지막 평가전에서 1-0 승리했다.지난 9월 임시 감독으로 지휘봉을 잡은 모레노 감독은 이날 경기까지 A매치 6경기에서 3승 1무 2패(승률 50%)의 성적표를 남겼다.당초 6경기 결과로 평가받은 뒤 내년…"
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-18/china-a-supersized-testing-ground-for-technology-xi-video",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "China a 'Supersized' Testing Ground for Technology: Xi",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/china-a-supersized-testing-ground-for-technology-xi-video",
+      "publishedAt": "2026-11-18T03:02:15.000Z",
+      "excerpt": "Xi Jinping tells Asia-Pacific business leaders that China aims to drive high-quality growth through innovation, green transition and closer integration of technological and industrial development. He describes China as a \"supersized\" testin…"
+    },
+    {
+      "id": "sedaily:https://www.sedaily.com/article/20115853",
+      "sourceId": "sedaily",
+      "sourceName": "서울경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "KDI, 내년 성장률 2.2→3.9% 대폭 상향…올해보다 높다",
+      "url": "https://www.sedaily.com/article/20115853",
+      "publishedAt": "2026-11-18T03:01:05.000Z",
+      "excerpt": ""
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118095600704",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[영상] 플라밍고 날자 크림대교 큰 폭발…'푸틴 자존심' 핵심구간 붕괴",
+      "url": "https://www.yna.co.kr/view/AKR20261118095600704",
+      "publishedAt": "2026-11-18T03:01:00.000Z",
+      "excerpt": "(서울=연합뉴스) 미사일이 빠른 속도로 날아가 목표물에 명중하자 시뻘건 불꽃이 치솟습니다."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118095900008",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[표] 코스닥시장 3분기 누적 순이익 상·하위 20개사",
+      "url": "https://www.yna.co.kr/view/AKR20261118095900008",
+      "publishedAt": "2026-11-18T03:00:23.000Z",
+      "excerpt": "◇ 코스닥시장 2026년 3분기 연결 누적 순이익 상위 20개사 (단위: 백만원, %)"
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118095800008",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[표] 코스닥시장 3분기 누적 영업이익 상·하위 20개사",
+      "url": "https://www.yna.co.kr/view/AKR20261118095800008",
+      "publishedAt": "2026-11-18T03:00:22.000Z",
+      "excerpt": "◇ 코스닥시장 2026년 3분기 연결 누적 영업이익 상위 20개사 (단위: 백만원, %)"
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118091300008",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[표] 유가증권시장 3분기 누적 순이익 상·하위 20개사",
+      "url": "https://www.yna.co.kr/view/AKR20261118091300008",
+      "publishedAt": "2026-11-18T03:00:22.000Z",
+      "excerpt": "◇ 유가증권시장 2026년 3분기 연결 누적 순이익 상위 20개사 (단위: 백만원, %)"
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118091400008",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[표] 유가증권시장 3분기 누적 영업이익 상·하위 20개사",
+      "url": "https://www.yna.co.kr/view/AKR20261118091400008",
+      "publishedAt": "2026-11-18T03:00:21.000Z",
+      "excerpt": "◇ 유가증권시장 2026년 3분기 연결 누적 영업이익 상위 20개사 (단위: 백만원, %)"
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261117134800002",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "공정위, 한신공영에 시정명령…금융업 손자회사 지배금지 위반",
+      "url": "https://www.yna.co.kr/view/AKR20261117134800002",
+      "publishedAt": "2026-11-18T03:00:20.000Z",
+      "excerpt": "(세종=연합뉴스) 송정은 기자 = 공정거래위원회는 18일 종합건설업을 하는 한신공영이 공정거래법상 자회사 행위 제한 규정을 위반한 행위에 시정명..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118034900002",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "매출 1조 넘는 해외사업자, 국내대리인 둬야…공정위 가이드라인",
+      "url": "https://www.yna.co.kr/view/AKR20261118034900002",
+      "publishedAt": "2026-11-18T03:00:19.000Z",
+      "excerpt": "(세종=연합뉴스) 송정은 기자 = 공정거래위원회는 내년 1월 21일부터 시행되는 알리·테무 등 해외 전자상거래 사업자의 국내 대리인 지정 제도와..."
+    },
+    {
+      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-18/kbra-plans-first-japan-rating-in-2027-expands-tokyo-team",
+      "sourceId": "bbg-econ",
+      "sourceName": "Bloomberg Economics",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "KBRA Plans First Japan Rating in 2027, Expands Tokyo Team",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/kbra-plans-first-japan-rating-in-2027-expands-tokyo-team",
+      "publishedAt": "2026-11-18T03:00:16.000Z",
+      "excerpt": "US credit rating firm KBRA plans to assign its first rating in Japan in 2027 and expand its Tokyo team, according to Miki Monroe-Sheridan, its head of business development for Asia Pacific."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118037700002",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "대전 부사동, 야구 경기일 방문 2.5배로 늘어…주변으로도 발길",
+      "url": "https://www.yna.co.kr/view/AKR20261118037700002",
+      "publishedAt": "2026-11-18T03:00:15.000Z",
+      "excerpt": "(세종=연합뉴스) 이대희 기자 = 야구 경기가 열리는 날 경기장이 있는 대전 중구 부사동을 찾는 사람이 경기가 없는 날의 2.5배로 늘고, 이 ..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118062900002",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "반도체 호조로 3분기 충북 광공업생산 30%↑…소매판매 13곳↓",
+      "url": "https://www.yna.co.kr/view/AKR20261118062900002",
+      "publishedAt": "2026-11-18T03:00:10.000Z",
+      "excerpt": "(세종=연합뉴스) 이대희 기자 = 올해 3분기 반도체 공장과 기업이 몰려 있는 충북의 광공업 생산이 1년 전보다 30% 가까이 늘며 2분기에 이..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118077900002",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "3분기 가계부채 증가폭 1년반 만에 최소…카드 외상은 급증",
+      "url": "https://www.yna.co.kr/view/AKR20261118077900002",
+      "publishedAt": "2026-11-18T03:00:06.000Z",
+      "excerpt": "(서울=연합뉴스) 한지훈 기자 = 올해 3분기 주택 거래 감소, 증시 조정 등의 영향으로 가계부채 증가세가 모처럼 둔화한 것으로 나타났다."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118077000004",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "불법사금융 피해자 절반 이상 20·30대…1년 새 비중 6%p↑",
+      "url": "https://www.yna.co.kr/view/AKR20261118077000004",
+      "publishedAt": "2026-11-18T03:00:06.000Z",
+      "excerpt": "(서울=연합뉴스) 한지은 기자 = 불법사금융 피해자 가운데 20∼30대가 절반 이상을 차지하고, 그 비중도 1년 새 커진 것으로 나타났다."
+    },
+    {
+      "id": "sedaily:https://www.sedaily.com/article/20115845",
+      "sourceId": "sedaily",
+      "sourceName": "서울경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "증시 조정에 ‘빚투’ 줄자 가계빚 증가폭 6분기 만에 최소",
+      "url": "https://www.sedaily.com/article/20115845",
+      "publishedAt": "2026-11-18T03:00:05.000Z",
+      "excerpt": ""
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611181200031/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“결혼해야 한다” 55%, 12년 만에 최고 ···결혼·출산 발목 잡는 건 ‘고용불안’",
+      "url": "https://www.khan.co.kr/article/202611181200031/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-18T03:00:03.000Z",
+      "excerpt": "12일 서울 시내 드레스 매장 앞을 시민이 지나고 있다. 연합뉴스결혼에 대한 인식을 묻는 정부 조사에서 ‘결혼을 해야 한다’는 응답이 55%로 12년 만에 가장 높았다. 미혼 남녀와 결혼 적령기인 20·30대에서도 결혼이 필요하단 응답이 많아졌다. 다만 결혼을 하지 않는 이유로 ‘고용 불안’을 꼽는 비중이 높아져 청년 고용이 결혼을 뒷받침할 과제로 떠올랐다···"
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611181200021/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "KDI, “올해보다 내년이 더 좋다” 올해 성장률 3.8%로 올리고 내년은 3.9%로 전망",
+      "url": "https://www.khan.co.kr/article/202611181200021/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-18T03:00:02.000Z",
+      "excerpt": "지난 9월6일 경기도 평택항에 컨테이너가 쌓여있는 모습. 연합뉴스한국개발연구원(KDI)이 반도체 호황이 내년에도 이어질 것으로 보고 2027년 한국 경제성장률 전망치를 3.9%로 대폭 높였다. 올해 전망치(3.8%)를 웃도는 수준이다. 투자와 소비, 고용도 내년에 개선될 것으로 내다봤다.KDI는 18일 발표한 ‘2026년 하반기 경제전망’에서 내년 성장률 ···"
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611181200011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "국민 10명 중 7명 “항생제, 감기에 도움” 오해···3명 중 2명은 증상 나으면 임의 중단",
+      "url": "https://www.khan.co.kr/article/202611181200011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-18T03:00:01.000Z",
+      "excerpt": "질병관리청 제공항생제가 감기 치료에 도움이 된다고 잘못 알고 있는 사람이 여전히 10명 중 7명꼴인 것으로 나타났다. 증상이 나아지자 처방받은 약을 다 먹지 않고 끊은 경험도 3명 중 2명꼴이었다. 이런 오해와 복용 습관은 약이 듣지 않는 내성균을 키워 치료를 어렵게 만든다.질병관리청은 18일 문화체육관광부와 함께 국민 1000명을 온라인으로 조사한 ‘20···"
+    },
+    {
+      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-18/korea-think-tank-sharply-raises-2027-growth-outlook-on-ai-boom",
+      "sourceId": "bbg-econ",
+      "sourceName": "Bloomberg Economics",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Korea Think Tank Sharply Raises 2027 Growth Outlook on AI Boom",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/korea-think-tank-sharply-raises-2027-growth-outlook-on-ai-boom",
+      "publishedAt": "2026-11-18T03:00:00.000Z",
+      "excerpt": "South Korea’s state-run think tank sharply raised its growth outlook for next year, betting the global artificial intelligence boom will continue to power semiconductor exports and investment to help sustain the economy’s momentum."
+    },
+    {
+      "id": "mk:https://www.mk.co.kr/news/economy/12212213",
+      "sourceId": "mk",
+      "sourceName": "매일경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "3분기 가계빚 2030조 역대 최대...증시 조정에 증가폭은 둔화",
+      "url": "https://www.mk.co.kr/news/economy/12212213",
+      "publishedAt": "2026-11-18T03:00:00.000Z",
+      "excerpt": "한은 3분기 가계신용 발표 증가폭 전분기 3분의1 수준 기타대출 4분기만에 감소세 전환 증시 조정에 증권사 신용공여 등 감소3분기 가계빚이 2030조원을 넘어서며 사상 최대치를 경.."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611181200001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "불법사금융 피해 ‘청년층’ 집중…피해 가장 많은 지역은 ‘경기 남부’",
+      "url": "https://www.khan.co.kr/article/202611181200001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-18T03:00:00.000Z",
+      "excerpt": "서울 서대문구 경찰청. 문재원 기자경찰이 지난 1년간 불법사금융 특별단속을 진행한 결과 2030 청년층 피해 비중이 커진 것으로 파악됐다.경찰청은 지난해 11월부터 올해 10월까지 1년간 불법사금융 근절 특별단속을 진행한 결과 3668건을 적발하고 4242명을 검거해 이 중 144명을 구속했다고 18일 밝혔다. 직전 1년간 이뤄진 특별단속과 비교하면 검거 ···"
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611181158011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "마포구, 홍대 ‘수능 뒤풀이’ 안전하게 관리한다[서울25]",
+      "url": "https://www.khan.co.kr/article/202611181158011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-18T02:58:01.000Z",
+      "excerpt": "19일 홍대서 청소년 유해환경 예방 캠페인경의선 책거리 광장서 청소년 상담부스도 운영지난해 수능일 한 청소년이 마포구청소년상담복지센터가 홍대 거리에 마련한 부스를 찾았다. 마포구 제공.서울 마포구가 수능날 청소년이 많이 찾는 홍대 일대에서 하는 청소년 유해환경을 점검하는 캠페인을 진행하고 상담부스를 운영한다.마포구는 대학수학능력시험이 치러지는 오는 19일···"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Politics/article/all/20261118/135045331/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "與내홍 참전한 추미애 “최민희 징계? 김민석부터 엄중 판단해야”",
+      "url": "https://www.donga.com/news/Politics/article/all/20261118/135045331/1",
+      "publishedAt": "2026-11-18T02:57:00.000Z",
+      "excerpt": "더불어민주당 최민희 최고위원에 대한 징계 문제로 촉발된 계파 갈등이 확산되고 있다. 친청(친정청래)계 최고위원들이 집단 반발한 데 이어 ‘소방 재정 빨대’ 발언 논란 이후 당내 현안에 대한 언급을 자제해 온 추미애 경기도지사까지 가세해 김민석 대표에 대한 징계를 요구하고 나선 것. 최 최고위원 징계 문제에 침묵해 온 정청래 전 대표도 김 대표 취임 100일을 맞는 24일을 전후해 입장을 밝힐 것으로 전망되면서 당내 긴장감이 고…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Culture/article/all/20261118/135043567/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "교황 발길 잡아라…WYD 앞두고 지자체들 지역 방문 유치전",
+      "url": "https://www.donga.com/news/Culture/article/all/20261118/135043567/1",
+      "publishedAt": "2026-11-18T02:55:00.000Z",
+      "excerpt": "내년 7~8월 열리는 ‘2027 서울 세계청년대회(WYD)’를 앞두고 지방자치단체들이 교황 방문 유치전에 나섰다. 세계 가톨릭 청년들이 한자리에 모이는 WYD는 2, 3년 주기로 각국을 돌며 교황이 직접 주최한다. 레오 14세 교황은 15개 교구 사전 지역대회(7월 29~8월 2일) 이후 열리는 서울 본대회(8월 3~8일) 기간에 방한한다. 교황의 지역 방문은 홍보 효과는 물론이고, 자체로도 엄청난 이슈다. 때문에 각 지자체는…"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118088851083",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "시진핑 \"자유·개방 시장 지지…다자무역체제 수호해야\"",
+      "url": "https://www.yna.co.kr/view/AKR20261118088851083",
+      "publishedAt": "2026-11-18T02:52:43.000Z",
+      "excerpt": "(베이징=연합뉴스) 김현정 특파원 = 시진핑 중국 국가주석이 선전 아시아태평양경제협력체(APEC) 정상회의를 계기로 개최된 경제인 회의에서 \"자..."
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118082000009",
@@ -321,18 +1090,6 @@
       "excerpt": "(서울=연합뉴스) 설원태 기자 = 부국들의 재정난이 저·중소득국으로 전이되면서 이들 나라가 전례 없던 수준의 재정 압박을 받고 있다고 뉴욕타임스..."
     },
     {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118090200001",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "與 \"사명감 투철\"·野 \"중립 우려\"…경찰청장 후보 청문회 공방",
-      "url": "https://www.yna.co.kr/view/AKR20261118090200001",
-      "publishedAt": "2026-11-18T02:51:15.000Z",
-      "excerpt": "(서울=연합뉴스) 안정훈 기자 = 여야는 18일 이재명 정부 첫 경찰청장 후보자인 김종철 후보자의 인사청문회에서 수사 중립성을 두고 신경전을 벌..."
-    },
-    {
       "id": "cnbc-top:https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
       "sourceId": "cnbc-top",
       "sourceName": "CNBC Top News",
@@ -343,54 +1100,6 @@
       "url": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
       "publishedAt": "2026-11-18T02:50:16.000Z",
       "excerpt": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118064351030",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "노란우산 개인정보 유출 36만2천명 달해…당초보다 16만명 늘어(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261118064351030",
-      "publishedAt": "2026-11-18T02:50:11.000Z",
-      "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소기업중앙회가 운영하는 노란우산의 개인정보 유출 규모가 당초 알려진 20만여명에서 36만2천명으로 늘어난 것..."
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118089000004",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "경찰청장 후보 \"수능 부정행위 수사 아직 없어\"…\"뼈 깎는 쇄신\"",
-      "url": "https://www.yna.co.kr/view/AKR20261118089000004",
-      "publishedAt": "2026-11-18T02:49:39.000Z",
-      "excerpt": "(서울=연합뉴스) 한지은 기자 = 김종철 경찰청장 후보자는 수능을 하루 앞둔 18일 \"현재까지 수능과 관련해서 구체적인 부정행위라든지 장비 이용..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118091200002",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[게시판] IBK기업은행 대표 캐릭터 '기은센' 리뉴얼",
-      "url": "https://www.yna.co.kr/view/AKR20261118091200002",
-      "publishedAt": "2026-11-18T02:48:51.000Z",
-      "excerpt": "▲ IBK기업은행은 대표 캐릭터 '기은센'을 3차원(3D) 디자인으로 새롭게 단장하고, 신규 캐릭터를 더한 '기은센과 친구들'을 선보인다고 18..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118090700004",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "오세훈 \"국가유산청이 세운4구역 막으려 시행령 바꿔…행정농단\"",
-      "url": "https://www.yna.co.kr/view/AKR20261118090700004",
-      "publishedAt": "2026-11-18T02:47:21.000Z",
-      "excerpt": "(서울=연합뉴스) 김동규 기자 = 오세훈 서울시장은 18일 \"국가유산청이 (종묘 앞) 세운4구역 개발을 막기 위해 한창 진행 중인 행정행위 도중..."
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118068500075",
@@ -405,21 +1114,9 @@
       "excerpt": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 월트디즈니 컴퍼니(이하 디즈니)가 콘텐츠 구독 수익 증가와 테마파크 매출 상승 등에 힘입어 호실적을 ..."
     },
     {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118086600504",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "한-중동 협력포럼 개최…에너지 안보·신산업 협력 논의",
-      "url": "https://www.yna.co.kr/view/AKR20261118086600504",
-      "publishedAt": "2026-11-18T02:45:35.000Z",
-      "excerpt": "(서울=연합뉴스) 민선희 기자 = 외교부는 한국-아랍소사이어티(KAS)와 제주평화연구원이 공동주최한 '제22차 한-중동 협력포럼'이 전날 서울 ..."
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118093600704",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118093600704",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
@@ -441,150 +1138,6 @@
       "excerpt": "Xi Jinping says Asia-Pacific economies should expand trade and bilateral relations while recognizing their differences in history, culture and development. He speaks at the APEC CEO Summit in Shenzhen. (Source: Bloomberg)"
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118089100104",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "사우디 기업, 파키스탄 천연가스관 건설에 약 40조원 투자 추진",
-      "url": "https://www.yna.co.kr/view/AKR20261118089100104",
-      "publishedAt": "2026-11-18T02:43:50.000Z",
-      "excerpt": "(자카르타=연합뉴스) 손현규 특파원 = 사우디아라비아의 에너지 기업이 300억달러(약 39조8천억원)를 투자해 파키스탄에서 천연가스관 건설을 추..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118071552009",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "美국무 \"트럼프, 북미 정상회담에 진지…성사 안 될 수도\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261118071552009",
-      "publishedAt": "2026-11-18T02:42:43.000Z",
-      "excerpt": "(워싱턴·마닐라=연합뉴스) 홍정규 이유미 특파원 = 도널드 트럼프 미국 대통령이 중국 방문 기간 김정은 북한 국무위원장과 만나겠다는 진지한 구상..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118093300008",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "국고채 금리 대체로 하락…3년물 장중 연 3.722%",
-      "url": "https://www.yna.co.kr/view/AKR20261118093300008",
-      "publishedAt": "2026-11-18T02:41:09.000Z",
-      "excerpt": "(서울=연합뉴스) 18일 국고채 금리가 대체로 하락하고 있다."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118087200017",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "AI·자율주행 핵심 '위치정보' 키운다…스타트업 13곳 시상",
-      "url": "https://www.yna.co.kr/view/AKR20261118087200017",
-      "publishedAt": "2026-11-18T02:41:03.000Z",
-      "excerpt": "(서울=연합뉴스) 유현민 기자 = 방송미디어통신위원회와 한국인터넷진흥원은 18일 서울 양재 aT센터에서 위치정보 산업 활성화와 스타트업의 투자유..."
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118082500504",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "하루 앞 다가온 미중러 담판…북핵·한반도 논의 가능성은",
-      "url": "https://www.yna.co.kr/view/AKR20261118082500504",
-      "publishedAt": "2026-11-18T02:40:28.000Z",
-      "excerpt": "(서울=연합뉴스) 김지헌 기자 = 초유의 미국·중국·러시아 정상 간 담판이 하루 앞으로 다가온 18일, 국내의 이목은 지구 전체를 조망하는 이들..."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611181140001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "수능 하루 앞두고 필기구 반입 기준도 변경…‘흑색 연필’만 허용",
-      "url": "https://www.khan.co.kr/article/202611181140001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-18T02:40:00.000Z",
-      "excerpt": "2027학년도 대학수학능력시험을 하루 앞둔 18일 서울 종로구 중앙고등학교에서 학생들이 공부를 하고 있다. 사진공동취재단2027학년도 대학수학능력시험(수능)을 하루 앞두고 정부가 수험생이 시험 중 휴대할 수 있는 필기구를 흑색 연필로 제한하기로 했다. 인공지능(AI)을 이용한 부정행위를 막기 위한 조치다. 시험 직전까지 새로운 대책이 잇따라 나오면서 수험생···"
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611181139001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "석유 최고가격제 1차 정산 초읽기…막판 쟁점은 ‘적정 수준의 마진’",
-      "url": "https://www.khan.co.kr/article/202611181139001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-18T02:39:00.000Z",
-      "excerpt": "이르면 다음주 손실 보상액 산정 기준·결과 통보‘적정 수준 마진’에 수출 제한 비용 포함 여부 관심정유사 요구에 정부는 난색…최고가격 기준도 논란지난 13일 서울의 한 주유소에서 운전자가 주유를 하고 있다. 연합뉴스석유 최고가격제 도입으로 발생한 정유사 손실 보상 첫 정산이 초읽기에 들어갔다. 정부는 이르면 다음주 정유사에 손실 보상액 산정 결과와 근거를 ···"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118090600009",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "'유일 피폭국' 일본, 올해도 핵무기금지조약 회의 참석 안해",
-      "url": "https://www.yna.co.kr/view/AKR20261118090600009",
-      "publishedAt": "2026-11-18T02:38:34.000Z",
-      "excerpt": "(서울=연합뉴스) 김병규 기자 = 일본 정부가 오는 30일부터 미국 뉴욕에서 열리는 핵무기금지조약 재검토회의에 참석을 하지 않기로 했다고 아사히..."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611181138001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "이혜훈 ‘40억 로또’ 반포 아파트 날아갈 판…국토부, 조합에 계약 취소 요청",
-      "url": "https://www.khan.co.kr/article/202611181138001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-18T02:38:00.000Z",
-      "excerpt": "이혜훈 전 의원. 문재원 기자국토교통부가 부정청약 혐의로 송치된 이혜훈 전 의원 측의 서울 서초구 반포동 ‘래미안 원펜타스’ 공급계약을 취소하라고 조합에 요청했다.18일 국토부에 따르면, 국토부는 지난 13일 신반포15차 재건축조합 청산위원회에 이 전 의원 배우자 명의의 원펜타스 공급계약을 취소해 달라는 공문을 보냈다.주택법 65조는 거짓이나 부정한 방법으···"
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118084800009",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "JP모건·현대카드, 인간 개입 없는 'AI 금융 거래' 실험",
-      "url": "https://www.yna.co.kr/view/AKR20261118084800009",
-      "publishedAt": "2026-11-18T02:36:10.000Z",
-      "excerpt": "(서울=연합뉴스) 이성한 기자 = JP모건과 현대카드가 사람의 직접적인 개입 없이 인공지능(AI) 에이전트가 금융·결제 업무를 수행하는 방안을 ..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118091800083",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[속보] 시진핑 \"전후 국제질서 수호…평등한 세계 다극화 추진해야\"",
-      "url": "https://www.yna.co.kr/view/AKR20261118091800083",
-      "publishedAt": "2026-11-18T02:35:41.000Z",
-      "excerpt": "("
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118091100083",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[속보] 시진핑 \"상품·서비스 수입 확대…디지털경제·AI 협력 강화\"",
-      "url": "https://www.yna.co.kr/view/AKR20261118091100083",
-      "publishedAt": "2026-11-18T02:33:35.000Z",
-      "excerpt": "("
-    },
-    {
       "id": "geeknews:https://news.hada.io/topic?id=37388&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "sourceId": "geeknews",
       "sourceName": "GeekNews",
@@ -595,30 +1148,6 @@
       "url": "https://news.hada.io/topic?id=37388&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "publishedAt": "2026-11-18T02:32:23.000Z",
       "excerpt": "Tech for Palestine(T4P) 이 2001년 이후 Wikipedia를 친이스라엘 방향으로 조작하려 한 활동 17건을 정리한 보고서를 공개함. 공개 자료를 토대로 이 가운데 최소 9건이 여전히 진행 중이라고 밝힘 보고서는 Wikipedia에 대한 압력을 검색과 AI의 정보에 영향을 미치려는 활동 과 연결함. Wikipedia가 Google 검색과 주요 AI 챗봇의 정보원이 된다는 점을 근거로 삼음 T4P는 ADL의 …"
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118089500064",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "충북 고액·상습 체납자 427명 명단공개…미납액 217억원",
-      "url": "https://www.yna.co.kr/view/AKR20261118089500064",
-      "publishedAt": "2026-11-18T02:31:41.000Z",
-      "excerpt": "(청주=연합뉴스) 전창해 기자 = 충북도는 19일 도보와 도청 홈페이지, 위택스(인터넷 지방세납부시스템)를 통해 지방세 및 지방행정제재·부과금의..."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/18/trump-withdraws-heidi-overton-as-nominee-to-lead-fda-sources-say.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Trump withdraws Heidi Overton as nominee to lead Food and Drug Administration, sources say",
-      "url": "https://www.cnbc.com/2026/11/18/trump-withdraws-heidi-overton-as-nominee-to-lead-fda-sources-say.html",
-      "publishedAt": "2026-11-18T02:31:29.000Z",
-      "excerpt": "US President Donald Trump has withdrawn the nomination of Heidi Overton to lead the Food and Drug Administration due to insufficient support in Congress."
     },
     {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008851190",
@@ -645,18 +1174,6 @@
       "excerpt": "Forward-implied USD/INR rate for end-2026 is about 94.32 per dollar."
     },
     {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118066952001",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "당정, '올 수능부터 AI커닝시 10년 응시제한' 소급 입법 추진(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261118066952001",
-      "publishedAt": "2026-11-18T02:30:26.000Z",
-      "excerpt": "(서울=연합뉴스) 박경준 정연솔 기자 = 당정은 대학수학능력시험(수능)에서 인공지능(AI)을 활용한 부정행위시 응시자격 제한 기한을 기존 1년에..."
-    },
-    {
       "id": "mk:https://www.mk.co.kr/news/economy/12212216",
       "sourceId": "mk",
       "sourceName": "매일경제 경제",
@@ -681,78 +1198,6 @@
       "excerpt": "Iron ore prices will need to drop to about $80 a ton before high-cost mines start cutting output to put a floor under the market, according to Chinese analysts."
     },
     {
-      "id": "khan:https://www.khan.co.kr/article/202611181130011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "세계원예생산자협회 대표단, 울산국제정원박람회 준비상황 현지 실사",
-      "url": "https://www.khan.co.kr/article/202611181130011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-18T02:30:01.000Z",
-      "excerpt": "세계원예생산자협회(AIPH) 현지실사단이 18일 울산시청에서 ‘2028 울산국제정원박람회’ 준비상황을 점검하는 회의를 가진 뒤 기념촬영을 하고 있다. 울산시 제공세계원예생산자협회(AIPH) 대표단이 18일 ‘2028울산국제정원박람회’ 준비상황에 대한 현지실사를 진행했다.울산시에 따르면, 이번 실사는 AIPH의 B등급 국제원예박람회 개최 규정에 따라 박람회 ···"
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611181130001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "한화토탈에너지스, 공장 안전부터 업무혁신까지···전사 AX 가속",
-      "url": "https://www.khan.co.kr/article/202611181130001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-18T02:30:00.000Z",
-      "excerpt": "한화토탈에너지스 대산공장에서 사족보행 로봇이 현장을 점검하고 있다. 한화토탈에너지스 제공한화토탈에너지스가 작업장 안전을 강화하고 생산 효율성을 높이기 위해 인공지능(AI) 활용 영역을 확대하며 석유화학공장 혁신에 속도를 내고 있다.한화토탈에너지스는 전 공정 자동화가 완료돼 방대한 데이터가 축적되고 있는 것을 기반으로 석유화학공장의 특성에 적합한 분야에 AI···"
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118026200017",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "삼성바이오 노조, 한국노총 가입…조합원 88% 찬성",
-      "url": "https://www.yna.co.kr/view/AKR20261118026200017",
-      "publishedAt": "2026-11-18T02:29:15.000Z",
-      "excerpt": "(서울=연합뉴스) 신선미 박상현 기자 = 임금 인상과 인사 제도 개선을 두고 사측과 갈등을 빚어 온 삼성바이오로직스[207940] 노동조합이 1..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118087600008",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "3%대 급반등하다 '뚝'…코스피, 보합권에서 등락",
-      "url": "https://www.yna.co.kr/view/AKR20261118087600008",
-      "publishedAt": "2026-11-18T02:28:59.000Z",
-      "excerpt": "(서울=연합뉴스) 김유아 기자 = 코스피가 18일 3%대의 급반등세를 보이다 상승탄력이 둔화되며 보합권에서 등락하고 있다."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611181128001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "경기남부경찰, 2027학년도 대학수학능력시험 특별 교통관리 실시",
-      "url": "https://www.khan.co.kr/article/202611181128001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-18T02:28:00.000Z",
-      "excerpt": "경기남부경찰청. 경기남부경찰청 제공경기남부경찰청은 오는 19일 치러지는 2027학년도 대학수학능력시험 당일 특별 교통관리를 실시한다고 18일 밝혔다.경기 남부지역은 총 264개 시험장에서 수험생 12만5933명이 수능을 치른다. 경찰은 수능 당일 오전 6시부터 오후 6시 30분까지 경찰관 854명과 모범운전자·녹색어머니회 등 협력단체 관계자 936명 등 총···"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261118088800083",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[속보] 시진핑 \"WTO 핵심으로 다자무역 수호…자유·개방 시장 지지\"",
-      "url": "https://www.yna.co.kr/view/AKR20261118088800083",
-      "publishedAt": "2026-11-18T02:27:48.000Z",
-      "excerpt": "("
-    },
-    {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-18/boj-s-ueda-says-food-sales-tax-cut-likely-to-help-spur-growth",
       "sourceId": "bbg-econ",
       "sourceName": "Bloomberg Economics",
@@ -765,112 +1210,16 @@
       "excerpt": "Bank of Japan Governor Kazuo Ueda said that a planned cut to the sales tax on food is likely to help spur economic growth by boosting the spending power of consumers."
     },
     {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118081500001",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "국토위, 국토부 예산안 의결…가덕신공항·주거지원' 3.7조 순증",
-      "url": "https://www.yna.co.kr/view/AKR20261118081500001",
-      "publishedAt": "2026-11-18T02:26:18.000Z",
-      "excerpt": "(서울=연합뉴스) 노선웅 기자 = 국회 국토교통위원회는 18일 전체회의를 열고 가덕도 신공항 건설과 철도 공익서비스비용(PSO) 보상 등 사회간..."
-    },
-    {
       "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-18/xi-warns-against-rampant-protectionism-ahead-of-trump-talks",
       "sourceId": "bbg-markets",
       "sourceName": "Bloomberg Markets",
       "domain": "markets",
       "lang": "en",
       "kind": "article",
-      "title": "Xi Warns Against ‘Rampant’ Protectionism Ahead of Trump Talks",
+      "title": "Xi Warns Against ‘Rampant’ Protectionism Before Trump Talks",
       "url": "https://www.bloomberg.com/news/articles/2026-11-18/xi-warns-against-rampant-protectionism-ahead-of-trump-talks",
       "publishedAt": "2026-11-18T02:25:09.000Z",
-      "excerpt": "Xi Jinping urged Asia-Pacific economies to deepen cooperation as he warned against rising unilateralism and protectionism, setting out a defense of free trade as China hosts global leaders for high-stakes talks on trade and technology."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261118086700062",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "강릉 AI데이터센터 유치 행정사무조사 가결…도의회 여야 충돌",
-      "url": "https://www.yna.co.kr/view/AKR20261118086700062",
-      "publishedAt": "2026-11-18T02:24:42.000Z",
-      "excerpt": "(춘천=연합뉴스) 이재현 기자 = 최대 70조원 규모의 투자 계획이 발표된 강릉 AI 데이터센터 유치 사업에 대한 행정사무조사 안건이 18일 강..."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611181124011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "경기도, 장기 체납자 소유 건설기계 사업장 현장 수색···56억2000만원 징수",
-      "url": "https://www.khan.co.kr/article/202611181124011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-18T02:24:01.000Z",
-      "excerpt": "경기도청. 경기도 제공경기도는 장기 체납자가 소유한 건설기계 사업장을 시군과 합동 수색해 체납 세금 56억2000만원을 징수했다고 18일 밝혔다.경기도는 지난 2월 500만 원 이상 지방세를 1년 이상 체납한 고액·장기 체납자 가운데 건설기계를 소유한 838명을 대상으로 전수조사를 실시했다. 이후 10월까지 도와 시·군 합동으로 체납자의 실제 사업장과 장비···"
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611181124001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "대법 “외국 법원 판결문, 대사관 인증 없어도 인정”…난민 불인정 파기환송",
-      "url": "https://www.khan.co.kr/article/202611181124001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-18T02:24:00.000Z",
-      "excerpt": "일러스트 | NEWS IMAGE난민 신청자가 본국에서 박해받은 증거로 낸 형사재판 판결문이 해당 국가 대사관을 통해 진위가 확인되지 않아도, 다른 정황 증거들이 있다면 그 진위를 인정할 수 있다는 대법원 판결이 나왔다.18일 법조계에 따르면 대법원 1부(주심 천대엽 대법관)는 최근 이집트 국적의 A씨(32)가 인천출입국·외국인청장을 상대로 낸 난민 불인정 ···"
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
-      "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
-      "publishedAt": "2026-11-18T02:23:20.000Z",
-      "excerpt": ""
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611181122001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "은행 대출 연체율 0.59%…9월 기준 10년 만에 최고",
-      "url": "https://www.khan.co.kr/article/202611181122001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-18T02:22:00.000Z",
-      "excerpt": "연합뉴스지난 9월 은행 대출 연체율이 0.59%로 9월 기준으로 10년 만에 가장 높은 수준을 기록했다.금융감독원이 18일 발표한 ‘2026년 9월 말 국내은행의 원화대출 연체율 현황’을 보면, 지난 9월 말 원화대출 연체율은 0.59%로 전월보다 0.1%하락했다. 분기 말 연체율은 은행들이 연체 채권을 정리하면서 낮아지는 경향이 있다.지난해 같은 달과 비···"
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118084400704",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[영상] 러시아군 An-12 수송기 시베리아서 추락…탑승자 전원 사망",
-      "url": "https://www.yna.co.kr/view/AKR20261118084400704",
-      "publishedAt": "2026-11-18T02:21:53.000Z",
-      "excerpt": "(서울=연합뉴스) 러시아 군용 수송기가 시베리아에서 추락해 탑승자 19명 전원이 사망했습니다."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611181121011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘쌀 수탈의 도시’ 군산, 글로벌 사우스와 문화 연대 모색",
-      "url": "https://www.khan.co.kr/article/202611181121011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-18T02:21:01.000Z",
-      "excerpt": "20~21일 칼라문화재단과 공동 포럼2025년 8월 전북 군산시 구영4길 18 복합문화공간 머디(MUDDY)에서 열린 칼라문화재단 창립총회 참석자들이 기념촬영을 하고 있다. 칼라문화재단 제공일제강점기 호남평야의 쌀을 일본으로 실어 나르던 전북 군산시가 식민지 수탈의 역사를 바탕으로 아시아·아프리카·라틴아메리카 등 ‘글로벌 사우스(Global South)’와···"
+      "excerpt": "Xi Jinping urged Asia-Pacific economies to deepen cooperation on trade and technology, warning against rising protectionism days after new US curbs on China’s access to top AI chips threatened to overshadow his talks with Donald Trump."
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-18/stats-nz-corrects-producer-price-data-back-to-march-2021",
@@ -921,18 +1270,6 @@
       "excerpt": "Skylark Holdings Co., one of Japan’s largest restaurant chains, plans more M&A in 2027, and expects its growth-investment budget to match at least this year’s ¥50 billion ($313 million), according to company management."
     },
     {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118008751071",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "외교 2차관 \"한미협력 가속 위해 규제 간소화·비자개선 필요\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261118008751071",
-      "publishedAt": "2026-11-18T02:14:54.000Z",
-      "excerpt": "(워싱턴=연합뉴스) 백나리 홍정규 특파원 = 김진아 외교부 2차관이 미국을 찾아 대미투자 이행과 한미 조선 협력에 있어 규제 간소화와 비자 제도..."
-    },
-    {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008851415",
       "sourceId": "sbs-head",
       "sourceName": "SBS 주요뉴스",
@@ -955,18 +1292,6 @@
       "url": "https://www.cnbc.com/2026/11/17/nvidia-q3-earnings-analyst-reaction.html",
       "publishedAt": "2026-11-18T02:08:47.000Z",
       "excerpt": "A raise in revenue guidance and a clear decision on leadership sat well with the Street, though dealmaking scrutiny could temper enthusiasm."
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261118076600001",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "野주진우 \"'입틀막법'으로 SNS 게시물 무단삭제 돼\"…헌소 제기",
-      "url": "https://www.yna.co.kr/view/AKR20261118076600001",
-      "publishedAt": "2026-11-18T02:08:29.000Z",
-      "excerpt": "(서울=연합뉴스) 권희원 이율립 기자 = 국민의힘 주진우 의원은 올해 7월 개정 정보통신망법 시행 이후 사회관계망서비스(SNS)에 게시된 보수 ..."
     },
     {
       "id": "cnbc-top:https://www.cnbc.com/2026/11/18/lebron-james-startup-ai-lawsuit.html",
@@ -1113,18 +1438,6 @@
       "excerpt": "17년 보유한 지분 정리에 나서 한투, KDB생명 인수 무산 속 주목BNP파리바카디프생명 2대 주주인 신한은행이 보유 지분 약 15%를 한국투자금융지주에 매각하는 방안을 논의 중.."
     },
     {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008851225",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "수능장에 '흑색 연필'만 반입 허용…나머지 필기구 불가",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851225",
-      "publishedAt": "2026-11-18T01:35:00.000Z",
-      "excerpt": "▲ 2027학년도 대학수학능력시험이 이틀 앞으로 다가온 17일 경남 창원시 마산합포구 성지여자고등학교 3학년 교실에서 한 학생이 자율…"
-    },
-    {
       "id": "semafor:https://www.semafor.com/article/11/17/2026/europes-ai-sector-not-doom-and-gloom-but-still-lags",
       "sourceId": "semafor",
       "sourceName": "Semafor",
@@ -1233,30 +1546,6 @@
       "excerpt": ""
     },
     {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-18/pboc-sets-strongest-yuan-fix-since-2022-to-allow-further-gains",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "China Sets Strongest Yuan Fixing Since 2022 as APEC Begins",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/pboc-sets-strongest-yuan-fix-since-2022-to-allow-further-gains",
-      "publishedAt": "2026-11-18T01:25:45.000Z",
-      "excerpt": "China’s central bank lifted its daily yuan reference rate to the strongest in over four years, a sign of tolerance for gradual gains as the nation hosts a key regional summit."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Three things to watch as Trump, Xi and Putin meet in China",
-      "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
-      "publishedAt": "2026-11-18T01:23:29.000Z",
-      "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting."
-    },
-    {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008850710",
       "sourceId": "sbs-head",
       "sourceName": "SBS 주요뉴스",
@@ -1329,30 +1618,6 @@
       "excerpt": "내일 수능을 앞두고 AI 안경 등 기기를 활용한 부정행위 가능성이 불거지며 사회적 관심이 쏠리고 있어요. 공정한 시험이 치러져야 하는 것은 당연하고, 무엇보다 수험생들이 불안에 떨지 않고 시험에 집중할 수 있어야 해요. 온 사회가 AI의 빠른 발전을 지켜보면서도 이 문제를 일찍이 더 큰 책임감을 갖고 다루지 못한 것은 아쉬워요. 자신의 노력만으로는 어찌할 수 없는 불안까지 떠안아야 하는 수험생들을 생각하면 마음이 아픕니다. 관…"
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/investingclub/2026/11/17/nvidia-takes-positive-step-forward-with-stronger-sales-outlook-heres-our-thoughts-on-the-stock.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Nvidia takes positive step forward with stronger sales outlook. Here’s our thoughts on the stock",
-      "url": "https://www.cnbc.com/investingclub/2026/11/17/nvidia-takes-positive-step-forward-with-stronger-sales-outlook-heres-our-thoughts-on-the-stock.html",
-      "publishedAt": "2026-11-18T01:18:41.000Z",
-      "excerpt": ""
-    },
-    {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "SQM Sees Positive Lithium Demand Outlook Even as Prices Slide",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
-      "publishedAt": "2026-11-18T01:18:05.000Z",
-      "excerpt": "Major lithium producer SQM continues to see “encouraging trends” in underlying demand as the industry confronts a renewed selloff in the battery metal and the prospect of rising supply next year."
-    },
-    {
       "id": "mk:https://www.mk.co.kr/news/economy/12212157",
       "sourceId": "mk",
       "sourceName": "매일경제 경제",
@@ -1363,18 +1628,6 @@
       "url": "https://www.mk.co.kr/news/economy/12212157",
       "publishedAt": "2026-11-18T01:17:45.000Z",
       "excerpt": "전력거래소, 20일 실무협의회·27일 규칙개정위 연기 기후부 “속도 조절”…12월 전기위 심의 불투명 석탄·LNG 발전사 8곳, 가처분 등 법적 대응 검토해와지방 산업용 전기요금을.."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Nvidia’s Kress tells CNBC's Jim Cramer that 'customers continue to be with us’",
-      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-      "publishedAt": "2026-11-18T01:17:17.000Z",
-      "excerpt": "Nvidia released fiscal third-quarter 2027 results on Tuesday, followed by its first earnings call since Huang's departure."
     },
     {
       "id": "mk:https://www.mk.co.kr/news/economy/12212155",
@@ -1410,18 +1663,6 @@
       "title": "고금리·AI 불확실성에 비트코인·금·유가 동반 하락",
       "url": "https://www.sedaily.com/article/20115771",
       "publishedAt": "2026-11-18T01:01:42.000Z",
-      "excerpt": ""
-    },
-    {
-      "id": "sedaily:https://www.sedaily.com/article/20115767",
-      "sourceId": "sedaily",
-      "sourceName": "서울경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "韓 직장인 66.5% 업무에 AI 활용…美·유럽 크게 앞서",
-      "url": "https://www.sedaily.com/article/20115767",
-      "publishedAt": "2026-11-18T01:01:18.000Z",
       "excerpt": ""
     },
     {
@@ -1461,18 +1702,6 @@
       "excerpt": "여행지에서 가장 고민되는 건 어쩌면 ‘뭘 먹을까?’일지도 몰라요. 국밥도 당기고, 오래된 중식당도 궁금하고, 동네 사람들이 찾는 분식집도 그냥 지나치기 아쉽죠. 한 곳만 고르기 어렵다면, 식사 후 ‘이 동네’를 둘러보며 저녁까지 머물러보면 어떨까요? 전북 고창 읍내의 미식문화거리에서는 그런 여행이 가능해요. 노포에서 든든하게 먹고 나오면 걸어서 둘러볼 시장과 읍성이 있고, 더 걸으면 책을 읽으며 쉬어 갈 도서관도 있어요. 매번…"
     },
     {
-      "id": "sedaily:https://www.sedaily.com/article/20115765",
-      "sourceId": "sedaily",
-      "sourceName": "서울경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "대중 화장품 수출 2.7% 반등…中 토종 브랜드와 경쟁 심화",
-      "url": "https://www.sedaily.com/article/20115765",
-      "publishedAt": "2026-11-18T00:59:40.000Z",
-      "excerpt": ""
-    },
-    {
       "id": "geeknews:https://news.hada.io/topic?id=37383&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "sourceId": "geeknews",
       "sourceName": "GeekNews",
@@ -1495,18 +1724,6 @@
       "url": "https://www.axios.com/2026/11/18/house-democrats-speaker-vote-jeffries-pressley",
       "publishedAt": "2026-11-18T00:51:40.000Z",
       "excerpt": "House Democrats aren't unanimous on whether House Minority Leader Hakeem Jeffries (D-N.Y.) should be speaker, but they pretty much all agree on two things: He probably will be speaker, and they just want this to be over. Why it matters: The…"
-    },
-    {
-      "id": "sedaily:https://www.sedaily.com/article/20115756",
-      "sourceId": "sedaily",
-      "sourceName": "서울경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "요즘 김밥 한 줄도 4000원인데 “한 끼 3900원에 해결”…파격 메뉴 등장에 ‘들썩’ [이슈, 풀어주리]",
-      "url": "https://www.sedaily.com/article/20115756",
-      "publishedAt": "2026-11-18T00:50:50.000Z",
-      "excerpt": ""
     },
     {
       "id": "uppity:https://uppity.co.kr/%f0%9f%91%9b-%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%95%88-%eb%b4%a4%eb%8a%94%eb%8d%b0-%ec%a7%84%ec%a7%9c-%ec%93%b0%eb%a0%88%ea%b8%b0%eb%8d%94%eb%9d%bc-%ec%9d%bc%eb%b0%98-%ec%93%b0%eb%a0%88%ea%b8%b0/",
@@ -1605,18 +1822,6 @@
       "excerpt": "The S&P 500 extended its losing run to four sessions on Tuesday, as the broad market index posted its lowest closing level since late July."
     },
     {
-      "id": "geeknews:https://news.hada.io/topic?id=37377&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "실제로 등장한 curl의 Rust 재작성 프로젝트들",
-      "url": "https://news.hada.io/topic?id=37377&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-18T00:02:29.000Z",
-      "excerpt": "urlx 와 curl, rewritten in Rust 가 curl과 libcurl의 Rust 재구현을 내세우며 등장했지만, 특정 시점의 코드를 재현하는 일과 프로젝트를 장기간 유지하는 일은 다름 AI 에이전트의 재작성에는 기존 C 코드 , 풍부한 문서, API 사용 사례와 수천 개의 테스트가 토대가 됨 재작성에 걸린 3주 남짓 동안 원본 curl에는 300개 이상의 커밋 과 200개가 조금 넘는 버그 수정이 반영됐으며, 재작…"
-    },
-    {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-18/indonesia-rate-decision-seen-as-close-call-on-weak-rupiah-growth-concerns",
       "sourceId": "bbg-econ",
       "sourceName": "Bloomberg Economics",
@@ -1699,18 +1904,6 @@
       "url": "https://www.mk.co.kr/news/economy/12211996",
       "publishedAt": "2026-11-17T23:49:06.000Z",
       "excerpt": "양측 1조원 규모 자본확충 놓고 이견 KDB생명, 12년째 새 주인 찾기 실패한국산업은행의 일곱 번째 KDB생명 매각 시도가 무산됐다. 우선협상대상자로 선정됐던 한국투자금융지주(한.."
-    },
-    {
-      "id": "mk:https://www.mk.co.kr/news/economy/12211993",
-      "sourceId": "mk",
-      "sourceName": "매일경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "일본도 못 넘은 ‘수출 1조 달러’ 초읽기…가발 팔던 한국, 세계 4번째 기록",
-      "url": "https://www.mk.co.kr/news/economy/12211993",
-      "publishedAt": "2026-11-17T23:42:23.000Z",
-      "excerpt": "우리나라가 이르면 19일 사상 처음으로 연간 수출 1조달러를 돌파할 전망이다. 미국과 독일, 중국에 이어 세계 네 번째 기록이다. 18일 산업통상부와 관세청에 따르면 올해 들어 지.."
     },
     {
       "id": "semafor:https://www.semafor.com/article/11/17/2026/ai-companies-lost-voters-on-narrative-and-execution-alphabets-porat-says",
@@ -1857,7 +2050,7 @@
       "title": "Quad9's withdrawal from France: A canary in the coal mine",
       "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
       "publishedAt": "2026-11-17T22:13:34.000Z",
-      "excerpt": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 327 # Comments: 93"
+      "excerpt": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 350 # Comments: 107"
     },
     {
       "id": "axios:https://www.axios.com/2026/11/17/sean-duffy-faa-senate-republicans-50-billion",
@@ -1893,7 +2086,7 @@
       "title": "Java4Shell: RCE in OpenJDK when processing Base64",
       "url": "https://calif.io/java4shell/",
       "publishedAt": "2026-11-17T21:11:28.000Z",
-      "excerpt": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 569 # Comments: 149"
+      "excerpt": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 615 # Comments: 162"
     },
     {
       "id": "axios:https://www.axios.com/2026/11/17/un-climate-conference-negotiations-energy",
@@ -1929,19 +2122,7 @@
       "title": "jQuery 4.1.0",
       "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
       "publishedAt": "2026-11-17T19:50:40.000Z",
-      "excerpt": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 258 # Comments: 145"
-    },
-    {
-      "id": "axios:https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon",
-      "sourceId": "axios",
-      "sourceName": "Axios",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "What is a dirty bomb and how dangerous is the weapon",
-      "url": "https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon",
-      "publishedAt": "2026-11-17T19:30:55.000Z",
-      "excerpt": "President Trump warned Iran against orchestrating a \"dirty bomb\" attack in Washington, D.C., though the White House says there are no credible threats. The big picture: Unlike a nuclear weapon, a \"dirty bomb\" uses common explosives to scatt…"
+      "excerpt": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 268 # Comments: 148"
     },
     {
       "id": "hn:https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
@@ -1953,7 +2134,7 @@
       "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
       "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
       "publishedAt": "2026-11-17T19:25:27.000Z",
-      "excerpt": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 256 # Comments: 78"
+      "excerpt": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 268 # Comments: 79"
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/17/bond-yields-where-to-invest.html",
@@ -1977,7 +2158,7 @@
       "title": "Solid 2.0",
       "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
       "publishedAt": "2026-11-17T18:56:17.000Z",
-      "excerpt": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 237 # Comments: 61"
+      "excerpt": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 247 # Comments: 70"
     },
     {
       "id": "hn:https://phrack.org/issues/73/introduction_md",
@@ -1989,7 +2170,7 @@
       "title": "Phrack 73 Released",
       "url": "https://phrack.org/issues/73/introduction_md",
       "publishedAt": "2026-11-17T18:31:25.000Z",
-      "excerpt": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 291 # Comments: 45"
+      "excerpt": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 303 # Comments: 46"
     },
     {
       "id": "hn:https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
@@ -2001,31 +2182,7 @@
       "title": "MAI Code 2 and Code 2 Flash",
       "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
       "publishedAt": "2026-11-17T18:25:13.000Z",
-      "excerpt": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 295 # Comments: 136"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261118/135043337/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "美 NSA 내부 통신 네트워크 다운…“사이버 공격 증거 없어”",
-      "url": "https://www.donga.com/news/Inter/article/all/20261118/135043337/1",
-      "publishedAt": "2026-11-17T18:09:43.000Z",
-      "excerpt": "미국 국가안보국(NSA)이 내부 통신에 사용하는 극비 네트워크가 다운됐다고 이 문제에 정통한 소식통이 밝혔다고 CNN이 17일 보도했다.NSA넷이라고 불리는 이 네트워크는 직원들이 기밀 정보를 내부적으로 주고받을 수 있도록 한다. 현재까지 사이버 공격의 증거는 없다고 소식통은 전했다.NSA는 문제의 규모를 파악하기 위해 노력하는 동안 직원들의 출근 시간을 분산시켰다고 밝혔다. 미국 전현직 관료들은 NSA 네트워크 장애가 도널드…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261118/135043334/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "젠슨 황 “이사회가 요청하면 CEO 복귀 의향”",
-      "url": "https://www.donga.com/news/Inter/article/all/20261118/135043334/1",
-      "publishedAt": "2026-11-17T18:09:32.000Z",
-      "excerpt": "젠슨 황 엔비디아(NVDA) 전 최고경영자(CEO)가 이사회가 요청할 경우 CEO 역할을 수행할 의향이 있다고 밝혔다. 17일 월스트리트저널(WSJ) 보도에 따르면 젠슨황은 이날 불륜설 등으로 12일 사임한 이후 첫 입장 표명을 했다. 젠슨 황은 “회사를 떠난 이후 엔비디아의 직원, 투자자, 비즈니스 파트너, 그리고 고객들로부터 CEO 복귀를 요청하는 목소리가 쏟아져 나왔다”고 언급했다. 그는 “이사회에서 나의 복귀가 주주, …"
+      "excerpt": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 308 # Comments: 140"
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/17/advanced-micro-devices-amd-jeff-kilburg-buying.html",
@@ -2062,7 +2219,7 @@
       "title": "Apple Services Down",
       "url": "https://developer.apple.com/system-status/",
       "publishedAt": "2026-11-17T17:47:14.000Z",
-      "excerpt": "Article URL: https://developer.apple.com/system-status/ Comments URL: https://news.ycombinator.com/item?id=50535238 Points: 636 # Comments: 354"
+      "excerpt": "Article URL: https://developer.apple.com/system-status/ Comments URL: https://news.ycombinator.com/item?id=50535238 Points: 648 # Comments: 357"
     },
     {
       "id": "hn:https://openai.com/index/introducing-gpt-6-2-astra-sol/",
@@ -2074,7 +2231,7 @@
       "title": "GPT‑6.2 Astra and Sol",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "publishedAt": "2026-11-17T17:46:43.000Z",
-      "excerpt": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1106 # Comments: 706"
+      "excerpt": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 1138 # Comments: 720"
     },
     {
       "id": "hn:https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
@@ -2086,7 +2243,7 @@
       "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
       "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
       "publishedAt": "2026-11-17T17:12:06.000Z",
-      "excerpt": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 408 # Comments: 195"
+      "excerpt": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 423 # Comments: 207"
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/17/nvidia-is-flashing-a-warning-sign-ahead-of-earnings-but-a-rebound-could-be-coming.html",
@@ -2099,30 +2256,6 @@
       "url": "https://www.cnbc.com/2026/11/17/nvidia-is-flashing-a-warning-sign-ahead-of-earnings-but-a-rebound-could-be-coming.html",
       "publishedAt": "2026-11-17T17:03:16.000Z",
       "excerpt": "Nvidia's sharp sell-off has weakened its long-term technical outlook, but signs of short-term exhaustion suggest a potential rebound ahead of earnings."
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Society/article/all/20261118/135043193/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "오세훈 결승골 모레노호, 카타르에 1-0 승리…‘골 결정력’은 숙제",
-      "url": "https://www.donga.com/news/Society/article/all/20261118/135043193/1",
-      "publishedAt": "2026-11-17T16:22:00.000Z",
-      "excerpt": "한국 축구 대표팀이 올해 마지막 A매치를 승리로 장식했다.로베르트 모레노 임시 감독(스페인)이 이끄는 한국은 18일 카타르 도하의 압둘라 빈 칼리파 스타디움에서 끝난 방문 평가전에서 오세훈(시미즈)의 선제 결승골을 앞세워 카타르를 1-0으로 꺾었다.모레노 감독은 이날 선발 명단에 대대적인 변화를 줬다. 14일 사우디아라비아전(2-3·패)에 선발 출전했던 선수 11명 중 손흥민(LA FC), 황인범(FC포르투), 이강인(아틀레티…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Sports/article/all/20261118/135043297/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘오세훈 결승골’ 모레노호, 올해 마지막 A매치서 카타르에 1-0 승리",
-      "url": "https://www.donga.com/news/Sports/article/all/20261118/135043297/1",
-      "publishedAt": "2026-11-17T16:12:35.000Z",
-      "excerpt": "모레노호가 카타르에 신승을 거두며 올해 A매치를 마무리했다.로베르트 모레노 임시 감독이 지휘하는 한국 축구대표팀은 17일(한국 시간) 카타르 도하의 압둘라 빈 칼리파 스타디움에서 열린 카타르와의 평가전에서 전반 43분에 터진 오세훈(시미즈)의 헤더 결승골로 1-0 승리했다.이날 경기는 11월 A매치 2연전의 마지막이자, 올해 마지막 A매치였다.국제축구연맹(FIFA) 랭킹 32위인 한국은 이날 승리로 60위 카타르와의 역대 전적…"
     },
     {
       "id": "pragmatic:https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
@@ -2138,90 +2271,6 @@
       "excerpt": "When is the right time to drop APIs provided by the frontier AI labs, and what about choosing models & providers, caching, dedicated GPUs, KV cache concerns, and more? A practical deepdive"
     },
     {
-      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-17/colombia-s-economy-slowed-more-than-expected-in-third-quarter",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "Colombia’s Economy Slowed More Than Expected in Third Quarter",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/colombia-s-economy-slowed-more-than-expected-in-third-quarter",
-      "publishedAt": "2026-11-17T15:52:36.000Z",
-      "excerpt": "Colombia’s economy grew less than expected in the third quarter as a devastating earthquake in the eastern part of the country and high interest rates weighed on economic activity."
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261117/135041903/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[단독]해킹당하고도 15일간 깜깜… 금융 피해 키울 우려",
-      "url": "https://www.donga.com/news/Economy/article/all/20261117/135041903/2",
-      "publishedAt": "2026-11-17T15:30:00.000Z",
-      "excerpt": "인공지능(AI)을 활용한 것으로 추정되는 해킹이 은행, 증권사, 가상자산거래소 등 금융권에서 전방위적으로 발생하고 있는 가운데 최근 2개월간 해킹을 당한 국내 금융회사 22곳은 해킹을 인지하기까지 평균 나흘 가까이 넘게 걸린 것으로 나타났다. 해킹 사실을 늑장 파악하면 빠져나가는 개인정보는 물론 자금까지 속수무책으로 늘 수 있어 해킹 점검을 강화하고 당국에 즉시 보고하는 체계를 서둘러 마련해야 한다는 목소리가 커지고 있다.● …"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261117/135041910/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "삼성전자 현금자산 214조, 작년 2배… 성과급-법인세-외환손실도 급증",
-      "url": "https://www.donga.com/news/Economy/article/all/20261117/135041910/2",
-      "publishedAt": "2026-11-17T15:30:00.000Z",
-      "excerpt": "삼성전자가 3분기(7∼9월) 107조 원 이상의 영업이익을 거두는 등 올해 역대급 실적을 거둔 데 힘입어 막대한 현금 실탄을 확보한 것으로 나타났다. 다만 성과급 등 급여와 법인세, 외환 손실 등의 비용도 한꺼번에 불어났다. 16일 공시된 삼성전자 3분기 보고서에 따르면 3분기 말 연결 기준 삼성전자의 현금 및 현금성자산과 단기금융상품을 합산한 규모는 214조7743억 원으로 집계됐다. 전년 동기(108조4437억 원) 대비 …"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261117/135041938/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[단독]보험료 비싼 ‘유병자 보험’ 가입 20대 4년새 6배로",
-      "url": "https://www.donga.com/news/Economy/article/all/20261117/135041938/2",
-      "publishedAt": "2026-11-17T15:30:00.000Z",
-      "excerpt": "과거 수술 이력이나 지병이 있어도 가입할 수 있는 대신 보험료가 상대적으로 비싼 ‘유병(有病)자보험(간편 보험)’에 가입하는 젊은 소비자가 급격히 늘고 있다. 당국은 보험사들이 다양한 보장을 조합한 상품을 내놓으며 간편 보험 시장이 커진 영향이라고 설명하지만, 불완전 판매 역시 늘어날 수 있다는 우려가 커지고 있다.● 20대 이하 가입, 4년간 6배↑ 18일 국회 정무위원회 소속 국민의힘 송언석 의원이 금융감독원으로부터 받은 …"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261117/135041915/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "퐁피두센터 한화 ‘샤갈, 너머의 여정’ 전시회",
-      "url": "https://www.donga.com/news/Economy/article/all/20261117/135041915/2",
-      "publishedAt": "2026-11-17T15:30:00.000Z",
-      "excerpt": "17일 서울 영등포구 퐁피두센터 한화에서 ‘샤갈, 너머의 여정’ 전시가 열렸다. 이번 전시는 샤갈과 유족이 직접 기증한 작품을 바탕으로 구축된 파리 퐁피두센터의 샤갈 컬렉션 중 회화 57점과 조각·도자 8점 등 총 65점을 국내 관람객에게 선보인다. 이 가운데 61점은 국내에 최초로 전시하는 작품이다."
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261117/135041930/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "IMF, 올해 韓성장률 3.9% 전망… 반도체 호황에 한달새 0.6%P 올려",
-      "url": "https://www.donga.com/news/Economy/article/all/20261117/135041930/2",
-      "publishedAt": "2026-11-17T15:30:00.000Z",
-      "excerpt": "국제통화기금(IMF)이 올해 한국의 경제성장률 전망치를 3.9%로 제시했다. 한 달여 만에 0.6%포인트 상향 조정한 수치다. 반도체 초호황으로 사상 첫 1조 달러 달성을 눈앞에 둔 수출 실적이 한국 경제에 성장 동력을 제공한 결과라고 분석했다. IMF 협의단은 17일 한국과 연례협의를 한 결과를 발표하며 이같이 밝혔다. 협의단은 올해 한국 경제성장률이 3.9%로 높아지고, 내년에도 3.3% 성장률을 보이며 견조한 성장세를 이…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261117/135041923/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“현금 뽑을 데가 없네”… 4대 은행 자동화기기 올해만 399대 줄었다",
-      "url": "https://www.donga.com/news/Economy/article/all/20261117/135041923/2",
-      "publishedAt": "2026-11-17T15:30:00.000Z",
-      "excerpt": "올해 들어서만 4대 시중은행의 현금자동입출금기(ATM) 등 자동화기기가 400대 가깝게 줄어든 것으로 나타났다. 온라인 거래가 늘며 은행들이 이용이 줄어든 기기를 빠르게 정리하고 있어 고객의 불편도 커지고 있다. 17일 KB국민·신한·하나·우리은행 등 4대 시중은행이 공시한 3분기(7∼9월) 보고서에 따르면 이들 은행의 자동화기기는 9월 말 기준 1만6634대로 지난해 말(1만7033대)보다 399대 줄었다. 9개월 만에 2.…"
-    },
-    {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/17/quanta-pwr-stephanie-link-buying.html",
       "sourceId": "cnbc-invest",
       "sourceName": "CNBC Investing",
@@ -2232,30 +2281,6 @@
       "url": "https://www.cnbc.com/2026/11/17/quanta-pwr-stephanie-link-buying.html",
       "publishedAt": "2026-11-17T15:24:02.000Z",
       "excerpt": "Quanta Services shares have fallen sharply, but strong earnings and a record backlog could create a buying opportunity, says investor Stephanie Link."
-    },
-    {
-      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-17/us-homebuilder-sentiment-sags-to-fresh-14-year-low-on-high-rates",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "US Homebuilder Sentiment Sags to Fresh 14-Year Low on Rates",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-homebuilder-sentiment-sags-to-fresh-14-year-low-on-high-rates",
-      "publishedAt": "2026-11-17T15:00:00.000Z",
-      "excerpt": "The mood among US homebuilders soured further this month, sliding to a fresh 14-year low as high mortgage rates deter would-be buyers and force builders to rely even more on costly incentives."
-    },
-    {
-      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-17/fed-s-hammack-proposes-principles-for-market-interventions",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "Fed’s Hammack Proposes Principles for Market Interventions",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-hammack-proposes-principles-for-market-interventions",
-      "publishedAt": "2026-11-17T14:35:00.000Z",
-      "excerpt": "Federal Reserve Bank of Cleveland President Beth Hammack said policymakers should establish principles for when and how to intervene in Treasury markets, and communicate a clear exit strategy."
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/17/nvidia-has-lost-2-trillion-in-value-heres-what-options-traders-expect-from-earnings.html",
@@ -3419,7 +3444,7 @@
       },
       {
         "id": "platformer",
-        "count": 1,
+        "count": 2,
         "parsed": 15
       },
       {
@@ -3488,6 +3513,11 @@
         "parsed": 30
       },
       {
+        "id": "donga",
+        "count": 10,
+        "parsed": 50
+      },
+      {
         "id": "kmib",
         "count": 10,
         "parsed": 100
@@ -3503,13 +3533,6 @@
         "parsed": 120
       }
     ],
-    "failed": [
-      {
-        "id": "donga",
-        "name": "동아일보",
-        "url": "https://rss.donga.com/total.xml",
-        "error": "fetch failed"
-      }
-    ]
+    "failed": []
   }
 }
