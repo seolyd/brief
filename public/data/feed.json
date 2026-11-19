@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:13:24.187Z",
+  "generatedAt": "2026-11-19T19:12:27.386Z",
   "domains": [
     {
       "id": "global",
@@ -185,7 +185,7 @@
       "kind": "article",
       "title": "서울 봉천동 주택가서 화재…16명 대피·3명 병원 이송",
       "url": "https://www.hani.co.kr/arti/society/society_general/1288247.html",
-      "publishedAt": "2026-11-19T18:13:23.968Z",
+      "publishedAt": "2026-11-19T19:12:27.012Z",
       "excerpt": ""
     },
     {
@@ -197,7 +197,7 @@
       "kind": "article",
       "title": "새만금·신공항·올림픽…전북 거대 프로젝트 쉽게 풀리는 게 없네",
       "url": "https://www.hani.co.kr/arti/area/honam/1288246.html",
-      "publishedAt": "2026-11-19T18:13:23.968Z",
+      "publishedAt": "2026-11-19T19:12:27.012Z",
       "excerpt": ""
     },
     {
@@ -209,7 +209,7 @@
       "kind": "article",
       "title": "[사설] 공동선언까지 발표하며 ‘강대국 유대’ 과시한 미·중·러",
       "url": "https://www.hani.co.kr/arti/opinion/editorial/1288245.html",
-      "publishedAt": "2026-11-19T18:13:23.968Z",
+      "publishedAt": "2026-11-19T19:12:27.012Z",
       "excerpt": ""
     },
     {
@@ -221,7 +221,7 @@
       "kind": "article",
       "title": "단추 없는 옷에 투명테 안경…‘AI 부정행위’에 긴장감 흐른 수능 시험장",
       "url": "https://www.hani.co.kr/arti/society/society_general/1288244.html",
-      "publishedAt": "2026-11-19T18:13:23.968Z",
+      "publishedAt": "2026-11-19T19:12:27.012Z",
       "excerpt": ""
     },
     {
@@ -233,7 +233,7 @@
       "kind": "article",
       "title": "국제사법재판소 “미얀마, 로힝야족 집단학살”…국가 책임 첫 인정",
       "url": "https://www.hani.co.kr/arti/international/international_general/1288243.html",
-      "publishedAt": "2026-11-19T18:13:23.968Z",
+      "publishedAt": "2026-11-19T19:12:27.012Z",
       "excerpt": ""
     },
     {
@@ -245,7 +245,7 @@
       "kind": "article",
       "title": "접근금지 해제 뒤 옛 연인 ‘둔기 살해’ 60대 남성 구속",
       "url": "https://www.hani.co.kr/arti/area/capital/1288242.html",
-      "publishedAt": "2026-11-19T18:13:23.968Z",
+      "publishedAt": "2026-11-19T19:12:27.012Z",
       "excerpt": ""
     },
     {
@@ -257,7 +257,7 @@
       "kind": "article",
       "title": "미·중·러 3국 첫 정상회담…‘평화 선언’ 구체적 목표·우크라 문제 빠져",
       "url": "https://www.hani.co.kr/arti/international/china/1288241.html",
-      "publishedAt": "2026-11-19T18:13:23.968Z",
+      "publishedAt": "2026-11-19T19:12:27.012Z",
       "excerpt": ""
     },
     {
@@ -269,7 +269,7 @@
       "kind": "article",
       "title": "대법 ‘한덕수 파기환송’ 소수의견 “부당”…‘내란’ 일부 혐의 왜 뒤집혔나",
       "url": "https://www.hani.co.kr/arti/society/society_general/1288240.html",
-      "publishedAt": "2026-11-19T18:13:23.968Z",
+      "publishedAt": "2026-11-19T19:12:27.012Z",
       "excerpt": ""
     },
     {
@@ -281,7 +281,7 @@
       "kind": "article",
       "title": "[단독] 성소수자 ‘혐오의 손짓’ 바뀔까…수어사전에 첫 주의 문구",
       "url": "https://www.hani.co.kr/arti/society/society_general/1288239.html",
-      "publishedAt": "2026-11-19T18:13:23.968Z",
+      "publishedAt": "2026-11-19T19:12:27.012Z",
       "excerpt": ""
     },
     {
@@ -293,8 +293,260 @@
       "kind": "article",
       "title": "미·중·러 사상 첫 정상회담…“핵위험 줄이자” 공동 평화선언",
       "url": "https://www.hani.co.kr/arti/international/china/1288238.html",
-      "publishedAt": "2026-11-19T18:13:23.968Z",
+      "publishedAt": "2026-11-19T19:12:27.012Z",
       "excerpt": ""
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261120005400071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "트럼프는 '친구'라 했지만…\"시진핑·푸틴은 美패권종식 맞손\"",
+      "url": "https://www.yna.co.kr/view/AKR20261120005400071",
+      "publishedAt": "2026-11-19T19:08:40.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 이번 중국 방문을 계기로 시진핑 중국 국가주석과 블라디미르 푸틴 러시아 대통령..."
+    },
+    {
+      "id": "cnbc-invest:https://www.cnbc.com/2026/11/19/applovin-app-paul-meeks-buying.html",
+      "sourceId": "cnbc-invest",
+      "sourceName": "CNBC Investing",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "This tech stock has been nearly cut in half this year. I think Wall Street is getting it wrong",
+      "url": "https://www.cnbc.com/2026/11/19/applovin-app-paul-meeks-buying.html",
+      "publishedAt": "2026-11-19T19:08:20.000Z",
+      "excerpt": "AppLovin's accelerating revenue growth and expansion into e-commerce make the AI advertising company an attractive investment opportunity, says analyst Paul Meeks."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
+      "url": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
+      "publishedAt": "2026-11-19T19:06:56.000Z",
+      "excerpt": "Recent outages are prompting a rethink of cash. At the very least, your money should be diversified, top advisors say."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "publishedAt": "2026-11-19T19:06:48.000Z",
+      "excerpt": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Dow dives 800 points as Anthropic IPO milestone causes investors to take profits: Live updates",
+      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+      "publishedAt": "2026-11-19T19:04:46.000Z",
+      "excerpt": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261120005800085",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[게시판] OECD 한국인 직원 소통·협력 네트워크 출범",
+      "url": "https://www.yna.co.kr/view/AKR20261120005800085",
+      "publishedAt": "2026-11-19T19:01:37.000Z",
+      "excerpt": "▲ 경제협력개발기구(OECD) 본부의 한국인 직원 간 소통과 협력 강화, 정보 공유 활성화를 위한 OECD 한국인 직원 네트워크(OKSN)가 1..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261120004151071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[미중러 정상회담] \"돌파구 없는 선언적 만남…배타적 세력권 강조\"(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261120004151071",
+      "publishedAt": "2026-11-19T18:58:07.000Z",
+      "excerpt": "(워싱턴·런던=연합뉴스) 홍정규 김지연 특파원 = 19일(현지시간) 중국 선전에서 개최된 미·중·러 정상회담은 '사상 처음'이라는 역사적 상징성..."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
+      "url": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
+      "publishedAt": "2026-11-19T18:55:57.000Z",
+      "excerpt": "An ongoing shortage of Sanofi’s Pompe disease treatment is forcing some patients to miss critical doses. They worry their health is at risk."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-19/lina-khan-s-economic-playbook-shows-in-nyc-revenue-share-deals",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Lina Khan’s Economic Playbook Shows in NYC Revenue-Share Deals",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/lina-khan-s-economic-playbook-shows-in-nyc-revenue-share-deals",
+      "publishedAt": "2026-11-19T18:54:52.000Z",
+      "excerpt": "Lina Khan, the former US antitrust enforcer who Mayor Zohran Mamdani tapped for a top economic development role, is putting her stamp on New York City’s approach to stoking growth and hiring."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/investingclub/2026/11/19/anthropics-historic-ipo-is-a-boon-to-these-12-portfolio-stocks-heres-how-they-benefit.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Anthropic's historic IPO is a boon to these 12 portfolio stocks. Here's how they benefit",
+      "url": "https://www.cnbc.com/investingclub/2026/11/19/anthropics-historic-ipo-is-a-boon-to-these-12-portfolio-stocks-heres-how-they-benefit.html",
+      "publishedAt": "2026-11-19T18:48:29.000Z",
+      "excerpt": "From chips to industrials and banks, we have companies that stand to gain from Anthropic's blockbuster debut."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261120005300091",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "리사수, '젠슨황 스캔들' 업계 파장에 \"소음 가라앉을 것\"",
+      "url": "https://www.yna.co.kr/view/AKR20261120005300091",
+      "publishedAt": "2026-11-19T18:44:55.000Z",
+      "excerpt": "(샌프란시스코=연합뉴스) 권영전 특파원 = 젠슨 황 전 엔비디아 최고경영자(CEO)가 스파이 연루 의혹과 추문으로 자리에서 물러난 가운데 경쟁사..."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+      "publishedAt": "2026-11-19T18:44:34.000Z",
+      "excerpt": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney."
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=37480&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "누군가 2026년 9월에 java4shell 버그를 보고함",
+      "url": "https://news.hada.io/topic?id=37480&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-19T18:36:14.000Z",
+      "excerpt": "OpenJDK의 x86_64 AVX-512 VBMI Base64 디코더 에서 잘못된 입력을 처리할 때 논리적 출력 길이를 넘어 데이터를 저장해 힙을 손상시키는 버그가 보고됨 남은 입력이 4바이트 미만 이면 출력 크기가 0으로 계산되고, 패딩 처리에서 음수가 되면서 잘못된 출력 마스크가 만들어짐 재현 입력인 \"A\".repeat(64)+\"=\" 는 64바이트 처리 루프 이후 1바이트를 남김. PR 설명에 따르면 유효한 입력 길이는 …"
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=37479&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "생존과 사회 재건에 필요한 모든 것",
+      "url": "https://news.hada.io/topic?id=37479&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-19T18:33:14.000Z",
+      "excerpt": "Lastbook 은 생존과 사회 재건에 필요한 자료, 지도, 영상, 선택형 로컬 AI를 무료로 제공하며, 초기 설정 후 오프라인에서 사용할 수 있음 응급처치, 식수, 식량 보존 부터 수리, 전력, 재난 대비까지 다루며, 영상 2,324개와 검색 가능한 장소 25만 8,000곳 이상을 제공함 Chat 은 선택형 로컬 Gemma 4 26B A4B 모델로 라이브러리 관련 질문에 답하고 출처를 연결함 Mac, Windows, Linu…"
+    },
+    {
+      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-panetta-says-inflation-mustn-t-be-allowed-to-take-root",
+      "sourceId": "bbg-econ",
+      "sourceName": "Bloomberg Economics",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "ECB’s Panetta Says Inflation Mustn’t Be Allowed to Take Root",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-panetta-says-inflation-mustn-t-be-allowed-to-take-root",
+      "publishedAt": "2026-11-19T18:32:19.000Z",
+      "excerpt": "The European Central Bank must prevent inflation from becoming entrenched but without causing undue harm to the economy, Governing Council member Fabio Panetta said."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
+      "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
+      "publishedAt": "2026-11-19T18:30:51.000Z",
+      "excerpt": "Netflix, Amazon and Fox are among those bidding on the 2030 men's World Cup media rights. Disney has decided not to bid, sources told CNBC."
+    },
+    {
+      "id": "axios:https://www.axios.com/2026/11/19/trump-iran-attacks-israel-new-year",
+      "sourceId": "axios",
+      "sourceName": "Axios",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Trump to Axios: I'm \"not rushing into a decision\" on Iran",
+      "url": "https://www.axios.com/2026/11/19/trump-iran-attacks-israel-new-year",
+      "publishedAt": "2026-11-19T18:25:56.000Z",
+      "excerpt": "President Trump said in a brief phone interview Thursday that he won't make a determination on his next step in the Iran war until the new year. \"I am not rushing into any decision [on Iran]. We will see what happens after the beginning of …"
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "AMD dives on short-seller report of alleged China exposure",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "publishedAt": "2026-11-19T18:24:54.000Z",
+      "excerpt": "AMD was slumping after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Culture/article/all/20261120/135058127/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "‘임신 39주’ 아야네, D라인에도 늘씬 각선미…“이번엔 15㎏ 쪘다”",
+      "url": "https://www.donga.com/news/Culture/article/all/20261120/135058127/1",
+      "publishedAt": "2026-11-19T18:20:47.000Z",
+      "excerpt": "배우 겸 가수 이지훈의 일본인 아내 아야네가 임신 39주 차 근황과 함께 임신 기간 체중 변화를 공개했다. 아야네는 17일 자신의 사회관계망서비스(SNS)에 사진을 올리고 “이 사진은 38주 임산부…이제 39주 임산부”라고 전했다. 이어 “오늘도 어김없이 쉬기는커녕 일하느라 폰도 거의 못 보는”이라고 덧붙였다.공개된 사진 속 아야네는 넉넉한 니트를 입고 있다. 옷 위로도 만삭의 배가 드러나 눈길을 끌었다. 그러나 만삭에도 불구…"
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-19/offshore-chinese-yuan-drops-to-weakest-level-in-over-a-month-mwnvjmz2",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Offshore Chinese Yuan Drops to Weakest Level in Over a Month",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/offshore-chinese-yuan-drops-to-weakest-level-in-over-a-month-mwnvjmz2",
+      "publishedAt": "2026-11-19T18:19:10.000Z",
+      "excerpt": "The offshore Chinese yuan declined to the weakest level in more than a month while the dollar rallied as risk appetite shrank."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261120004400087",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "'부켈레 군사 작전' 지지했던 청년 10명, 아이티 갱단에 피살",
+      "url": "https://www.yna.co.kr/view/AKR20261120004400087",
+      "publishedAt": "2026-11-19T18:12:36.000Z",
+      "excerpt": "(멕시코시티=연합뉴스) 송광호 특파원 = 아이티 갱단 섬멸 작전에 나선 엘살바도르 군대를 지지하는 현지 청년들이 잇달아 갱단에 피살됐다."
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261120004600072",
@@ -307,30 +559,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261120004600072",
       "publishedAt": "2026-11-19T18:08:43.000Z",
       "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 19일(현지시간) 중국 선전에서 폐막한 아시아태평양경제협력체(APEC) 정상회의 일정 중 도널드 트럼프 미국..."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Dow dives 700 points as Anthropic IPO milestone causes investors to take profits: Live updates",
-      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-      "publishedAt": "2026-11-19T18:07:34.000Z",
-      "excerpt": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
-      "url": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
-      "publishedAt": "2026-11-19T18:07:30.000Z",
-      "excerpt": "Recent outages are prompting a rethink of cash. At the very least, your money should be diversified, top advisors say."
     },
     {
       "id": "cnbc-top:https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
@@ -357,18 +585,6 @@
       "excerpt": "Follow along as CNBC covers the biggest stock market moves of the day."
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-      "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-      "publishedAt": "2026-11-19T17:59:04.000Z",
-      "excerpt": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments."
-    },
-    {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261120004500099",
       "sourceId": "yna-intl",
       "sourceName": "연합뉴스 국제",
@@ -393,18 +609,6 @@
       "excerpt": "(워싱턴=연합뉴스) 홍정규 특파원 = 19일(현지시간) 중국 선전에서 개최된 미·중·러 정상회담은 '사상 처음'이라는 역사적 상징성 자체로 의미..."
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap, Ashton Kutcher celebrates debut",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-      "publishedAt": "2026-11-19T17:54:07.000Z",
-      "excerpt": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker."
-    },
-    {
       "id": "axios:https://www.axios.com/2026/11/19/trump-elon-musk-not-maga-friend",
       "sourceId": "axios",
       "sourceName": "Axios",
@@ -417,6 +621,18 @@
       "excerpt": "President Trump still considers Elon Musk an ally despite the world's richest man saying he's \"not MAGA,\" the president told NBC News on Thursday. Why it matters: Musk's latest break from Trump's political movement comes after he spent mill…"
     },
     {
+      "id": "geeknews:https://news.hada.io/topic?id=37478&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "SQLite 기반 분산 고성능 블롭 스토리지",
+      "url": "https://news.hada.io/topic?id=37478&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-19T17:34:22.000Z",
+      "excerpt": "Zerodha가 SQLite를 저장 엔진으로 사용하는 Rust 기반 오픈소스 Blobasaur 를 개발해 기존 SSDB를 대체함. 수 KB부터 수 MB까지의 JSON 블롭을 일반 하드웨어에서 초당 수천 회 읽고 쓰며 한 자릿수 밀리초 지연을 유지함 SQLite의 단일 작성자 제약은 여러 데이터베이스 파일로 샤딩 하고, 샤드별 쓰기를 묶어 커밋하는 방식으로 해결함. 디스크 변수를 제외한 벤치마크에서 16개 샤드는 단일 샤드보다 …"
+    },
+    {
       "id": "bbg-markets:https://www.bloomberg.com/news/newsletters/2026-11-19/blackrock-s-new-proposal-looks-to-mix-ease-of-trading-with-private-market-access",
       "sourceId": "bbg-markets",
       "sourceName": "Bloomberg Markets",
@@ -427,18 +643,6 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/blackrock-s-new-proposal-looks-to-mix-ease-of-trading-with-private-market-access",
       "publishedAt": "2026-11-19T17:33:42.000Z",
       "excerpt": "The proposed fund structure brings together two things investors are obsessed with."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
-      "publishedAt": "2026-11-19T17:32:50.000Z",
-      "excerpt": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney."
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261119178751079",
@@ -477,28 +681,16 @@
       "excerpt": "BP Plc has been considering divesting its majority stake and operatorship of its liquefied natural gas facility off the coast of West Africa, people familiar with the matter said, as chief executive officer Meg O’Neill aims to narrow the en…"
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261120001151089",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "中왕이, 미중러 정상회담에 \"역사책에 실릴 상징적 사건\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261120001151089",
-      "publishedAt": "2026-11-19T17:17:06.000Z",
-      "excerpt": "(선전=연합뉴스) 차병섭 특파원 = 왕이 중국 외교부장(중국공산당 중앙외사판공실 주임 겸임)이 19일(현지시간) 열린 미중러 3자 정상회담에 대..."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/investingclub/2026/11/19/jim-cramer-says-to-buy-stock-in-this-sleeping-tech-giant-aggressively.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
+      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-surveillance-11-19-2026-video",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
       "domain": "markets",
       "lang": "en",
       "kind": "article",
-      "title": "Jim Cramer says to buy stock in this sleeping tech giant 'aggressively, aggressively'",
-      "url": "https://www.cnbc.com/investingclub/2026/11/19/jim-cramer-says-to-buy-stock-in-this-sleeping-tech-giant-aggressively.html",
-      "publishedAt": "2026-11-19T17:15:33.000Z",
-      "excerpt": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET."
+      "title": "Anthropic's Blockbuster IPO Surpasses SpaceX Ahead of First Trade",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-surveillance-11-19-2026-video",
+      "publishedAt": "2026-11-19T17:20:13.000Z",
+      "excerpt": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surv…"
     },
     {
       "id": "pragmatic:https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
@@ -512,42 +704,6 @@
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
       "publishedAt": "2026-11-19T17:08:59.000Z",
       "excerpt": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261119155051079",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "사우디 리야드 80층 빌딩 후티 미사일에 파손…'비전2030' 상징(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261119155051079",
-      "publishedAt": "2026-11-19T17:08:11.000Z",
-      "excerpt": "(카이로=연합뉴스) 김상훈 특파원 = 예멘 친이란 반군 후티의 미사일 공격으로 사우디아라비아 국부펀드(PIF) 사무실이 입주한 사우디 수도 리야..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261120003100091",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "앤트로픽, 111.5달러에 거래 시작…시총 2조달러 달성",
-      "url": "https://www.yna.co.kr/view/AKR20261120003100091",
-      "publishedAt": "2026-11-19T17:06:15.000Z",
-      "excerpt": "(샌프란시스코=연합뉴스) 권영전 특파원 = 인공지능(AI) 모델 클로드 개발사 앤트로픽이 19일(현지시간) 상장 첫날 주당 111.5달러로 거래..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261120003000082",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[미중러 정상회담] \"우리는 푸틴 친구 아냐\"…발끈한 유럽",
-      "url": "https://www.yna.co.kr/view/AKR20261120003000082",
-      "publishedAt": "2026-11-19T17:06:12.000Z",
-      "excerpt": "(베를린=연합뉴스) 김계연 특파원 = 유럽 각국은 19일(현지시간) 미국과 중국·러시아의 정상회담으로 우크라이나 전쟁 종식 논의에서 블라디미르 ..."
     },
     {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008854534",
@@ -586,16 +742,16 @@
       "excerpt": "Life insurers haven't built up the same kind of skills to analyze private market investments in the same way as banks have and the lag compared with deployment is ``fairly significant'' in areas like credit risk assessment, valuation and ca…"
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
+      "id": "hn:https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
       "lang": "en",
       "kind": "article",
-      "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
-      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-      "publishedAt": "2026-11-19T17:01:41.000Z",
-      "excerpt": "The leaders of the U.S., China and Russia met in Shenzhen, China on Thursday for a rare trilateral gathering."
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "publishedAt": "2026-11-19T17:02:40.000Z",
+      "excerpt": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 322 # Comments: 455"
     },
     {
       "id": "axios:https://www.axios.com/2026/11/19/meta-ai-emissions-rise",
@@ -620,30 +776,6 @@
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854533",
       "publishedAt": "2026-11-19T17:00:00.000Z",
       "excerpt": "경기도 하남시의 한 아파트 단지 헌 옷 수거함에서 신생아 시신이 발견됐습니다. 경찰은 시신을 유기한 혐의로 30대 친모를 긴급 체포했습니다.김규리 기자가 보도합니다."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "AMD falls on short-seller report of alleged China exposure",
-      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-      "publishedAt": "2026-11-19T16:53:47.000Z",
-      "excerpt": "AMD was slumping Wednesday after a short-seller alleged that its firmware showed up at blacklisted Chinese company"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261120002700091",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[속보] 앤트로픽 주가 111.5달러에 거래 시작",
-      "url": "https://www.yna.co.kr/view/AKR20261120002700091",
-      "publishedAt": "2026-11-19T16:52:20.000Z",
-      "excerpt": "("
     },
     {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008854522",
@@ -727,7 +859,7 @@
       "title": "PHP 8.6의 새로운 기능",
       "url": "https://news.hada.io/topic?id=37476&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "publishedAt": "2026-11-19T16:35:17.000Z",
-      "excerpt": "PHP 8.6 은 함수의 일부 인수를 미리 지정하는 부분 적용, 경과 시간을 나타내는 Time\\Duration , 확장 가능한 I/O용 Polling API를 도입함 부분 함수 적용 은 ? 와 ... 자리표시자로 남은 인수를 받는 Closure를 생성함 Io\\Poll 은 플랫폼별 네이티브 메커니즘으로 여러 스트림을 감시하며, 스트림 오류는 경고 대신 예외나 구조화된 오류 객체로 처리할 수 있음 clamp() 는 비교 가능한 값…"
+      "excerpt": "PHP 8.6 은 함수의 일부 인수를 미리 지정하는 부분 적용, 경과 시간을 나타내는 Time\\Duration , 확장 가능한 I/O용 Polling API를 도입함 부분 함수 적용 으로 인수 일부를 미리 지정한 콜백을 간결하게 만들 수 있음. version_compare(?, '8.6', '>=') 처럼 나중에 받을 인수만 남겨, 별도의 화살표 함수로 감싸던 코드를 줄임 Io\\Poll 은 다수의 연결을 효율적으로 감시 해 기…"
     },
     {
       "id": "donga:https://www.donga.com/news/Culture/article/all/20261120/135058087/1",
@@ -838,16 +970,16 @@
       "excerpt": "Myanmar became the first state the International Court of Justice has held responsible for committing genocide in a landmark ruling Thursday. Why it matters: The decision could have far-reaching implications for other genocide cases, includ…"
     },
     {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-19/south-africa-port-operator-blames-delays-on-old-equipment",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
+      "id": "hn:https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
       "lang": "en",
       "kind": "article",
-      "title": "South Africa Port Operator Blames Delays on Old Equipment",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-port-operator-blames-delays-on-old-equipment",
-      "publishedAt": "2026-11-19T16:19:02.000Z",
-      "excerpt": "The operator of South Africa’s biggest shipping container terminal blamed poor equipment upkeep for severe delays that have caused medical supply shortages and hit car exports, triggering threats it could lose its license."
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "publishedAt": "2026-11-19T16:21:03.000Z",
+      "excerpt": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 207 # Comments: 97"
     },
     {
       "id": "semafor:https://www.semafor.com/article/11/19/2026/fdas-long-term-vacancy",
@@ -862,28 +994,16 @@
       "excerpt": "Heidi Overton’s pulled nomination sets up a long-term vacancy."
     },
     {
-      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-19/algebris-hedges-against-at1-volatility-video",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Algebris Hedges Against AT1 Volatility by Avoiding Tight Spreads",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/algebris-hedges-against-at1-volatility-video",
-      "publishedAt": "2026-11-19T16:17:48.000Z",
-      "excerpt": "Algebris Investments is taking a cautious approach to AT1 bonds as spreads remain historically tight, avoiding the most expensive parts of the market and keeping buffers against a potential downturn. Other investors remain positive on the a…"
-    },
-    {
       "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale",
       "sourceId": "bbg-markets",
       "sourceName": "Bloomberg Markets",
       "domain": "markets",
       "lang": "en",
       "kind": "article",
-      "title": "Alphabet to Raise Up to $4.2 Billion in Latest Canada Bond Sale",
+      "title": "Alphabet Set to Raise $4.2 Billion From Latest Canada Bond Sale",
       "url": "https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale",
       "publishedAt": "2026-11-19T16:16:50.000Z",
-      "excerpt": "Alphabet Inc. is poised to raise as much as C$6 billion ($4.2 billion) from the sale of Canadian bonds, six months after its debut in the market."
+      "excerpt": "Alphabet Inc. has launched a C$6 billion ($4.2 billion) sale of Canadian bonds, six months after its debut in the market."
     },
     {
       "id": "donga:https://www.donga.com/news/list/article/all/20261120/135058045/2",
@@ -910,18 +1030,6 @@
       "excerpt": "Advanced Micro Devices Inc. shares slid after Hunterbrook Capital said it shorted the stock, following a report by its media affiliate that the chipmaker is reliant on a potentially risky business in China."
     },
     {
-      "id": "bbg-markets:https://www.bloomberg.com/news/videos/2026-11-19/jetour-vai-investir-r-400-mi-para-produzir-no-brasil-video",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Jetour vai investir R$ 400 mi para produzir no Brasil",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/jetour-vai-investir-r-400-mi-para-produzir-no-brasil-video",
-      "publishedAt": "2026-11-19T16:09:16.000Z",
-      "excerpt": "Leonardo Lara fala sobre o investimento da Jetour para estabelecer uma base de produção no Brasil. Edição de Gisele Fernandes (Source: Bloomberg)"
-    },
-    {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-19/brazil-central-bank-steps-into-markets-as-fiscal-woes-hit-real",
       "sourceId": "bbg-econ",
       "sourceName": "Bloomberg Economics",
@@ -944,18 +1052,6 @@
       "url": "https://news.hada.io/topic?id=37474&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "publishedAt": "2026-11-19T15:33:58.000Z",
       "excerpt": "SSD 가격은 2027년 하반기부터 점진적으로 하락할 전망 이며, HDD는 장기 공급 계약과 생산능력 제약 때문에 의미 있는 가격 완화가 2028년까지 늦어질 가능성이 있음 NAND 공급 부족 완화 가 SSD 가격 전환의 핵심임. TrendForce는 생산량 증가와 약한 소비자 수요로 2027년 하반기 수급이 균형을 되찾을 것으로 예상하지만, 2024년 가격으로의 복귀를 뜻하지는 않음 HDD는 물량과 가격을 묶은 다년 계약 이…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261119/135056189/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘실손’ 1, 2세대→5세대 갈아타면 3년간 보험료 반값",
-      "url": "https://www.donga.com/news/Economy/article/all/20261119/135056189/2",
-      "publishedAt": "2026-11-19T15:30:00.000Z",
-      "excerpt": "다음 주부터 1세대 및 2세대 초기 실손보험 가입자가 5세대로 갈아타면 3년간 보험료를 절반 할인받을 수 있다. 갈아타지 않아도 비급여 보장을 빼거나 자기 부담률을 높이면 보험료를 연간 수십만 원씩 아낄 수 있다. 정부와 보험업계는 의료비용 절감, 적자 탈출 등을 이유로 실손 1, 2세대 가입자의 갈아타기를 유도하고 있다. 다만 가입자 상황에 따라 갈아타기 손익이 다르기 때문에 꼼꼼히 따져볼 필요가 있다. 병원에 자주 가지 않…"
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/19/dont-buy-anthropic-right-away-wait-for-a-discount.html",
@@ -1087,7 +1183,7 @@
       "title": "Everything you need to survive and rebuild society",
       "url": "https://lastbook.org/",
       "publishedAt": "2026-11-19T14:47:18.000Z",
-      "excerpt": "Article URL: https://lastbook.org/ Comments URL: https://news.ycombinator.com/item?id=50560822 Points: 214 # Comments: 115"
+      "excerpt": "Article URL: https://lastbook.org/ Comments URL: https://news.ycombinator.com/item?id=50560822 Points: 248 # Comments: 140"
     },
     {
       "id": "yna-pol:https://www.yna.co.kr/view/AKR20261119174353001",
@@ -1594,6 +1690,18 @@
       "excerpt": "Strong demand for AI-related goods and tight capacity are colliding with the seasonal peak for shipping"
     },
     {
+      "id": "hn:https://github.com/openjdk/jdk/pull/32781",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Someone reported java4shell bug in September 2026",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "publishedAt": "2026-11-19T11:47:03.000Z",
+      "excerpt": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 225 # Comments: 55"
+    },
+    {
       "id": "sedaily:https://www.sedaily.com/article/20116715",
       "sourceId": "sedaily",
       "sourceName": "서울경제 경제",
@@ -1676,7 +1784,7 @@
       "title": "How the European Commission rolled out Matrix to more than 40k staff",
       "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
       "publishedAt": "2026-11-19T10:58:29.000Z",
-      "excerpt": "Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ Comments URL: https://news.ycombinator.com/item?id=50558533 Points: 555 # Comments: 271"
+      "excerpt": "Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ Comments URL: https://news.ycombinator.com/item?id=50558533 Points: 580 # Comments: 277"
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-19/imf-s-chief-is-warning-ai-correction-has-little-bit-more-to-go",
@@ -1790,18 +1898,6 @@
       "excerpt": "Senegalese lawmakers rejected the first part of the government’s 2027 budget, deepening a standoff between President Bassirou Diomaye Faye and parliament that threatens to delay fiscal reforms underpinning a proposed $2.2 billion Internatio…"
     },
     {
-      "id": "geeknews:https://news.hada.io/topic?id=37467&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Java4Shell은 Java를 사용해야 할 이유다",
-      "url": "https://news.hada.io/topic?id=37467&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-19T10:01:27.000Z",
-      "excerpt": "Java4Shell 은 JVM의 Base64 인코딩 인트린식에서 발생한 취약점임. 아직 업데이트하지 않은 Java 배포 환경은 -XX:-UseBASE64Intrinsics 를 추가하고, 가능한 시점에 패치된 VM으로 업그레이드해야 함 AI로 잠재적 문제를 찾는 데 필요한 노력이 줄어드는 가운데, 네이티브 코드 에서 비롯되고 널리 공유되는 의존성에 존재하는 취약점은 더 심각하고 광범위한 문제가 되기 쉬움 VM을 신뢰한다는 전제 …"
-    },
-    {
       "id": "axios:https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast",
       "sourceId": "axios",
       "sourceName": "Axios",
@@ -1812,18 +1908,6 @@
       "url": "https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast",
       "publishedAt": "2026-11-19T10:00:09.000Z",
       "excerpt": "Anthropic will make its Wall Street debut Thursday at a moment of profound contradiction in the history of AI: The humans are embattled — bogged down by scandal, financial turmoil and political revolt. But the machines are ascendant — accel…"
-    },
-    {
-      "id": "axios:https://www.axios.com/2026/11/19/tech-outages-bots-conspiracies",
-      "sourceId": "axios",
-      "sourceName": "Axios",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "Exclusive: Bots amplified conspiracy theories and panic about recent tech outages",
-      "url": "https://www.axios.com/2026/11/19/tech-outages-bots-conspiracies",
-      "publishedAt": "2026-11-19T10:00:09.000Z",
-      "excerpt": "Bot accounts have helped spread conspiracy theories about a wave of major tech outages over the last week, according to new research shared exclusively with Axios. Why it matters: Purveyors of disinformation appear to be exploiting public a…"
     },
     {
       "id": "yna-econ:https://www.yna.co.kr/view/AKR20261119168400004",
@@ -1943,7 +2027,7 @@
       "title": "What's New in PHP 8.6",
       "url": "https://www.php.net/releases/8.6/en.php",
       "publishedAt": "2026-11-19T09:27:15.000Z",
-      "excerpt": "Article URL: https://www.php.net/releases/8.6/en.php Comments URL: https://news.ycombinator.com/item?id=50557870 Points: 221 # Comments: 102"
+      "excerpt": "Article URL: https://www.php.net/releases/8.6/en.php Comments URL: https://news.ycombinator.com/item?id=50557870 Points: 233 # Comments: 110"
     },
     {
       "id": "sedaily:https://www.sedaily.com/article/20116664",
@@ -2003,7 +2087,7 @@
       "title": "SSD prices may begin to decline in the latter half of 2027",
       "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
       "publishedAt": "2026-11-19T09:05:34.000Z",
-      "excerpt": "Article URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html Comments URL: https://news.ycombinator.com/item?id=50557716 Points: 251 # Comments: 207"
+      "excerpt": "Article URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html Comments URL: https://news.ycombinator.com/item?id=50557716 Points: 261 # Comments: 215"
     },
     {
       "id": "yna-econ:https://www.yna.co.kr/view/AKR20261119164000063",
@@ -2126,6 +2210,18 @@
       "excerpt": "소속 기관이 제공하는 복지포인트를 두고 받는 대상이 공무원인지 민간 기업 임직원인지에 따라 과세 여부가 달라지는 기현상이 논란을 빚고 있다. 공무원과 기업체 임직원들은 복리후생의 .."
     },
     {
+      "id": "hn:https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "publishedAt": "2026-11-19T08:39:45.000Z",
+      "excerpt": "Article URL: https://zerodha.tech/blog/high-performance-distributed-blob-storage/ Comments URL: https://news.ycombinator.com/item?id=50557537 Points: 202 # Comments: 58"
+    },
+    {
       "id": "sedaily:https://www.sedaily.com/article/20116604",
       "sourceId": "sedaily",
       "sourceName": "서울경제 경제",
@@ -2138,42 +2234,6 @@
       "excerpt": ""
     },
     {
-      "id": "geeknews:https://news.hada.io/topic?id=37466&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "LLM을 활용한 리버스 엔지니어링",
-      "url": "https://news.hada.io/topic?id=37466&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-19T08:37:48.000Z",
-      "excerpt": "20년간 수작업으로 해 온 하드웨어/소프트웨어 리버스 엔지니어링에서, AI 에이전트와 전용 스킬 에 분석을 맡기고 사람이 방향을 조정해 작업 시간을 크게 줄임 분석은 바이너리 유형과 플랫폼 파악, 도구 선택, 주요 함수와 분기 구조 조사 순으로 진행하며, 발견 사항을 Markdown 파일 에 기록해 맥락 압축이나 에이전트 교체 이후에도 작업을 이어감 정적 분석만으로 막히면 디버깅, 로그, 실행 환경 제어 를 활용하고, 사람이 …"
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=37465&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Anthropic, 기업공개 공모가 확정",
-      "url": "https://news.hada.io/topic?id=37465&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-19T08:34:48.000Z",
-      "excerpt": "Anthropic 이 Class A 보통주의 기업공개(IPO) 공모가를 주당 83달러 로 확정함 공모 물량은 9억 8,000만 주 이며, Anthropic이 매각하는 주식과 일부 기존 주주가 매각하는 주식으로 구성됨 기존 주주의 매각 대금은 Anthropic에 유입되지 않음 2026년 11월 19일 Nasdaq Global Select Market에서 종목 기호 ANT 로 거래를 시작할 예정임 인수단에는 30일간 최대 1억 4…"
-    },
-    {
-      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-19/south-korea-s-exports-top-1-trillion-for-first-time-on-ai-boom",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "South Korea’s Exports Top $1 Trillion for First Time on AI Boom",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korea-s-exports-top-1-trillion-for-first-time-on-ai-boom",
-      "publishedAt": "2026-11-19T08:25:53.000Z",
-      "excerpt": "South Korea’s annual exports surpassed $1 trillion for the first time as a global artificial intelligence boom stoked record semiconductor shipments."
-    },
-    {
       "id": "hn:https://kapteko.com/15-million-webservers/",
       "sourceId": "hn",
       "sourceName": "Hacker News (200점 이상)",
@@ -2183,7 +2243,7 @@
       "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
       "url": "https://kapteko.com/15-million-webservers/",
       "publishedAt": "2026-11-19T05:56:36.000Z",
-      "excerpt": "Article URL: https://kapteko.com/15-million-webservers/ Comments URL: https://news.ycombinator.com/item?id=50556533 Points: 311 # Comments: 36"
+      "excerpt": "Article URL: https://kapteko.com/15-million-webservers/ Comments URL: https://news.ycombinator.com/item?id=50556533 Points: 324 # Comments: 36"
     },
     {
       "id": "hn:https://verialabs.com/ruby2shell/",
@@ -2195,7 +2255,7 @@
       "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
       "url": "https://verialabs.com/ruby2shell/",
       "publishedAt": "2026-11-19T05:09:11.000Z",
-      "excerpt": "Article URL: https://verialabs.com/ruby2shell/ Comments URL: https://news.ycombinator.com/item?id=50556287 Points: 313 # Comments: 129"
+      "excerpt": "Article URL: https://verialabs.com/ruby2shell/ Comments URL: https://news.ycombinator.com/item?id=50556287 Points: 333 # Comments: 135"
     },
     {
       "id": "uppity:https://uppity.co.kr/%ec%98%88%ec%82%b0%ec%9d%b4-%ec%9e%88%eb%8a%94%eb%8d%b0%eb%8f%84-%ec%99%9c-%eb%a7%a4%eb%8b%ac-%eb%8f%88%ec%9d%b4-%eb%b6%80%ec%a1%b1%ed%95%a0%ea%b9%8c%ec%9a%94/",
@@ -2310,18 +2370,6 @@
       "excerpt": "CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI.",
       "audioUrl": "https://api.substack.com/feed/podcast/225268679/5269cb4d06b91eb4208035b19c1b1dd8.mp3",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!eod5!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27076b05-e3f4-4d05-9621-3da4f7f189cd_300x300.png"
-    },
-    {
-      "id": "cnbc-invest:https://www.cnbc.com/2026/11/18/robinhood-is-down-nine-straight-weeks-heres-why-its-time-to-buy.html",
-      "sourceId": "cnbc-invest",
-      "sourceName": "CNBC Investing",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Robinhood is down nine straight weeks. Here's why it's time to buy",
-      "url": "https://www.cnbc.com/2026/11/18/robinhood-is-down-nine-straight-weeks-heres-why-its-time-to-buy.html",
-      "publishedAt": "2026-11-18T17:59:25.000Z",
-      "excerpt": "Robinhood shares are approaching a key support level after a steep sell-off, setting up a potential relief rally with 25% to 30% upside."
     },
     {
       "id": "sonkyung:https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261118.mp3",
@@ -2588,18 +2636,6 @@
       "audioUrl": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261117.mp3",
       "durationSec": 1403,
       "imageUrl": "https://img.imbc.com/adams/Program/20263/134194093443196502.jpg"
-    },
-    {
-      "id": "hn:https://blog.harrison.page/garage-door-spam/",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Garage Door Spam",
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "publishedAt": "2026-11-16T16:13:36.000Z",
-      "excerpt": "Article URL: https://blog.harrison.page/garage-door-spam/ Comments URL: https://news.ycombinator.com/item?id=50519231 Points: 501 # Comments: 221"
     },
     {
       "id": "lenny:https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
@@ -2924,19 +2960,6 @@
       "audioUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/4jdbjyyrkqk96egqozqb/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/66354d0c-214e-4370-a0df-240d93e522f8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&amp;awEpisodeId=66354d0c-214e-4370-a0df-240d93e522f8&amp;feed=l2i9YnTd",
       "durationSec": 2362,
       "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed"
-    },
-    {
-      "id": "pragmatic:https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
-      "sourceId": "pragmatic",
-      "sourceName": "The Pragmatic Engineer",
-      "domain": "career",
-      "deep": true,
-      "lang": "en",
-      "kind": "article",
-      "title": "The Pulse: What can we learn from the Railway hack?",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
-      "publishedAt": "2026-11-12T18:53:19.000Z",
-      "excerpt": "Also: native mobile and frontend jobs are disappearing, how trust helps an “AI-native” engineering team to succeed, Carta starts selling a coding harness, and more"
     },
     {
       "id": "thedaily:acb73150-dba0-437a-ac37-55ed1e31aacd",
@@ -3433,8 +3456,8 @@
       },
       {
         "id": "hn",
-        "count": 7,
-        "parsed": 7
+        "count": 10,
+        "parsed": 11
       },
       {
         "id": "tldr",
@@ -3473,7 +3496,7 @@
       },
       {
         "id": "pragmatic",
-        "count": 10,
+        "count": 9,
         "parsed": 20
       },
       {
