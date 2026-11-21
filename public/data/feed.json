@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:45:02.967Z",
+  "generatedAt": "2026-11-21T17:47:16.679Z",
   "domains": [
     {
       "id": "global",
@@ -65,7 +65,7 @@
       "kind": "article",
       "title": "수능 창시자의 탄식…“이런 시험이면 없애는 게 낫다”",
       "url": "https://www.hani.co.kr/arti/society/society_general/1288447.html",
-      "publishedAt": "2026-11-21T16:45:02.055Z",
+      "publishedAt": "2026-11-21T17:47:11.403Z",
       "excerpt": ""
     },
     {
@@ -77,7 +77,7 @@
       "kind": "article",
       "title": "탈선에 멈춰선 경부선 일반열차, 22일 첫차부터 정상 운행",
       "url": "https://www.hani.co.kr/arti/society/society_general/1288446.html",
-      "publishedAt": "2026-11-21T16:45:02.055Z",
+      "publishedAt": "2026-11-21T17:47:11.403Z",
       "excerpt": ""
     },
     {
@@ -89,7 +89,7 @@
       "kind": "article",
       "title": "‘소설’인데 눈은 안 오고…전국 아침 대부분 영하권",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1288445.html",
-      "publishedAt": "2026-11-21T16:45:02.055Z",
+      "publishedAt": "2026-11-21T17:47:11.403Z",
       "excerpt": ""
     },
     {
@@ -101,7 +101,7 @@
       "kind": "article",
       "title": "한병도, 국힘 순회 장외집회에 “길바닥 정치 그만두라”",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1288444.html",
-      "publishedAt": "2026-11-21T16:45:02.055Z",
+      "publishedAt": "2026-11-21T17:47:11.403Z",
       "excerpt": ""
     },
     {
@@ -113,7 +113,7 @@
       "kind": "article",
       "title": "‘영화 촬영 중 집단 성폭행’…나쁜 배우 드파르디외 또",
       "url": "https://www.hani.co.kr/arti/international/europe/1288443.html",
-      "publishedAt": "2026-11-21T16:45:02.055Z",
+      "publishedAt": "2026-11-21T17:47:11.403Z",
       "excerpt": ""
     },
     {
@@ -125,7 +125,7 @@
       "kind": "article",
       "title": "‘우리가 모두 제인 도다’ 여성 폭력 아웃! [포토]",
       "url": "https://www.hani.co.kr/arti/society/women/1288442.html",
-      "publishedAt": "2026-11-21T16:45:02.055Z",
+      "publishedAt": "2026-11-21T17:47:11.403Z",
       "excerpt": ""
     },
     {
@@ -137,7 +137,7 @@
       "kind": "article",
       "title": "국힘 “조희대 탄핵하면 이재명 정권 붕괴” 대구서 장외집회",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1288441.html",
-      "publishedAt": "2026-11-21T16:45:02.055Z",
+      "publishedAt": "2026-11-21T17:47:11.403Z",
       "excerpt": ""
     },
     {
@@ -149,7 +149,7 @@
       "kind": "article",
       "title": "췌장장애 등록 첫해, 앞으로의 과제는? [건강한겨레]",
       "url": "https://www.hani.co.kr/arti/hanihealth/healthlife/1288440.html",
-      "publishedAt": "2026-11-21T16:45:02.055Z",
+      "publishedAt": "2026-11-21T17:47:11.403Z",
       "excerpt": ""
     },
     {
@@ -161,7 +161,7 @@
       "kind": "article",
       "title": "젠슨 황 퇴출 뒤엔 반복된 거짓말…“네 뇌에 오줌 누겠다” 폭언도",
       "url": "https://www.hani.co.kr/arti/international/international_general/1288439.html",
-      "publishedAt": "2026-11-21T16:45:02.055Z",
+      "publishedAt": "2026-11-21T17:47:11.403Z",
       "excerpt": ""
     },
     {
@@ -173,8 +173,93 @@
       "kind": "article",
       "title": "이 대통령 “수능 부정행위 포상금 1건당 1억원…부정행위자 수만큼 가산”",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1288438.html",
-      "publishedAt": "2026-11-21T16:45:02.055Z",
+      "publishedAt": "2026-11-21T17:47:11.403Z",
       "excerpt": ""
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261122001300087",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "'가택연금' 보우소나루 전 대통령 장폐색으로 입원",
+      "url": "https://www.yna.co.kr/view/AKR20261122001300087",
+      "publishedAt": "2026-11-21T17:35:02.000Z",
+      "excerpt": "(멕시코시티=연합뉴스) 송광호 특파원 = 쿠데타를 모의한 혐의로 가택연금 중인 자이르 보우소나루 전 브라질 대통령이 장폐색 진단을 받고 병원에 ..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261121051951099",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "긴장 고조되는 발트해…\"러 화물선 드론에 피격\"(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261121051951099",
+      "publishedAt": "2026-11-21T17:24:24.000Z",
+      "excerpt": "(요하네스버그=연합뉴스) 나확진 특파원 = 발트해 핀란드만 공해상에서 21일(현지시간) 러시아 칼리닌그라드로 향하던 러시아 화물선이 드론 2대로..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261122001000071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
+      "url": "https://www.yna.co.kr/view/AKR20261122001000071",
+      "publishedAt": "2026-11-21T17:08:21.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 21일(현지시간) 이란과 영구적으로 지속되는 합의가 이뤄져야 한다고 말했다."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+      "publishedAt": "2026-11-21T16:57:34.000Z",
+      "excerpt": "This would make the second recent intrusion into the FBI system."
+    },
+    {
+      "id": "lenny:https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+      "sourceId": "lenny",
+      "sourceName": "Lenny's Newsletter",
+      "domain": "career",
+      "deep": true,
+      "lang": "en",
+      "kind": "article",
+      "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+      "publishedAt": "2026-11-21T16:49:56.000Z",
+      "excerpt": "Community Wisdom 306"
+    },
+    {
+      "id": "axios:https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
+      "sourceId": "axios",
+      "sourceName": "Axios",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Trump says he'd work with Dems to cap credit card interest, fees",
+      "url": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
+      "publishedAt": "2026-11-21T16:48:20.000Z",
+      "excerpt": "President Trump said Saturday he'd gladly work with Democrats to cap interest and fees on credit cards , arguing that card companies simply make too much money now. Why it matters: Though some argue capping rates would save consumers billio…"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261122000800072",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "골드만삭스 패닉지수 최고치 근접…다음주도 매도세 지속 경고",
+      "url": "https://www.yna.co.kr/view/AKR20261122000800072",
+      "publishedAt": "2026-11-21T16:43:01.000Z",
+      "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 20일(현지시간) 미국 뉴욕증시가 급락한 데 이어 다음 주에도 상당한 매도 압력이 이어질 수 있다는 전망이 ..."
     },
     {
       "id": "cnbc-top:https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
@@ -187,6 +272,30 @@
       "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
       "publishedAt": "2026-11-21T16:40:05.000Z",
       "excerpt": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008."
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=37586&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "리만 가설의 Lean 검증, Lean과 Mathlib 커뮤니티 공동 성명",
+      "url": "https://news.hada.io/topic?id=37586&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-21T16:36:36.000Z",
+      "excerpt": "Lean과 Mathlib 커뮤니티는 Levent Alpöge가 공개한 리만 가설 증명 의 명제와 증명이 모두 올바르다고 공동으로 인증함 증명은 1,700만 줄 규모의 Lean 라이브러리 로 공개됐으며, 직접 의존하는 라이브러리는 Mathlib뿐임 검증 대상은 전문가들이 검토한 Mathlib의 RiemannHypothesis 명제이며, 독립적인 도구 두 개로 실제 증명한 정리와 정확히 일치하는지 확인함 수십 명이 코드의 정상 컴…"
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=37585&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "데릭 로: 아지드화 납 더미 폭파",
+      "url": "https://news.hada.io/topic?id=37585&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-21T16:33:36.000Z",
+      "excerpt": "데릭 로: 아지드화 납 더미 폭파"
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261121052651099",
@@ -399,10 +508,10 @@
       "domain": "tech",
       "lang": "en",
       "kind": "article",
-      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+      "title": "Lean verification of the Riemann Hypothesis",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
       "publishedAt": "2026-11-21T14:36:45.000Z",
-      "excerpt": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 246 # Comments: 189"
+      "excerpt": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 391 # Comments: 299"
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=37580&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -603,22 +712,10 @@
       "domain": "tech",
       "lang": "en",
       "kind": "article",
-      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "title": "Detonating a pile of lead azide",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
       "publishedAt": "2026-11-21T13:23:14.000Z",
-      "excerpt": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 240 # Comments: 132"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261121051900099",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "긴장 고조되는 발트해…\"러 화물선 드론에 피격\"",
-      "url": "https://www.yna.co.kr/view/AKR20261121051900099",
-      "publishedAt": "2026-11-21T13:22:56.000Z",
-      "excerpt": "(요하네스버그=연합뉴스) 나확진 특파원 = 발트해 핀란드만 공해상에서 21일(현지시간) 러시아 칼리닌그라드로 향하던 러시아 화물선이 드론 2대로..."
+      "excerpt": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 312 # Comments: 194"
     },
     {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008857091",
@@ -753,9 +850,9 @@
       "excerpt": "강원 평창에서 공기총 오발 사고로 1명이 다쳤습니다.21일 경찰과 소방당국은 오전 11시 4분쯤, 평창군 방림면에서 60대 A 씨가 총기 오발 …"
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/21/five-best-stocks-to-buy-before-year-end-according-to-bank-of-america.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
+      "id": "cnbc-invest:https://www.cnbc.com/2026/11/21/five-best-stocks-to-buy-before-year-end-according-to-bank-of-america.html",
+      "sourceId": "cnbc-invest",
+      "sourceName": "CNBC Investing",
       "domain": "markets",
       "lang": "en",
       "kind": "article",
@@ -921,18 +1018,6 @@
       "excerpt": "제1251회 로또복권 당첨 번호. 동행복권 홈페이지 갈무리제1251회 로또복권 1등 당첨번호는 ‘14, 18, 19, 29, 40, 45’로 정해졌다. 2등 보너스 번호는 ‘1’이다.21일 로또복권 운영사 동행복권에 따르면 6개 번호를 모두 맞힌 1등은 14명으로 각각 20억6884만원을 받는다.번호 5개와 보너스 번호를 맞힌 2등은 96명으로 1인당 50···"
     },
     {
-      "id": "geeknews:https://news.hada.io/topic?id=37574&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "방문한 링크는 보라색",
-      "url": "https://news.hada.io/topic?id=37574&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-21T12:01:24.000Z",
-      "excerpt": "개인 블로그의 본문 링크 에 방문 여부에 따른 스타일을 적용해, 방문한 링크를 보라색으로 표시함 Wikipedia와 MDN은 파란색에서 보라색 으로 방문 여부를 구분하며, GOV.UK 디자인 시스템도 방문한 링크 스타일을 지원함 WCAG 2.2 는 방문 전후 링크를 구분하도록 요구하지 않지만, 방문한 링크도 일반 링크와 같은 접근성 기준을 충족해야 함 색상만으로 방문 여부를 구분 할 때 두 링크 색상의 대비가 3:1 미만이어도…"
-    },
-    {
       "id": "khan:https://www.khan.co.kr/article/202611212100001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
       "sourceId": "khan",
       "sourceName": "경향신문",
@@ -967,18 +1052,6 @@
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857081",
       "publishedAt": "2026-11-21T11:45:00.000Z",
       "excerpt": "▲ 평창 비닐하우스 총기 발사 사고 현장강원 평창의 한 비닐하우스에서 60대 남성이 쏜 공기총에 맞아 근처를 지나가던 60대 남성이 …"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261121049700073",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "빅뱅부터 코르티스까지…과거와 미래 이은 '2026 마마 어워즈'",
-      "url": "https://www.yna.co.kr/view/AKR20261121049700073",
-      "publishedAt": "2026-11-21T11:33:48.000Z",
-      "excerpt": "(오사카=연합뉴스) 이도연 특파원 = '2026 마마 어워즈'가 열린 21일 일본 오사카 교세라돔."
     },
     {
       "id": "khan:https://www.khan.co.kr/article/202611212030001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
@@ -1134,22 +1207,10 @@
       "domain": "tech",
       "lang": "en",
       "kind": "article",
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "title": "My monitor was cutting my download speed by 75%",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
       "publishedAt": "2026-11-21T10:36:32.000Z",
-      "excerpt": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 220 # Comments: 92"
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=37571&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Ask HN: 미국에서 경력 15년인데 2년째 실업 상태입니다. 어떻게 해야 할까요?",
-      "url": "https://news.hada.io/topic?id=37571&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-21T10:36:04.000Z",
-      "excerpt": "미국 DMV 지역의 경력 15년 선임 소프트웨어 엔지니어 로, Fortune 50+ 기업과 여러 중견기업에서 일했지만 2년째 개발 일자리를 구하지 못한 상황임. 모아 둔 저축을 거의 소진해 가계를 유지할 여력이 4~5개월 정도 남았으며, 현재 수학 과외를 하고 피자 가게 관리자로 일하는 것도 곧 시작할 가능성이 있음 직원 1,000명 이상인 보험 기술 기업에서 약 4년간 근무하다 정리해고 예정이라는 귀띔을 듣고 2025년 1월…"
+      "excerpt": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 269 # Comments: 127"
     },
     {
       "id": "donga:https://www.donga.com/news/Society/article/all/20261121/135065080/1",
@@ -1188,18 +1249,6 @@
       "excerpt": "추미애 경기도지사. 박민규 선임기자추미애 경기도지사가 21일 조희대 대법원장에 대한 탄핵 실행을 “좌고우면하면 안 된다”며 즉각 탄핵을 거듭 요구했다.추 지사는 이날 페이스북에 올린 글에서 “지금은 사법 파탄 사태에서 분명한 경고를 해야 할 때다. 여당이 정치적 유불리를 계산할 때가 아니다”라며 이 같이 밝혔다.그는 지난 19일 한덕수 전···"
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261121046700082",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "스위스 '무기수출 완화' 국민투표…중립성 원칙 또 시험대",
-      "url": "https://www.yna.co.kr/view/AKR20261121046700082",
-      "publishedAt": "2026-11-21T10:06:56.000Z",
-      "excerpt": "(베를린=연합뉴스) 김계연 특파원 = 중립국을 표방하는 스위스가 무력 분쟁 중인 국가에도 자국산 무기 수출을 허용할지를 국민투표로 결정한다."
-    },
-    {
       "id": "mk:https://www.mk.co.kr/news/economy/12215318",
       "sourceId": "mk",
       "sourceName": "매일경제 경제",
@@ -1210,18 +1259,6 @@
       "url": "https://www.mk.co.kr/news/economy/12215318",
       "publishedAt": "2026-11-21T10:02:34.000Z",
       "excerpt": "韓, 19일 오후 2시 수출 1조弗 기록 세계 10대 교역 시장서 일본 넘어서 韓 우위, 작년 2대 8 → 올해 6대 4 반도체 호황으로 韓수출 대박 영향한국이 독일·미국·중국에 .."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261121046400099",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"호르무즈서 미확인 발사체에 유조선 잇단 피격\"",
-      "url": "https://www.yna.co.kr/view/AKR20261121046400099",
-      "publishedAt": "2026-11-21T10:00:35.000Z",
-      "excerpt": "(요하네스버그=연합뉴스) 나확진 특파원 = 호르무즈 해협을 지나던 유조선이 미확인 발사체에 피격됐다는 보고가 잇달아 접수됐다고 영국 해상무역기구..."
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-21/world-economy-latest-japan-s-economy-slips-as-weather-dents-spending",
@@ -1737,7 +1774,7 @@
       "title": "NINLIVE: The Nine Inch Nails live archive",
       "url": "https://ninlive.com/",
       "publishedAt": "2026-11-20T22:30:47.000Z",
-      "excerpt": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 318 # Comments: 82"
+      "excerpt": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 323 # Comments: 85"
     },
     {
       "id": "planetmoney:https://www.npr.org/2026/11/20/nx-s1-6049085/iran-oil-tanker-prize-law-court",
@@ -1800,19 +1837,7 @@
       "title": "Inkling 2 Mini",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
       "publishedAt": "2026-11-20T20:12:19.000Z",
-      "excerpt": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1194 # Comments: 232"
-    },
-    {
-      "id": "hn:https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "publishedAt": "2026-11-20T20:03:59.000Z",
-      "excerpt": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 258 # Comments: 105"
+      "excerpt": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1237 # Comments: 244"
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
@@ -1873,7 +1898,7 @@
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
       "publishedAt": "2026-11-20T18:33:14.000Z",
-      "excerpt": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2287 # Comments: 1082"
+      "excerpt": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2313 # Comments: 1103"
     },
     {
       "id": "semafor:https://www.semafor.com/article/11/20/2026/trading-soars-on-jensen-huang-related-prediction-market-bets",
@@ -1945,7 +1970,7 @@
       "title": "We promoted developers into architects without informing them",
       "url": "https://manidoraisamy.com/developer-to-architect.html",
       "publishedAt": "2026-11-20T18:17:51.000Z",
-      "excerpt": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 520 # Comments: 288"
+      "excerpt": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 535 # Comments: 295"
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/20/meta-is-stuck-in-a-trading-range-the-charts-show-where-to-buy.html",
@@ -1981,7 +2006,7 @@
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
       "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
       "publishedAt": "2026-11-20T17:21:36.000Z",
-      "excerpt": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 504 # Comments:…"
+      "excerpt": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 512 # Comments:…"
     },
     {
       "id": "semafor:https://www.semafor.com/article/11/20/2026/a-rambunctiously-funny-satire-of-higher-education",
@@ -2018,6 +2043,18 @@
       "url": "https://www.semafor.com/article/11/20/2026/silicon-valley-needs-to-listen-to-the-ai-backlash",
       "publishedAt": "2026-11-20T16:43:16.000Z",
       "excerpt": "Anti-AI sentiment may not move Washington yet, but it’s already spurring action at the state level."
+    },
+    {
+      "id": "hn:https://arxiv.org/abs/2611.21885",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "publishedAt": "2026-11-20T16:29:06.000Z",
+      "excerpt": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 461 # Comments: 140"
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
@@ -2235,18 +2272,6 @@
       "audioUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b1c3c3f9-31e5-4b47-83eb-c33ddb8b288c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=b1c3c3f9-31e5-4b47-83eb-c33ddb8b288c&amp;feed=54nAGcIl",
       "durationSec": 1692,
       "imageUrl": "https://image.simplecastcdn.com/images/f2d639a1-37c3-47ac-a417-dcd92c371c0d/3ac1027c-b04d-4e89-875f-8a508a99bf9a/3000x3000/20thedaily_applespotify_1.jpg?aid=rss_feed"
-    },
-    {
-      "id": "axios:https://www.axios.com/2026/11/20/religious-nones-christians-evangelicals-election",
-      "sourceId": "axios",
-      "sourceName": "Axios",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "America's religious \"nones\" move from voters to lawmakers",
-      "url": "https://www.axios.com/2026/11/20/religious-nones-christians-evangelicals-election",
-      "publishedAt": "2026-11-20T10:40:06.000Z",
-      "excerpt": "America's religious \"nones\" have gained a visible foothold in Congress: Five lawmakers will claim no religious affiliation in January, up from a single member just two years ago. Why it matters: Washington remains far more religious than th…"
     },
     {
       "id": "mk:https://www.mk.co.kr/news/economy/12214904",
@@ -3139,21 +3164,6 @@
       "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F03%2F72db2eb54e4f936849c599165ce1%2F42ac82ac-214e-498a-9545-48a6185a2302.jpg"
     },
     {
-      "id": "lenny:https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
-      "sourceId": "lenny",
-      "sourceName": "Lenny's Newsletter",
-      "domain": "career",
-      "deep": true,
-      "lang": "en",
-      "kind": "episode",
-      "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
-      "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
-      "publishedAt": "2026-11-02T13:04:11.000Z",
-      "excerpt": "Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
-      "audioUrl": "https://api.substack.com/feed/podcast/222585887/bfda41c5e11152421ee6c9867402b579.mp3",
-      "imageUrl": "https://substackcdn.com/image/fetch/$s_!8MSN!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"
-    },
-    {
       "id": "planetmoney:https://www.npr.org/2026/10/30/nx-s1-6023794/france-protests-students-bonds-debt",
       "sourceId": "planetmoney",
       "sourceName": "Planet Money",
@@ -3409,7 +3419,7 @@
       {
         "id": "hn",
         "count": 10,
-        "parsed": 16
+        "parsed": 14
       },
       {
         "id": "tldr",
