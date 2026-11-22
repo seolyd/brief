@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T17:06:39.780Z",
+  "generatedAt": "2026-11-22T18:05:37.260Z",
   "domains": [
     {
       "id": "global",
@@ -153,6 +153,18 @@
       "excerpt": "미국 연방준비제도(Fed)의 추가 긴축 가능성에 달러가 강세를 보이면서 국제 금값이 1년 2개월 만에 최저치를 기록했다. 20일(현지시간) 뉴욕 시장에서 금 현물 가격은 장중 온스당 3502달러까지 떨어졌다. 사진은 22일 서울 시내 한 금은방 앞을 지나는 시민들 모습. 뉴시스"
     },
     {
+      "id": "kmib:https://www.kmib.co.kr/article/20261122501368",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[역경의 열매] 김성묵 (7) 예수님 만났지만⋯ 아내와 관계 회복은 아득했다",
+      "url": "https://www.kmib.co.kr/article/20261122501368",
+      "publishedAt": "2026-11-23T11:23:49.000Z",
+      "excerpt": "김성묵(앞줄 가운데) 장로가 1988년 12월 한 신앙훈련 프로그램에 참여한 모습. 인생을 30년씩 세 시기로 나누어 본다. 첫 30년은 삶을 준비하고 다음 30년은 성공을 향해 달리는 시간이다. 마지막 30년과 그 이후는 지나온 삶과 신앙을 하나로 엮어 후대에 무엇을 남길지 고민하는 시간이다. 적어도 두 번째 30년에는 삶을 점검해야 한다. 활동 무대가 커져도 베이스캠프는 가정이다. 가정이 건강해야 인생 이모작, 삼모작도 가…"
+    },
+    {
       "id": "kmib:https://www.kmib.co.kr/article/20261122501363",
       "sourceId": "kmib",
       "sourceName": "국민일보",
@@ -165,18 +177,6 @@
       "excerpt": "인공지능(AI)이 167년간 풀리지 않았던 수학계 최대 난제인 ‘리만 가설’을 증명했다는 주장이 나오면서 학계가 술렁이고 있다. 일각에서는 AI 연구의 패러다임이 바뀌는 역사적 전환점이 될 수 있다는 평가가 나오는 반면 인간 연구자조차 완전히 이해하지 못한 방대한 증명의 신뢰성을 면밀히 검증해야 한다는 지적도 제기된다. 22일 업계와 외신에 따르면 AI 기업 앤트로픽의 연구원이자 수학자인 레벤트 알푀게는 지난 20일(현지시간)…"
     },
     {
-      "id": "kmib:https://www.kmib.co.kr/article/20261122501362",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "한일 여성기자포럼 도쿄서 첫 개최",
-      "url": "https://www.kmib.co.kr/article/20261122501362",
-      "publishedAt": "2026-11-23T11:19:04.000Z",
-      "excerpt": "한국여성기자협회는 일본 도쿄도 지요다구 일본프레스센터에서 일본여성기자협회와 ‘제4회 한일 여성기자포럼’을 열고 미디어 업계의 성 불평등과 지방 소멸 문제에 대한 해법을 논의했다고 21일 밝혔다. 여성기자들은 지난 20일 진행된 포럼에서 양국 모두 성평등 수준을 끌어올리기 위한 여러 구조적 개선과 노력이 필요하다는 데 공감했다. 세계경제포럼(WEF)이 발표한 ‘2026년 성격차지수(젠더갭) 보고서’에서 한국은 145개국 가운데 …"
-    },
-    {
       "id": "hani:https://www.hani.co.kr/arti/international/international_general/1288555.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
@@ -185,7 +185,7 @@
       "kind": "article",
       "title": "COP31, 역대 최장 연장에도 합의문 채택 불발…‘화석연료’ 문구 못 담아",
       "url": "https://www.hani.co.kr/arti/international/international_general/1288555.html",
-      "publishedAt": "2026-11-22T17:06:38.863Z",
+      "publishedAt": "2026-11-22T18:05:36.366Z",
       "excerpt": ""
     },
     {
@@ -197,7 +197,7 @@
       "kind": "article",
       "title": "[단독] 전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야”",
       "url": "https://www.hani.co.kr/arti/society/society_general/1288554.html",
-      "publishedAt": "2026-11-22T17:06:38.863Z",
+      "publishedAt": "2026-11-22T18:05:36.366Z",
       "excerpt": ""
     },
     {
@@ -209,7 +209,7 @@
       "kind": "article",
       "title": "“중국 정보기관, 2년 넘게 ‘첨단 반도체 확보’ 비밀작전”",
       "url": "https://www.hani.co.kr/arti/international/international_general/1288553.html",
-      "publishedAt": "2026-11-22T17:06:38.863Z",
+      "publishedAt": "2026-11-22T18:05:36.366Z",
       "excerpt": ""
     },
     {
@@ -221,7 +221,7 @@
       "kind": "article",
       "title": "최교진, 수능 부정 무사안일 대처에 ‘나이’ 발언 겹쳐 결국 하차",
       "url": "https://www.hani.co.kr/arti/politics/bluehouse/1288552.html",
-      "publishedAt": "2026-11-22T17:06:38.863Z",
+      "publishedAt": "2026-11-22T18:05:36.366Z",
       "excerpt": ""
     },
     {
@@ -233,7 +233,7 @@
       "kind": "article",
       "title": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀드 가동 준비 착수",
       "url": "https://www.hani.co.kr/arti/economy/finance/1288551.html",
-      "publishedAt": "2026-11-22T17:06:38.863Z",
+      "publishedAt": "2026-11-22T18:05:36.366Z",
       "excerpt": ""
     },
     {
@@ -245,7 +245,7 @@
       "kind": "article",
       "title": "여당, 조희대 탄핵 ‘급가속’…당내 “중도층 민심 타격” 역풍 우려",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1288550.html",
-      "publishedAt": "2026-11-22T17:06:38.863Z",
+      "publishedAt": "2026-11-22T18:05:36.366Z",
       "excerpt": ""
     },
     {
@@ -257,7 +257,7 @@
       "kind": "article",
       "title": "무죄 vs 유죄 ‘조희대 매직’ [그림판]",
       "url": "https://www.hani.co.kr/arti/cartoon/hanicartoon/1288549.html",
-      "publishedAt": "2026-11-22T17:06:38.863Z",
+      "publishedAt": "2026-11-22T18:05:36.366Z",
       "excerpt": ""
     },
     {
@@ -269,7 +269,7 @@
       "kind": "article",
       "title": "민주 “조희대 탄핵 사유, 판결 내용 아닌 절차 위반 문제”",
       "url": "https://www.hani.co.kr/arti/politics/assembly/1288548.html",
-      "publishedAt": "2026-11-22T17:06:38.863Z",
+      "publishedAt": "2026-11-22T18:05:36.366Z",
       "excerpt": ""
     },
     {
@@ -281,7 +281,7 @@
       "kind": "article",
       "title": "이 대통령, 최교진 교육장관 면직안 재가",
       "url": "https://www.hani.co.kr/arti/politics/bluehouse/1288547.html",
-      "publishedAt": "2026-11-22T17:06:38.863Z",
+      "publishedAt": "2026-11-22T18:05:36.366Z",
       "excerpt": ""
     },
     {
@@ -293,8 +293,68 @@
       "kind": "article",
       "title": "‘조희대 탄핵안’ 통과 시 ‘윤석열 내란’ 전원합의체 구성 못할 수도",
       "url": "https://www.hani.co.kr/arti/society/society_general/1288546.html",
-      "publishedAt": "2026-11-22T17:06:38.863Z",
+      "publishedAt": "2026-11-22T18:05:36.366Z",
       "excerpt": ""
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261123002200072",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "진도 안 나가는 유엔 총장 선출…수장 공백 사태 우려",
+      "url": "https://www.yna.co.kr/view/AKR20261123002200072",
+      "publishedAt": "2026-11-22T17:57:33.000Z",
+      "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 국제질서의 불안정과 내부 개혁 요구 등으로 리더십 위기를 겪는 유엔이 차기 사무총장 선출마저 난항을 겪으면서..."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
+      "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
+      "publishedAt": "2026-11-22T17:33:25.000Z",
+      "excerpt": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261123002100071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "美민주 제프리스 \"의료보험 개혁에서 트럼프와 협력 모색 가능\"",
+      "url": "https://www.yna.co.kr/view/AKR20261123002100071",
+      "publishedAt": "2026-11-22T17:14:38.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 이유미 특파원 = 하킴 제프리스 민주당 하원 원내대표가 22일(현지시간) 도널드 트럼프 대통령과 의료보험 개혁 문제에서 협력..."
+    },
+    {
+      "id": "cnbc-top:https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "sourceId": "cnbc-top",
+      "sourceName": "CNBC Top News",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "publishedAt": "2026-11-22T17:14:03.000Z",
+      "excerpt": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions."
+    },
+    {
+      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
+      "sourceId": "bbg-markets",
+      "sourceName": "Bloomberg Markets",
+      "domain": "markets",
+      "lang": "en",
+      "kind": "article",
+      "title": "Compass Plans to Move Main Listing to New York, FT Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
+      "publishedAt": "2026-11-22T17:08:04.000Z",
+      "excerpt": "The UK’s Compass Group Plc plans to move its primary listing from London to New York, the Financial Times reported, marking yet another disappointment for the UK stock market."
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=37642&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -319,18 +379,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261123001500071",
       "publishedAt": "2026-11-22T16:58:42.000Z",
       "excerpt": "(워싱턴=연합뉴스) 홍정규 특파원 = 스콧 베선트 미국 재무부 장관은 22일(현지시간) 중국의 첨단 인공지능(AI) 반도체 밀반입 과정에서 문제..."
-    },
-    {
-      "id": "cnbc-top:https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-      "publishedAt": "2026-11-22T16:53:20.000Z",
-      "excerpt": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions."
     },
     {
       "id": "donga:https://www.donga.com/news/Entertainment/article/all/20261123/135070657/1",
@@ -609,18 +657,6 @@
       "excerpt": "Wall Street strategist Ed Yardeni cut his S&P 500 Index year-end forecast for the second time in about two months in the wake of a powerful stock selloff that pushed the benchmark into a technical correction."
     },
     {
-      "id": "cnbc-top:https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
-      "sourceId": "cnbc-top",
-      "sourceName": "CNBC Top News",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "I’ve studied over 200 kids—parents who do 6 things accidentally raise people pleasers: It starts in ‘ordinary, well-intentioned moments’",
-      "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
-      "publishedAt": "2026-11-22T15:10:17.000Z",
-      "excerpt": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect."
-    },
-    {
       "id": "geeknews:https://news.hada.io/topic?id=37638&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "sourceId": "geeknews",
       "sourceName": "GeekNews",
@@ -852,18 +888,6 @@
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!8MSN!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F441213db-4824-4e48-9d28-a3a18952cbfc_592x592.png"
     },
     {
-      "id": "bbg-markets:https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade",
-      "sourceId": "bbg-markets",
-      "sourceName": "Bloomberg Markets",
-      "domain": "markets",
-      "lang": "en",
-      "kind": "article",
-      "title": "Strong Earnings Prove No Match for the Crumbling AI Trade",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade",
-      "publishedAt": "2026-11-22T13:30:00.000Z",
-      "excerpt": "For years, a strong earnings season has given Wall Street something to fall back on. But the crumbling artificial-intelligence trade has ripped away that support."
-    },
-    {
       "id": "cnbc-top:https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
       "sourceId": "cnbc-top",
       "sourceName": "CNBC Top News",
@@ -1032,18 +1056,6 @@
       "excerpt": "(카이로=연합뉴스) 김상훈 특파원 = 바레인 민간 시설을 겨냥한 이란의 공습으로 2명이 다쳤다고 바레인 당국이 22일(현지시간) 밝혔다."
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261122040652089",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"中기술주 지수 시총, 6월말 이후 2천300조 증발\"…증시안정조치(종합2보)",
-      "url": "https://www.yna.co.kr/view/AKR20261122040652089",
-      "publishedAt": "2026-11-22T12:56:19.000Z",
-      "excerpt": "(상하이=연합뉴스) 차병섭 특파원 = 미중 경쟁 속에 주목받았던 중국 인공지능(AI) 관련 기업들의 주가가 최근 약세를 보이면서 중국의 기술주 ..."
-    },
-    {
       "id": "yna-econ:https://www.yna.co.kr/view/AKR20261122044351002",
       "sourceId": "yna-econ",
       "sourceName": "연합뉴스 경제",
@@ -1054,18 +1066,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261122044351002",
       "publishedAt": "2026-11-22T12:51:42.000Z",
       "excerpt": "(세종=연합뉴스) 김수현 기자 = 미국 증시 급락에 따라 국내 증시에서 '블랙 먼데이' 우려가 고개를 들면서 경제 금융 수장들이 증권시장안정펀드..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261122050900085",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"엔비디아 칩 中밀수망에 앨리스 황·캄보디아 범죄조직 얽혀\"",
-      "url": "https://www.yna.co.kr/view/AKR20261122050900085",
-      "publishedAt": "2026-11-22T12:45:43.000Z",
-      "excerpt": "(런던=연합뉴스) 김지연 특파원 = 미국의 수출 통제를 피해 엔비디아의 인공지능(AI) 칩을 중국으로 들인 네트워크에 젠슨 황 엔비디아 전 최고..."
     },
     {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008857894",
@@ -1428,7 +1428,7 @@
       "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
       "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
       "publishedAt": "2026-11-22T08:57:34.000Z",
-      "excerpt": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 468 # Comments: 558"
+      "excerpt": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 543 # Comments: 615"
     },
     {
       "id": "sedaily:https://www.sedaily.com/article/20117429",
@@ -1716,7 +1716,7 @@
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
       "publishedAt": "2026-11-22T04:04:56.000Z",
-      "excerpt": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 923 # Comments: 538"
+      "excerpt": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 967 # Comments: 578"
     },
     {
       "id": "yna-econ:https://www.yna.co.kr/view/AKR20261122024500003",
@@ -1752,7 +1752,7 @@
       "title": "Data Processing Incidents on Inference Providers",
       "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
       "publishedAt": "2026-11-22T02:14:14.000Z",
-      "excerpt": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 243 # Comments: 84"
+      "excerpt": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 251 # Comments: 87"
     },
     {
       "id": "sedaily:https://www.sedaily.com/article/20117307",
@@ -1776,7 +1776,7 @@
       "title": "Sandwich Simulator",
       "url": "https://stulle.app/",
       "publishedAt": "2026-11-22T00:07:59.000Z",
-      "excerpt": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 439 # Comments: 151"
+      "excerpt": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 459 # Comments: 160"
     },
     {
       "id": "hn:https://linebender.org/blog/next-100-guis/",
@@ -1788,7 +1788,7 @@
       "title": "Advice for the next 100 Rust GUIs",
       "url": "https://linebender.org/blog/next-100-guis/",
       "publishedAt": "2026-11-21T21:17:53.000Z",
-      "excerpt": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 233 # Comments: 119"
+      "excerpt": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 239 # Comments: 131"
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season",
@@ -1812,7 +1812,7 @@
       "title": "Inkling-2-Mini in 5.4 GB Memory",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
       "publishedAt": "2026-11-21T18:02:19.000Z",
-      "excerpt": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 532 # Comments: 128"
+      "excerpt": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 542 # Comments: 129"
     },
     {
       "id": "lenny:https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
@@ -1861,7 +1861,7 @@
       "title": "Lean verification of the Riemann Hypothesis",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
       "publishedAt": "2026-11-21T14:36:45.000Z",
-      "excerpt": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1151 # Comments: 956"
+      "excerpt": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1168 # Comments: 968"
     },
     {
       "id": "hn:https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
@@ -1873,7 +1873,7 @@
       "title": "Detonating a pile of lead azide",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
       "publishedAt": "2026-11-21T13:23:14.000Z",
-      "excerpt": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 668 # Comments: 409"
+      "excerpt": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 676 # Comments: 411"
     },
     {
       "id": "cnbc-invest:https://www.cnbc.com/2026/11/21/from-trash-to-treasure-these-hated-stocks-are-winning-as-ai-flounders.html",
@@ -1951,7 +1951,7 @@
       "title": "My monitor was cutting my download speed by 75%",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
       "publishedAt": "2026-11-21T10:36:32.000Z",
-      "excerpt": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 653 # Comments: 302"
+      "excerpt": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 664 # Comments: 306"
     },
     {
       "id": "hn:https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
@@ -1963,7 +1963,7 @@
       "title": "Getting the mind to steer the body to steer you",
       "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
       "publishedAt": "2026-11-20T22:11:05.000Z",
-      "excerpt": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 361 # Comments: 131"
+      "excerpt": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 368 # Comments: 136"
     },
     {
       "id": "planetmoney:https://www.npr.org/2026/11/20/nx-s1-6049085/iran-oil-tanker-prize-law-court",
@@ -3341,7 +3341,7 @@
       {
         "id": "bbg-markets",
         "count": 10,
-        "parsed": 19
+        "parsed": 20
       },
       {
         "id": "cnbc-top",
@@ -3361,7 +3361,7 @@
       {
         "id": "hn",
         "count": 10,
-        "parsed": 12
+        "parsed": 11
       },
       {
         "id": "tldr",
