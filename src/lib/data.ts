@@ -1,6 +1,6 @@
 /** GitHub Action이 매일 아침 쓰는 두 정적 파일의 모양과 읽기. */
 
-export type DomainId = 'global' | 'markets' | 'tech' | 'korea' | 'career' | 'news'
+export type DomainId = 'ideas' | 'startup' | 'global' | 'tech' | 'korea' | 'career' | 'news'
 
 export interface Domain {
   id: DomainId
@@ -136,11 +136,11 @@ export interface MustReadFile {
 }
 
 /** 아침판은 그날 오전에, 저녁판은 그날 저녁에 씁니다. 하루가 지난 글은 내밀지 않습니다. */
-/** inv: 투자·경제 중심(기존 Must Read), all: 투자를 뺀 일반 뉴스 브리프. */
-export type BriefKind = 'inv' | 'all'
+/** biz: 사업 아이템·돈 버는 방법 브리프, all: 일반 뉴스 브리프. */
+export type BriefKind = 'biz' | 'all'
 
-export async function loadMustRead(edition: Edition, kind: BriefKind = 'inv'): Promise<MustReadFile | null> {
-  const file = kind === 'inv' ? `mustread-${edition}` : `allbrief-${edition}`
+export async function loadMustRead(edition: Edition, kind: BriefKind = 'biz'): Promise<MustReadFile | null> {
+  const file = kind === 'biz' ? `bizbrief-${edition}` : `allbrief-${edition}`
   const m = await getJson<MustReadFile>(`/data/${file}.json`)
   if (!m?.generatedAt || typeof m.markdown !== 'string') return null
   const ageHours = (Date.now() - Date.parse(m.generatedAt)) / 3_600_000

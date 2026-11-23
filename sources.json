@@ -1,29 +1,35 @@
 {
-  "comment": "분야(domains)와 소스(sources)를 정합니다. domain이 어느 칸에 들어갈지를, lang이 한글/영문을 정합니다. 팟캐스트는 따로 표시하지 않습니다 — 오디오 첨부가 있는 항목은 수집기가 알아서 '듣기'로 보냅니다. verified가 true인 주소는 GitHub 러너에서 열리고 파싱되는 것을 확인한 것입니다. 새 주소는 넣기 전에 Actions의 'Check feeds'로 확인하세요. 한경(403), HBR(응답 없음), 머니투데이(응답 없음), 삼프로TV 팟캐스트(404)는 러너에서 막혀 뺐습니다. 죽은 소스는 data/feed.json의 report.failed에 남고 앱 하단에 표시됩니다. deep이 true인 소스는 저녁의 '심층 기사 하나' 후보가 됩니다. domain이 news인 소스는 투자 칸(Inv)에 들어가지 않고 All.News와 All.Brief에만 쓰입니다.",
+  "comment": "분야(domains)와 소스(sources)를 정합니다. domain이 어느 칸에 들어갈지를, lang이 한글/영문을 정합니다. 팟캐스트는 따로 표시하지 않습니다 — 오디오 첨부가 있는 항목은 수집기가 알아서 '듣기'로 보냅니다. verified가 true인 주소는 GitHub 러너에서 열리고 파싱되는 것을 확인한 것입니다. 새 주소는 넣기 전에 Actions의 'Check feeds'로 확인하세요. 한경(403), HBR(응답 없음), 머니투데이(응답 없음), 삼프로TV 팟캐스트(404)는 러너에서 막혀 뺐습니다. 죽은 소스는 data/feed.json의 report.failed에 남고 앱 하단에 표시됩니다. deep이 true인 소스는 저녁의 '심층 기사 하나' 후보가 됩니다. domain이 news인 소스는 Biz 칸에 들어가지 않고 All.News와 All.Brief에만 쓰입니다. ideas(해외 사업 아이템)·startup(국내 창업·스타트업)은 Biz.Brief·Biz.News의 중심입니다. 2026-11-23 투자 소스(Bloomberg Markets, CNBC, 어피티)를 빼고 사업 아이템 소스로 바꿨습니다. 러너에서 막혀 뺀 후보: Springwise·Trend Hunter·Indie Hackers·The Bridge(403), Exploding Topics·Starter Story 블로그·The Hustle·KrASIA(404), 요즘IT(405), 디지털인사이트(파싱 안 됨), CNBC Make It(최근 글 없음).",
   "domains": [
     {
-      "id": "global",
-      "label": "글로벌 경제",
-      "focus": "미국 경제, 금리, 환율, 지정학",
-      "morning": 3
+      "id": "ideas",
+      "label": "해외 사업 아이템",
+      "focus": "해외에서 뜨는 사업·서비스, 신제품, 창업 사례",
+      "morning": 4
     },
     {
-      "id": "markets",
-      "label": "미국 증시",
-      "focus": "나스닥, 빅테크, ETF",
-      "morning": 2
+      "id": "startup",
+      "label": "국내 창업·스타트업",
+      "focus": "국내 창업 사례, 새 사업 모델, 지원사업",
+      "morning": 3
     },
     {
       "id": "tech",
       "label": "AI·테크",
-      "focus": "AI 산업 변화, 신기술",
-      "morning": 3
+      "focus": "AI로 만드는 사업, 신기술",
+      "morning": 2
     },
     {
       "id": "korea",
       "label": "한국 경제·산업",
       "focus": "국내 산업, 정책, 기업",
-      "morning": 2
+      "morning": 1
+    },
+    {
+      "id": "global",
+      "label": "글로벌 경제",
+      "focus": "세계 경제, 정책, 지정학",
+      "morning": 0
     },
     {
       "id": "career",
@@ -39,6 +45,161 @@
     }
   ],
   "sources": [
+    {
+      "id": "producthunt",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Product Hunt",
+      "url": "https://www.producthunt.com/feed",
+      "verified": true
+    },
+    {
+      "id": "hn-show",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Show HN (100점 이상)",
+      "url": "https://hnrss.org/show?points=100",
+      "verified": true
+    },
+    {
+      "id": "tc-startups",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "TechCrunch Startups",
+      "url": "https://techcrunch.com/category/startups/feed/",
+      "verified": true
+    },
+    {
+      "id": "restofworld",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Rest of World",
+      "url": "https://restofworld.org/feed/latest",
+      "verified": true
+    },
+    {
+      "id": "techinasia",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Tech in Asia",
+      "url": "https://www.techinasia.com/feed",
+      "verified": true
+    },
+    {
+      "id": "sifted",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Sifted (유럽 스타트업)",
+      "url": "https://sifted.eu/feed",
+      "verified": true
+    },
+    {
+      "id": "entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Entrepreneur",
+      "url": "https://www.entrepreneur.com/latest.rss",
+      "verified": true
+    },
+    {
+      "id": "inc",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Inc.",
+      "url": "https://www.inc.com/rss/",
+      "verified": true
+    },
+    {
+      "id": "fastco",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Fast Company",
+      "url": "https://www.fastcompany.com/latest/rss",
+      "verified": true
+    },
+    {
+      "id": "trendsvc",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Trends.vc",
+      "url": "https://trends.vc/feed/",
+      "verified": true,
+      "deep": true
+    },
+    {
+      "id": "notboring",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Not Boring",
+      "url": "https://www.notboring.co/feed",
+      "verified": true,
+      "deep": true
+    },
+    {
+      "id": "bensbites",
+      "domain": "tech",
+      "lang": "en",
+      "name": "Ben's Bites (AI 비즈니스)",
+      "url": "https://www.bensbites.com/feed",
+      "verified": true
+    },
+    {
+      "id": "platum",
+      "domain": "startup",
+      "lang": "ko",
+      "name": "플래텀",
+      "url": "https://platum.kr/feed",
+      "verified": true
+    },
+    {
+      "id": "venturesquare",
+      "domain": "startup",
+      "lang": "ko",
+      "name": "벤처스퀘어",
+      "url": "https://www.venturesquare.net/feed",
+      "verified": true
+    },
+    {
+      "id": "besuccess",
+      "domain": "startup",
+      "lang": "ko",
+      "name": "비석세스",
+      "url": "https://besuccess.com/feed/",
+      "verified": true
+    },
+    {
+      "id": "byline",
+      "domain": "startup",
+      "lang": "ko",
+      "name": "바이라인네트워크",
+      "url": "https://byline.network/feed/",
+      "verified": true
+    },
+    {
+      "id": "outstanding",
+      "domain": "startup",
+      "lang": "ko",
+      "name": "아웃스탠딩",
+      "url": "https://outstanding.kr/feed",
+      "verified": true,
+      "deep": true
+    },
+    {
+      "id": "startupn",
+      "domain": "startup",
+      "lang": "ko",
+      "name": "스타트업엔",
+      "url": "https://www.startupn.kr/rss/allArticle.xml",
+      "verified": true
+    },
+    {
+      "id": "wowtale",
+      "domain": "startup",
+      "lang": "ko",
+      "name": "와우테일",
+      "url": "https://wowtale.net/feed/",
+      "verified": true
+    },
     {
       "id": "bbg-econ",
       "domain": "global",
@@ -69,30 +230,6 @@
       "lang": "en",
       "name": "Semafor",
       "url": "https://www.semafor.com/rss.xml",
-      "verified": true
-    },
-    {
-      "id": "bbg-markets",
-      "domain": "markets",
-      "lang": "en",
-      "name": "Bloomberg Markets",
-      "url": "https://feeds.bloomberg.com/markets/news.rss",
-      "verified": true
-    },
-    {
-      "id": "cnbc-top",
-      "domain": "markets",
-      "lang": "en",
-      "name": "CNBC Top News",
-      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
-      "verified": true
-    },
-    {
-      "id": "cnbc-invest",
-      "domain": "markets",
-      "lang": "en",
-      "name": "CNBC Investing",
-      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069",
       "verified": true
     },
     {
@@ -162,14 +299,6 @@
       "verified": true
     },
     {
-      "id": "uppity",
-      "domain": "korea",
-      "lang": "ko",
-      "name": "어피티",
-      "url": "https://uppity.co.kr/feed/",
-      "verified": true
-    },
-    {
       "id": "pragmatic",
       "domain": "career",
       "lang": "en",
@@ -197,7 +326,7 @@
     },
     {
       "id": "planetmoney",
-      "domain": "markets",
+      "domain": "ideas",
       "lang": "en",
       "name": "Planet Money",
       "url": "https://feeds.npr.org/510289/podcast.xml",
@@ -274,6 +403,38 @@
       "name": "연합뉴스 국제",
       "url": "https://www.yna.co.kr/rss/international.xml",
       "verified": true
+    },
+    {
+      "id": "mfm",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "My First Million",
+      "url": "https://feeds.megaphone.fm/HS2300184645",
+      "verified": true
+    },
+    {
+      "id": "startupideas",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "The Startup Ideas Podcast",
+      "url": "https://rss2.flightcast.com/ordbkg8yojpehffas7vr7qpc.xml",
+      "verified": true
+    },
+    {
+      "id": "hibt",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "How I Built This",
+      "url": "https://feeds.megaphone.fm/VMP2035168248",
+      "verified": true
+    },
+    {
+      "id": "starterstory",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Starter Story",
+      "url": "https://rss2.flightcast.com/lxa7w57rz7gkz3huwi6pr6et.xml",
+      "verified": true
     }
   ],
   "links": [
@@ -291,23 +452,43 @@
       "name": "SmartNews",
       "url": "https://www.smartnews.com",
       "note": "무한 피드입니다. 쓴다면 타이머를 켜고."
+    },
+    {
+      "name": "Springwise",
+      "url": "https://www.springwise.com",
+      "note": "세계의 기발한 사업·혁신 사례. RSS가 러너에서 막혀 직접 확인."
+    },
+    {
+      "name": "Trend Hunter",
+      "url": "https://www.trendhunter.com",
+      "note": "신제품·소비 트렌드 모음."
+    },
+    {
+      "name": "Exploding Topics",
+      "url": "https://explodingtopics.com",
+      "note": "검색량이 막 뜨기 시작한 주제. 아이템 수요 확인용."
+    },
+    {
+      "name": "Indie Hackers",
+      "url": "https://www.indiehackers.com",
+      "note": "1인·소규모 창업자의 매출 공개 사례."
+    },
+    {
+      "name": "Starter Story",
+      "url": "https://www.starterstory.com",
+      "note": "창업자 인터뷰와 매출 사례 데이터베이스."
     }
   ],
   "profile": {
-    "comment": "Must Read를 쓰는 기준입니다. 관심사와 지켜보는 종목을 바꾸면 다음 날부터 글의 초점이 바뀝니다.",
-    "reader": "한국에 사는 테크 업계 PM. 테크 리크루팅과 HR 테크에도 관심이 많다. 미국 레버리지 ETF에 투자한다.",
+    "comment": "Biz.Brief를 쓰는 기준입니다. 관심사를 바꾸면 다음 판부터 글의 초점이 바뀝니다.",
+    "reader": "한국에 사는 테크 업계 PM. 사업 아이템과 돈 버는 방법에 관심이 많다 — 해외에서 뜬 사업, 다른 나라 모델의 한국 적용, AI로 만드는 사업, 부업·1인 사업. 테크 리크루팅과 HR 테크에도 관심이 있다.",
     "interests": [
-      "글로벌 경제와 미국 금리",
-      "미국 증시와 빅테크",
-      "AI 산업과 반도체",
-      "한국 증시와 반도체",
-      "테크 채용·조직 트렌드"
-    ],
-    "watchlist": [
-      "TQQQ",
-      "SOXL",
-      "KORU",
-      "SPY"
+      "해외에서 뜬 사업 아이템과 기발한 서비스",
+      "다른 나라 사업 모델의 한국 적용(타임머신 전략)",
+      "AI로 만드는 사업·1인 사업·자동화 수익",
+      "국내 창업·스타트업의 새 사업 모델",
+      "부업·사이드 프로젝트와 작은 수익 모델",
+      "테크 채용·HR 테크 사업"
     ]
   }
 }

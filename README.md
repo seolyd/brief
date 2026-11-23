@@ -13,7 +13,7 @@
 
 | 탭 | 하는 일 |
 | --- | --- |
-| 아침 · 저녁 | 같은 네 칸. **Inv.Brief** (투자·경제 긴 글) · **Inv.News** (분야별 헤드라인) · **All.Brief** (일반 뉴스 긴 글) · **All.News** (주요 일간지 헤드라인) |
+| 아침 · 저녁 | 같은 네 칸. **Biz.Brief** (사업 아이템·돈 버는 방법 긴 글) · **Biz.News** (해외 아이템·국내 창업·AI 헤드라인) · **All.Brief** (일반 뉴스 긴 글) · **All.News** (주요 일간지 헤드라인) |
 | 듣기 | 팟캐스트, 쇼마다 최신 회차 하나. 앱 안에서 재생, 들은 위치 기억 |
 | QT | 이달의 QT 항목을 골라 매일 아침 7시에 열리는 말씀·해석·묵상 질문을 읽고, 마음에 남은 말씀·나의 묵상·나의 다짐·기도를 기록 |
 
@@ -21,14 +21,18 @@
 
 | 분야 | 소스 | 얻는 것 |
 | --- | --- | --- |
-| 글로벌 경제 | Bloomberg, The Economist, Axios, Semafor | 미국 경제, 금리, 환율, 지정학 |
-| 미국 증시 | Bloomberg Markets, CNBC | 나스닥, 빅테크, ETF |
-| AI·테크 | GeekNews, Hacker News, TLDR, Stratechery, Platformer | AI 산업 변화, 신기술 |
-| 한국 경제·산업 | 매경, 서울경제, 연합뉴스, 어피티 | 국내 산업, 정책, 기업 |
+| 해외 사업 아이템 (Biz) | Product Hunt, Show HN, TechCrunch Startups, Rest of World, Tech in Asia, Sifted, Entrepreneur, Inc., Fast Company, Trends.vc, Not Boring | 해외에서 뜨는 사업·서비스, 다른 나라 모델, 창업 사례 |
+| 국내 창업·스타트업 (Biz) | 플래텀, 벤처스퀘어, 비석세스, 바이라인네트워크, 아웃스탠딩, 스타트업엔, 와우테일 | 국내 새 사업 모델, 창업 사례, 지원사업 |
+| AI·테크 | GeekNews, Hacker News, TLDR, Ben's Bites, Stratechery, Platformer | AI로 만드는 사업, 신기술 |
+| 한국 경제·산업 | 매경, 서울경제, 연합뉴스 | 국내 산업, 정책, 기업 |
+| 글로벌 경제 | Bloomberg Economics, The Economist, Axios, Semafor | 세계 경제, 정책, 지정학 |
 | 커리어·비즈니스 | Lenny's Newsletter, The Pragmatic Engineer | 조직관리, 리더십, 경영 |
 | 주요 일간지 (All) | SBS 주요뉴스, 경향, 한겨레, 동아, 국민일보, 연합뉴스 정치·국제 | 정치, 사회, 국제, 생활 |
 
-팟캐스트: The Daily, Planet Money, Hard Fork, 손에 잡히는 경제.
+팟캐스트: My First Million, The Startup Ideas Podcast, How I Built This, Starter Story, Planet Money, The Daily, Hard Fork, 손에 잡히는 경제.
+
+RSS가 러너에서 막혀 수집하지 못하는 Springwise·Trend Hunter·Exploding Topics·Indie Hackers·Starter Story는
+`sources.json`의 `links`에 두고, Biz.Brief를 쓸 때 웹 검색으로 찾아봅니다.
 
 Reuters는 RSS를 닫아서 수집하지 않습니다. 한경과 HBR은 GitHub 러너의
 요청을 막아서 서울경제와 Lenny's Newsletter로 대신했습니다.
@@ -44,13 +48,13 @@ Reuters는 RSS를 닫아서 수집하지 않습니다. 한경과 HBR은 GitHub �
    출처 주소를 모델이 지어낼 수 없게 했습니다.
 3. 바뀐 파일을 커밋합니다. Vercel이 그 커밋을 배포합니다.
 
-### Must Read (Inv.Brief · All.Brief)
+### Must Read (Biz.Brief · All.Brief)
 
 06:41과 18:41에 **Claude 예약 작업**(claude.ai의 Claude Code 예약 작업)이 새 세션을 열고
 [`docs/MUSTREAD.md`](docs/MUSTREAD.md)대로 씁니다. 방금 수집한 피드를 출발점으로 웹 검색으로 사실과 숫자를
-확인하고, `scripts/save-mustread.mjs`로 형식을 검사한 뒤 `public/data/mustread-<판>.json`(Inv)과
+확인하고, `scripts/save-mustread.mjs`로 형식을 검사한 뒤 `public/data/bizbrief-<판>.json`(Biz)과
 `public/data/allbrief-<판>.json`(All)을 커밋합니다.
-API 키가 필요 없고 Claude 구독 사용량을 씁니다. 관심사와 지켜보는 종목은 `sources.json`의 `profile`에서,
+API 키가 필요 없고 Claude 구독 사용량을 씁니다. 독자 소개와 관심사는 `sources.json`의 `profile`에서,
 글의 구조와 원칙은 `docs/MUSTREAD.md`에서 고칩니다.
 
 ### Daily QT
