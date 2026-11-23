@@ -1,7 +1,7 @@
 /**
- * 쓴 마크다운을 검사하고 public/data/mustread-<edition>.json으로 저장합니다.
+ * 쓴 마크다운을 검사하고 public/data/bizbrief-<edition>.json(또는 allbrief-…)으로 저장합니다.
  *
- *   node scripts/save-mustread.mjs morning /tmp/mustread.md        # Inv.Brief
+ *   node scripts/save-mustread.mjs morning /tmp/bizbrief.md        # Biz.Brief
  *   node scripts/save-mustread.mjs morning /tmp/allbrief.md all    # All.Brief
  *
  * 검사에 걸리면 이유를 보여주고 1로 끝납니다. 고쳐서 다시 실행하세요.
@@ -9,9 +9,9 @@
 import { readFileSync, writeFileSync } from 'node:fs'
 
 const [editionArg, file, kindArg] = process.argv.slice(2)
-const kind = kindArg === 'all' ? 'all' : 'inv'
+const kind = kindArg === 'all' ? 'all' : 'biz'
 if (!['morning', 'evening'].includes(editionArg) || !file) {
-  console.error('사용법: node scripts/save-mustread.mjs <morning|evening> <마크다운 파일> [inv|all]')
+  console.error('사용법: node scripts/save-mustread.mjs <morning|evening> <마크다운 파일> [biz|all]')
   process.exit(1)
 }
 const edition = editionArg
@@ -35,6 +35,6 @@ if (problems.length) {
   process.exit(1)
 }
 
-const out = `public/data/${kind === 'inv' ? 'mustread' : 'allbrief'}-${edition}.json`
+const out = `public/data/${kind === 'biz' ? 'bizbrief' : 'allbrief'}-${edition}.json`
 writeFileSync(out, `${JSON.stringify({ kind, edition, generatedAt: new Date().toISOString(), markdown }, null, 2)}\n`)
 console.log(`저장: ${out} (${chars}자, 링크 ${links.length}개)`)

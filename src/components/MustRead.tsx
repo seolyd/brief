@@ -10,7 +10,7 @@ import { Empty } from './Page'
  */
 export function MustRead({
   edition,
-  kind = 'inv',
+  kind = 'biz',
   onFinished,
 }: {
   edition: Edition
@@ -39,7 +39,7 @@ export function MustRead({
   if (!doc) {
     return (
       <Empty>
-        {edition === 'morning' ? '오늘 아침' : '오늘 저녁'} {kind === 'inv' ? 'Inv.Brief' : 'All.Brief'}가 아직 없습니다.{' '}
+        {edition === 'morning' ? '오늘 아침' : '오늘 저녁'} {kind === 'biz' ? 'Biz.Brief' : 'All.Brief'}가 아직 없습니다.{' '}
         {edition === 'morning' ? '매일 아침 7시' : '매일 저녁 7시'} 전후로 준비됩니다.
       </Empty>
     )

@@ -10,15 +10,15 @@ import { MustRead, Segments } from './MustRead'
 
 /**
  * 아침·저녁 메뉴는 같은 네 칸입니다.
- *   Inv.Brief — 투자·경제 중심 긴 글 (기존 Must Read)
- *   Inv.News  — 경제·증시·AI·한국·커리어 분야별 헤드라인
- *   All.Brief — 투자를 뺀 일반 뉴스 긴 글
+ *   Biz.Brief — 사업 아이템·돈 버는 방법 긴 글 (해외 아이템, 따라하기, AI 사업, 국내 창업)
+ *   Biz.News  — 해외 아이템·국내 창업·AI·한국 산업 분야별 헤드라인
+ *   All.Brief — 일반 뉴스 긴 글
  *   All.News  — 주요 일간지 헤드라인
  */
-type Tab = 'inv-brief' | 'inv-news' | 'all-brief' | 'all-news'
+type Tab = 'biz-brief' | 'biz-news' | 'all-brief' | 'all-news'
 const TABS: Array<{ id: Tab; label: string }> = [
-  { id: 'inv-brief', label: 'Inv.Brief' },
-  { id: 'inv-news', label: 'Inv.News' },
+  { id: 'biz-brief', label: 'Biz.Brief' },
+  { id: 'biz-news', label: 'Biz.News' },
   { id: 'all-brief', label: 'All.Brief' },
   { id: 'all-news', label: 'All.News' },
 ]
@@ -26,7 +26,11 @@ const TABS: Array<{ id: Tab; label: string }> = [
 export function EditionView({ edition, kicker, title }: { edition: Edition; kicker: string; title: string }) {
   const session = useSession(edition)
   // 마지막에 보던 칸을 기억합니다. 아침과 저녁은 따로.
-  const [tab, setTabState] = useState<Tab>(() => read<Tab>(`tab:${edition}`, 'inv-brief'))
+  // 예전 Inv 칸을 기억하고 있으면 Biz 칸으로 엽니다.
+  const [tab, setTabState] = useState<Tab>(() => {
+    const saved = read<string>(`tab:${edition}`, 'biz-brief')
+    return TABS.some((t) => t.id === saved) ? (saved as Tab) : 'biz-brief'
+  })
   const setTab = (t: Tab) => {
     setTabState(t)
     write(`tab:${edition}`, t)
@@ -49,9 +53,9 @@ export function EditionView({ edition, kicker, title }: { edition: Edition; kick
         <>
           <SessionBar kind={edition} session={session} />
           <Segments value={tab} onChange={setTab} options={TABS} />
-          {tab === 'inv-brief' && <MustRead key="inv" edition={edition} kind="inv" onFinished={stop} />}
+          {tab === 'biz-brief' && <MustRead key="biz" edition={edition} kind="biz" onFinished={stop} />}
           {tab === 'all-brief' && <MustRead key="all" edition={edition} kind="all" onFinished={stop} />}
-          {tab === 'inv-news' && <InvNews />}
+          {tab === 'biz-news' && <BizNews />}
           {tab === 'all-news' && <AllNews />}
         </>
       )}
@@ -86,7 +90,7 @@ function Progress({ ids, readIds }: { ids: string[]; readIds: Set<string> }) {
 }
 
 /** 분야별로 정해진 칸 수만큼. 발행처가 겹치지 않게 고릅니다. */
-function InvNews() {
+function BizNews() {
   const { loading, feed } = useData()
   const { readIds, row } = useRow()
   if (loading) return <Empty>불러오는 중</Empty>
