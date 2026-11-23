@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T21:16:58.984Z",
+  "generatedAt": "2026-11-23T22:16:49.330Z",
   "domains": [
     {
       "id": "ideas",
@@ -106,7 +106,7 @@
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "“자동사냥하듯 해킹⋯ 시스템 허점 해커에 발각 확률 99%”",
+      "title": "화이트해커 10인의 작심 경고 “허점 발각 확률 99%”",
       "url": "https://www.kmib.co.kr/article/20261123501912",
       "publishedAt": "2026-11-24T13:46:46.000Z",
       "excerpt": "고려대 사이버국방학과 출신으로 미국 실리콘밸리의 정보기술(IT) 기업에서 보안 업무를 담당하는 김모(31)씨는 인공지능(AI) 등장으로 사이버 공격 양상이 급변하고 있음을 체감하고 있다. 김씨는 23일 “이제 해커는 공격에 자기 시간을 들이지 않는다. AI로 마치 ‘자동사냥’을 하듯 시스템 모든 문을 다 열어 볼 수 있기 때문”이라며 “앞으로 공격자는 AI를 악용해 무차별적인 해킹을 할 텐데 방어자도 AI라는 ‘무기’를 잘 활…"
@@ -118,7 +118,7 @@
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "모두 ‘믿을맨’ 전면 배치⋯ 첫 여성 국정원장 파격 발탁",
+      "title": "李대통령, 또 ‘믿는 사람’만 썼다⋯야당 “임기말 레임덕 인사”",
       "url": "https://www.kmib.co.kr/article/20261123501907",
       "publishedAt": "2026-11-24T13:45:06.000Z",
       "excerpt": "임광현 대통령 비서실장이 23일 청와대 춘추관에서 개각 관련 브리핑을 하고 있다. 이재명 대통령은 이날 집권 중반기 국정동력 확보를 위해 중폭 개각을 단행했다. 최현규 기자 ‘믿는 사람’을 선호하는 이재명 대통령의 인사 기조가 이번 인사에서도 재확인됐다. 자신의 대선 캠프 후원회장·총괄선거대책위원장을 맡았던 강금실 전 법무부 장관을 전격 발탁했고 한준호 더불어민주당 의원, 임웅순 청와대 국가안보실 2차장과 홍익표 전 정무수석,…"
@@ -208,6 +208,42 @@
       "excerpt": "한화생명이 사망보험금을 최대 210%까지 늘리고, 필요할 때 납입보험료를 생활자금으로 활용할 수 있는 ‘한화생명 필요할 때 쓰는 종신보험’을 소개했다. 이 상품은 생애주기에 따라 변화하는 보장 수요를 반영한 것이 특징이다. 경제활동기에는 사망보장을 강화하고 노후생활이나 자녀 결혼 등 목돈이 필요한 시기에는 보험료를 인출할 수 있도록 설계했다. 10년납 기준 가입 5년 차부터 4년간 매년 사망보험금이 15%씩 늘어나고, 9년 차…"
     },
     {
+      "id": "hani:https://www.hani.co.kr/arti/international/america/1288767.html",
+      "sourceId": "hani",
+      "sourceName": "한겨레",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“트럼프, 밴스까지 동원해 주말새 젠슨 황 복귀 ‘비밀 작전’”",
+      "url": "https://www.hani.co.kr/arti/international/america/1288767.html",
+      "publishedAt": "2026-11-23T22:16:45.381Z",
+      "excerpt": ""
+    },
+    {
+      "id": "hani:https://www.hani.co.kr/arti/society/society_general/1288766.html",
+      "sourceId": "hani",
+      "sourceName": "한겨레",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "증거가 없다, 증거가 없다, 증거가 없다 [금자㊽]",
+      "url": "https://www.hani.co.kr/arti/society/society_general/1288766.html",
+      "publishedAt": "2026-11-23T22:16:45.381Z",
+      "excerpt": ""
+    },
+    {
+      "id": "hani:https://www.hani.co.kr/arti/sports/basketball/1288765.html",
+      "sourceId": "hani",
+      "sourceName": "한겨레",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "난파선 3번 구해본 ‘김상식의 삼성’은 달랐다…“개인 욕심, 남탓 단호하게 지적”",
+      "url": "https://www.hani.co.kr/arti/sports/basketball/1288765.html",
+      "publishedAt": "2026-11-23T22:16:45.381Z",
+      "excerpt": ""
+    },
+    {
       "id": "hani:https://www.hani.co.kr/arti/international/america/1288764.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
@@ -216,7 +252,7 @@
       "kind": "article",
       "title": "젠슨 황 복귀에 엔비디아 30%대 급등…나스닥 6.47% 반등",
       "url": "https://www.hani.co.kr/arti/international/america/1288764.html",
-      "publishedAt": "2026-11-23T21:16:56.890Z",
+      "publishedAt": "2026-11-23T22:16:45.381Z",
       "excerpt": ""
     },
     {
@@ -228,7 +264,7 @@
       "kind": "article",
       "title": "증시 불안에 소비심리 냉각…두달 연속 하락",
       "url": "https://www.hani.co.kr/arti/economy/economy_general/1288763.html",
-      "publishedAt": "2026-11-23T21:16:56.890Z",
+      "publishedAt": "2026-11-23T22:16:45.381Z",
       "excerpt": ""
     },
     {
@@ -240,7 +276,7 @@
       "kind": "article",
       "title": "반도체 업종 체감경기 두달째 ‘먹구름’…“데이터센터 투자 둔화”",
       "url": "https://www.hani.co.kr/arti/economy/marketing/1288762.html",
-      "publishedAt": "2026-11-23T21:16:56.890Z",
+      "publishedAt": "2026-11-23T22:16:45.381Z",
       "excerpt": ""
     },
     {
@@ -252,7 +288,7 @@
       "kind": "article",
       "title": "‘오함마·나라시’, AI가 통역한다…건설현장서 외국인 노동자 지키는 소통",
       "url": "https://www.hani.co.kr/arti/economy/it/1288761.html",
-      "publishedAt": "2026-11-23T21:16:56.890Z",
+      "publishedAt": "2026-11-23T22:16:45.381Z",
       "excerpt": ""
     },
     {
@@ -264,7 +300,7 @@
       "kind": "article",
       "title": "“성공이 실패로 바뀌는 순간을 아세요?”",
       "url": "https://www.hani.co.kr/arti/society/society_general/1288760.html",
-      "publishedAt": "2026-11-23T21:16:56.890Z",
+      "publishedAt": "2026-11-23T22:16:45.381Z",
       "excerpt": ""
     },
     {
@@ -276,7 +312,7 @@
       "kind": "article",
       "title": "김진경 전 국가교육회의 의장 “오지선다형 수능 폐지해야”",
       "url": "https://www.hani.co.kr/arti/society/schooling/1288759.html",
-      "publishedAt": "2026-11-23T21:16:56.890Z",
+      "publishedAt": "2026-11-23T22:16:45.381Z",
       "excerpt": ""
     },
     {
@@ -288,44 +324,260 @@
       "kind": "article",
       "title": "민주주의는 읽는 수고를 요구한다 [세상읽기]",
       "url": "https://www.hani.co.kr/arti/opinion/column/1288758.html",
-      "publishedAt": "2026-11-23T21:16:56.890Z",
+      "publishedAt": "2026-11-23T22:16:45.381Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/international/arabafrica/1288757.html",
-      "sourceId": "hani",
-      "sourceName": "한겨레",
-      "domain": "news",
+      "id": "mk:https://www.mk.co.kr/news/politics/12216715",
+      "sourceId": "mk",
+      "sourceName": "매일경제 경제",
+      "domain": "korea",
       "lang": "ko",
       "kind": "article",
-      "title": "가자 전문가 “미국 주도론 종전 불가…평화유지군이 이·팔 갈라놔야”",
-      "url": "https://www.hani.co.kr/arti/international/arabafrica/1288757.html",
-      "publishedAt": "2026-11-23T21:16:56.890Z",
-      "excerpt": ""
+      "title": "주가 폭락 두고 엇갈린 처방…與 “주주 보호” 野 “종부세 폐지”",
+      "url": "https://www.mk.co.kr/news/politics/12216715",
+      "publishedAt": "2026-11-23T22:15:39.000Z",
+      "excerpt": "국내 증시가 약 5개월 만에 반 토막이 나는 초유의 사태가 벌어지면서 여당인 더불어민주당이 의무공개매수제와 주가누르기방지법 등 자본시장법 개정 논의에 속도를 내고 있다. 그러나 당.."
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/international/america/1288756.html",
-      "sourceId": "hani",
-      "sourceName": "한겨레",
+      "id": "khan:https://www.khan.co.kr/article/202611240715001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "트럼프 “젠슨 황 복귀, 내 개입 컸다”…미 의회 여야 “안보 팔아넘겨” 반발",
-      "url": "https://www.hani.co.kr/arti/international/america/1288756.html",
-      "publishedAt": "2026-11-23T21:16:56.890Z",
-      "excerpt": ""
+      "title": "고위공직자 3명 중 1명은 다주택자…국회의원 다주택자 비중은 ‘나홀로 상승’",
+      "url": "https://www.khan.co.kr/article/202611240715001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-23T22:15:00.000Z",
+      "excerpt": "서울 한강변 아파트. 경향신문 자료사진국회의원을 포함해 선출·임명된 고위공직자 3명 중 1명은 주택을 2채 이상 보유한 다주택자로 나타났다. 관료와 지자체장 등의 다주택자 비율은 줄었지만, 국회의원의 다주택자 비율은 고위공직자 중 유일하게 상승했다.24일 기업분석연구소 리더스인덱스가 공직자윤리법에 따라 재산공개 의무가 있는 정부 고위공직자와 국회의원, 지방···"
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/international/america/1288755.html",
-      "sourceId": "hani",
-      "sourceName": "한겨레",
+      "id": "mk:https://www.mk.co.kr/news/economy/12216713",
+      "sourceId": "mk",
+      "sourceName": "매일경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“폐업하는 자리에 오고 싶겠어요?”…늘어나는 공실, 건물주까지 덮쳤다",
+      "url": "https://www.mk.co.kr/news/economy/12216713",
+      "publishedAt": "2026-11-23T22:13:16.000Z",
+      "excerpt": "자영업 부진, 임대업 위기로 5년이상 버틴 자영업자 폐업 작년 31만건으로 역대 최다 폐업 늘고 신규 임차수요 뚝 임대인 대출 갚을 여력 줄어 5대銀 연체 1년새 66% 급등 부동.."
+    },
+    {
+      "id": "semafor:https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist",
+      "sourceId": "semafor",
+      "sourceName": "Semafor",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Commerce adds Megaspeed to trade blacklist",
+      "url": "https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist",
+      "publishedAt": "2026-11-23T22:08:56.000Z",
+      "excerpt": "US companies will not be able to sell chips to the Singapore-based firm at the heart of the Nvidia scandal without obtaining a license."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611240706001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "머스크 “실수 바로잡혔다”…젠슨 황 복귀에 기술업계·투자자 환영",
-      "url": "https://www.hani.co.kr/arti/international/america/1288755.html",
-      "publishedAt": "2026-11-23T21:16:56.890Z",
-      "excerpt": ""
+      "title": "트레이드마크 가죽 재킷 벗고 복귀한 젠슨 황···“러브 유 젠슨!” “웰컴 백” 직원들 환호",
+      "url": "https://www.khan.co.kr/article/202611240706001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-23T22:06:00.000Z",
+      "excerpt": "깜짝 복귀한 젠슨 황 엔비디아 최고경영자. 엑스 갈무리젠슨 황 엔비디아 최고경영자(CEO)가 복귀 첫날 본사를 찾아 직원들에게 사과와 감사의 뜻을 표했다.뉴욕타임스(NYT)와 사회관계망서비스(SNS)에 게시된 영상을 보면 황 CEO는 23일(현지시간) 캘리포니아주 샌타클래라 본사 로비에서 고개를 숙이며 자신을 맞이해준 직원들에게 “이 모든 일들을 겪게 해 ···"
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611240705001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "돌아온 젠슨 황 반긴 주가···엔비디아 30%대·나스닥 장중 7% 급등",
+      "url": "https://www.khan.co.kr/article/202611240705001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-23T22:05:00.000Z",
+      "excerpt": "불륜 스캔들로 사임 11일 만에 복귀AI 반도체주 동반 급등···필라델피아 반도체지수 약 15% ↑공매도 투자자 16조원 손실 추정···3배 인버스 ETF 거래 중단외국 정보기관 연루 의혹에 대한 독립 조사는 계속23일(현지시간) 미국 뉴욕 나스닥 마켓사이트 건물 전광판에 젠슨 황 엔비디아 최고경영자(CEO)의 복귀 소식이 나오고 있다. AFP연합뉴스잇단 ···"
+    },
+    {
+      "id": "tc-startups:https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "sourceId": "tc-startups",
+      "sourceName": "TechCrunch Startups",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "publishedAt": "2026-11-23T22:02:05.000Z",
+      "excerpt": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261119089000898",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[우분투칼럼] 막힌 중동 바닷길과 아프리카 희망봉의 재부상",
+      "url": "https://www.yna.co.kr/view/AKR20261119089000898",
+      "publishedAt": "2026-11-23T22:00:05.000Z",
+      "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다. 우분투 칼럼에는 인류..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261123148000063",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "\"벤처투자 비수도권 1위 대전, 실제 창업의향은 가장 낮아\"…왜?",
+      "url": "https://www.yna.co.kr/view/AKR20261123148000063",
+      "publishedAt": "2026-11-23T22:00:04.000Z",
+      "excerpt": "(대전=연합뉴스) 박주영 기자 = 과학기술계 정부출연 연구기관(이하 출연연)이 모여있는 대전 대덕연구개발특구의 안정적인 인프라가 오히려 창업 실..."
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261123164100001",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[오늘의 국회일정](24일·화)",
+      "url": "https://www.yna.co.kr/view/AKR20261123164100001",
+      "publishedAt": "2026-11-23T22:00:03.000Z",
+      "excerpt": "▲ 위원회"
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611240656001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[속보]미 상무부, 앨리스 황 싱가포르 회사 제재",
+      "url": "https://www.khan.co.kr/article/202611240656001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-23T21:56:00.000Z",
+      "excerpt": "젠슨 황 엔비디아 최고경영자(CEO)와 앨리스 황. 로이터연합뉴스미국 상무부가 젠슨 황 엔비디아 최고경영자(CEO)의 불륜 상대이자 중국 스파이라는 의혹을 받는 앨리스 황(중국명 황러)이 임원으로 재직했던 싱가포르 기업 메가스피드에 대한 제재를 발표했다.23일(현지시간) 로이터통신에 따르면 미 상무부는 연방 관보 공고를 통해 메가스피드를 수출 통제 기업 명···"
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611240655001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[속보]‘오늘은 매수사이드카’···나스닥 6.5% 폭등 마감, 1년 7개월 만에 상승 폭 최고",
+      "url": "https://www.khan.co.kr/article/202611240655001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-23T21:55:00.000Z",
+      "excerpt": "젠슨 황 전 엔비디아 최고경영자(CEO). 로이터연합뉴스젠슨 황 엔비디아 최고경영자(CEO)의 복귀 소식에 뉴욕증시의 3대 주가지수가 23일(현지시간) 일제히 급등 마감했다. 엔비디아 주가가 32% 폭등해 인공지능(AI) 관련주 전반이 급등한 영향이다.이날 기술주 중심의 나스닥 종합지수는 전장보다 1471.82포인트(6.51%) 오른 2만4089.56에 거···"
+    },
+    {
+      "id": "mk:https://www.mk.co.kr/news/economy/12216709",
+      "sourceId": "mk",
+      "sourceName": "매일경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "증시 급락에…소비자심리지수 7개월 만에 최저",
+      "url": "https://www.mk.co.kr/news/economy/12216709",
+      "publishedAt": "2026-11-23T21:54:34.000Z",
+      "excerpt": "한은 11월 소비자동향조사 발표 소비자심리지수 103.1…전월比 2.3p 하락 “국내외 증시 조정·금리 상승 영향” 집값 상승 기대감도 큰 폭으로 내려국내 증시가 급격히 하락하며 .."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124009451072",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "'젠슨황 귀환'에 나스닥 6.5%↑…1년7개월만에 최대 상승(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261124009451072",
+      "publishedAt": "2026-11-23T21:51:16.000Z",
+      "excerpt": "(뉴욕=연합뉴스) 임수정 특파원 = 뉴욕증시의 3대 주가지수가 23일(현지시간) 젠슨 황 엔비디아 최고경영자(CEO)의 복귀 소식에 일제히 급등..."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611240650001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "‘젠슨황 부활’ 엔비디아 32% 폭등 마감···시총 1300조원 늘어",
+      "url": "https://www.khan.co.kr/article/202611240650001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-23T21:50:00.000Z",
+      "excerpt": "젠슨 황 전 엔비디아 최고경영자(CEO). 로이터연합뉴스젠슨 황 엔비디아 최고경영자(CEO)의 복귀 소식에 23일(현지시간) 엔비디아 주가가 32% 폭등했다. 하루 동안 불어난 시가총액만 1300조원으로 삼성전자의 전체 시총을 뛰어넘을 정도다. 마이크론과 샌디스크 등 인공지능(AI) 반도체주도 일제히 급등했다.이날 뉴욕증시에서 엔비디아는 39.52달러(31···"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124010800087",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "아이티 파병에 국내 치안은 구멍?…엘살바도르서 총격 사망",
+      "url": "https://www.yna.co.kr/view/AKR20261124010800087",
+      "publishedAt": "2026-11-23T21:37:47.000Z",
+      "excerpt": "(멕시코시티=연합뉴스) 송광호 특파원 = 대규모 엘살바도르 병력이 아이티로 파병된 가운데 정작 자국 내에서 총격 사건이 발생해 치안 공백 우려가..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124011600009",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "엔비디아 시총 하룻새 1천300조원↑…AI·반도체주 급등",
+      "url": "https://www.yna.co.kr/view/AKR20261124011600009",
+      "publishedAt": "2026-11-23T21:37:04.000Z",
+      "excerpt": "(서울=연합뉴스) 정주호 기자 = 젠슨 황 엔비디아 최고경영자(CEO)의 복귀 소식에 23일(현지시간) 엔비디아 주가가 32% 폭등하는 등 인공..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124010100071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "트럼프, 유독성 軍폭발물 폭파 중단 명령…\"민주당 주지사 책임\"",
+      "url": "https://www.yna.co.kr/view/AKR20261124010100071",
+      "publishedAt": "2026-11-23T21:31:38.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 행정부가 아이오와주(州) 육군기지에 보관 중인 유독성 폭발물 폭파 계획을 강행 직전 중..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124009600075",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "젠슨황 \"두번째엔 더 나은 CEO 될 것\"…직원들 박수치며 환호",
+      "url": "https://www.yna.co.kr/view/AKR20261124009600075",
+      "publishedAt": "2026-11-23T21:23:29.000Z",
+      "excerpt": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 젠슨 황 엔비디아 최고경영자(CEO)가 복귀 첫날 본사를 찾아가 직원들에게 사과와 감사의 뜻을 표했다..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124010700071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[속보] 美상무부, 中간첩 의혹 젠슨황 불륜상대 회사 제재",
+      "url": "https://www.yna.co.kr/view/AKR20261124010700071",
+      "publishedAt": "2026-11-23T21:20:47.000Z",
+      "excerpt": "("
+    },
+    {
+      "id": "fastco:https://www.fastcompany.com/91647779/spotify-wrapped-2026-is-almost-here-heres-how-to-make-sure-youre-ready",
+      "sourceId": "fastco",
+      "sourceName": "Fast Company",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "Spotify Wrapped 2026 is almost here. Here’s how to make sure you’re ready",
+      "url": "https://www.fastcompany.com/91647779/spotify-wrapped-2026-is-almost-here-heres-how-to-make-sure-youre-ready",
+      "publishedAt": "2026-11-23T21:15:00.000Z",
+      "excerpt": "Its that time of year again: when people flood social media with year-end reviews and music lovers start counting down to what may be the most anticipated of them all: Spotify Wrapped. Spotify Wrapped 2026 reveals not just your top five son…"
     },
     {
       "id": "mk:https://www.mk.co.kr/news/economy/12216694",
@@ -358,10 +610,10 @@
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "트럼프 ‘비밀 작전’에 11일 만에 돌아온 젠슨 황···주가 폭등했지만 후폭풍 예고",
+      "title": "트럼프 ‘비밀 작전’에 11일 만에 돌아온 젠슨 황···주가 폭등했지만 “사실상 도박” “이사회 사퇴해야” 후폭풍 예고",
       "url": "https://www.khan.co.kr/article/202611240610001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
       "publishedAt": "2026-11-23T21:10:00.000Z",
-      "excerpt": "AFP연합뉴스젠슨 황이 11일 만에 엔비디아 최고경영자(CEO) 자리에 복귀했다. 도널드 트럼프 대통령은 젠슨 황을 복귀시키기 위해 실리콘밸리와 친분이 두터운 J D 밴스 부통령에게 ‘특명’을 내린 것으로 알려졌다.엔비디아는 23일(현지시간) 발표한 보도자료에서 이사회가 젠슨 황을 복귀시키는 안건을 만장일치로 의결했으며, 이는 즉시 효력이 발생한다고 보도자···"
+      "excerpt": "AFP연합뉴스젠슨 황이 11일 만에 엔비디아 최고경영자(CEO) 자리에 복귀했다. 도널드 트럼프 미국 대통령은 젠슨 황을 복귀시키기 위해 실리콘밸리와 친분이 두터운 J D 밴스 부통령에게 ‘특명’을 내린 것으로 알려졌다.엔비디아는 23일(현지시간) 이사회가 젠슨 황을 복귀시키는 안건을 만장일치로 의결했으며, 이는 즉시 효력이 발생한다고 보도자료를 통해 밝혔···"
     },
     {
       "id": "donga:https://www.donga.com/news/Society/article/all/20261124/135078008/1",
@@ -532,18 +784,6 @@
       "excerpt": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부는 국내 첨단기술(딥테크) 스타트업의 유럽 시장 진출과 해외 투자유치를 지원하기 위해 독일 베를린..."
     },
     {
-      "id": "khan:https://www.khan.co.kr/article/202611240600061/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[뉴스분석] 숙의 없이 출발해버린 집권 여당의 사법부 수장 탄핵소추",
-      "url": "https://www.khan.co.kr/article/202611240600061/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-23T21:00:06.000Z",
-      "excerpt": "김민석 더불어민주당 대표(왼쪽 두번째)가 23일 국회에서 열린 최고위원회의에 참석하고 있다. 연합뉴스더불어민주당의 조희대 대법원장 탄핵소추 추진이 본격화하면서 23일 당내 우려가 증폭하고 있다. 그간 쌓여온 조 대법원장에 대한 불만과는 별개로 파면에 이를 만한 탄핵소추 사유가 분명치 않다는 지적부터 집권여당이 사법부 수장 탄핵소추라는 중대 결정을 내리면서 ···"
-    },
-    {
       "id": "sedaily:https://www.sedaily.com/article/20117891",
       "sourceId": "sedaily",
       "sourceName": "서울경제 경제",
@@ -580,30 +820,6 @@
       "excerpt": "(서울=연합뉴스) 김지연 기자 = 금융정보분석원(FIU)과 금융감독원은 24일 개정 특정금융정보법(특금법) 부칙에 따라 기존 신고 가상자산사업자..."
     },
     {
-      "id": "khan:https://www.khan.co.kr/article/202611240600041/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[현장] 울주만이 아니다···울산 ‘폐기물 불법 매립’에 신음",
-      "url": "https://www.khan.co.kr/article/202611240600041/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-23T21:00:04.000Z",
-      "excerpt": "“외와 저수지 둘러싼 형태···식수원 오염 걱정”내와리 둔덕 방수포 들추자 검은 흙·침출수불법 매립, 울산 내 10여곳···환경단체 “전수조사”지난 19일 울산 울주군 내와리 폐기물 불법 매립 현장에서 주민비상대책위원회 관계자가 폐기물로 인해 말라죽은 나무를 가리키고 있다. 이우사 기자울산 울주군 두서면 내와리 일대 폐기물 매립 현장은 지난 19일 방수포 ···"
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611240600031/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "이용철, 청문회 앞두고 쏟아진 ‘공소취소’ 질의에 “진상규명 필요...법과 원칙 따라야” 반복",
-      "url": "https://www.khan.co.kr/article/202611240600031/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-23T21:00:03.000Z",
-      "excerpt": "인사청문회 하루 앞둔 이용철 법무장관 후보자. 연합뉴스이용철 법무부 장관 후보자의 국회 인사청문회가 24일 진행된다. 이재명 대통령 사건에 대한 공소취소 지휘 여부, 과거 성남산업진흥재단 대표이사 재직 당시 성남시 유력 인사 자녀 채용과 특정 직원 ‘찍어내기’ 의혹 등이 주요 쟁점이 될 것으로 관측된다.이 후보자는 지난 22일 국회에 제출한 인사청문회 서면···"
-    },
-    {
       "id": "inc:https://www.inc.com/tomas-gorny/remember-press-1-for-sales-ai-is-about-to-change-all-that/91441353",
       "sourceId": "inc",
       "sourceName": "Inc.",
@@ -628,16 +844,16 @@
       "excerpt": "(뉴욕=연합뉴스) 임수정 특파원 = 국제유가가 중동 지역의 원유 공급 증가와 리비아 송유관 재가동 영향으로 3% 넘게 급락하며 약 3개월 만에 ..."
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124007000072",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
+      "id": "fastco:https://www.fastcompany.com/91647629/making-six-figures-you-might-still-be-using-buy-now-pay-later-according-to-new-research",
+      "sourceId": "fastco",
+      "sourceName": "Fast Company",
+      "domain": "ideas",
+      "lang": "en",
       "kind": "article",
-      "title": "\"이사회 전원사퇴감\"…트럼프 입김에 젠슨황 거취 번복 도마",
-      "url": "https://www.yna.co.kr/view/AKR20261124007000072",
-      "publishedAt": "2026-11-23T20:48:18.000Z",
-      "excerpt": "(뉴욕=연합뉴스) 임수정 특파원 = 도널드 트럼프 미국 대통령의 개입 속에 젠슨 황 엔비디아 최고경영자(CEO)의 전격 복귀가 결정되면서 엔비디..."
+      "title": "Making six figures? You might still be using buy now, pay later, according to new research",
+      "url": "https://www.fastcompany.com/91647629/making-six-figures-you-might-still-be-using-buy-now-pay-later-according-to-new-research",
+      "publishedAt": "2026-11-23T20:51:23.000Z",
+      "excerpt": "We are a nation united in our desire to pay tomorrow for what we’re buying today. In the past decade, various deferred payment options have grown in popularity and new data from Block might buck the notion of who the “typical” customer is. …"
     },
     {
       "id": "axios:https://www.axios.com/2026/11/23/scott-colom-mississippi-election-voting-rights-fallout",
@@ -736,18 +952,6 @@
       "excerpt": "Jon's Arm Reference 가 Arm의 요청으로 2026년 12월 4일 운영을 종료할 예정임 Arm 측 변호사들 은 운영자 Jon에게 사이트를 폐쇄하지 않으면 법적 조치를 취하겠다고 통보함 사이트는 Armv8-A와 Armv9-A 아키텍처에 정의된 AArch64 명령어 집합과 시스템 레지스터의 참조 문서를 제공함 명령어와 시스템 레지스터 검색 을 지원하며, 명령어 종류별 목록과 레지스터 전체 목록을 직접 탐색할 수도 있…"
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124006600079",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "리비아 정부, 우크라의 러 선박 공격 규탄…공식 해명 요구",
-      "url": "https://www.yna.co.kr/view/AKR20261124006600079",
-      "publishedAt": "2026-11-23T20:32:13.000Z",
-      "excerpt": "(카이로=연합뉴스) 김상훈 특파원 = 리비아 트리폴리에 거점을 둔 통합정부 외무부가 23일(현지시간) 리비아 동부 도시 벵가지 인근에서 발생한 ..."
-    },
-    {
       "id": "inc:https://www.inc.com/daniel-robbins/how-a-reality-tv-star-built-an-8-figure-brand-without-spending-a-dime-on-inventory/91438394",
       "sourceId": "inc",
       "sourceName": "Inc.",
@@ -784,18 +988,6 @@
       "excerpt": ""
     },
     {
-      "id": "entrepreneur:https://www.entrepreneur.com/building-a-business/an-seo-experts-3-tactics-for-getting-your-business-found-beyond-google",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "An SEO Expert’s 3 Tactics for Getting Your Business Found Beyond Google",
-      "url": "https://www.entrepreneur.com/building-a-business/an-seo-experts-3-tactics-for-getting-your-business-found-beyond-google",
-      "publishedAt": "2026-11-23T20:30:00.000Z",
-      "excerpt": "Discover three practical strategies to help your business get found beyond Google through AI search, LinkedIn and brand mentions."
-    },
-    {
       "id": "geeknews:https://news.hada.io/topic?id=37730&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "sourceId": "geeknews",
       "sourceName": "GeekNews",
@@ -806,42 +998,6 @@
       "url": "https://news.hada.io/topic?id=37730&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "publishedAt": "2026-11-23T20:29:12.000Z",
       "excerpt": "WebDecoy 팀에서 만든 MIT 라이선스 TypeScript SDK입니다. Express 예제에서 정상 요청과 테스트용 경로 요청을 비교해, 차단을 켜기 전에 로컬 규칙이 어디에 반응하는지 확인할 수 있습니다. v0.29.0을 Node.js v26.5.0에서 확인했습니다. 정상 경로는 두 모드에서 모두 통과했습니다. 테스트용 경로는 두 모드에서 같은 차단 판정을 받았지만, 모니터 모드에서는 핸들러가 실행되어 200을 반환했…"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124006500071",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"美, '中간첩 의혹' 젠슨황 불륜상대 회사 곧 수출통제 명단에\"",
-      "url": "https://www.yna.co.kr/view/AKR20261124006500071",
-      "publishedAt": "2026-11-23T20:25:52.000Z",
-      "excerpt": "(워싱턴=연합뉴스) 백나리 특파원 = 미국 상무부가 젠슨 황 엔비디아 최고경영자(CEO) 스캔들에 등장하는 싱가포르 기업 메가스피드를 곧 수출통..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124005500071",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"트럼프, 은밀히 젠슨 황 CEO 복귀 작전…밴스에 주말 특명\"",
-      "url": "https://www.yna.co.kr/view/AKR20261124005500071",
-      "publishedAt": "2026-11-23T20:20:14.000Z",
-      "excerpt": "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령이 지난 며칠간 젠슨 황의 엔비디아 최고경영자(CEO) 복귀를 위한 작전을 은밀하..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124005900071",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "美시카고 공항 착륙 일시중단…추수감사절 항공대란 불안 증폭",
-      "url": "https://www.yna.co.kr/view/AKR20261124005900071",
-      "publishedAt": "2026-11-23T20:14:53.000Z",
-      "excerpt": "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 주요 허브공항인 시카고 오헤어 국제공항에서 23일(현지시간) 항공기 착륙이 일시 중단되면서 추수감사절..."
     },
     {
       "id": "inc:https://www.inc.com/moses-jeanfrancois/elon-musk-wants-in-n-out-aces-data-center-jobs-1-trait-values-most/91441229",
@@ -868,18 +1024,6 @@
       "excerpt": "충북 진천에서 위치추적 전자장치(전자발찌)를 훼손하고 달아난 50대 성범죄자 정영모(56)씨가 도주 이틀 만에 검거됐다.23일 법무부에 따르면 법무부 전자감독 특별사법경찰과 경찰은 이날 오후 10시25분께 세종시에서 정씨를 검거했다. 그는 지난 21일 오전 8시42분께 충북 진천군 백곡면 양백리 인근에서 전자발찌를 끊고 도주한 바 있다. 정씨는 성범죄로 실형을 선고받고 복역한 뒤 출소해 보호관찰을 받고 있었다. 경기 평택시에 …"
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124005700075",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "젠슨 황 CEO 복귀에 실리콘밸리·월가 환호…\"GPU 예수 부활\"",
-      "url": "https://www.yna.co.kr/view/AKR20261124005700075",
-      "publishedAt": "2026-11-23T20:06:07.000Z",
-      "excerpt": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 젠슨 황 엔비디아 최고경영자(CEO)가 23일(현지시간) 깜짝 복귀하면서 실리콘밸리와 월스트리트의 주..."
-    },
-    {
       "id": "donga:https://www.donga.com/news/Inter/article/all/20261124/135077992/1",
       "sourceId": "donga",
       "sourceName": "동아일보",
@@ -901,7 +1045,7 @@
       "title": "Scientists Have Studied the Psychological Effects of GTA for Decades. These Are Their Surprising Conclusions",
       "url": "https://www.inc.com/jessica-stillman/scientists-have-studied-the-psychological-effects-of-gta-for-decades-these-are-their-surprising-conclusions/91441139",
       "publishedAt": "2026-11-23T20:03:45.000Z",
-      "excerpt": "In the 90s a panic about violent video games set off decades of research into the effects of games like GTA. Here’s what it discovered."
+      "excerpt": "In the 1990s, a panic about violent video games set off decades of research into the effects of games like GTA. Here’s what it discovered."
     },
     {
       "id": "axios:https://www.axios.com/2026/11/23/axios-show-moore-trump-nvidia",
@@ -976,18 +1120,6 @@
       "excerpt": "The just-add-booze cocktail mixer brand that’s popular with bartenders is giving at-home entertaining a makeover."
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261124005200087",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "잡스·올트먼처럼 돌아온 젠슨황…쫓겨난 창업자 또 귀환",
-      "url": "https://www.yna.co.kr/view/AKR20261124005200087",
-      "publishedAt": "2026-11-23T19:59:33.000Z",
-      "excerpt": "(멕시코시티=연합뉴스) 송광호 특파원 = 잇단 추문 속에 엔비디아를 떠났던 젠슨 황 최고경영자(CEO)가 11일 만인 23일(현지시간) 복귀하면..."
-    },
-    {
       "id": "axios:https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction",
       "sourceId": "axios",
       "sourceName": "Axios",
@@ -998,18 +1130,6 @@
       "url": "https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction",
       "publishedAt": "2026-11-23T19:54:48.000Z",
       "excerpt": "Nvidia's decision to reinstate Jensen Huang as CEO is drawing criticism and scrutiny — including about national security risks — from members of Congress in both parties. Why it matters: President Trump's push to reinstate Huang creates a h…"
-    },
-    {
-      "id": "semafor:https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist",
-      "sourceId": "semafor",
-      "sourceName": "Semafor",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "Commerce to add Megaspeed to trade blacklist",
-      "url": "https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist",
-      "publishedAt": "2026-11-23T19:47:52.000Z",
-      "excerpt": "US companies will not be able to sell chips to the Singapore-based firm at the heart of the Nvidia scandal without obtaining a license."
     },
     {
       "id": "axios:https://www.axios.com/2026/11/23/trump-vance-jensen-huang-nvidia-ceo-return",
@@ -1150,10 +1270,10 @@
       "domain": "tech",
       "lang": "en",
       "kind": "article",
-      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
       "url": "https://arm.jonpalmisc.com/",
       "publishedAt": "2026-11-23T19:17:55.000Z",
-      "excerpt": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 497 # Comments: 98"
+      "excerpt": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 631 # Comments: 123"
     },
     {
       "id": "fastco:https://www.fastcompany.com/91647652/fast-food-workers-ranked-reprimanded-ai",
@@ -1162,7 +1282,7 @@
       "domain": "ideas",
       "lang": "en",
       "kind": "article",
-      "title": "How fast food workers are being ranked and reprimanded with AI",
+      "title": "How fast-food workers are being ranked and reprimanded with AI",
       "url": "https://www.fastcompany.com/91647652/fast-food-workers-ranked-reprimanded-ai",
       "publishedAt": "2026-11-23T19:05:02.000Z",
       "excerpt": "Corrin Kearney had been delivering pizzas for a Domino’s in North Texas for a few months when their store asked them to install a new app on their phone and keep it open during their shift. Soon, Kearney learned the app was tracking and sco…"
@@ -1225,7 +1345,7 @@
       "title": "Apple removed my open-source app from EU App Stores after 9 years",
       "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
       "publishedAt": "2026-11-23T18:48:10.000Z",
-      "excerpt": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 296 # Comments: 56"
+      "excerpt": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 383 # Comments: 77"
     },
     {
       "id": "startupideas:https://episode.flightcast.com/01M84PDQ6WP6S18PNKAA2XWWM1.mp3",
@@ -1471,30 +1591,6 @@
       "excerpt": "Ladybird 가 macOS와 Linux용 알파 버전을 공개함. 다른 엔진을 포크하지 않고 처음부터 자체 개발한 새 브라우저 엔진을 사용함 10월 웹 표준 테스트(WPT) 통과 하위 테스트 수에서 Safari Technology Preview를 추월 함. JavaScript JIT 도입과 렌더링 작업의 스레드 분리 등 성능 개선도 진행됨 현재 보안을 보장하지 않으며 , 보안 연구자에게 공격을 시도하고 취약점 재현 방법을 제보…"
     },
     {
-      "id": "fastco:https://www.fastcompany.com/91634947/does-culture-change-peoples-personalities",
-      "sourceId": "fastco",
-      "sourceName": "Fast Company",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Does culture change people’s personalities?",
-      "url": "https://www.fastcompany.com/91634947/does-culture-change-peoples-personalities",
-      "publishedAt": "2026-11-23T17:30:00.000Z",
-      "excerpt": "Personality is often misunderstood. For instance, people tend to think they are way more unpredictable and complex than they are according to others, to the point of mistakenly assuming that their “personality changes from one situation to …"
-    },
-    {
-      "id": "fastco:https://www.fastcompany.com/91647566/the-free-market-isnt-so-free-just-look-at-jensen-huang",
-      "sourceId": "fastco",
-      "sourceName": "Fast Company",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "The free market isn’t so free. Just look at Jensen Huang",
-      "url": "https://www.fastcompany.com/91647566/the-free-market-isnt-so-free-just-look-at-jensen-huang",
-      "publishedAt": "2026-11-23T17:28:22.000Z",
-      "excerpt": "There’s plenty to scratch your head about in the speedy and surprising return of Jensen Huang as Nvidia CEO, just 11 days after he resigned following revelations of an affair with a woman who may have helped make him a target of Chinese int…"
-    },
-    {
       "id": "wowtale:https://wowtale.net/2026/11/24/268537/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%25a7%2590%25eb%25a1%259c%25ec%259a%25b0-2%25ec%2596%25b5-7700%25eb%25a7%258c-%25eb%258b%25ac%25eb%259f%25ac-%25ec%258b%259c%25eb%2593%259c-%25ed%2588%25ac%25ec%259e%2590%25ec%259c%25a0%25ec%25b9%2598%25ec%2597%2594%25eb%25b9%2584%25eb%2594%2594%25ec%2595%2584-%25eb%258c%2580%25ec%258b%25a0",
       "sourceId": "wowtale",
       "sourceName": "와우테일",
@@ -1516,7 +1612,7 @@
       "title": "Kagi Mail (public beta)",
       "url": "https://blog.kagi.com/kagi-mail-public-beta",
       "publishedAt": "2026-11-23T17:17:01.000Z",
-      "excerpt": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 231 # Comments: 179"
+      "excerpt": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 275 # Comments: 214"
     },
     {
       "id": "yna-pol:https://www.yna.co.kr/view/AKR20261124002551004",
@@ -1549,10 +1645,10 @@
       "domain": "tech",
       "lang": "en",
       "kind": "article",
-      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
       "url": "https://twitter.com/ylecun/status/2124550037912920090",
       "publishedAt": "2026-11-23T17:07:26.000Z",
-      "excerpt": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 518 # Comments: 264"
+      "excerpt": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 726 # Comments: 419"
     },
     {
       "id": "semafor:https://www.semafor.com/article/11/23/2026/mcconnell-may-block-former-rivals-year-end-ambassadorial-confirmation",
@@ -1660,7 +1756,7 @@
       "title": "Ladybird is now in alpha",
       "url": "https://ladybird.org/posts/alpha/",
       "publishedAt": "2026-11-23T16:13:12.000Z",
-      "excerpt": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 950 # Comments: 254"
+      "excerpt": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 1086 # Comments: 271"
     },
     {
       "id": "lenny:https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
@@ -1736,30 +1832,6 @@
       "excerpt": "How this 52-year-old dad's creation went from a free online series to a publishing behemoth."
     },
     {
-      "id": "khan:https://www.khan.co.kr/article/202611232352001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "트럼프 “젠슨 황 엔비디아 CEO 복귀는 올바른 결정…국가안보 위험 없어”",
-      "url": "https://www.khan.co.kr/article/202611232352001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-23T14:52:00.000Z",
-      "excerpt": "지난 6월7일 잠실야구장에서 열린 KBO리그 두산과 키움의 경기에서 젠슨 황 엔비디아 최고경영자가 관중들과 인사를 나누고 있다. 사진공동취재단젠슨 황 엔비디아 최고경영자(CEO)의 경영 복귀에 대해 도널드 트럼프 미국 대통령이 “올바르고 적절한 결정”이라며 환영했다.트럼프 대통령은 23일(현지시간) 자신의 사회관계망서비스(SNS) 트루스소셜을 통해 “젠슨 ···"
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611232350001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "트럼프, 젠슨 황 복귀에 “올바르고 적절한 결정···황은 위대한 애국자”",
-      "url": "https://www.khan.co.kr/article/202611232350001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-23T14:50:00.000Z",
-      "excerpt": "AP연합뉴스도널드 트럼프 미국 대통령이 젠슨 황 엔비디아 최고경영자(CEO)의 경영 복귀가 “올바르고 적절한 결정”이라며 환영했다.트럼프 대통령은 23일(현지시간) 황 CEO 복귀 소식이 알려진 직후 트루스소셜에 “미국 경제뿐 아니라 엔비디아의 성공과 번영을 보장하기 위해서도 미국은 엔비디아에서 젠슨 황의 리더십을 필요로 한다”며 “미국 정부는 젠슨 황의 ···"
-    },
-    {
       "id": "entrepreneur:https://www.entrepreneur.com/business-news/jensen-huang-is-back-as-nvidia-ceo-11-days-after-resigning",
       "sourceId": "entrepreneur",
       "sourceName": "Entrepreneur",
@@ -1772,16 +1844,16 @@
       "excerpt": "The board of directors returned him to the top job after hearing from senior U.S. officials that he posed no national security risk."
     },
     {
-      "id": "khan:https://www.khan.co.kr/article/202611232329001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
+      "id": "entrepreneur:https://www.entrepreneur.com/buying-a-franchise/red-robin-is-selling-116-restaurants-to-franchisees-heres-why-its-flying-against-the-casual-dining-flock",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
       "kind": "article",
-      "title": "[속보]‘불륜 스캔들’ 젠슨 황, 다시 엔비디아 CEO로···불명예 퇴진 11일만",
-      "url": "https://www.khan.co.kr/article/202611232329001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-23T14:29:00.000Z",
-      "excerpt": "엔비디아 이사회, 만장일치로 의결“국가 안보에 위험 없을 것 확신”젠슨 황 “가족의 사랑·지지에 감사”엔비디아 주가 개장 직후 30% 급등로이터연합뉴스중국 스파이 의혹 여성과의 불륜 인정 후 자리에서 물러난 젠슨 황 엔비디아 전 최고경영자(CEO)가 다시 경영에 복귀한다.엔비디아 이사회는 23일(현지시간) 황 전 CEO의 복귀를 만장일치로 의결했다고 밝혔다···"
+      "title": "Red Robin Is Selling 116 Restaurants to Franchisees — Here’s Why It’s Flying Against the Casual-Dining Flock",
+      "url": "https://www.entrepreneur.com/buying-a-franchise/red-robin-is-selling-116-restaurants-to-franchisees-heres-why-its-flying-against-the-casual-dining-flock",
+      "publishedAt": "2026-11-23T14:25:00.000Z",
+      "excerpt": "Nearly half its locations will soon be franchisee-owned, a rare move for a sit-down restaurant these days."
     },
     {
       "id": "techinasia:https://www.techinasia.com/news/nvidia-reinstates-ceo-huang-sees-national-security-risk",
@@ -1829,7 +1901,7 @@
       "title": "Nvidia Reinstates Jensen Huang as CEO",
       "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "publishedAt": "2026-11-23T14:00:18.000Z",
-      "excerpt": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 1556 # Comments: 2681"
+      "excerpt": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 1717 # Comments: 2824"
     },
     {
       "id": "venturesquare:https://www.venturesquare.net/1130896/",
@@ -2315,7 +2387,7 @@
       "title": "The next circle of security hell",
       "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
       "publishedAt": "2026-11-23T11:34:16.000Z",
-      "excerpt": "Article URL: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/ Comments URL: https://news.ycombinator.com/item?id=50610334 Points: 212 # Comments: 118"
+      "excerpt": "Article URL: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/ Comments URL: https://news.ycombinator.com/item?id=50610334 Points: 216 # Comments: 130"
     },
     {
       "id": "startupn:https://www.startupn.kr/news/articleView.html?idxno=60778",
@@ -2339,7 +2411,7 @@
       "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
       "url": "https://github.com/os6/nospeaker",
       "publishedAt": "2026-11-23T11:31:54.000Z",
-      "excerpt": "Article URL: https://github.com/os6/nospeaker Comments URL: https://news.ycombinator.com/item?id=50610318 Points: 234 # Comments: 141"
+      "excerpt": "Article URL: https://github.com/os6/nospeaker Comments URL: https://news.ycombinator.com/item?id=50610318 Points: 246 # Comments: 150"
     },
     {
       "id": "startupn:https://www.startupn.kr/news/articleView.html?idxno=60777",
@@ -2499,7 +2571,7 @@
       "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
       "url": "https://z.ai/blog/glm-5.4",
       "publishedAt": "2026-11-23T10:06:43.000Z",
-      "excerpt": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 941 # Comments: 317"
+      "excerpt": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 976 # Comments: 322"
     },
     {
       "id": "yna-pol:https://www.yna.co.kr/view/AKR20261123026251001",
@@ -2550,18 +2622,6 @@
       "excerpt": "Democratic National Committee chair Ken Martin is moving to restrict candidates' ties to super PACs and dark-money groups in the party's 2028 presidential primary, a shift that could shake up the race for the White House. Why it matters: Mo…"
     },
     {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261123157200003",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "LH, 공공주택 4천232가구 공모 연기…연내 선정 차질 우려",
-      "url": "https://www.yna.co.kr/view/AKR20261123157200003",
-      "publishedAt": "2026-11-23T09:59:20.000Z",
-      "excerpt": "(세종=연합뉴스) 오진송 기자 = 한국토지주택공사(LH)가 남양주왕숙2와 고양창릉 등 수도권 공공주택 4천232가구의 민간사업자 공모를 시작한 ..."
-    },
-    {
       "id": "yna-pol:https://www.yna.co.kr/view/AKR20261123162400053",
       "sourceId": "yna-pol",
       "sourceName": "연합뉴스 정치",
@@ -2572,30 +2632,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261123162400053",
       "publishedAt": "2026-11-23T09:54:28.000Z",
       "excerpt": "(대구=연합뉴스) 한무선 기자 = 무소속 한동훈 의원(부산 북구갑)은 23일 과거 자신에 대한 국민의힘 윤리위원회의 제명 징계가 조작·기획됐다는..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261123162100008",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "인스피언 \"라온시큐리티 주식 30억원어치 취득…지분율 100%\"",
-      "url": "https://www.yna.co.kr/view/AKR20261123162100008",
-      "publishedAt": "2026-11-23T09:40:31.000Z",
-      "excerpt": "(서울=연합뉴스) 코스닥 상장사 인스피언[465480]은 보안컨설팅, 소프트웨어개발 및 공급업 업체 라온시큐리티의 주식 1만7천580주를 30억..."
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261123142951001",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "'靑출신·친명' 내각에 전진배치…친정체제 강화하며 국정 고삐(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261123142951001",
-      "publishedAt": "2026-11-23T09:28:37.000Z",
-      "excerpt": "(서울=연합뉴스) 고동욱 황윤기 기자 = 이재명 대통령이 23일 발표한 개각 인사에서는 청와대와 더불어민주당에서 긴밀히 호흡을 맞춰 온 '측근'..."
     },
     {
       "id": "wowtale:https://wowtale.net/2026/11/23/268525/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-%25ec%25b9%2598%25ea%25b3%25bc-%25eb%25b3%25b4%25ec%25b2%25a0-cad-%25ec%2598%25ac%25ec%25bb%25a4%25eb%2584%25a5-%25ec%259b%25b9-%25ea%25b8%25b0%25eb%25b0%2598-%25eb%2594%2594%25ec%25a7%2580%25ed%2584%25b8-%25ec%25b9%2598%25ea%25b3%25bc-%25ed%2594%258c%25eb%259e%25ab%25ed%258f%25bc-%25ec%2584%25a0%25eb%25b3%25b4",
@@ -2682,18 +2718,6 @@
       "excerpt": "Vertiv said the lab is part of its engineering collaboration with Nvidia."
     },
     {
-      "id": "mk:https://www.mk.co.kr/news/economy/12216384",
-      "sourceId": "mk",
-      "sourceName": "매일경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "이형일 \"석유 최고가격제 내년에도 일정기간 유지\"",
-      "url": "https://www.mk.co.kr/news/economy/12216384",
-      "publishedAt": "2026-11-23T08:44:54.000Z",
-      "excerpt": "정부가 지난 3월부터 시행 중인 석유 최고가격제를 내년에도 유지하겠다는 방침을 밝혔다. 중동전쟁으로 국제 유가가 급등해 물가 상승 압력이 여전히 큰 상황에서 물류·난방 등 민생에 .."
-    },
-    {
       "id": "sedaily:https://www.sedaily.com/article/20117913",
       "sourceId": "sedaily",
       "sourceName": "서울경제 경제",
@@ -2716,30 +2740,6 @@
       "url": "https://byline.network/2026/11/23_291827734-2/",
       "publishedAt": "2026-11-23T08:41:23.000Z",
       "excerpt": "‘트라넥삼산 10%’, ‘나이아신아마이드 10%’. 주요 성분과 함량을 제품명에 내세운 스킨케어 브랜드 오가니시티가 인공지능(AI)을 활용해 자사몰을 키우고 있습니다. 성분을 잘 모르는 소비자도 피부 고민에 맞는 제품을 찾고, 조합과 사용법까지 안내받도록 한 겁니다. 네이버 스마트스토어에서 축적한 약 6만 건의 리뷰·상담 데이터를 AI에 활용하고, 고객의 요구를 신상품 개발로 연결하는 실험도 이어가고 있습니다."
-    },
-    {
-      "id": "mk:https://www.mk.co.kr/news/economy/12216363",
-      "sourceId": "mk",
-      "sourceName": "매일경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[포토] 금융위, 자금세탁방지의 날 포상",
-      "url": "https://www.mk.co.kr/news/economy/12216363",
-      "publishedAt": "2026-11-23T08:39:59.000Z",
-      "excerpt": ""
-    },
-    {
-      "id": "mk:https://www.mk.co.kr/news/economy/12216364",
-      "sourceId": "mk",
-      "sourceName": "매일경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[표] 외국환율고시표",
-      "url": "https://www.mk.co.kr/news/economy/12216364",
-      "publishedAt": "2026-11-23T08:39:59.000Z",
-      "excerpt": ""
     },
     {
       "id": "byline:https://byline.network/2026/11/1123-4/",
@@ -3019,7 +3019,7 @@
       "title": "XNU Linux: Full OS X GUI Userspace on Linux",
       "url": "https://github.com/AFK-surf/xnulinux",
       "publishedAt": "2026-11-23T03:49:24.000Z",
-      "excerpt": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 572 # Comments: 237"
+      "excerpt": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 582 # Comments: 240"
     },
     {
       "id": "producthunt:https://www.producthunt.com/products/tinker-2",
@@ -3473,7 +3473,7 @@
       "title": "Show HN: Zero C# – C# without a runtime or GC",
       "url": "https://onurgumus.github.io/zero-csharp/index.html",
       "publishedAt": "2026-11-21T15:39:09.000Z",
-      "excerpt": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 178 # Comments: 134"
+      "excerpt": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 178 # Comments: 136"
     },
     {
       "id": "sonkyung:https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261121.mp3",
@@ -4480,18 +4480,6 @@
       "audioUrl": "https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMY_20261118.mp3",
       "durationSec": 1403,
       "imageUrl": "https://img.imbc.com/adams/Program/20263/134194093443196502.jpg"
-    },
-    {
-      "id": "tc-startups:https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-      "sourceId": "tc-startups",
-      "sourceName": "TechCrunch Startups",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-      "publishedAt": "2026-11-17T18:04:16.000Z",
-      "excerpt": "The company uses agentic AI to make supply chains faster and more reliable."
     },
     {
       "id": "lenny:https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
@@ -5587,7 +5575,7 @@
       {
         "id": "semafor",
         "count": 10,
-        "parsed": 222
+        "parsed": 218
       },
       {
         "id": "geeknews",
@@ -5675,11 +5663,6 @@
         "parsed": 30
       },
       {
-        "id": "donga",
-        "count": 10,
-        "parsed": 50
-      },
-      {
         "id": "kmib",
         "count": 10,
         "parsed": 100
@@ -5715,6 +5698,13 @@
         "parsed": 101
       }
     ],
-    "failed": []
+    "failed": [
+      {
+        "id": "donga",
+        "name": "동아일보",
+        "url": "https://rss.donga.com/total.xml",
+        "error": "fetch failed"
+      }
+    ]
   }
 }
