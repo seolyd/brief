@@ -31,9 +31,9 @@ const label = Object.fromEntries((feed.domains ?? []).map((d) => [d.id, d.label]
 const since = Date.now() - 24 * 3_600_000
 const ageH = ((Date.now() - Date.parse(feed.generatedAt)) / 3_600_000).toFixed(1)
 
-// Biz는 해외 아이템·국내 창업을 먼저 두고 AI·한국 산업·커리어를 곁들입니다. All은 일간지 헤드라인이 먼저입니다.
-const order = kind === 'biz' ? ['ideas', 'startup', 'tech', 'korea', 'career', 'global'] : ['news', 'tech', 'career', 'global']
-const cap = kind === 'biz' ? { ideas: 60, startup: 35, tech: 20, korea: 15, career: 8, global: 8 } : { news: 60, tech: 15, career: 8, global: 10 }
+// Biz는 국내 동네 사업·해외 동네 사업을 먼저 두고 창업·한국 산업을 곁들입니다. All은 일간지 헤드라인이 먼저입니다.
+const order = kind === 'biz' ? ['local', 'ideas', 'startup', 'korea', 'career', 'tech'] : ['news', 'tech', 'career', 'global']
+const cap = kind === 'biz' ? { local: 60, ideas: 40, startup: 25, korea: 15, career: 12, tech: 10 } : { news: 60, tech: 15, career: 8, global: 10 }
 
 console.log(`종류: ${kind === 'biz' ? 'Biz.Brief (사업 아이템·돈 버는 방법)' : 'All.Brief (일반 뉴스)'} · 판: ${edition}`)
 console.log(`출력 파일: ${out}`)
@@ -50,7 +50,7 @@ console.log('\n── 지난 24시간 수집 기사 ──')
 // 한 분야 안에서 발행처를 번갈아 고릅니다. 기사가 많은 발행처 몇 곳이 칸을 다 차지하면
 // Product Hunt·Show HN처럼 아이템이 많은 소스가 잘려 나가기 때문입니다.
 // 주간 소스(Trends.vc 등)는 24시간 안에 글이 없을 때가 많아 Biz는 72시간까지 봅니다.
-const sinceFor = (id) => (kind === 'biz' && ['ideas', 'startup'].includes(id) ? Date.now() - 72 * 3_600_000 : since)
+const sinceFor = (id) => (kind === 'biz' && ['local', 'ideas', 'startup'].includes(id) ? Date.now() - 72 * 3_600_000 : since)
 function balanced(id, n) {
   const pool = feed.items.filter((i) => i.domain === id && i.kind === 'article' && Date.parse(i.publishedAt) >= sinceFor(id))
   const bySource = new Map()
