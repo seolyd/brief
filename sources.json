@@ -1,5 +1,5 @@
 {
-  "comment": "분야(domains)와 소스(sources)를 정합니다. domain이 어느 칸에 들어갈지를, lang이 한글/영문을 정합니다. 팟캐스트는 따로 표시하지 않습니다 — 오디오 첨부가 있는 항목은 수집기가 알아서 '듣기'로 보냅니다. verified가 true인 주소는 GitHub 러너에서 열리고 파싱되는 것을 확인한 것입니다. 새 주소는 넣기 전에 Actions의 'Check feeds'로 확인하세요. 한경(403), HBR(응답 없음), 머니투데이(응답 없음), 삼프로TV 팟캐스트(404)는 러너에서 막혀 뺐습니다. 죽은 소스는 data/feed.json의 report.failed에 남고 앱 하단에 표시됩니다. deep이 true인 소스는 저녁의 '심층 기사 하나' 후보가 됩니다. domain이 news인 소스는 Biz 칸에 들어가지 않고 All.News와 All.Brief에만 쓰입니다. ideas(해외 사업 아이템)·startup(국내 창업·스타트업)은 Biz.Brief·Biz.News의 중심입니다. 2026-11-23 투자 소스(Bloomberg Markets, CNBC, 어피티)를 빼고 사업 아이템 소스로 바꿨습니다. 러너에서 막혀 뺀 후보: Springwise·Trend Hunter·Indie Hackers·The Bridge(403), Exploding Topics·Starter Story 블로그·The Hustle·KrASIA(404), 요즘IT(405), 디지털인사이트(파싱 안 됨), CNBC Make It(최근 글 없음).",
+  "comment": "분야(domains)와 소스(sources)를 정합니다. domain이 어느 칸에 들어갈지를, lang이 한글/영문을 정합니다. 팟캐스트는 따로 표시하지 않습니다 — 오디오 첨부가 있는 항목은 수집기가 알아서 '듣기'로 보냅니다. verified가 true인 주소는 GitHub 러너에서 열리고 파싱되는 것을 확인한 것입니다. 새 주소는 넣기 전에 Actions의 'Check feeds'로 확인하세요. 한경(403), HBR(응답 없음), 머니투데이(응답 없음), 삼프로TV 팟캐스트(404)는 러너에서 막혀 뺐습니다. 죽은 소스는 data/feed.json의 report.failed에 남고 앱 하단에 표시됩니다. deep이 true인 소스는 저녁의 '심층 기사 하나' 후보가 됩니다. domain이 news인 소스는 Biz 칸에 들어가지 않고 All.News와 All.Brief에만 쓰입니다. ideas(해외 사업 아이템)·startup(국내 창업·스타트업)은 Biz.Brief·Biz.News의 중심입니다. 2026-11-23 투자 소스(Bloomberg Markets, CNBC, 어피티)를 빼고 사업 아이템 소스로 바꿨습니다. 러너에서 막혀 뺀 후보: Springwise·Trend Hunter·Indie Hackers·The Bridge(403), Exploding Topics·Starter Story 블로그·The Hustle·KrASIA(404), 요즘IT(405), 디지털인사이트(파싱 안 됨), CNBC Make It(최근 글 없음). 2026-11-24 작은 아이템 소스 후보 중 Reddit(429·404), BetaList·Failory·Trendwatching(404), Indiegogo(403), 기업마당·K-Startup·중기부 RSS(파싱 안 됨)는 러너에서 막혀 뺐고 Modern Retail과 Side Hustle School 팟캐스트를 넣었습니다.",
   "domains": [
     {
       "id": "ideas",
@@ -115,6 +115,14 @@
       "lang": "en",
       "name": "Fast Company",
       "url": "https://www.fastcompany.com/latest/rss",
+      "verified": true
+    },
+    {
+      "id": "modernretail",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Modern Retail (소규모 브랜드)",
+      "url": "https://www.modernretail.co/feed/",
       "verified": true
     },
     {
@@ -434,6 +442,14 @@
       "lang": "en",
       "name": "Starter Story",
       "url": "https://rss2.flightcast.com/lxa7w57rz7gkz3huwi6pr6et.xml",
+      "verified": true
+    },
+    {
+      "id": "sidehustle",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Side Hustle School",
+      "url": "https://feeds.acast.com/public/shows/69ea8529d2febdbec932a7b2",
       "verified": true
     }
   ],

@@ -33,7 +33,7 @@ const ageH = ((Date.now() - Date.parse(feed.generatedAt)) / 3_600_000).toFixed(1
 
 // Biz는 해외 아이템·국내 창업을 먼저 두고 AI·한국 산업·커리어를 곁들입니다. All은 일간지 헤드라인이 먼저입니다.
 const order = kind === 'biz' ? ['ideas', 'startup', 'tech', 'korea', 'career', 'global'] : ['news', 'tech', 'career', 'global']
-const cap = kind === 'biz' ? { ideas: 40, startup: 30, tech: 20, korea: 15, career: 8, global: 8 } : { news: 60, tech: 15, career: 8, global: 10 }
+const cap = kind === 'biz' ? { ideas: 60, startup: 35, tech: 20, korea: 15, career: 8, global: 8 } : { news: 60, tech: 15, career: 8, global: 10 }
 
 console.log(`종류: ${kind === 'biz' ? 'Biz.Brief (사업 아이템·돈 버는 방법)' : 'All.Brief (일반 뉴스)'} · 판: ${edition}`)
 console.log(`출력 파일: ${out}`)
@@ -47,9 +47,24 @@ if (kind === 'biz') {
   console.log(`\n독자: ${profile.reader ?? ''} — 이 글에서는 투자·시장 이야기를 하지 않습니다.`)
 }
 console.log('\n── 지난 24시간 수집 기사 ──')
+// 한 분야 안에서 발행처를 번갈아 고릅니다. 기사가 많은 발행처 몇 곳이 칸을 다 차지하면
+// Product Hunt·Show HN처럼 아이템이 많은 소스가 잘려 나가기 때문입니다.
+// 주간 소스(Trends.vc 등)는 24시간 안에 글이 없을 때가 많아 Biz는 72시간까지 봅니다.
+const sinceFor = (id) => (kind === 'biz' && ['ideas', 'startup'].includes(id) ? Date.now() - 72 * 3_600_000 : since)
+function balanced(id, n) {
+  const pool = feed.items.filter((i) => i.domain === id && i.kind === 'article' && Date.parse(i.publishedAt) >= sinceFor(id))
+  const bySource = new Map()
+  for (const i of pool) bySource.set(i.sourceId, [...(bySource.get(i.sourceId) ?? []), i])
+  const queues = [...bySource.values()]
+  const picked = []
+  while (picked.length < n && queues.some((q) => q.length)) {
+    for (const q of queues) if (q.length && picked.length < n) picked.push(q.shift())
+  }
+  return picked
+}
 for (const id of order) {
   const n = typeof cap === 'number' ? cap : cap[id]
-  const items = feed.items.filter((i) => i.domain === id && i.kind === 'article' && Date.parse(i.publishedAt) >= since).slice(0, n)
+  const items = balanced(id, n)
   if (!items.length) continue
   console.log(`\n[${label[id] ?? id}]`)
   for (const i of items) console.log(`- (${i.sourceName}) ${i.title}\n  ${i.url}${i.excerpt ? `\n  ${i.excerpt}` : ''}`)
