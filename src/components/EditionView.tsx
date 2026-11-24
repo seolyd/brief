@@ -1,5 +1,6 @@
-import { useState } from 'react'
-import { dailyHeadlines, pickHeadlines, type Edition, type FeedItem } from '../lib/data'
+import { useEffect, useMemo, useState } from 'react'
+import { dailyHeadlines, itemsSection, loadMustRead, pickHeadlines, type Edition, type FeedItem, type MustReadFile } from '../lib/data'
+import { renderMarkdown } from '../lib/markdown'
 import { useSession } from '../lib/session'
 import { read, useReadIds, write } from '../lib/store'
 import { useData } from '../lib/useData'
@@ -11,7 +12,7 @@ import { MustRead, Segments } from './MustRead'
 /**
  * 아침·저녁 메뉴는 같은 네 칸입니다.
  *   Biz.Brief — 사업 아이템·돈 버는 방법 긴 글 (해외 아이템, 따라하기, AI 사업, 국내 창업)
- *   Biz.News  — 해외 아이템·국내 창업·AI·한국 산업 분야별 헤드라인
+ *   Biz.News  — 오늘의 아이템 카드(Biz.Brief에서) + 해외 아이템·국내 창업·AI·한국 산업 분야별 헤드라인
  *   All.Brief — 일반 뉴스 긴 글
  *   All.News  — 주요 일간지 헤드라인
  */
@@ -55,7 +56,7 @@ export function EditionView({ edition, kicker, title }: { edition: Edition; kick
           <Segments value={tab} onChange={setTab} options={TABS} />
           {tab === 'biz-brief' && <MustRead key="biz" edition={edition} kind="biz" onFinished={stop} />}
           {tab === 'all-brief' && <MustRead key="all" edition={edition} kind="all" onFinished={stop} />}
-          {tab === 'biz-news' && <BizNews />}
+          {tab === 'biz-news' && <BizNews edition={edition} />}
           {tab === 'all-news' && <AllNews />}
         </>
       )}
@@ -89,8 +90,33 @@ function Progress({ ids, readIds }: { ids: string[]; readIds: Set<string> }) {
   )
 }
 
-/** 분야별로 정해진 칸 수만큼. 발행처가 겹치지 않게 고릅니다. */
-function BizNews() {
+/** 오늘 Biz.Brief의 '오늘의 아이템' 칸. 짧은 아이템 카드만 모아 훑어봅니다. */
+function ItemCards({ edition }: { edition: Edition }) {
+  const [doc, setDoc] = useState<MustReadFile | null>(null)
+  useEffect(() => {
+    let alive = true
+    void loadMustRead(edition, 'biz').then((m) => alive && setDoc(m))
+    return () => {
+      alive = false
+    }
+  }, [edition])
+  const html = useMemo(() => {
+    const body = doc ? itemsSection(doc.markdown) : null
+    return body ? renderMarkdown(body) : null
+  }, [doc])
+  if (!html) return null
+  return (
+    <section className="block items">
+      <h2>
+        오늘의 아이템 <small>작고 기발한 돈벌이 · Biz.Brief에서</small>
+      </h2>
+      <div className="prose item-cards" dangerouslySetInnerHTML={{ __html: html }} />
+    </section>
+  )
+}
+
+/** 맨 위에 오늘의 아이템 카드, 그 아래 분야별 헤드라인. 헤드라인은 발행처가 겹치지 않게 고릅니다. */
+function BizNews({ edition }: { edition: Edition }) {
   const { loading, feed } = useData()
   const { readIds, row } = useRow()
   if (loading) return <Empty>불러오는 중</Empty>
@@ -99,6 +125,7 @@ function BizNews() {
   const ids = groups.flatMap((g) => g.items.map((i) => i.id))
   return (
     <>
+      <ItemCards edition={edition} />
       {groups.map(({ domain, items }) =>
         items.length ? (
           <section key={domain.id} className="block">

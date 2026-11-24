@@ -147,6 +147,16 @@ export async function loadMustRead(edition: Edition, kind: BriefKind = 'biz'): P
   return ageHours < 26 ? m : null
 }
 
+/**
+ * Biz.Brief 마크다운에서 '## 오늘의 아이템' 칸만 떼어 냅니다. Biz.News 맨 위에 카드로 보여줍니다.
+ * 그 칸이 없는 글(예전 형식)이면 null.
+ */
+export function itemsSection(markdown: string): string | null {
+  const m = markdown.match(/^## 오늘의 아이템[ \t]*\n([\s\S]*?)(?=^## |^---|(?![\s\S]))/m)
+  const body = m?.[1]?.trim()
+  return body && /^- /m.test(body) ? body : null
+}
+
 /** 한국어 기준 분당 500자 남짓. 표와 목록이 섞여 있어 대략입니다. */
 export function readingMinutes(text: string): number {
   return Math.max(1, Math.round(text.replace(/\s+/g, '').length / 500))

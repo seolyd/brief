@@ -25,6 +25,15 @@ if ((markdown.match(/^## /gm) ?? []).length < 4) problems.push('섹션(## …)�
 if (!markdown.includes('오늘의 한 문장')) problems.push("'오늘의 한 문장'이 없습니다.")
 const links = [...markdown.matchAll(/\[[^\]]+\]\(([^)\s]+)\)/g)].map((m) => m[1])
 if (links.length < 5) problems.push(`출처 링크가 ${links.length}개뿐입니다. 항목마다 출처를 붙이세요.`)
+if (kind === 'biz') {
+  // '오늘의 아이템' 칸은 앱 Biz.News 맨 위 카드로 그대로 쓰입니다.
+  const m = markdown.match(/^## 오늘의 아이템[ \t]*\n([\s\S]*?)(?=^## |^---|(?![\s\S]))/m)
+  const cards = m ? m[1].split('\n').filter((l) => /^- \*\*/.test(l)) : []
+  if (!m) problems.push("'## 오늘의 아이템' 칸이 없습니다 (Biz.News 카드로 쓰입니다).")
+  else if (cards.length < 8) problems.push(`'오늘의 아이템'이 ${cards.length}개뿐입니다. 10~14개를 '- **[분류] 이름** …' 형식으로 쓰세요.`)
+  const noLink = cards.filter((l) => !/\]\(https?:\/\//.test(l))
+  if (noLink.length) problems.push(`출처 링크가 없는 아이템 카드가 ${noLink.length}개 있습니다.`)
+}
 const badLinks = links.filter((u) => !/^https?:\/\//i.test(u))
 if (badLinks.length) problems.push(`http(s)가 아닌 링크: ${badLinks.join(', ')}`)
 const tags = markdown.match(/<\/?[a-z][a-z0-9]*[^>]*>/gi)

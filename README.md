@@ -13,7 +13,7 @@
 
 | 탭 | 하는 일 |
 | --- | --- |
-| 아침 · 저녁 | 같은 네 칸. **Biz.Brief** (사업 아이템·돈 버는 방법 긴 글) · **Biz.News** (해외 아이템·국내 창업·AI 헤드라인) · **All.Brief** (일반 뉴스 긴 글) · **All.News** (주요 일간지 헤드라인) |
+| 아침 · 저녁 | 같은 네 칸. **Biz.Brief** (사업 아이템·돈 버는 방법 긴 글) · **Biz.News** (맨 위 '오늘의 아이템' 카드 10~14개 + 해외 아이템·국내 창업·AI 헤드라인) · **All.Brief** (일반 뉴스 긴 글) · **All.News** (주요 일간지 헤드라인) |
 | 듣기 | 팟캐스트, 쇼마다 최신 회차 하나. 앱 안에서 재생, 들은 위치 기억 |
 | QT | 이달의 QT 항목을 골라 매일 아침 7시에 열리는 말씀·해석·묵상 질문을 읽고, 마음에 남은 말씀·나의 묵상·나의 다짐·기도를 기록 |
 
@@ -21,7 +21,7 @@
 
 | 분야 | 소스 | 얻는 것 |
 | --- | --- | --- |
-| 해외 사업 아이템 (Biz) | Product Hunt, Show HN, TechCrunch Startups, Rest of World, Tech in Asia, Sifted, Entrepreneur, Inc., Fast Company, Trends.vc, Not Boring | 해외에서 뜨는 사업·서비스, 다른 나라 모델, 창업 사례 |
+| 해외 사업 아이템 (Biz) | Product Hunt, Show HN, TechCrunch Startups, Rest of World, Tech in Asia, Sifted, Entrepreneur, Inc., Fast Company, Modern Retail, Trends.vc, Not Boring | 해외에서 뜨는 사업·서비스, 다른 나라 모델, 창업 사례 |
 | 국내 창업·스타트업 (Biz) | 플래텀, 벤처스퀘어, 비석세스, 바이라인네트워크, 아웃스탠딩, 스타트업엔, 와우테일 | 국내 새 사업 모델, 창업 사례, 지원사업 |
 | AI·테크 | GeekNews, Hacker News, TLDR, Ben's Bites, Stratechery, Platformer | AI로 만드는 사업, 신기술 |
 | 한국 경제·산업 | 매경, 서울경제, 연합뉴스 | 국내 산업, 정책, 기업 |
@@ -29,7 +29,7 @@
 | 커리어·비즈니스 | Lenny's Newsletter, The Pragmatic Engineer | 조직관리, 리더십, 경영 |
 | 주요 일간지 (All) | SBS 주요뉴스, 경향, 한겨레, 동아, 국민일보, 연합뉴스 정치·국제 | 정치, 사회, 국제, 생활 |
 
-팟캐스트: My First Million, The Startup Ideas Podcast, How I Built This, Starter Story, Planet Money, The Daily, Hard Fork, 손에 잡히는 경제.
+팟캐스트: My First Million, The Startup Ideas Podcast, Side Hustle School, How I Built This, Starter Story, Planet Money, The Daily, Hard Fork, 손에 잡히는 경제.
 
 RSS가 러너에서 막혀 수집하지 못하는 Springwise·Trend Hunter·Exploding Topics·Indie Hackers·Starter Story는
 `sources.json`의 `links`에 두고, Biz.Brief를 쓸 때 웹 검색으로 찾아봅니다.
