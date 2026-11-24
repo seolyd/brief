@@ -1,6 +1,6 @@
 /** GitHub Action이 매일 아침 쓰는 두 정적 파일의 모양과 읽기. */
 
-export type DomainId = 'ideas' | 'startup' | 'global' | 'tech' | 'korea' | 'career' | 'news'
+export type DomainId = 'local' | 'ideas' | 'startup' | 'global' | 'tech' | 'korea' | 'career' | 'news'
 
 export interface Domain {
   id: DomainId

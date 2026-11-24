@@ -13,7 +13,7 @@
 
 | 탭 | 하는 일 |
 | --- | --- |
-| 아침 · 저녁 | 같은 네 칸. **Biz.Brief** (사업 아이템·돈 버는 방법 긴 글) · **Biz.News** (맨 위 '오늘의 아이템' 카드 10~14개 + 해외 아이템·국내 창업·AI 헤드라인) · **All.Brief** (일반 뉴스 긴 글) · **All.News** (주요 일간지 헤드라인) |
+| 아침 · 저녁 | 같은 네 칸. **Biz.Brief** (동네 밀착형 작은 사업 긴 글 — 수거·배달·방문 서비스, 긱·부업, 소상공인 성공 사례) · **Biz.News** (맨 위 '오늘의 아이템' 카드 10~14개 + 동네 사업·해외 부업·창업 헤드라인) · **All.Brief** (일반 뉴스 긴 글) · **All.News** (주요 일간지 헤드라인) |
 | 듣기 | 팟캐스트, 쇼마다 최신 회차 하나. 앱 안에서 재생, 들은 위치 기억 |
 | QT | 이달의 QT 항목을 골라 매일 아침 7시에 열리는 말씀·해석·묵상 질문을 읽고, 마음에 남은 말씀·나의 묵상·나의 다짐·기도를 기록 |
 
@@ -21,9 +21,10 @@
 
 | 분야 | 소스 | 얻는 것 |
 | --- | --- | --- |
-| 해외 사업 아이템 (Biz) | Product Hunt, Show HN, TechCrunch Startups, Rest of World, Tech in Asia, Sifted, Entrepreneur, Inc., Fast Company, Modern Retail, Trends.vc, Not Boring | 해외에서 뜨는 사업·서비스, 다른 나라 모델, 창업 사례 |
-| 국내 창업·스타트업 (Biz) | 플래텀, 벤처스퀘어, 비석세스, 바이라인네트워크, 아웃스탠딩, 스타트업엔, 와우테일 | 국내 새 사업 모델, 창업 사례, 지원사업 |
-| AI·테크 | GeekNews, Hacker News, TLDR, Ben's Bites, Stratechery, Platformer | AI로 만드는 사업, 신기술 |
+| 국내 동네 사업·소상공인 (Biz) | 연합뉴스 전국, 중소기업뉴스, 스타트업엔 | 동네 가게, 수거·배달·방문 서비스, 소상공인 정책 |
+| 해외 동네 사업·부업 (Biz) | Entrepreneur, Inc., Nation's Restaurant News, The Rideshare Guy, Franchise Times, Side Hustle School·Side Hustle Show(팟캐스트) | 해외 소상공인·긱 이코노미·부업 사례 |
+| 국내 창업·스타트업 (Biz) | 플래텀, 벤처스퀘어, 비석세스, 바이라인네트워크, 아웃스탠딩, 와우테일 | 생활 서비스 창업, 지원사업 |
+| AI·테크 | GeekNews, Hacker News, TLDR, Ben's Bites, Product Hunt, Show HN, TechCrunch Startups, Sifted, Tech in Asia, Stratechery, Platformer | AI로 만드는 사업, 신기술 |
 | 한국 경제·산업 | 매경, 서울경제, 연합뉴스 | 국내 산업, 정책, 기업 |
 | 글로벌 경제 | Bloomberg Economics, The Economist, Axios, Semafor | 세계 경제, 정책, 지정학 |
 | 커리어·비즈니스 | Lenny's Newsletter, The Pragmatic Engineer | 조직관리, 리더십, 경영 |

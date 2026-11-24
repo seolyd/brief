@@ -1,40 +1,46 @@
 {
-  "comment": "분야(domains)와 소스(sources)를 정합니다. domain이 어느 칸에 들어갈지를, lang이 한글/영문을 정합니다. 팟캐스트는 따로 표시하지 않습니다 — 오디오 첨부가 있는 항목은 수집기가 알아서 '듣기'로 보냅니다. verified가 true인 주소는 GitHub 러너에서 열리고 파싱되는 것을 확인한 것입니다. 새 주소는 넣기 전에 Actions의 'Check feeds'로 확인하세요. 한경(403), HBR(응답 없음), 머니투데이(응답 없음), 삼프로TV 팟캐스트(404)는 러너에서 막혀 뺐습니다. 죽은 소스는 data/feed.json의 report.failed에 남고 앱 하단에 표시됩니다. deep이 true인 소스는 저녁의 '심층 기사 하나' 후보가 됩니다. domain이 news인 소스는 Biz 칸에 들어가지 않고 All.News와 All.Brief에만 쓰입니다. ideas(해외 사업 아이템)·startup(국내 창업·스타트업)은 Biz.Brief·Biz.News의 중심입니다. 2026-11-23 투자 소스(Bloomberg Markets, CNBC, 어피티)를 빼고 사업 아이템 소스로 바꿨습니다. 러너에서 막혀 뺀 후보: Springwise·Trend Hunter·Indie Hackers·The Bridge(403), Exploding Topics·Starter Story 블로그·The Hustle·KrASIA(404), 요즘IT(405), 디지털인사이트(파싱 안 됨), CNBC Make It(최근 글 없음). 2026-11-24 작은 아이템 소스 후보 중 Reddit(429·404), BetaList·Failory·Trendwatching(404), Indiegogo(403), 기업마당·K-Startup·중기부 RSS(파싱 안 됨)는 러너에서 막혀 뺐고 Modern Retail과 Side Hustle School 팟캐스트를 넣었습니다.",
+  "comment": "분야(domains)와 소스(sources)를 정합니다. domain이 어느 칸에 들어갈지를, lang이 한글/영문을 정합니다. 팟캐스트는 따로 표시하지 않습니다 — 오디오 첨부가 있는 항목은 수집기가 알아서 '듣기'로 보냅니다. verified가 true인 주소는 GitHub 러너에서 열리고 파싱되는 것을 확인한 것입니다. 새 주소는 넣기 전에 Actions의 'Check feeds'로 확인하세요. 한경(403), HBR(응답 없음), 머니투데이(응답 없음), 삼프로TV 팟캐스트(404)는 러너에서 막혀 뺐습니다. 죽은 소스는 data/feed.json의 report.failed에 남고 앱 하단에 표시됩니다. deep이 true인 소스는 저녁의 '심층 기사 하나' 후보가 됩니다. domain이 news인 소스는 Biz 칸에 들어가지 않고 All.News와 All.Brief에만 쓰입니다. ideas(해외 사업 아이템)·startup(국내 창업·스타트업)은 Biz.Brief·Biz.News의 중심입니다. 2026-11-23 투자 소스(Bloomberg Markets, CNBC, 어피티)를 빼고 사업 아이템 소스로 바꿨습니다. 러너에서 막혀 뺀 후보: Springwise·Trend Hunter·Indie Hackers·The Bridge(403), Exploding Topics·Starter Story 블로그·The Hustle·KrASIA(404), 요즘IT(405), 디지털인사이트(파싱 안 됨), CNBC Make It(최근 글 없음). 2026-11-24 작은 아이템 소스 후보 중 Reddit(429·404), BetaList·Failory·Trendwatching(404), Indiegogo(403), 기업마당·K-Startup·중기부 RSS(파싱 안 됨)는 러너에서 막혀 뺐고 Modern Retail과 Side Hustle School 팟캐스트를 넣었습니다. 2026-11-25 Biz를 동네 밀착형 소상공인 중심으로 바꿨습니다(local 분야 신설). 브랜드·앱 신제품 소스(Product Hunt, TechCrunch 등)는 tech·career로 옮겼습니다. 막힌 후보: 창업경영신문·이데일리(파싱 안 됨), 소상공인신문·Cleaner & Launderer(접속 실패), Small Business Trends·Bizjournals(403), 이투데이·동아 경제·한국일보 경제·1851 Franchise(404). 국내 자영업 팟캐스트(창톡·창업트렌드·왕장사)는 피드가 404라 넣지 못했습니다.",
   "domains": [
     {
-      "id": "ideas",
-      "label": "해외 사업 아이템",
-      "focus": "해외에서 뜨는 사업·서비스, 신제품, 창업 사례",
+      "id": "local",
+      "label": "국내 동네 사업·소상공인",
+      "focus": "동네 가게, 수거·배달·방문 서비스, 소상공인 정책",
       "morning": 4
+    },
+    {
+      "id": "ideas",
+      "label": "해외 동네 사업·부업",
+      "focus": "해외 소상공인·긱 이코노미·부업 사례",
+      "morning": 3
     },
     {
       "id": "startup",
       "label": "국내 창업·스타트업",
-      "focus": "국내 창업 사례, 새 사업 모델, 지원사업",
-      "morning": 3
+      "focus": "국내 생활 서비스 창업, 지원사업",
+      "morning": 2
     },
     {
       "id": "tech",
       "label": "AI·테크",
-      "focus": "AI로 만드는 사업, 신기술",
-      "morning": 2
+      "focus": "사장님이 쓰는 도구, 신기술",
+      "morning": 1
     },
     {
       "id": "korea",
       "label": "한국 경제·산업",
       "focus": "국내 산업, 정책, 기업",
-      "morning": 1
-    },
-    {
-      "id": "global",
-      "label": "글로벌 경제",
-      "focus": "세계 경제, 정책, 지정학",
       "morning": 0
     },
     {
       "id": "career",
       "label": "커리어·비즈니스",
-      "focus": "조직관리, 리더십, 경영",
+      "focus": "조직관리, 리더십, 브랜드·스타트업 이야기",
+      "morning": 0
+    },
+    {
+      "id": "global",
+      "label": "글로벌 경제",
+      "focus": "세계 경제, 정책, 지정학",
       "morning": 0
     },
     {
@@ -46,8 +52,48 @@
   ],
   "sources": [
     {
-      "id": "producthunt",
+      "id": "yna-local",
+      "domain": "local",
+      "lang": "ko",
+      "name": "연합뉴스 전국",
+      "url": "https://www.yna.co.kr/rss/local.xml",
+      "verified": true
+    },
+    {
+      "id": "kbiznews",
+      "domain": "local",
+      "lang": "ko",
+      "name": "중소기업뉴스",
+      "url": "https://www.kbiznews.co.kr/rss/allArticle.xml",
+      "verified": true
+    },
+    {
+      "id": "nrn",
       "domain": "ideas",
+      "lang": "en",
+      "name": "Nation's Restaurant News",
+      "url": "https://www.nrn.com/rss.xml",
+      "verified": true
+    },
+    {
+      "id": "rideshareguy",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "The Rideshare Guy (긱 이코노미)",
+      "url": "https://therideshareguy.com/feed/",
+      "verified": true
+    },
+    {
+      "id": "franchisetimes",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "Franchise Times",
+      "url": "https://www.franchisetimes.com/search/?f=rss",
+      "verified": true
+    },
+    {
+      "id": "producthunt",
+      "domain": "tech",
       "lang": "en",
       "name": "Product Hunt",
       "url": "https://www.producthunt.com/feed",
@@ -55,7 +101,7 @@
     },
     {
       "id": "hn-show",
-      "domain": "ideas",
+      "domain": "tech",
       "lang": "en",
       "name": "Show HN (100점 이상)",
       "url": "https://hnrss.org/show?points=100",
@@ -63,7 +109,7 @@
     },
     {
       "id": "tc-startups",
-      "domain": "ideas",
+      "domain": "tech",
       "lang": "en",
       "name": "TechCrunch Startups",
       "url": "https://techcrunch.com/category/startups/feed/",
@@ -71,7 +117,7 @@
     },
     {
       "id": "restofworld",
-      "domain": "ideas",
+      "domain": "career",
       "lang": "en",
       "name": "Rest of World",
       "url": "https://restofworld.org/feed/latest",
@@ -79,7 +125,7 @@
     },
     {
       "id": "techinasia",
-      "domain": "ideas",
+      "domain": "tech",
       "lang": "en",
       "name": "Tech in Asia",
       "url": "https://www.techinasia.com/feed",
@@ -87,7 +133,7 @@
     },
     {
       "id": "sifted",
-      "domain": "ideas",
+      "domain": "tech",
       "lang": "en",
       "name": "Sifted (유럽 스타트업)",
       "url": "https://sifted.eu/feed",
@@ -111,7 +157,7 @@
     },
     {
       "id": "fastco",
-      "domain": "ideas",
+      "domain": "career",
       "lang": "en",
       "name": "Fast Company",
       "url": "https://www.fastcompany.com/latest/rss",
@@ -119,7 +165,7 @@
     },
     {
       "id": "modernretail",
-      "domain": "ideas",
+      "domain": "career",
       "lang": "en",
       "name": "Modern Retail (소규모 브랜드)",
       "url": "https://www.modernretail.co/feed/",
@@ -127,7 +173,7 @@
     },
     {
       "id": "trendsvc",
-      "domain": "ideas",
+      "domain": "career",
       "lang": "en",
       "name": "Trends.vc",
       "url": "https://trends.vc/feed/",
@@ -136,7 +182,7 @@
     },
     {
       "id": "notboring",
-      "domain": "ideas",
+      "domain": "career",
       "lang": "en",
       "name": "Not Boring",
       "url": "https://www.notboring.co/feed",
@@ -194,7 +240,7 @@
     },
     {
       "id": "startupn",
-      "domain": "startup",
+      "domain": "local",
       "lang": "ko",
       "name": "스타트업엔",
       "url": "https://www.startupn.kr/rss/allArticle.xml",
@@ -414,7 +460,7 @@
     },
     {
       "id": "mfm",
-      "domain": "ideas",
+      "domain": "career",
       "lang": "en",
       "name": "My First Million",
       "url": "https://feeds.megaphone.fm/HS2300184645",
@@ -422,7 +468,7 @@
     },
     {
       "id": "startupideas",
-      "domain": "ideas",
+      "domain": "career",
       "lang": "en",
       "name": "The Startup Ideas Podcast",
       "url": "https://rss2.flightcast.com/ordbkg8yojpehffas7vr7qpc.xml",
@@ -430,7 +476,7 @@
     },
     {
       "id": "hibt",
-      "domain": "ideas",
+      "domain": "career",
       "lang": "en",
       "name": "How I Built This",
       "url": "https://feeds.megaphone.fm/VMP2035168248",
@@ -450,6 +496,14 @@
       "lang": "en",
       "name": "Side Hustle School",
       "url": "https://feeds.acast.com/public/shows/69ea8529d2febdbec932a7b2",
+      "verified": true
+    },
+    {
+      "id": "sidehustleshow",
+      "domain": "ideas",
+      "lang": "en",
+      "name": "The Side Hustle Show",
+      "url": "https://feeds.megaphone.fm/YAP9195874886",
       "verified": true
     }
   ],
@@ -497,14 +551,14 @@
   ],
   "profile": {
     "comment": "Biz.Brief를 쓰는 기준입니다. 관심사를 바꾸면 다음 판부터 글의 초점이 바뀝니다.",
-    "reader": "한국에 사는 테크 업계 PM. 사업 아이템과 돈 버는 방법에 관심이 많다 — 해외에서 뜬 사업, 다른 나라 모델의 한국 적용, AI로 만드는 사업, 부업·1인 사업. 테크 리크루팅과 HR 테크에도 관심이 있다.",
+    "reader": "한국에 사는 테크 업계 PM. 동네에서 돈을 버는 작은 사업에 관심이 많다 — 세탁·칼 갈이 같은 픽업·수거·배달 서비스, 방문·출장 서비스, 긱 이코노미·부업, 소상공인이 지역에서 성공한 사례. 브랜드 신제품이나 대기업 확장 이야기에는 관심이 적다.",
     "interests": [
-      "해외에서 뜬 사업 아이템과 기발한 서비스",
-      "다른 나라 사업 모델의 한국 적용(타임머신 전략)",
-      "AI로 만드는 사업·1인 사업·자동화 수익",
-      "국내 창업·스타트업의 새 사업 모델",
-      "부업·사이드 프로젝트와 작은 수익 모델",
-      "테크 채용·HR 테크 사업"
+      "픽업·수거·배달형 생활 서비스(세탁, 칼 갈이, 수선 등)",
+      "방문·출장 서비스",
+      "긱 이코노미·동네 부업",
+      "동네 가게·소상공인의 성공 사례",
+      "해외 동네 사업의 한국 적용",
+      "소상공인 지원사업·인허가"
     ]
   }
 }

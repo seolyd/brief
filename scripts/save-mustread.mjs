@@ -31,6 +31,10 @@ if (kind === 'biz') {
   const cards = m ? m[1].split('\n').filter((l) => /^- \*\*/.test(l)) : []
   if (!m) problems.push("'## 오늘의 아이템' 칸이 없습니다 (Biz.News 카드로 쓰입니다).")
   else if (cards.length < 8) problems.push(`'오늘의 아이템'이 ${cards.length}개뿐입니다. 10~14개를 '- **[분류] 이름** …' 형식으로 쓰세요.`)
+  const cats = new Set(cards.map((l) => (l.match(/^- \*\*\[([^\]]+)\]/) ?? [])[1]).filter(Boolean))
+  const offline = cards.filter((l) => /^- \*\*\[(픽업·수거·배달|방문·출장)\]/.test(l)).length
+  if (m && cats.size < 4) problems.push(`'오늘의 아이템' 분류가 ${cats.size}가지뿐입니다. 4가지 이상 섞으세요.`)
+  if (m && offline < 4) problems.push(`'픽업·수거·배달'·'방문·출장' 아이템이 ${offline}개뿐입니다. 4개 이상 넣으세요.`)
   const noLink = cards.filter((l) => !/\]\(https?:\/\//.test(l))
   if (noLink.length) problems.push(`출처 링크가 없는 아이템 카드가 ${noLink.length}개 있습니다.`)
 }
