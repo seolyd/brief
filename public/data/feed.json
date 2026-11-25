@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:17:13.811Z",
+  "generatedAt": "2026-11-25T05:04:55.006Z",
   "domains": [
     {
       "id": "local",
@@ -94,54 +94,6 @@
   ],
   "items": [
     {
-      "id": "kmib:https://www.kmib.co.kr/article/20261124502282",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘헌재 180일’ 보다 ‘조희대 정년’이 먼저?",
-      "url": "https://www.kmib.co.kr/article/20261124502282",
-      "publishedAt": "2026-11-25T14:06:19.000Z",
-      "excerpt": "조희대 대법원장이 23일 서울 서초구 대법원으로 출근하고 있다. 연합뉴스 더불어민주당이 조희대 대법원장 탄핵소추안을 의결해 권한 행사 정지가 현실화되면 조 대법원장 측이 이에 대한 효력정지 가처분을 헌법재판소에 신청할 수 있다는 관측이 제기된다. 여권이 제시한 사유만으로는 탄핵 인용 가능성이 현저히 낮다는 분석이 나오는 상황에서 가처분 신청을 통해 심리 장기화에 따른 피해를 부각하고 헌재의 신속한 본안 판단을 촉구할 수 있다는…"
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261124502278",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[단독] ‘AI 해커’ 습격에 뚫린 은행… 당국은 실태조차 파악 못해",
-      "url": "https://www.kmib.co.kr/article/20261124502278",
-      "publishedAt": "2026-11-25T14:05:10.000Z",
-      "excerpt": "게티이미지뱅크 지난 9월 말 국내 한 시중은행에 대한 해킹은 ‘무작위성’과 ‘집요함’이라는 특징을 극명하게 드러냈다. 이 은행이 국회에 제출한 침해사고 보고서에 따르면 해커는 홈페이지에 고객번호를 무한 대입해 검증이 허술한 서비스를 찾아낸 뒤 단계별 입력값으로 데이터를 조회해 고객 이름·연락처 등 민감한 개인정보를 빼냈다. 공격은 하루 넘게 이어졌으나 은행 측은 다음 날에야 피해 사실을 인지했다. 접속 기록과 인터넷주소(IP)…"
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261124502256",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[단독] 은행 문 닫히자 ‘부모지갑’이 한강벨트 살렸다",
-      "url": "https://www.kmib.co.kr/article/20261124502256",
-      "publishedAt": "2026-11-25T13:41:08.000Z",
-      "excerpt": "24일 서울 송파구 서울스카이에서 바라본 서울 강북지역 아파트 등 모습. 뉴시스 올해 서울 용산구 주택 매수자가 빌린 돈의 3분의 1은 가족·지인·매도인 등에게서 나온 것으로 확인됐다. 강남구와 서초구에서도 이 비중이 4분의 1 안팎이었다. 이처럼 주택 매수자들이 금융기관 대출이나 임대보증금이 아닌 ‘그 밖의 차입금’으로 자금을 조달한 사례는 관련 통계 작성 이래 최고치를 기록했다. 정부의 대출 규제 강화 이후, 매도인이 매수…"
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261124502254",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[단독] ‘생존 매수’ 대전으로 몰렸다⋯ 2030 매수인, 서울 다음 많이 증가",
-      "url": "https://www.kmib.co.kr/article/20261124502254",
-      "publishedAt": "2026-11-25T13:41:02.000Z",
-      "excerpt": "AI를 활용해 ‘생존매수’ 현상을 시각적으로 표현한 이미지. 국민일보DB 대전에서 주택을 매수한 사람이 1년 새 전국에서 가장 높은 증가율을 기록한 것으로 파악됐다. 특히 20·30대 매수인 증가율이 다른 연령대보다 높았다. 인접한 세종의 전세가격 상승에 따른 주거 불안이 대전의 주택 매수 수요에 영향을 미쳤을 가능성이 있다는 해석이 나온다. 국민일보가 24일 법원 등기정보광장 소유권이전등기 신청 매수인 데이터를 분석한 결과 …"
-    },
-    {
       "id": "kmib:https://www.kmib.co.kr/article/20261124502245",
       "sourceId": "kmib",
       "sourceName": "국민일보",
@@ -152,18 +104,6 @@
       "url": "https://www.kmib.co.kr/article/20261124502245",
       "publishedAt": "2026-11-25T13:37:26.000Z",
       "excerpt": "게티이미지뱅크 정답을 빠르게 찾아내는 능력이 인공지능(AI) 기술로 대체되면서 시대가 요구하는 인재상도 바뀌고 있다. 기존의 교육이 지식을 선제적으로 주입한 뒤 이를 문제에 적용하는 방식이었다면 AI의 등장은 지식의 장벽을 대폭 낮추며 교육의 패러다임 자체를 바꾸고 있다. 이제는 문제 상황에 먼저 직면하고 그 해법을 찾는 과정에서 AI를 활용해 부족한 지식을 채워나가는 ‘역방향 학습’으로 교육의 방향을 전환해야 한다는 목소리가…"
-    },
-    {
-      "id": "kmib:https://www.kmib.co.kr/article/20261124502158",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "李 “고강도 조치” 재차 언급⋯ 사이비종교 정치개입 근절 ‘속도’",
-      "url": "https://www.kmib.co.kr/article/20261124502158",
-      "publishedAt": "2026-11-25T11:48:06.000Z",
-      "excerpt": "이재명 대통령이 24일 청와대에서 열린 국무회의에서 발언하고 있다. 이 대통령은 “종교활동을 빙자해 범죄 행위나 불법 행위를 자행하는 사이비 종교단체에 대한 해산 절차를 오래전에 말씀드린 바 있다”며 “실효적 조치를 현실적으로 검토할 때가 된 것 같다”고 말했다. 최현규 기자 이재명 대통령이 24일 ‘사이비 종교 범죄’에 대해 종교단체 해산 수준의 고강도 조치를 11개월 만에 재요구하자 정치권이 촉각을 곤두세우고 있다. 국민의…"
     },
     {
       "id": "kmib:https://www.kmib.co.kr/article/20261124502156",
@@ -214,6 +154,42 @@
       "excerpt": "최근 대전 오메가교회(황성은 목사)에서는 ‘2027 한국교회를 말하다’를 주제로 목회자·제직자 세미나가 열렸다. 세미나는 기아대책(회장 최창남)과 목회데이터연구소(대표 지용근)가 주최하고 대전성시화운동본부(류명렬 목사)가 협력했다. 황성은( 사진 ) 목사는 한국교회가 새로운 시대적 변화에 직면해 있다는 점을 강조했다. 그는 “현재 한국교회는 새로운 패러다임과 전환이 요구되고 있다”며 “변하지 않는 복음을 바탕으로 새로운 시대를…"
     },
     {
+      "id": "kmib:https://www.kmib.co.kr/article/20261124502141",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "전남·광주 기독교수들 ‘찬양 한마음’",
+      "url": "https://www.kmib.co.kr/article/20261124502141",
+      "publishedAt": "2026-11-25T11:38:53.000Z",
+      "excerpt": "전남·광주기독교수연합회(회장 허명 광주대 교수)는 최근 광주대 호심관 3층 소강당에서 ‘제15회 전남·광주 캠퍼스 기독교수 연합찬양제’( 사진 )를 개최했다. 행사에는 광주대와 광주교육대, 전남대, 조선이공대, 조선대, 조선간호대, 국립순천대, 동신대, 국립목포대, 호남대 등 10개 대학 기독 교수들이 참여했다. 참석자들은 대학과 전공의 경계를 넘어 예수 그리스도를 찬양하며 캠퍼스 복음화를 향한 연합과 헌신을 다짐했다. 연합회…"
+    },
+    {
+      "id": "kmib:https://www.kmib.co.kr/article/20261124502138",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "필리핀 청년에게 복음 전하며 학업 기회 열어준다",
+      "url": "https://www.kmib.co.kr/article/20261124502138",
+      "publishedAt": "2026-11-25T11:38:47.000Z",
+      "excerpt": "부산 온누리교회 보아스선교회가 지난해 필리핀 이나레스 열방교회를 방문해 기념촬영을 하고 있다. 보아스선교회 제공 부산 온누리교회(박성수 목사) 보아스선교회(회장 노차용 권사)가 필리핀 빈민촌 청년들에게 복음을 전하면서 학업 기회도 열어주는 선교 모델을 일구고 있다. 선교 모델은 필리핀 리잘주 이나레스(Inares)에서 열매를 맺기 시작했다. 이나레스는 도시빈민과 이재민들이 정착한 곳으로 수도 마닐라에서 2~3시간 떨어져 있다.…"
+    },
+    {
+      "id": "kmib:https://www.kmib.co.kr/article/20261124502135",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“새벽부터 정오까지는 온전히 하나님과 독대했다”",
+      "url": "https://www.kmib.co.kr/article/20261124502135",
+      "publishedAt": "2026-11-25T11:35:47.000Z",
+      "excerpt": "이규현 목사가 최근 부산 수영구 엘레브에서 강주화 국민일보 종교국장과 대담을 나누며 은퇴 소회를 밝히고 있다. 대담=강주화 종교국장 “활기찬 분위기에서 세대교체가 되길 바랐는데 그 꿈이 실현됐다.” 로드맵 미니스트리 대표 이규현(70) 수영로교회 은퇴목사는 사역 내내 아름다운 마무리를 준비했다. 그리고 그 바람을 이뤘다. 이 목사는 최근 부산 수영구 문화복합공간 엘레브에서 국민일보와 만나 “무거운 짐을 내려놓아 홀가분한 마음”…"
+    },
+    {
       "id": "startupn:https://www.startupn.kr/news/articleView.html?idxno=60811",
       "sourceId": "startupn",
       "sourceName": "스타트업엔",
@@ -262,124 +238,724 @@
       "excerpt": "경기창조경제혁신센터가 국내 초기 딥테크 스타트업 7개사의 글로벌 시장 진출과 해외 투자유치 지원에 나섰다. 생성형 AI와 디지털 헬스케어부터 로보틱스, 스마트 제조, 모듈러 건축까지 다양한 기술 분야의 기업들이 글로벌 투자기관을 대상으로 사업 경쟁력을 소개하고 해외 시장 진입 가능성을 점검했다.경기창조경제혁신센터는 지난 12일 판교 기업지원허브 창업존 6층 유니콘 브릿지에서 '제45회 스타트업 815 IR - SEED(Glob…"
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/politics/politics_general/1288998.html",
+      "id": "kmib:https://www.kmib.co.kr/article/20261124502096",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "최우제 귀환 T1·젊어진 젠지·데프트 품은 농심⋯ LCK 스토브리그 일단락",
+      "url": "https://www.kmib.co.kr/article/20261124502096",
+      "publishedAt": "2026-11-25T10:27:59.000Z",
+      "excerpt": "LCK 이적시장이 이르게 마무리되는 분위기다. 젠지의 ‘기인’ 김기인(왼쪽부터)과 ‘캐니언’ 김건부가 한화생명으로 향하고 ‘제우스’ 최우제는 친정팀 T1으로 복귀했다. 라이엇 게임즈 제공 국내 ‘리그 오브 레전드(LoL)’ e스포츠 프로 리그인 ‘LoL 챔피언스 코리아(LCK)’의 이적 시장이 개장 일주일여 만에 마무리되는 분위기다. LCK 이적 시장은 지난 17일 공식적으로 열렸다. 올해까지였던 선수들의 계약 기간이 이날 오…"
+    },
+    {
+      "id": "kmib:https://www.kmib.co.kr/article/20261124502094",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“각자도생 게임업계, 협회 중심으로 뭉쳐야”",
+      "url": "https://www.kmib.co.kr/article/20261124502094",
+      "publishedAt": "2026-11-25T10:27:55.000Z",
+      "excerpt": "장병규 크래프톤 이사회 의장이 ‘지스타 2026’ 개막 이틀째인 지난 20일 부산 벡스코에서 국민일보와 만나 질의에 답하고 있다. 네오위즈, 첫눈, 크래프톤을 잇달아 일군 장병규 크래프톤 이사회 의장은 ‘지스타 2026’ 개막 이틀째인 지난 20일 부산 벡스코에서 국민일보와 만나 “주 52시간제에 손 안 대는 게 맞나. 이 질문을 해야 한다”며 “나는 대한민국 국적자다. 나라의 미래가 있어야 하지 않겠나”라고 말했다. 장 의장…"
+    },
+    {
+      "id": "hani:https://www.hani.co.kr/arti/economy/it/1289018.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "국힘 “이용철 법무장관 후보자는 부적격…청문보고서 거부 방침”",
-      "url": "https://www.hani.co.kr/arti/politics/politics_general/1288998.html",
-      "publishedAt": "2026-11-25T04:17:12.190Z",
+      "title": "블록체인 위 24시간 뚫린 ‘돈의 길’로…세계는 잰걸음, 한국은?",
+      "url": "https://www.hani.co.kr/arti/economy/it/1289018.html",
+      "publishedAt": "2026-11-25T05:04:52.762Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/english_edition/e_national/1288997.html",
+      "id": "hani:https://www.hani.co.kr/arti/economy/it/1289017.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "Seoul voices regret to Moscow over Russian jets’ flight near Ulleung Island",
-      "url": "https://www.hani.co.kr/arti/english_edition/e_national/1288997.html",
-      "publishedAt": "2026-11-25T04:17:12.190Z",
+      "title": "국내 금융도 온체인 시대 준비 ‘분주’",
+      "url": "https://www.hani.co.kr/arti/economy/it/1289017.html",
+      "publishedAt": "2026-11-25T05:04:52.762Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/society/society_general/1288996.html",
+      "id": "hani:https://www.hani.co.kr/arti/area/honam/1289016.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "[단독] 공론화 참여 중단한 ‘원전 확대’ 쪽…2050년 비중 왜 요구했나",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1288996.html",
-      "publishedAt": "2026-11-25T04:17:12.190Z",
+      "title": "전남광주교육청, AI 부정행위 대응 서·논술형 평가 전환 속도",
+      "url": "https://www.hani.co.kr/arti/area/honam/1289016.html",
+      "publishedAt": "2026-11-25T05:04:52.762Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/society/rights/1288995.html",
+      "id": "hani:https://www.hani.co.kr/arti/science/science_general/1289015.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "자립준비·고립·은둔 위기청년 지원 넓힌다…“정서·사회적 지지 요구 커져”",
-      "url": "https://www.hani.co.kr/arti/society/rights/1288995.html",
-      "publishedAt": "2026-11-25T04:17:12.190Z",
+      "title": "망한 건가, 살린 건가… 지구촌 ‘기후 조별과제’, 개혁 가능할까",
+      "url": "https://www.hani.co.kr/arti/science/science_general/1289015.html",
+      "publishedAt": "2026-11-25T05:04:52.762Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/area/honam/1288994.html",
+      "id": "hani:https://www.hani.co.kr/arti/international/international_general/1289014.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "잦은 가을비로 무안·신안 콩 피해…전남광주시, 농업재해 인정 건의",
-      "url": "https://www.hani.co.kr/arti/area/honam/1288994.html",
-      "publishedAt": "2026-11-25T04:17:12.190Z",
+      "title": "“곰 죽여라” “죽이지마라”…엇갈리는 민원에 몸살앓는 일 정부",
+      "url": "https://www.hani.co.kr/arti/international/international_general/1289014.html",
+      "publishedAt": "2026-11-25T05:04:52.762Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/society/labor/1288993.html",
+      "id": "hani:https://www.hani.co.kr/arti/area/jeju/1289013.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "“월급 한 번에 쓸까 봐 보관”…염전 노동자 임금 안 준 사장의 변명",
-      "url": "https://www.hani.co.kr/arti/society/labor/1288993.html",
-      "publishedAt": "2026-11-25T04:17:12.190Z",
+      "title": "내년 제주대·카이스트 공동대학원 문 연다…분산에너지·해양바이오 인재 양성",
+      "url": "https://www.hani.co.kr/arti/area/jeju/1289013.html",
+      "publishedAt": "2026-11-25T05:04:52.762Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/sports/soccer/1288992.html",
+      "id": "hani:https://www.hani.co.kr/arti/international/international_general/1289012.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "‘결승 몰수패’ 뒤집은 세네갈…CAS 제소 끝 네이션스컵 트로피 되찾다",
-      "url": "https://www.hani.co.kr/arti/sports/soccer/1288992.html",
-      "publishedAt": "2026-11-25T04:17:12.190Z",
+      "title": "미군, 아이오와 노후 폭약 25일 폭파…주민들 “160㎞ 납 분진 확산 공포”",
+      "url": "https://www.hani.co.kr/arti/international/international_general/1289012.html",
+      "publishedAt": "2026-11-25T05:04:52.762Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/area/capital/1288991.html",
+      "id": "hani:https://www.hani.co.kr/arti/society/society_general/1289011.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "11개월 아기에 16배 빠르게 수액 투약 사고…“부모에게 안 알려”",
-      "url": "https://www.hani.co.kr/arti/area/capital/1288991.html",
-      "publishedAt": "2026-11-25T04:17:12.190Z",
+      "title": "[포토] 곧 블랙프라이데이…관세청은 해외직구 물품 검사 중",
+      "url": "https://www.hani.co.kr/arti/society/society_general/1289011.html",
+      "publishedAt": "2026-11-25T05:04:52.762Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/society/society_general/1288990.html",
+      "id": "hani:https://www.hani.co.kr/arti/area/honam/1289010.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "김종철 경찰청장 “범죄 피해자 보호가 제1원칙”",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1288990.html",
-      "publishedAt": "2026-11-25T04:17:12.190Z",
+      "title": "공소청, ‘장윤기 사건 은폐 의혹’ 경찰에 징역 3년 구형",
+      "url": "https://www.hani.co.kr/arti/area/honam/1289010.html",
+      "publishedAt": "2026-11-25T05:04:52.762Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/international/international_general/1288989.html",
+      "id": "hani:https://www.hani.co.kr/arti/english_edition/e_international/1289009.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "젠슨 황 ‘면죄부’ 신호 보낸 트럼프…“사면은 선택지, 필요하진 않겠지만”",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1288989.html",
-      "publishedAt": "2026-11-25T04:17:12.190Z",
+      "title": "[Interview] Texas Democrat who flipped GOP border seat says voters rejected ‘cruel’ immigration policy",
+      "url": "https://www.hani.co.kr/arti/english_edition/e_international/1289009.html",
+      "publishedAt": "2026-11-25T05:04:52.762Z",
       "excerpt": ""
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611251403001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“기억 못 한다” 술 취해 지인 살해한 50대 징역 25년 선고",
+      "url": "https://www.khan.co.kr/article/202611251403001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-25T05:03:00.000Z",
+      "excerpt": "법원 이미지. 경향신문 자료사진술에 취해 함께 있던 지인을 흉기로 살해 한 50대가 중형을 선고받았다.창원지법 마산지원 형사1부(재판장 윤민수)는 25일 살인 혐의로 기소된 50대 A씨에게 징역 25년을 선고하고, 치료감호와 20년간 위치추적 전자장치 부착을 명령했다.A씨는 지난 4월 21일 경남 창원시 마산회원구 자신의 주거지에서 지인 60대 B씨를 흉기···"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/list/article/all/20261125/135087732/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "티맵 차꾸미기, 리센느 캐릭터 레미니 적용",
+      "url": "https://www.donga.com/news/list/article/all/20261125/135087732/2",
+      "publishedAt": "2026-11-25T05:02:00.000Z",
+      "excerpt": "티맵모빌리티가 ‘차꾸미기’ 서비스에 걸그룹 리센느 공식 캐릭터 레미니를 도입했다.이번에 공개되는 캐릭터는 ▲네잎 클로버를 탄 고양이 조타 ▲해바라기씨를 타고 온 햄스터 리뿌 ▲하트 쿠션을 타고 온 물범 밍 ▲조개 껍질을 타고 온 코끼리 얌 ▲도토리 비행선을 타고 온 다람쥐 쩨로밍까지 총 다섯 종이다. IP 비즈니스 업체 올라보엑스와의 협업을 통해 제작됐다. 각 캐릭터의 입체적인 매력이 3D 아이콘으로 생생하게 구현됐다.차꾸미기…"
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611251400011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "오늘 ‘서른살’ 된 사이드카, 올해 발동 횟수만 과거 24년치 넘어",
+      "url": "https://www.khan.co.kr/article/202611251400011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-25T05:00:01.000Z",
+      "excerpt": "25일 서울 중구 하나은행 본점 딜링룸에서 한 직원이 SK하이닉스 시세를 바라보고 있다.연합뉴스1996년 유가증권(코스피)시장에 처음 도입된 사이드카 제도가 올해로 30주년을 맞은 가운데, 지금까지 발동된 코스피 사이드카의 절반 이상이 올해 쏟아진 것으로 나타났다. 증시가 하루가 멀다 하고 급등과 급락을 오가면서 유례없는 변동성 장세가 이어지고 있다는 분석···"
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611251400001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "서울 공원·한옥·문화시설서 올리는 공공예식 563건···3년 새 7.5배 늘었다",
+      "url": "https://www.khan.co.kr/article/202611251400001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-25T05:00:00.000Z",
+      "excerpt": "공공예식장 중 하나인 서울 중구 ‘문학의집 서울’. 더 아름다운 결혼식 홈페이지 캡처서울의 공원·한옥·문화시설 등에서 결혼식을 올릴 수 있도록 지원하는 서울시 공공예식 사업 ‘더 아름다운 결혼식’ 예식 건수가 3년 새 약 7.5배로 늘어난 것으로 나타났다.25일 서울시에 따르면 2023년 사업 첫해 75건이었던 예식 실적은 2024년 155건, 2025년 ···"
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125105800052",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "합천군, '올해의 SNS' 블로그 대상·인스타그램 최우수상",
+      "url": "https://www.yna.co.kr/view/AKR20261125105800052",
+      "publishedAt": "2026-11-25T04:59:54.000Z",
+      "excerpt": "(합천=연합뉴스) 김동민 기자 = 경남 합천군이 '제12회 2026 올해의 사회관계망서비스(SNS)' 기초지자체 군지역 부문 블로그 대상과 인스..."
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125107500064",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "충주시, 동충주산단 2개 기업 450억 투자 유치…80여명 고용",
+      "url": "https://www.yna.co.kr/view/AKR20261125107500064",
+      "publishedAt": "2026-11-25T04:58:48.000Z",
+      "excerpt": "(충주=연합뉴스) 천경환 기자 = 충북 충주시는 25일 반도체 소재 업체, 건축물 외장재 전문기업과 생산시설 신설 투자협약을 했다."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/list/article/all/20261125/135087689/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "기원, 英 IWSC서 한국 증류소 최초 대상",
+      "url": "https://www.donga.com/news/list/article/all/20261125/135087689/2",
+      "publishedAt": "2026-11-25T04:57:24.000Z",
+      "excerpt": "기원 위스키 증류소가 24일(현지시간) 영국 런던에서 열린 ‘IWSC 2026시상식’에서 세계 위스키 증류소 트로피를 받았다.지난 9월 최종 후보 발표 당시 ‘올해의 세계 위스키 증류소’로 알려진 상이다. 한국 위스키 증류소 첫 후보에 오른 데 이어 이번에 최초 수상까지 거머쥐었다. 이 상은 제품이 아닌 증류소에 주는 상이다. 해당 부문에 3종 이상 출품해 출품작 전부가 메달을 받고, 이 가운데 골드 메달을 2개 이상 받아야 …"
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125107900051",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[게시판] 남재헌 차관, 주한 외교단과 유엔해양총회 협력 논의",
+      "url": "https://www.yna.co.kr/view/AKR20261125107900051",
+      "publishedAt": "2026-11-25T04:57:12.000Z",
+      "excerpt": "▲ 남재헌 해양수산부 차관은 오는 26일 서울에서 포르투갈, 우루과이, 캐나다 외교단과 2028년 열리는 제4차 유엔해양총회(UNOC)의 주요 ..."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611251357001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“11살 아이 쇠사슬로 묶어 숨지게 해”···목사 ‘징역 25년’·외조모 ‘징역 20년’ 구형",
+      "url": "https://www.khan.co.kr/article/202611251357001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-25T04:57:00.000Z",
+      "excerpt": "공소청, 목사 양아들에게는 12년 구형대전지법 천안지원, 다음달 21일 선고충남 천안의 한 교회에서 생활하던 11세 외손자를 학대해 숨지게 한 혐의(아동학대치사)를 받는 외조모가 지난 8월11일 오전 구속 전 피의자 심문(영장실질심사)을 받기 위해 대전지법 천안지원으로 들어서고 있다. 연합뉴스충남 천안의 한 교회에서 지적장애가 있는 11세 아동을 쇠사슬로 ···"
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125104500004",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "서울시, 정비사업권한 자치구 이양 법안 철회 촉구…\"난개발 우려\"",
+      "url": "https://www.yna.co.kr/view/AKR20261125104500004",
+      "publishedAt": "2026-11-25T04:56:31.000Z",
+      "excerpt": "(서울=연합뉴스) 유한주 기자 = 서울시는 정비계획 변경과 통합심의 권한을 자치구로 넘기는 '도시 및 주거환경정비법' 개정안을 전면 철회하라고 ..."
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125102300051",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "부산 소비자심리지수 두 달 내리 하락…증시 조정 등 영향",
+      "url": "https://www.yna.co.kr/view/AKR20261125102300051",
+      "publishedAt": "2026-11-25T04:56:06.000Z",
+      "excerpt": "(부산=연합뉴스) 오수희 기자 = 부산 11월 소비자심리지수(CCSI)가 두 달 내리 하락세를 보였다."
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125101900001",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "MB, 내달 2일 나경원 주도 연구단체 간담회 참석…의원들과 오찬",
+      "url": "https://www.yna.co.kr/view/AKR20261125101900001",
+      "publishedAt": "2026-11-25T04:55:06.000Z",
+      "excerpt": "(서울=연합뉴스) 이율립 기자 = 이명박 전 대통령이 국민의힘 나경원 의원이 대표를 맡고 있는 국회의원 연구단체 '인구와 기후 그리고 내일'의 ..."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261125/135087669/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "음주운전 교통사고 동승자 사망…20대 불구속 입건",
+      "url": "https://www.donga.com/news/Society/article/all/20261125/135087669/1",
+      "publishedAt": "2026-11-25T04:53:16.000Z",
+      "excerpt": "충북 청주청원경찰서는 음주 운전을 하다 사고를 내 동승자를 숨지게 한 혐의(위험운전치사)로 A 씨(20대)를 불구속 입건했다고 25일 밝혔다.A 씨는 이날 오전 4시 14분쯤 청주시 청원구 북이면의 한 도로에서 술을 마신 상태로 승용차를 운전하다가 도로변 시설물을 들이받은 혐의를 받는다.당시 차량에는 A 씨를 포함해 4명이 타고 있었고, 뒷좌석에 타고 있던 B 씨(20대)가 심정지 상태로 병원에 이송됐으나 숨졌다.A 씨와 나머…"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261125101800083",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "中 \"트럼프, 대만독립 지지 안한다 말해\"…美에 실천 촉구",
+      "url": "https://www.yna.co.kr/view/AKR20261125101800083",
+      "publishedAt": "2026-11-25T04:51:41.000Z",
+      "excerpt": "(베이징=연합뉴스) 한종구 특파원 = 중국 정부가 도널드 트럼프 미국 대통령이 시진핑 중국 국가주석과의 회담에서 \"대만 독립을 지지하지 않는다\"..."
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125098500054",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "11월 전남광주 소비자심리지수 하락",
+      "url": "https://www.yna.co.kr/view/AKR20261125098500054",
+      "publishedAt": "2026-11-25T04:51:02.000Z",
+      "excerpt": "(전남광주=연합뉴스) 전승현 기자 = 11월 전남광주 소비자심리지수가 전달보다 위축된 것으로 나타났다."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Inter/article/all/20261125/135087571/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“왜 무대서 바지 안 입어요?” 7살 아들 질문에 놀란 톱가수母",
+      "url": "https://www.donga.com/news/Inter/article/all/20261125/135087571/2",
+      "publishedAt": "2026-11-25T04:51:00.000Z",
+      "excerpt": "“엄마는 왜 무대에서 바지를 안 입어요?”미국 유명 팝가수 제니퍼 로페즈가 과거 파격적인 무대 의상으로 공연한 뒤 당시 7살이던 아들이 들었던 질문이다. 로페즈는 23일(현지 시간) 방송된 미국 인기 토크쇼 ‘드류베리모어 쇼’에서 10년 전인 2016년 열린 공연 ‘올 아이 해브(AII I Have)’를 떠올렸다. 이 공연은 2018년 9월까지 플래닛 할리우드 리조트 앤드 카지노 내 자포스 극장에서 진행됐다. 그는 “10년 전…"
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125105200051",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[게시판] 해수부, 항행장애물 대응 역량 강화 합동 연수회",
+      "url": "https://www.yna.co.kr/view/AKR20261125105200051",
+      "publishedAt": "2026-11-25T04:50:43.000Z",
+      "excerpt": "▲ 해양수산부는 오는 26일부터 27일까지 부산에서 항행장애물 발생 시 대응 역량을 강화하기 위해 지방정부, 해양환경공단, 한국해양교통안전공단 ..."
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125106200055",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "순창군, 행정복지센터 점심시간 휴무 확대…총 7개 면지역",
+      "url": "https://www.yna.co.kr/view/AKR20261125106200055",
+      "publishedAt": "2026-11-25T04:50:23.000Z",
+      "excerpt": "(순창=연합뉴스) 홍인철 기자 = 전북 순창군은 내년 1월 1일부터 5개 면(面) 지역 행정복지센터 민원창구에서 점심시간 휴무제를 추가 시행한다..."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261125/135087564/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "한은·금감원 둘 다 노렸다… 쌍둥이 형에 대리시험 맡긴 동생, 2심서 집유",
+      "url": "https://www.donga.com/news/Society/article/all/20261125/135087564/1",
+      "publishedAt": "2026-11-25T04:48:00.000Z",
+      "excerpt": "같은 날 치러진 한국은행과 금융감독원 신입 직원 채용 필기시험을 일란성 쌍둥이 형제가 나눠 치른 사건과 관련해, 1심에서 실형을 선고받았던 동생이 항소심에서 집행유예로 감형받았다.법조계에 따르면 의정부지법 항소심 재판부는 업무방해와 공문서부정행사 혐의로 기소된 동생에게 징역 1년을 선고한 원심을 깨고 징역 1년에 집행유예 2년을 선고했다. 함께 기소된 쌍둥이 형에 대해서는 징역 6개월에 집행유예 1년을 선고한 1심 판결을 유지…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Economy/article/all/20261125/135087641/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "토스증권, ‘AI 시그널’ 고도화…주가 흐름, 변동 원인 한눈에",
+      "url": "https://www.donga.com/news/Economy/article/all/20261125/135087641/1",
+      "publishedAt": "2026-11-25T04:47:53.000Z",
+      "excerpt": "토스증권이 인공지능(AI) 기반 시장 분석 서비스인 ‘AI 시그널’의 기능을 고도화했다고 25일 밝혔다.이에 따라 토스증권 이용자는 종목별 주가 흐름과 가격 변동 원인을 쉽고 편리하게 파악할 수 있게 됐다는 게 토스증권의 설명이다.토스증권이 이번에 새롭게 추가하거나 강화한 기능은 최근 주가 흐름 기능과 종목 가격 변동 알림 기능이다.먼저 고객은 최근 주가 흐름 기능을 통해 최근 한 달간 발생한 주요 주가 변동과 원인을 타임라인…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Politics/article/all/20261125/135087108/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "국힘 ‘하명징계’ 난타전…“장동혁 내로남불” “구세주 꿈꾸는 그분 때문”",
+      "url": "https://www.donga.com/news/Politics/article/all/20261125/135087108/1",
+      "publishedAt": "2026-11-25T04:47:00.000Z",
+      "excerpt": "국민의힘 내부에서 무소속 한동훈 의원의 제명 징계 결정 과정에서 장동혁 대표가 외부인사를 통해 당 윤리위원회에 개입했다는 의혹을 두고 갑론을박이 벌어지고 있다. 당시 징계 결정에 참여한 윤리위원장과 장 대표의 의사를 전달했다고 주장하는 외부인사가 ‘10억 요구설’을 두고도 반박에 재반박이 이어지며 내홍이 격화하고 있다.국민의힘 김재섭 의원은 25일 YTN라디오에서 당내 ‘하명 징계’ 의혹과 관련해 “윤리위는 당내 사법기구 같은…"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261125099900084",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "남태평양 솔로몬제도, 호주와 안보조약…中과 안보협정 종료키로",
+      "url": "https://www.yna.co.kr/view/AKR20261125099900084",
+      "publishedAt": "2026-11-25T04:46:47.000Z",
+      "excerpt": "(하노이=연합뉴스) 박진형 특파원 = 태평양 섬나라 중 대표적인 친중 국가로 꼽혀왔던 남태평양 솔로몬 제도가 자국 내에 중국을 비롯한 외국의 군..."
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125099400054",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "민형배 \"반도체·통합지원금 활용계획 이번주까지 수립\"",
+      "url": "https://www.yna.co.kr/view/AKR20261125099400054",
+      "publishedAt": "2026-11-25T04:46:12.000Z",
+      "excerpt": "(전남광주=연합뉴스) 장덕종 기자 = 민형배 전남광주통합특별시장은 25일 호남 반도체와 통합 재정지원금의 구체적인 활용 계획을 이번주까지 마련해..."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611251346001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "윤민우 국민의힘 윤리위원장 “최규동, 장동혁 끌어내리자 해”…‘조작징계’ 진실공방",
+      "url": "https://www.khan.co.kr/article/202611251346001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-25T04:46:00.000Z",
+      "excerpt": "지난 4일 서울 여의도 국민의힘 당사 앞에 걸린 당 깃발이 바람에 흔들리고 있다. 문재원 기자윤민우 국민의힘 중앙윤리위원장이 한동훈 무소속 의원 등의 징계가 조작됐다고 주장해 온 최규동씨와 관련해 “당대표를 끌어내리겠다고 했다”며 반박에 나섰다. 최씨는 오히려 윤 위원장이 무차별 징계를 주장했다고 맞서면서 진실 공방이 이어지고 있다.윤 위원장은 25일 입장···"
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125103500002",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "KB국민은행, '2026-2차 공동구매정기예금'…최고 연 3.9%",
+      "url": "https://www.yna.co.kr/view/AKR20261125103500002",
+      "publishedAt": "2026-11-25T04:45:45.000Z",
+      "excerpt": "(서울=연합뉴스) 이도흔 기자 = KB국민은행은 판매 금액에 따라 차등금리를 제공하는 정기예금 상품 '2026-2차 공동구매 정기예금'을 출시했..."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/list/article/all/20261125/135087590/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "현대차그룹, ‘HMG 글로벌 완속충전기’ 공개",
+      "url": "https://www.donga.com/news/list/article/all/20261125/135087590/2",
+      "publishedAt": "2026-11-25T04:45:37.000Z",
+      "excerpt": "현대자동차그룹이 ‘HMG 글로벌 완속충전기’를 25일 공개했다. HMG 글로벌 완속충전기는 브랜드와 지역마다 달랐던 완속충전기의 디자인과 사용 경험을 하나로 통합한 충전기다.현대차∙기아가 상품 기획, 기술 개발과 디자인을 주도했고, 현대케피코는 차량용 제어기와 전기차 충전 분야에서 축적한 기술력과 양산 역량을 바탕으로 제품 개발에 참여했다. 현대케피코는 향후 제품 양산을 맡을 예정이다.완속충전기는 전기차 고객이 주로 이용하는 …"
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125103700007",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "역도·레슬링, IBK기업은행과 후원 협약…3년간 최대 14억원",
+      "url": "https://www.yna.co.kr/view/AKR20261125103700007",
+      "publishedAt": "2026-11-25T04:45:18.000Z",
+      "excerpt": "(서울=연합뉴스) 이대호 기자 = 대한역도연맹은 24일 서울 을지로 IBK기업은행 본점에서 IBK기업은행, 대한레슬링협회와 역도·레슬링 종목 공..."
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125103200060",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "양주시, 산북 도시재생사업 성과공유회 열어",
+      "url": "https://www.yna.co.kr/view/AKR20261125103200060",
+      "publishedAt": "2026-11-25T04:45:09.000Z",
+      "excerpt": "(양주=연합뉴스) 노승혁 기자 = 경기 양주시는 25∼27일 산북동 샘내마을 도시재생사업을 통해 변화한 마을의 모습과 지난 4년간의 주요 성과를..."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611251345001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "먹방 많이 볼수록 단 간식에 손 더 갔다···규제는 ‘글쎄’, 설탕부담금은 ‘찬성’",
+      "url": "https://www.khan.co.kr/article/202611251345001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-25T04:45:00.000Z",
+      "excerpt": "AI 생성이미지먹는 방송(먹방)을 자주 보는 성인일수록 하루 한 번 이상 단 간식을 먹는 비율이 높다는 조사 결과가 나왔다. 먹방이나 식품광고가 자신의 식습관에 영향을 준다고 느끼는 사람도 10명 중 8명꼴이었다. 다만 먹방 규제를 두고는 20·30대와 40대 이상의 의견이 갈렸다.서울대 건강문화사업단은 25일 한국리서치에 의뢰해 지난 9월 4~18일 전국···"
+    },
+    {
+      "id": "sedaily:https://www.sedaily.com/article/20118778",
+      "sourceId": "sedaily",
+      "sourceName": "서울경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“상품권 뿌려 식자재 납품 따냈다”…CJ프레시웨이, 과징금 최대 200억 예고",
+      "url": "https://www.sedaily.com/article/20118778",
+      "publishedAt": "2026-11-25T04:44:40.000Z",
+      "excerpt": ""
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125101100030",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "소상공인협회 \"소상공인 줄폐업 위기…노동법 개정 중단해야\"",
+      "url": "https://www.yna.co.kr/view/AKR20261125101100030",
+      "publishedAt": "2026-11-25T04:43:53.000Z",
+      "excerpt": "(서울=연합뉴스) 이상서 기자 = 송치영 소상공인연합회장은 25일 소상공인 811만명의 생존권 사수를 위해 정부의 노동관계법 개정 추진을 중단하..."
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008861898",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "수능 끝나자 \"팔게요\"…\"1등급 기운\" 5만 원 매물도 등장",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861898",
+      "publishedAt": "2026-11-25T04:43:00.000Z",
+      "excerpt": "수능이 끝난 뒤 한 '수능 용품'이 중고 거래 시장에서 인기가 있다고요?네, 올해 수능 시험장에서 지급된 보라색 샤프 펜슬인데요.…"
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125102600003",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "중견기업 3분기 수출 368억달러…2개 분기 연속 역대 최고",
+      "url": "https://www.yna.co.kr/view/AKR20261125102600003",
+      "publishedAt": "2026-11-25T04:42:44.000Z",
+      "excerpt": "(세종=연합뉴스) 신창용 기자 = 국내 중견기업의 올해 3분기 수출이 반도체 호조에 힘입어 2개 분기 연속 역대 최고치를 경신했다."
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125098300054",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "광주 군공항 이전 주민투표 연내 무산 위기…시의회, 대책 요구",
+      "url": "https://www.yna.co.kr/view/AKR20261125098300054",
+      "publishedAt": "2026-11-25T04:42:20.000Z",
+      "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 광주 군공항 이전을 위한 주민투표가 연내에는 사실상 무산될 위기에 처한 것으로 알려지자 전남광주통합특별시의..."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611251342001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "양대노총 ‘정년 연장’ 최후통첩…“연내 입법 안 되면 대화 없다”",
+      "url": "https://www.khan.co.kr/article/202611251342001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-25T04:42:00.000Z",
+      "excerpt": "민주노총과 한국노총 조합원들이 25일 국회 본청 앞 계단에서 65세 법정 정년연장의 연내 입법 처리를 촉구하고 있다. 강윤중 선임기자노동계가 법정 정년을 65세로 연장하는 내용의 입법을 올해 안에 마무리하라는 최후통첩을 보냈다. 정부도 국회에 연내 법안 발의를 압박하고 있다.한국노총과 민주노총은 25일 서울 여의도 국회 본청 앞에서 공동 기자회견을 열고 “···"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261125/135087542/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "‘9급시험 고졸수준’ 발언 정영란 부산인재개발원장, 본청 전보",
+      "url": "https://www.donga.com/news/Society/article/all/20261125/135087542/1",
+      "publishedAt": "2026-11-25T04:40:10.000Z",
+      "excerpt": "9급 공무원 시험을 ‘고졸 수준’으로 표현하고 저연차 공무원의 업무 역량을 낮게 평가해 논란을 빚은 정영란 부산시 인재개발원장이 부산시청 본청으로 전보됐다.부산시는 25일자로 정 원장을 인재개발원장에서 부산시 소속으로 발령했다고 밝혔다. 별도 보직은 부여되지 않은 것으로 알려졌다. 정 원장은 지난 7월15일 부산시의회 교육위원회 업무보고에서 “세상은 전문화되고 있는데 9급 공무원 시험은 다 고졸 수준으로 치르지 않는가”라고 말…"
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008862523",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[단독] 공소청, '노태우 일가 비자금' 의혹 노재헌 대사 소환 통보",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862523",
+      "publishedAt": "2026-11-25T04:40:00.000Z",
+      "excerpt": "▲ 노재헌 주중한국대사노태우 전 대통령 일가의 비자금 은닉 의혹을 수사하는 공소청이 노 전 대통령의 아들 노재헌 주중한국대사에게 최근…"
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008862704",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "직장 동료들 태우고 음주운전…1명 사망·3명 부상",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862704",
+      "publishedAt": "2026-11-25T04:40:00.000Z",
+      "excerpt": "▲ 사고 현장청주 청원경찰서는 음주 운전을 하다 사고를 내 동승자를 숨지게 한 혐의로 20대 A 씨를 불구속 입건해 조사하고 있다고 …"
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008861899",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "출근하던 시민들 미소…외국인까지 놀란 '하트' 뭐길래?",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861899",
+      "publishedAt": "2026-11-25T04:40:00.000Z",
+      "excerpt": "바쁜 출근길에 시민들의 발걸음을 멈추게 한 특별한 풍경이 있었다고요?네, 지난 23일 한 SNS에 올라온 내용인데요.서울 종각역 인근에서 한 환…"
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008861885",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "\"입주민이 자초한 결과\" 분노 현수막…청담동서 무슨 일",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861885",
+      "publishedAt": "2026-11-25T04:40:00.000Z",
+      "excerpt": "청담동의 한 아파트에서 배달 오토바이 출입을 둘러싼 갈등이 빚어지고 있습니다.배달기사들이 내건 것으로 추정되는 붉은색 현수막이 걸렸는데요.&#3…"
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008861884",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "\"경찰인데요\" 편의점서 딱 걸렸다…한밤 손님 반전 정체",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861884",
+      "publishedAt": "2026-11-25T04:40:00.000Z",
+      "excerpt": "술에 취해 주차도 제대로 하지 못하던 음주운전자가 편의점으로 향했습니다.'술타기'를 시도하려던 건데, 경찰에 덜미를 잡혔습니다.어…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261125/135087531/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "나주 남평읍 병아리 농장 화재…1만마리 폐사",
+      "url": "https://www.donga.com/news/Society/article/all/20261125/135087531/1",
+      "publishedAt": "2026-11-25T04:39:37.000Z",
+      "excerpt": "25일 오전 11시 46분쯤 전남광주 나주시 남평읍 한 병아리 농장에서 불이 났다는 신고가 접수됐다.화재는 소방 당국에 의해 신고 접수 약 53분 만인 낮 12시 39분쯤 완진됐다.이 불로 인한 인명 피해는 없었지만, 계사 1개동이 전소됐고 또 다른 계사 1개동이 불에 그을리면서 병아리 1만여 마리가 폐사했다.소방 당국은 정확한 화재 원인과 재산 피해액을 파악할 계획이다.(나주=뉴스1)"
+    },
+    {
+      "id": "mk:https://www.mk.co.kr/news/economy/12218000",
+      "sourceId": "mk",
+      "sourceName": "매일경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[단독] “연봉 5천인데 이자 지원해준다구요?”…전월세 신청자 폭발",
+      "url": "https://www.mk.co.kr/news/economy/12218000",
+      "publishedAt": "2026-11-25T04:39:20.000Z",
+      "excerpt": "서울시 청년 임차보증금 신규 대출 1~9월 2661건 지난해 연간 실적 1302건의 두 배 넘어 하나은행 한 곳서 취급…가계대출 총량 관리 대상 취급 줄면 다른 은행에선 같은 이자.."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261125101400704",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[쇼츠] '쾅' 번쩍하더니 아수라장…베트남 가스 폭발 순간",
+      "url": "https://www.yna.co.kr/view/AKR20261125101400704",
+      "publishedAt": "2026-11-25T04:38:25.000Z",
+      "excerpt": "(서울=연합뉴스) 베트남에서 가스 폭발로 추정되는 사고가 발생해 7명이 숨지고 9명이 다쳤습니다."
+    },
+    {
+      "id": "techinasia:https://www.techinasia.com/news/ant-international-bny-explore-tokenized-treasury-fx",
+      "sourceId": "techinasia",
+      "sourceName": "Tech in Asia",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Ant International, BNY to explore tokenized treasury, FX",
+      "url": "https://www.techinasia.com/news/ant-international-bny-explore-tokenized-treasury-fx",
+      "publishedAt": "2026-11-25T04:37:34.000Z",
+      "excerpt": "Ant International launched the Whale Orchestration Protocol under the Monetary Authority of Singapore’s Bloom initiative to connect tokenized money market funds."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125101700002",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "카카오뱅크, 자사주 27만주 소각 결정…66억원 규모",
+      "url": "https://www.yna.co.kr/view/AKR20261125101700002",
+      "publishedAt": "2026-11-25T04:36:41.000Z",
+      "excerpt": "(서울=연합뉴스) 이도흔 기자 = 카카오뱅크[323410]는 66억원 규모의 자사주 소각을 결정했다고 25일 밝혔다."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611251334001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "정신건강 상담은 ‘있는 줄 몰라서’, 노인돌봄은 ‘자격 안 돼서’···필요해도 못 쓰는 사회서비스",
+      "url": "https://www.khan.co.kr/article/202611251334001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-25T04:34:00.000Z",
+      "excerpt": "AI 생성이미지돌봄·건강·교육 같은 사회서비스가 필요한 10가구 중 3가구는 서비스를 이용하지 못하고 있는 것으로 나타났다. 정신건강은 ‘서비스가 있는 줄 몰라서’, 노인돌봄은 ‘지원 자격이 안 돼서’, 아이 돌봄은 ‘믿고 맡길 곳이 없어서’ 이용하지 못했다는 응답이 많았다. 필요한 서비스를 쓰기 위해 정부가 가장 먼저 해야 할 일로는 ‘정확한 정보 제공’···"
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611251318001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "중국 유인 우주선 ‘선저우 24호’ 발사 성공···외국인 비행사 첫 탑승",
+      "url": "https://www.khan.co.kr/article/202611251318001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-25T04:18:00.000Z",
+      "excerpt": "25일(현지시간) 파키스탄 이슬라마바드의 파키스탄 우주·상층대기연구위원회 사무실에서 학생과 직원들이 중국 선저우 24호 우주선 발사 장면을 생중계로 지켜보고 있다. AFP연합뉴스중국이 유인 우주 개발 역사상 처음으로 외국인 우주비행사를 태운 유인우주선 선저우 24호 발사에 성공했다.중국 유인우주공정판공실은 25일 오전 8시18분(한국시간 오전 9시18분) ···"
     },
     {
       "id": "techinasia:https://www.techinasia.com/asia-banned-crypto-lost-prediction-markets",
@@ -406,114 +982,6 @@
       "excerpt": "숭의여고 농구부 윤지유(왼쪽)와 홍가비. 이두리 기자숭의여고 농구부 선수들이 지난 24일 숭의여고 체육관에서 박선영 코치의 지도 아래 훈련을 하고 있다. 이두리 기자전국대회 2승 6패. 춘계대회는 인원이 없어 못 나갔고, 추계대회는 부상 선수가 많아 포기했다. 프로 선수를 배출하지 못한 지 오래다. ‘농구 전설’ 박찬숙과 미국여자프로농구(WNBA)리거 박지···"
     },
     {
-      "id": "donga:https://www.donga.com/news/Culture/article/all/20261125/135087360/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "김대호 “돈 벌려고 MBC 퇴사…입금될 때 뿌듯”",
-      "url": "https://www.donga.com/news/Culture/article/all/20261125/135087360/1",
-      "publishedAt": "2026-11-25T04:13:21.000Z",
-      "excerpt": "MBC 아나운서 출신 방송인 김대호가 프리랜서로 활동하며 느낀 만족감과 불안감을 솔직하게 털어놨다.25일 방송된 MBC FM4U 라디오 ‘굿모닝FM 강지영입니다’에는 김대호가 게스트로 출연해 프리랜서 전향 후 달라진 일상에 관해 이야기를 나눴다.이날 김대호는 “어디든 천국이 있냐. 지옥이라기보다 내가 어떻게 하느냐에 따라 지옥이 될 수도, 천국이 될 수도 있다. 나 하기 나름”이라고 말했다.이어 퇴사를 실감하는 순간으로 “입금…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Society/article/all/20261125/135087356/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "밧줄로 7층 석탑 무너뜨렸다…금 8000만원 노린 60대 실형",
-      "url": "https://www.donga.com/news/Society/article/all/20261125/135087356/2",
-      "publishedAt": "2026-11-25T04:13:00.000Z",
-      "excerpt": "사찰 석탑을 무너뜨려 탑 내부에 보관된 금품을 훔치려 한 60대에게 실형이 선고됐다.청주지법 충주지원 형사2단독 김주현 부장판사는 25일 절도미수 혐의로 구속기소된 64세 남성에게 징역 2년을 선고했다.이 남성은 지난 4월 충주시 신니면의 한 사찰에서 7층 석탑 내부에 보관된 금품을 훔치려다 미수에 그친 혐의로 재판에 넘겨졌다.과거 도굴 등 절도 범죄로 여러 차례 처벌받은 전력이 있는 그는 석탑 내부에 8000만 원 상당의 금…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Society/article/all/20261125/135087350/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "사찰 석탑 무너뜨려 금품 훔치려던 60대 ‘징역 2년’",
-      "url": "https://www.donga.com/news/Society/article/all/20261125/135087350/1",
-      "publishedAt": "2026-11-25T04:11:36.000Z",
-      "excerpt": "사찰 재물을 훔치려던 60대에게 실형이 선고됐다.청주지법 충주지원 형사2단독 김주현 부장판사는 25일 절도미수 혐의로 구속기소된 A(60대)씨에게 징역 2년을 선고했다.A씨는 지난 4월 충주시 신니면의 한 사찰 석탑 안에 보관된 금품을 훔치려 한 혐의로 재판에 넘겨졌다.그는 석탑을 무너뜨렸으나 금품을 발견하지 못하자 그대로 도주했으나 경찰 수사로 결국 덜미를 잡혔다.A씨는 과거에도 동종 범죄로 여러 차례 처벌받은 전력이 있는 …"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Sports/article/all/20261125/135087345/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘음바페 멀티골’ 레알 마드리드, PSV 5-1 완파…10연승 행진",
-      "url": "https://www.donga.com/news/Sports/article/all/20261125/135087345/1",
-      "publishedAt": "2026-11-25T04:10:59.000Z",
-      "excerpt": "킬리안 음바페가 멀티골을 터뜨린 레알 마드리드(스페인)가 PSV 에인트호번(네덜란드)을 대파하고 공식전 10연승을 질주했다.레알 마드리드는 25일(한국시간) 스페인 마드리드의 산티아고 베르나베우에서 열린 PSV와 2026-27 유럽축구연맹(UEFA) 챔피언스리그(UCL) 리그 페이즈 5차전에서 후반에만 5골을 몰아넣으며 5-1 대승을 거뒀다.이로써 레알 마드리드는 UCL 리그 페이즈 5경기에서 모두 승리하며 승점 15를 확보,…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Entertainment/article/all/20261125/135087318/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘딤섬 여왕’ 정지선 셰프, 등촌동 113억 건물 전액 현금으로 샀다",
-      "url": "https://www.donga.com/news/Entertainment/article/all/20261125/135087318/1",
-      "publishedAt": "2026-11-25T04:02:23.000Z",
-      "excerpt": "‘딤섬 여왕’ 정지선 셰프가 남편과 운영하는 중식 전문 법인 티엔미미를 통해 113억 원 규모의 부동산을 매입했다.코스닥 상장사 케이엠제약이 23일 서울 강서구 등촌동 소재 토지 및 건물을 티엔미미에 양도하는 계약을 체결했다고 24일 아시아경제가 금융감독원 전자공시시스템을 인용해 보도했다.매매대금은 부가가치세와 부대비용을 제외한 113억 원에 달하며, 전액 현금 지급 조건이다.티엔미미는 계약 당일인 23일 11억 3000만 원…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Politics/article/all/20261125/135087312/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "北, 평양 주재 스위스 외교사무소 폐쇄…김여정 경고 하루 만",
-      "url": "https://www.donga.com/news/Politics/article/all/20261125/135087312/1",
-      "publishedAt": "2026-11-25T04:00:53.000Z",
-      "excerpt": "북한이 김여정 노동당 총무부장 경고 하루 만인 25일 평양 주재 스위스 외교사무소를 폐쇄했다. 북한 대외매체 조선중앙통신은 “조선민주주의인민공화국(북한) 외무성은 25일 우리나라에 주재하고 있는 스위스 외교사무소 대표를 환영할 수 없는 인물로 선포하고 48시간 내에 우리 나라를 떠나갈 것을 요구하였다”고 밝혔다. 박현수 북한 외무성 유럽담당 국장은 평양 주재 아스티에르 실바인 스위스 외교사무소 대표를 호출했다. 박 국장은 “스…"
-    },
-    {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125090200530",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "봄철 산불피해 '0명' 달성 산림청 등 적극행정 우수사례 꼽혀",
-      "url": "https://www.yna.co.kr/view/AKR20261125090200530",
-      "publishedAt": "2026-11-25T04:00:00.000Z",
-      "excerpt": "(서울=연합뉴스) 양정우 기자 = 행정안전부와 인사혁신처는 산불 인명 피해를 예방하고 대중교통비 환급 카드 발급 절차를 간소화하는 등 국민 안전..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125060051002",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "식자재 납품하려고 복지시설에 기부금…CJ프레시웨이, 제재 착수(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261125060051002",
-      "publishedAt": "2026-11-25T03:58:42.000Z",
-      "excerpt": "(세종·서울=연합뉴스) 김수현 한주홍기자 = 식자재 유통·푸드 서비스업체인 CJ프레시웨이㈜가 식자재를 납품하기 위해 복지시설 임직원에게 상품권을..."
-    },
-    {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125096300052",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "경남상공회의소협의회, 산업 지원 공공기관 경남 이전 건의",
-      "url": "https://www.yna.co.kr/view/AKR20261125096300052",
-      "publishedAt": "2026-11-25T03:53:22.000Z",
-      "excerpt": "(창원=연합뉴스) 이정훈 기자 = 경남상공회의소협의회는 산업 지원 핵심 공공기관을 경남으로 옮기고 발전공기업 통합 본사를 경남혁신도시로 보내달라..."
-    },
-    {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261125096000009",
       "sourceId": "yna-intl",
       "sourceName": "연합뉴스 국제",
@@ -524,30 +992,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261125096000009",
       "publishedAt": "2026-11-25T03:48:49.000Z",
       "excerpt": "(서울=연합뉴스) 김병규 기자 = 젠슨 황 최고경영자(CEO)의 엔비디아 복귀 후 급등했던 일본 증시가 하루 만에 다시 급락세로 돌아섰다."
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Society/article/all/20261125/135087271/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "헌옷 수거함에 갓난아기가 숨진채…유기한 30대 엄마 송치",
-      "url": "https://www.donga.com/news/Society/article/all/20261125/135087271/1",
-      "publishedAt": "2026-11-25T03:48:00.000Z",
-      "excerpt": "갓 태어난 아기를 살해한 뒤 아파트 헌옷수거함에 유기한 혐의를 받는 30대 친모가 공소청에 넘겨졌다.경기 하남경찰서는 살인, 사체유기 등 혐의로 30대 여성을 구속 송치했다고 25일 밝혔다.이 여성은 자신이 출산한 아이를 살해한 뒤 하남시 미사지구의 한 아파트 단지 헌옷수거함에 유기한 혐의를 받는다.앞서 한 시민은 이달 18일 오후 3시 16분경 헌옷수거함에서 숨진 아이를 발견해 경찰에 신고했다.경찰은 폐쇄회로(CC)TV 영상…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Society/article/all/20261125/135082187/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "현장 체험에서 해외 탐방까지… 청소년 산업기술 진로 넓혀",
-      "url": "https://www.donga.com/news/Society/article/all/20261125/135082187/1",
-      "publishedAt": "2026-11-25T03:43:00.000Z",
-      "excerpt": "한국산업기술진흥원(KIAT), ‘꿈틀, 산업기술아카데미’올해 학생 815명 산업현장 방문국내 체험이 해외 탐방과 진로 설계로싱가포르에서의 닷새가 끝나가던 13일. 한국에서 온 고등학생 10명이 차례로 앞에 섰다. 손에 든 건 저마다 직접 그린 진로 로드맵이었다. 창업 단지의 북적이던 사무실, 제품이 만들어지는 생산 라인, 연구실에서 들었던 낯선 단어들이 한 장의 종이 위에서 ‘다음에 해보고 싶은 일’로 바뀌어 있었다. 여름에 …"
     },
     {
       "id": "techinasia:https://www.techinasia.com/news/microsoft-declares-code-red-24hour-outage",
@@ -646,42 +1090,6 @@
       "excerpt": "ShellBench's tasks drew on patterns in more than 10 million anonymized agent interactions."
     },
     {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008862704",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "직장 동료들 태우고 음주운전…1명 사망·3명 부상",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862704",
-      "publishedAt": "2026-11-25T03:29:00.000Z",
-      "excerpt": "▲ 사고 현장청주 청원경찰서는 음주 운전을 하다 사고를 내 동승자를 숨지게 한 혐의로 20대 A 씨를 불구속 입건해 조사하고 있다고 …"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261125/135087236/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "한국사회복지협의회 등 6개기관, 공동 청렴실천 캠페인 전개",
-      "url": "https://www.donga.com/news/Economy/article/all/20261125/135087236/1",
-      "publishedAt": "2026-11-25T03:28:41.000Z",
-      "excerpt": "김현훈 회장이 이끄는 한국사회복지협의회가 지난 24일 한국사회복지회관에서 청렴·반부패협의체 소속 기관들과 함께 공직사회 윤리 의식 확산을 위한 ‘6개 기관 공동 청렴실천 선언식’을 열었다.이번 캠페인에는 한국사회복지협의회를 비롯해 국가아동권리보장원, 중앙사회서비스원, 한국영유아보육·교육진흥원, 한국자활복지개발원, 한국장애인개발원 등 6개 유관 기관이 뜻을 모았다. 각 기관 구성원들이 직접 낸 반부패·윤리 아이디어를 조직 전체의…"
-    },
-    {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008862523",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[단독] 공소청, '노태우 일가 비자금' 의혹 노재헌 대사 소환 통보",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862523",
-      "publishedAt": "2026-11-25T03:25:00.000Z",
-      "excerpt": "▲ 노재헌 주중한국대사노태우 전 대통령 일가의 비자금 은닉 의혹을 수사하는 공소청이 노 전 대통령의 아들 노재헌 주중한국대사에게 최근…"
-    },
-    {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008862674",
       "sourceId": "sbs-head",
       "sourceName": "SBS 주요뉴스",
@@ -694,18 +1102,6 @@
       "excerpt": "▲ 호신용품일본에서 주소와 자산 내역 등 개인정보가 잇따라 유출되자 범죄의 표적이 될까 불안에 떤 시민들이 전기충격기와 최루 스프레이…"
     },
     {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008861899",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "출근하던 시민들 미소…외국인까지 놀란 '하트' 뭐길래?",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861899",
-      "publishedAt": "2026-11-25T03:25:00.000Z",
-      "excerpt": "바쁜 출근길에 시민들의 발걸음을 멈추게 한 특별한 풍경이 있었다고요?네, 지난 23일 한 SNS에 올라온 내용인데요.서울 종각역 인근에서 한 환…"
-    },
-    {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008861886",
       "sourceId": "sbs-head",
       "sourceName": "SBS 주요뉴스",
@@ -716,54 +1112,6 @@
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861886",
       "publishedAt": "2026-11-25T03:25:00.000Z",
       "excerpt": "해외에서 처방받은 비만치료제를 국내로 들여올 수 있게 되자 일본 대마도가 한국인들로 북적이고 있다는 소식입니다.대마도 택배 영업소 앞입니다.사람…"
-    },
-    {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008861885",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"입주민이 자초한 결과\" 분노 현수막…청담동서 무슨 일",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861885",
-      "publishedAt": "2026-11-25T03:25:00.000Z",
-      "excerpt": "청담동의 한 아파트에서 배달 오토바이 출입을 둘러싼 갈등이 빚어지고 있습니다.배달기사들이 내건 것으로 추정되는 붉은색 현수막이 걸렸는데요.&#3…"
-    },
-    {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008861884",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"경찰인데요\" 편의점서 딱 걸렸다…한밤 손님 반전 정체",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861884",
-      "publishedAt": "2026-11-25T03:25:00.000Z",
-      "excerpt": "술에 취해 주차도 제대로 하지 못하던 음주운전자가 편의점으로 향했습니다.'술타기'를 시도하려던 건데, 경찰에 덜미를 잡혔습니다.어…"
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611251225001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "인류 최대 ‘경차 크기’ 외계천체용 무인기에 ‘눈’ 달았다…타이탄에 2028년 발사",
-      "url": "https://www.khan.co.kr/article/202611251225001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-25T03:25:00.000Z",
-      "excerpt": "NASA, ‘드래건 플라이’에 카메라 장착 완료총 7대로 동체 주변 찍고 파노라마 뷰 잡아내타이탄 환경 사실적 촬영…생명체 탐사 주목경차 크기인 ‘드래건 플라이’가 타이탄에서 이륙하는 상상도. NASA 제공‘드래건 플라이’가 타이탄 하늘을 비행하는 상상도. NASA 제공‘드래건 플라이’에 장착된 고성능 카메라 드래건 캠을 통해 잡은 정면과 측면 모습. 타이···"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261125/135087219/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "현장 노하우로 국산 설비 안착…한전산업개발, 대통령표창",
-      "url": "https://www.donga.com/news/Economy/article/all/20261125/135087219/1",
-      "publishedAt": "2026-11-25T03:23:49.000Z",
-      "excerpt": "함흥규 사장이 이끄는 한전산업개발이 지난 24일 서울 서초구 양재 엘타워 그랜드홀에서 열린 ‘2026년 기계·로봇산업(기계분야) 발전유공 포상식’에서 단체 부문 대통령표창을 받았다.산업통상부가 주관하는 이 포상은 국산 기계의 연구개발과 상용화를 독려하고 관련 산업 종사자들을 격려하기 위해 마련됐다. 심사 과정에서는 핵심 부품 국산화와 신규 시장 개척 실적뿐 아니라, 연구개발 협력과 현장 기술 지원을 통해 국산 기계의 품질 경쟁…"
     },
     {
       "id": "sedaily:https://www.sedaily.com/article/20118744",
@@ -826,18 +1174,6 @@
       "excerpt": "(서울=연합뉴스) 권희원 이율립 기자 = 국민의힘 장동혁 대표가 친한(친한동훈)계 '조작 징계'에 관여했다는 의혹을 둘러싸고 당 내홍이 점점 심..."
     },
     {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125094300061",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "추미애 \"여성폭력 피해자 24시간 보호체계 갖출 것\"",
-      "url": "https://www.yna.co.kr/view/AKR20261125094300061",
-      "publishedAt": "2026-11-25T03:07:27.000Z",
-      "excerpt": "(수원=연합뉴스) 최종호 기자 = 추미애 경기도지사는 25일 여성폭력 추방주간(11월 25일∼12월 1일)을 맞아 여성폭력 피해자 보호를 위한 ..."
-    },
-    {
       "id": "techinasia:https://www.techinasia.com/news/tencent-cloud-taps-ai-palm-recognition-singapore-senior-care",
       "sourceId": "techinasia",
       "sourceName": "Tech in Asia",
@@ -886,114 +1222,6 @@
       "excerpt": "(서울=연합뉴스) 이상현 기자 = 제주특별자치도가 투자심사에서 '부적정' 판단이 나온 도로 공사를 추진하거나, 품질 기준에 미달한 공사를 준공 ..."
     },
     {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125054600002",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "10월 국내 이동자 45만3천명…'반도체 밀집' 충청권 순유입",
-      "url": "https://www.yna.co.kr/view/AKR20261125054600002",
-      "publishedAt": "2026-11-25T03:00:13.000Z",
-      "excerpt": "(세종=연합뉴스) 안채원 기자 = 10월 국내 거주지 이동자 수가 45만명을 넘어서며 두 달 연속 40만명대를 기록했다."
-    },
-    {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261124179800003",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "주조부터 조립까지 한 공장에서…32초마다 변속기 1대 생산",
-      "url": "https://www.yna.co.kr/view/AKR20261124179800003",
-      "publishedAt": "2026-11-25T03:00:12.000Z",
-      "excerpt": "(보령=연합뉴스) 김윤구 기자 = 지난 23일 찾은 충남 보령의 제너럴모터스(GM) 한국사업장 보령공장. 로봇이 평균 660도의 알루미늄 용탕을..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125060000002",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "식자재 납품하려고 복지시설에 기부금…CJ프레시웨이, 제재 착수",
-      "url": "https://www.yna.co.kr/view/AKR20261125060000002",
-      "publishedAt": "2026-11-25T03:00:12.000Z",
-      "excerpt": "(세종=연합뉴스) 김수현 기자 = 식자재 유통·푸드 서비스업체인 씨제이프레시웨이㈜가 식자재를 납품하기 위해 복지시설 임직원에게 상품권을 제공한 ..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125080800002",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "10월 가계대출 금리 5% 돌파…주담대 14년 7개월만에 최고",
-      "url": "https://www.yna.co.kr/view/AKR20261125080800002",
-      "publishedAt": "2026-11-25T03:00:09.000Z",
-      "excerpt": "(서울=연합뉴스) 이도흔 기자 = 지난달 은행권 가계대출 금리가 2년 11개월만에 연 5%를 넘어섰다."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125087200002",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "러시아 펀드에 묶인 퇴직연금 7천835억원…이전 길 열린다",
-      "url": "https://www.yna.co.kr/view/AKR20261125087200002",
-      "publishedAt": "2026-11-25T03:00:04.000Z",
-      "excerpt": "(서울=연합뉴스) 강류나 기자 = 내년 1월부터 러시아 펀드 등 환매가 중단된 펀드를 담은 퇴직연금 계좌도 다른 금융사로 사업자 변경이 가능해진..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125087700002",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "올해 1∼9월 태어난 아기 21만9천명…증가율 역대 최고",
-      "url": "https://www.yna.co.kr/view/AKR20261125087700002",
-      "publishedAt": "2026-11-25T03:00:02.000Z",
-      "excerpt": "(세종=연합뉴스) 송정은 기자 = 올해 들어 3분기까지 태어난 아기가 작년보다 14% 넘게 증가하며 21만명을 넘었다. 증가율은 역대 최고 수준..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125093500002",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "종투사 모험자본 공급 11.6조…KB증권 투자플랫폼 첫 출자",
-      "url": "https://www.yna.co.kr/view/AKR20261125093500002",
-      "publishedAt": "2026-11-25T03:00:01.000Z",
-      "excerpt": "(서울=연합뉴스) 강수련 기자 = 올해 상반기 국내 종합금융투자사업자(종투사)의 모험자본 공급 잔액이 11조원을 넘어선 가운데 금융당국이 추진해..."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611251200001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "공정위, ‘식자재 납품 따내려 기부’ 의혹 CJ프레시웨이 심의 착수",
-      "url": "https://www.khan.co.kr/article/202611251200001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-25T03:00:00.000Z",
-      "excerpt": "CJ 프레시웨이 안내 문구. CJ 프레시웨이 홈페이지 갈무리공정거래위원회가 식자재 납품 거래를 따내기 위해 복지시설에 기부금을 제공한 혐의를 받는 CJ프레시웨이 심의를 착수했다.공정위 사무처는 25일 CJ프레시웨이의 부당한 고객유인 혐의를 담은 심사보고서를 위원회에 제출해 심의 절차가 개시됐다고 밝혔다. 사무처 의견은 공정위의 1차 조사 판단을 뜻하며, 최···"
-    },
-    {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125091400063",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "'국가유산 예고' 대전공회당 복원사업 지속…\"원형 보존 집중\"",
-      "url": "https://www.yna.co.kr/view/AKR20261125091400063",
-      "publishedAt": "2026-11-25T02:59:12.000Z",
-      "excerpt": "(대전=연합뉴스) 박주영 기자 = 재정난으로 중단 위기에 놓였던 구(舊) 대전공회당(大田空會堂) 복원사업이 계속 추진된다."
-    },
-    {
       "id": "techinasia:https://www.techinasia.com/news/shein-pay-100m-settle-consumer-protection-claims",
       "sourceId": "techinasia",
       "sourceName": "Tech in Asia",
@@ -1018,30 +1246,6 @@
       "excerpt": "(서울=연합뉴스) 김병규 기자 = 재일교포 오승호(고 가쓰히로) 작가가 일본 최고 권위의 대중 문학상인 나오키산주고(直木三十五)상(약칭 나오키상..."
     },
     {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125093800051",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "막말 논란 부산인재개발원장 인사조치…부산시에 복귀",
-      "url": "https://www.yna.co.kr/view/AKR20261125093800051",
-      "publishedAt": "2026-11-25T02:56:47.000Z",
-      "excerpt": "(부산=연합뉴스) 김선호 기자 = 부산시가 9급 공무원 시험을 고졸 수준이라며 하위직 신입 공무원 역량을 낮춰 말한 정영란 인재개발원장에 대한 ..."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611251155001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "다리 명칭 두고 남양주·하남 갈등···경기도, 신설 한강 교량 이름 ‘팔당창우대교’로 확정",
-      "url": "https://www.khan.co.kr/article/202611251155001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-25T02:55:00.000Z",
-      "excerpt": "팔당창우대교. 경기도 제공경기도가 남양주시와 하남시를 연결하는 신설 한강 다리(교량)의 명칭을 ‘팔당창우대교’로 결정했다.경기도는 경기도 지명위원회 심의에서 남양주와 하남의 역사성과 지리적 특성을 함께 반영하면서 기존 팔당대교와도 구분할 수 있도록 하기 위해 이같이 의결했다고 25일 밝혔다.‘팔당’은 팔당대교·팔당댐·팔당역 등 주요 시설에 사용되는 지역 대···"
-    },
-    {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261125092900083",
       "sourceId": "yna-intl",
       "sourceName": "연합뉴스 국제",
@@ -1054,28 +1258,16 @@
       "excerpt": "(베이징=연합뉴스) 한종구 특파원 = 홍콩 정부가 168명의 목숨을 앗아간 고층 아파트 화재 참사 1주기를 앞두고 소란을 일으키려는 움직임이 있..."
     },
     {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125090100054",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125090100054",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
       "lang": "ko",
       "kind": "article",
       "title": "전남광주 첫 본예산 심사 잇단 진통…예산서 부실·재원 논란",
       "url": "https://www.yna.co.kr/view/AKR20261125090100054",
       "publishedAt": "2026-11-25T02:53:26.000Z",
       "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시 출범 후 첫 본예산 심사가 예산서 부실 작성 등 잇단 논란으로 진통을 겪고 있다."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125090000530",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "중소 비정규직 월급, 대기업 정규직의 29%…\"초기업 교섭 필요\"",
-      "url": "https://www.yna.co.kr/view/AKR20261125090000530",
-      "publishedAt": "2026-11-25T02:52:00.000Z",
-      "excerpt": "(서울=연합뉴스) 옥성구 기자 = 중소기업 비정규직의 월평균 임금이 대기업 정규직의 30%에도 미치지 못하는 등 노동시장 양극화가 심각한 가운데..."
     },
     {
       "id": "techinasia:https://www.techinasia.com/news/bilibili-q3-revenue-rises-8-125b",
@@ -1088,18 +1280,6 @@
       "url": "https://www.techinasia.com/news/bilibili-q3-revenue-rises-8-125b",
       "publishedAt": "2026-11-25T02:50:56.000Z",
       "excerpt": "Bilibili's average daily active users rose 5% to 123.5 million in the quarter."
-    },
-    {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125092800007",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "정윤진 덕수고 감독, 고교야구 통산 400승 돌파…우승은 21회",
-      "url": "https://www.yna.co.kr/view/AKR20261125092800007",
-      "publishedAt": "2026-11-25T02:50:32.000Z",
-      "excerpt": "(서울=연합뉴스) 장현구 기자 = 한국프로야구의 젖줄인 고교야구에서 올해 값진 기록이 탄생했다."
     },
     {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008861897",
@@ -1126,18 +1306,6 @@
       "excerpt": "요즘 주식이나 코인에 투자했다가 힘들어하는 분들 많죠. 이런 사람들을 위해 한 미용실에서 특별한 할인 이벤트를 내걸었다고요?네, 경기 안양의 한…"
     },
     {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008861893",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"곧 완주\" 마라톤 1~2㎞ 남기고…막판에 무리하다 결국",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861893",
-      "publishedAt": "2026-11-25T02:50:00.000Z",
-      "excerpt": "요즘 마라톤 즐기는 분들 많으시죠.다만, 막판에 무리하게 달리다가는 건강을 해칠 수 있다는 경고가 나왔습니다.한림대성심병원 이종영 교수에 따르면…"
-    },
-    {
       "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125092300704",
       "sourceId": "yna-pol",
       "sourceName": "연합뉴스 정치",
@@ -1148,30 +1316,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261125092300704",
       "publishedAt": "2026-11-25T02:49:25.000Z",
       "excerpt": "(서울=연합뉴스) 튀르키예가 자국산 제트 무인전투기 '바이락타르 키질렐마'를 전력화했습니다."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125090400002",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "씨티은행, 삼성물산 해외 자금관리에 블록체인 기술 지원",
-      "url": "https://www.yna.co.kr/view/AKR20261125090400002",
-      "publishedAt": "2026-11-25T02:49:03.000Z",
-      "excerpt": "(서울=연합뉴스) 이도흔 기자 = 한국씨티은행은 블록체인 기술 기반의 차세대 결제·자금 관리 솔루션인 '씨티 토큰 서비스'를 삼성물산[02826..."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611251148001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "이 대통령 “가정폭력, 피해자가 처벌 원치 않아도 가해자 책임 물을 것”",
-      "url": "https://www.khan.co.kr/article/202611251148001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-25T02:48:00.000Z",
-      "excerpt": "이재명 대통령이 지난 24일 청와대에서 열린 국무회의를 주재하기 위해 입장하고 있다. 청와대사진기자단이재명 대통령이 세계 여성폭력 추방의 날인 25일 “가정폭력의 경우 피해자가 처벌을 원하지 않더라도 가해자에게 책임을 물을 수 있도록 법을 개정하겠다”고 밝혔다.이 대통령은 이날 엑스에 ‘여성이 두려움 없이 살아갈 수 있는 사회, 나라의 책무입니다’라는 제목···"
     },
     {
       "id": "mk:https://www.mk.co.kr/news/economy/12217960",
@@ -1186,18 +1330,6 @@
       "excerpt": "확대 측 전문가 3명 참여 잠정 중단 중립위원이 기존 찬반 논거 소개 2050년까지 논의할지 놓고 이견 내달 시민 숙의토론 앞두고 난항제12차 전력수급기본계획(전기본)에 반영할 원.."
     },
     {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125083400054",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "민형배 전남광주시장 \"반도체 팹 건설인력 1만호 공공임대 필요\"",
-      "url": "https://www.yna.co.kr/view/AKR20261125083400054",
-      "publishedAt": "2026-11-25T02:46:52.000Z",
-      "excerpt": "(전남광주=연합뉴스) 장덕종 기자 = 전남광주통합특별시가 1만명 이상으로 추산되는 호남 반도체 클러스터 건설인력 유입에 대비해 정주 여건 마련에..."
-    },
-    {
       "id": "mk:https://www.mk.co.kr/news/economy/12217959",
       "sourceId": "mk",
       "sourceName": "매일경제 경제",
@@ -1208,54 +1340,6 @@
       "url": "https://www.mk.co.kr/news/economy/12217959",
       "publishedAt": "2026-11-25T02:46:43.000Z",
       "excerpt": "한국전력이 개인정보 유출에 따른 2차 피해를 막기 위해 정보가 유출된 고객에게 최대 1000만원을 보상하는 금융사기 피해보험을 제공한다. 한전은 NICE평가정보의 개인정보 보호 서.."
-    },
-    {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125091200064",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "옥천군 '24시 어린이집' 운영 연장…미취학 아동 대상",
-      "url": "https://www.yna.co.kr/view/AKR20261125091200064",
-      "publishedAt": "2026-11-25T02:45:35.000Z",
-      "excerpt": "(옥천=연합뉴스) 박병기 기자 = 충북 옥천군은 국공립 향수어린이집(옥천읍 가화리)의 '24시 어린이집' 운영을 내년까지 연장한다고 25일 밝혔..."
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125090700052",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "경남 7개 정당 \"한화오션 원하청 교섭에 사측·경남도 나서야\"",
-      "url": "https://www.yna.co.kr/view/AKR20261125090700052",
-      "publishedAt": "2026-11-25T02:45:23.000Z",
-      "excerpt": "(창원·거제=연합뉴스) 정종호 기자 = 기본소득당과 노동당, 녹색당, 더불어민주당, 정의당, 조국혁신당, 진보당(가나다순) 등 경남지역 7개 정..."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611251143001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "노소영 측, 최태원 ‘화해권고’ 요청 거부…“조기 해결 진정성 있다면 상고 취하하라”",
-      "url": "https://www.khan.co.kr/article/202611251143001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-25T02:43:00.000Z",
-      "excerpt": "최태원 SK그룹 회장이 지난 21일 도쿄 분쿄구 도쿄대 야스다 강당에서 열린 ‘도쿄포럼 2026’의 ‘비즈니스 리더 세션’에서 AI 시대에 대학 교육이 어떻게 변해야 하는지 견해를 밝히고 있다. 연합뉴스노소영 아트센터 나비 관장 측이 재산분할 소송 재상고심에서 최태원 SK그룹 회장이 법원에 요청한 화해권고 결정에 동의하지 않는다는 입장을 밝혔다.노 관장 측···"
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125089900001",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "정점식 \"이용철 임명시 공소취소 강행 선언…정권 자멸할 것\"",
-      "url": "https://www.yna.co.kr/view/AKR20261125089900001",
-      "publishedAt": "2026-11-25T02:41:35.000Z",
-      "excerpt": "(서울=연합뉴스) 김연정 이율립 기자 = 국민의힘 정점식 원내대표는 25일 국회 인사청문회를 마친 이용철 법무부 장관 후보자에 대해 \"공소 취소..."
     },
     {
       "id": "techinasia:https://www.techinasia.com/news/bytedance-opens-xiaodou-ai-agent-public-testing-china",
@@ -1270,66 +1354,6 @@
       "excerpt": "Xiaodou can call restaurants or hotels using an AI voice and then report back to users."
     },
     {
-      "id": "khan:https://www.khan.co.kr/article/202611251140001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘남아공 첫 여성 부통령’ 여성 인권 증진 힘쓴 음람보-응쿠카 별세",
-      "url": "https://www.khan.co.kr/article/202611251140001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-25T02:40:00.000Z",
-      "excerpt": "유엔 여성기구의 푸물질레 믈람보은구카 총재가 2015년 6월 남아프리카공화국 케이프타운에서 열린 세계경제포럼(WEF) 아프리카 회의 공동의장 기자회견에서 발언하고 있다. AFP연합뉴스향년 71세···유엔 여성기구 총재 역임남아프리카공화국 최초의 여성 부통령이자 유엔에서 세계 여성 인권 증진 활동을 펼쳐온 품질레 음람보-응쿠카 전 남아공 부통령이 세상을 떠···"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261125088400009",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "이스라엘 야권 첫 연정 합의했지만…'고차방정식'은 여전",
-      "url": "https://www.yna.co.kr/view/AKR20261125088400009",
-      "publishedAt": "2026-11-25T02:39:53.000Z",
-      "excerpt": "(서울=연합뉴스) 노효동 기자 = 이스라엘 차기정부 구성의 주도권을 쥔 가디 아이젠코트 야샤르당 대표가 24일(현지시간) 아비그도르 리버만이 이..."
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125085900001",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "與 \"여성폭력 근절 위해 노력\"…'친밀관계 종합법' 입법 약속",
-      "url": "https://www.yna.co.kr/view/AKR20261125085900001",
-      "publishedAt": "2026-11-25T02:39:16.000Z",
-      "excerpt": "(서울=연합뉴스) 오규진 기자 = 더불어민주당은 25일 세계 여성 폭력 추방의 날을 맞아 \"여성 폭력 근절을 위해 모든 노력을 기울이겠다\"며 이..."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611251138001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘동해페이’ 생활 결제수단으로 안착···시민 87.2% 가입",
-      "url": "https://www.khan.co.kr/article/202611251138001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-25T02:38:00.000Z",
-      "excerpt": "인센티브 상향 후 외식·골목상권 소비 촉진전체 결제액의 80% 생활 필수 업종에 집중동해페이 카드. 동해시 제공강원 동해시 지역 화폐인 ‘동해페이’가 시민 10명 중 8.7명이 사용하는 필수 생활 결제 수단으로 자리 잡았다고 25일 밝혔다.대부분의 시민이 사용하는 동해페이가 골목상권을 지탱하는 핵심적인 플랫폼 역할을 하는 셈이다.동해시가 동해페이 카드 운영···"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261125086100009",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "러시아서 북한인 절도범 잡고보니 드론 공장 노동자",
-      "url": "https://www.yna.co.kr/view/AKR20261125086100009",
-      "publishedAt": "2026-11-25T02:34:53.000Z",
-      "excerpt": "(서울=연합뉴스) 김승욱 기자 = 러시아의 드론 생산 공장에서 북한인 노동자가 활동해 온 정황이 현지 법원의 절도 사건 판결문을 통해 드러났다고..."
-    },
-    {
       "id": "mk:https://www.mk.co.kr/news/economy/12217939",
       "sourceId": "mk",
       "sourceName": "매일경제 경제",
@@ -1340,30 +1364,6 @@
       "url": "https://www.mk.co.kr/news/economy/12217939",
       "publishedAt": "2026-11-25T02:34:12.000Z",
       "excerpt": "우대조건 없는 전북은행 정기예금 연 3.98% SC제일은행 최고 연 4.15%…우대금리 더하면 4%대 가입 한도도 상품별 차이…최대 10억원까지 예치 가능은행 정기예금 금리가 연 .."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611251134001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘핫트랙스’ 이젠 역사 속으로…교보문고, 내년 1월부터 음반 사업 전면 철수",
-      "url": "https://www.khan.co.kr/article/202611251134001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-25T02:34:00.000Z",
-      "excerpt": "‘서점의날’인 11일 서울 종로구 교보문고 광화문점을 찾은 시민들이 책을 살펴보고 있다. 한국서점연합회는 지난 2016년 11월 11일을 ‘서점의 날’로 제정하고 선포했다. 서점의날은 ‘서가에 꽂혀 있는 책’과 이를 읽기 위해 ‘줄지어 서점에 방문하는 사람들’을 연상케 하는 날짜로 전국 서점과 서점인들의 권익과 자긍심을 고취시키고 지역서점을 활성화하기 위해···"
-    },
-    {
-      "id": "techinasia:https://www.techinasia.com/news/huawei-convicted-jury-iran-trade-secret-charges",
-      "sourceId": "techinasia",
-      "sourceName": "Tech in Asia",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Huawei convicted by US jury on Iran, trade secret charges",
-      "url": "https://www.techinasia.com/news/huawei-convicted-jury-iran-trade-secret-charges",
-      "publishedAt": "2026-11-25T02:33:57.000Z",
-      "excerpt": "An internal HSBC probe helped lead to US charges against Huawei CFO Meng Wanzhou."
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=37812&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -1378,18 +1378,6 @@
       "excerpt": "심혈관질환 위험 요인의 장기 변화 를 추적하면 심장마비나 뇌졸중 발생 최대 30년 전부터 위험군을 예측하는 데 도움이 될 수 있다는 연구 결과가 나옴 에든버러대학교 주도 연구팀은 미국, 노르웨이, 영국의 인구집단 연구 4건에서 10만 명 이상 의 데이터를 분석해 심혈관 사건 발생 여부에 따른 위험 요인의 변화 양상을 비교함 이후 심혈관질환이 발생한 집단은 발생하지 않은 집단보다 수축기 혈압 이 30년 전부터 평균 4mmHg 높…"
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261125085400083",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "中화웨이 독자OS 탑재기기 1억대 웃돌아…\"美제재 속 기술 자립\"",
-      "url": "https://www.yna.co.kr/view/AKR20261125085400083",
-      "publishedAt": "2026-11-25T02:33:32.000Z",
-      "excerpt": "(베이징=연합뉴스) 김현정 특파원 = 중국 통신장비업체 화웨이가 미국의 대중국 기술 제재에 대응해 개발한 독자 운영체제(OS) 하모니의 최신 버..."
-    },
-    {
       "id": "wowtale:https://wowtale.net/2026/11/25/268641/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%2595%2584%25eb%25b3%25b4%25eb%25a9%2594%25eb%2593%259c-153%25ec%2596%25b5-%25ec%258b%259c%25eb%25a6%25ac%25ec%25a6%2588d-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%25982027%25eb%2585%2584-ipo-%25ec%25b6%2594%25ec%25a7%2584",
       "sourceId": "wowtale",
       "sourceName": "와우테일",
@@ -1400,18 +1388,6 @@
       "url": "https://wowtale.net/2026/11/25/268641/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%2595%2584%25eb%25b3%25b4%25eb%25a9%2594%25eb%2593%259c-153%25ec%2596%25b5-%25ec%258b%259c%25eb%25a6%25ac%25ec%25a6%2588d-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%25982027%25eb%2585%2584-ipo-%25ec%25b6%2594%25ec%25a7%2584",
       "publishedAt": "2026-11-25T02:31:30.000Z",
       "excerpt": "윌슨병·ARDS 등 희귀·난치성 질환 치료제를 개발하는 아보메드가 153억 원 규모 시리즈D 투자유치를 완료했으며, 누적 투자금은 580억 원이고 2027년 하반기 상장을 목표로 한다."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611251129011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "연봉 4분의 1 줄었지만 MLB 잔류 성공···김하성, 디트로이트와 1년 500만달러 계약",
-      "url": "https://www.khan.co.kr/article/202611251129011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-25T02:29:01.000Z",
-      "excerpt": "올해 애틀랜타 브레이브스에서 뛴 김하성. AP연합뉴스김하성(31)이 미국프로야구 메이저리그(MLB) 잔류에 성공했다. 디트로이트 타이거스와 1년 계약을 맺은 그는 다음 시즌 디트로이트의 유격수로 뛸 예정이다.미국 ‘ESPN’은 25일(한국시간) 김하성이 디트로이트와 1년 500만 달러 계약에 합의했다고 보도했다. ‘MLB.com’에 따르면 이번 계약에는 1···"
     },
     {
       "id": "sedaily:https://www.sedaily.com/article/20118722",
@@ -1472,7 +1448,7 @@
       "title": "“뭘 시키고 싶은거야”…횡설수설 상사 의중 파악도 능력이라는 이 조직",
       "url": "https://www.mk.co.kr/news/economy/12217911",
       "publishedAt": "2026-11-25T02:18:59.000Z",
-      "excerpt": "금감원 조직문화 직원설문 결과 “상급자 의도 파악 잘해야 인정” 관리자 빌런은 ‘그때그때 달라요’ 후임 빌린은 ‘넵 하고 함흥차사’금융감독원 직원들은 상급자의 의중을 잘 파악하는 .."
+      "excerpt": "금감원 조직문화 직원설문 결과 “상급자 의도 파악 잘해야 인정” 관리자 빌런은 ‘그때그때 달라요’ 후임 빌런은 ‘넵 하고 함흥차사’금융감독원 직원들은 상급자의 의중을 잘 파악하는 .."
     },
     {
       "id": "semafor:https://www.semafor.com/article/11/24/2026/pentagon-eyes-gm-for-drone-production-wsj",
@@ -1607,18 +1583,6 @@
       "excerpt": ""
     },
     {
-      "id": "sedaily:https://www.sedaily.com/article/20118678",
-      "sourceId": "sedaily",
-      "sourceName": "서울경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "골드만삭스 “내년 韓 성장률 3.2%…반도체 호황에도 내수 부진”",
-      "url": "https://www.sedaily.com/article/20118678",
-      "publishedAt": "2026-11-25T01:38:19.000Z",
-      "excerpt": ""
-    },
-    {
       "id": "geeknews:https://news.hada.io/topic?id=37808&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "sourceId": "geeknews",
       "sourceName": "GeekNews",
@@ -1700,7 +1664,7 @@
       "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
       "publishedAt": "2026-11-25T01:19:26.000Z",
-      "excerpt": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 253 # Comments: 103"
+      "excerpt": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 311 # Comments: 136"
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-25/japan-s-service-prices-for-businesses-jump-by-most-in-36-years",
@@ -1954,18 +1918,6 @@
       "url": "https://www.inc.com/amaya-nichole/bojangles-charged-100-dollars-10-minute-seat/91442347",
       "publishedAt": "2026-11-24T23:59:46.000Z",
       "excerpt": "Although private businesses can generally impose disclosed seating fees, unclear charges and misleading terms could create legal issues."
-    },
-    {
-      "id": "mk:https://www.mk.co.kr/news/economy/12217731",
-      "sourceId": "mk",
-      "sourceName": "매일경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“부부가 평생 꼬박꼬박 냈는데 0원”…배우자 떠나자 연금 ‘뚝’, 중복지급 상향은",
-      "url": "https://www.mk.co.kr/news/economy/12217731",
-      "publishedAt": "2026-11-24T23:46:34.000Z",
-      "excerpt": "내 연금 선택하면 유족연금 30% 수령 유족연금 택하면 내 연금은 ‘지급정지’ “유족연금 중복지급 재정영향 분석 자료 없어”부부가 평생 맞벌이를 하며 꼬박꼬박 연금 보험료를 냈는데.."
     },
     {
       "id": "wowtale:https://wowtale.net/2026/11/25/268633/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%2584%259c%25ec%259a%25b8%25eb%259e%25a9%25ec%258a%25a4-apac-dao%25ec%2599%2580-%25ec%2586%2590%25ec%259e%25a1%25ea%25b3%25a0-%25eb%25b2%25a0%25ed%258a%25b8%25eb%2582%25a8%25ec%2597%2590-%25eb%258c%2580%25ec%2595%2588%25ec%258b%25a0%25ec%259a%25a9%25ed%258f%2589%25ea%25b0%2580-%25ea%25b8%25b0%25ec%2588%25a0",
@@ -2268,7 +2220,7 @@
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
       "publishedAt": "2026-11-24T21:02:22.000Z",
-      "excerpt": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 205 # Comments: 61"
+      "excerpt": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 214 # Comments: 65"
     },
     {
       "id": "fastco:https://www.fastcompany.com/91648406/trump-is-deploying-a-special-tiger-team-for-thanksgiving-air-travel-heres-why",
@@ -2364,7 +2316,7 @@
       "title": "Ternary Bonsai 2.5 27B",
       "url": "https://prismml.com/news/bonsai-2-5-27b",
       "publishedAt": "2026-11-24T20:08:03.000Z",
-      "excerpt": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 375 # Comments: 127"
+      "excerpt": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 380 # Comments: 129"
     },
     {
       "id": "axios:https://www.axios.com/2026/11/24/trump-turkey-pardon-ballroom",
@@ -2701,7 +2653,7 @@
       "title": "Active intrusion campaign against Check Point security management servers",
       "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "publishedAt": "2026-11-24T16:32:17.000Z",
-      "excerpt": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 271 # Comments: 139"
+      "excerpt": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 272 # Comments: 140"
     },
     {
       "id": "entrepreneur:https://www.entrepreneur.com/business-news/a-thanksgiving-feast-for-just-35-why-grocers-are-willing-to-lose-money-walmart",
@@ -2714,18 +2666,6 @@
       "url": "https://www.entrepreneur.com/business-news/a-thanksgiving-feast-for-just-35-why-grocers-are-willing-to-lose-money-walmart",
       "publishedAt": "2026-11-24T16:25:27.000Z",
       "excerpt": "From Walmart to Aldi, grocers are using meal bundles to attract customers."
-    },
-    {
-      "id": "hn:http://hypercritical.co/2026/11/23/jetty-pro",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Jetty Pro",
-      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-      "publishedAt": "2026-11-24T16:23:02.000Z",
-      "excerpt": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 287 # Comments: 129"
     },
     {
       "id": "franchisetimes:https://www.franchisetimes.com/franchise_news/jeff-s-bagel-run-inks-trio-of-deals-for-multi-state-expansion-plus-more-multi/article_be9674c6-02b5-4ac1-bcac-4bce3ed7e9c8.html",
@@ -2978,18 +2918,6 @@
       "url": "https://www.startupn.kr/news/articleView.html?idxno=60803",
       "publishedAt": "2026-11-24T13:20:35.000Z",
       "excerpt": "개인형 이동장치(PM)가 일상적인 이동수단으로 확산하면서 규제와 단속 중심의 관리에서 벗어나 안전한 이용 환경과 교통 인프라를 함께 마련해야 한다는 목소리가 커지고 있다. 면허 기준을 현실에 맞게 조정하고 주차 공간을 확대하는 한편, 자동차 중심으로 설계된 도로 공간을 재분배해야 한다는 제안이 나왔다.국무총리 소속 민관합동 규제합리화추진단과 국회미래연구원은 지난 23일 서울 중구 한국프레스센터에서 ‘PM의 안전한 이용 및 활성…"
-    },
-    {
-      "id": "hn:https://twitter.com/raul_bs3/status/2125213756238291075",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "GTA 6 Running on Windows",
-      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
-      "publishedAt": "2026-11-24T13:19:31.000Z",
-      "excerpt": "Article URL: https://twitter.com/raul_bs3/status/2125213756238291075 Comments URL: https://news.ycombinator.com/item?id=50627783 Points: 318 # Comments: 411"
     },
     {
       "id": "startupn:https://www.startupn.kr/news/articleView.html?idxno=60802",
@@ -4346,7 +4274,7 @@
       "title": "The Spray Bottle",
       "url": "https://mechanical-pencil.com/products/spray-bottle",
       "publishedAt": "2026-11-22T11:16:30.000Z",
-      "excerpt": "Article URL: https://mechanical-pencil.com/products/spray-bottle Comments URL: https://news.ycombinator.com/item?id=50598555 Points: 401 # Comments: 105"
+      "excerpt": "Article URL: https://mechanical-pencil.com/products/spray-bottle Comments URL: https://news.ycombinator.com/item?id=50598555 Points: 409 # Comments: 106"
     },
     {
       "id": "thedaily:895e35e8-8529-456a-8558-3760a73ec40a",
@@ -4413,7 +4341,7 @@
       "title": "Show HN: Zero C# – C# without a runtime or GC",
       "url": "https://onurgumus.github.io/zero-csharp/index.html",
       "publishedAt": "2026-11-21T15:39:09.000Z",
-      "excerpt": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 180 # Comments: 136"
+      "excerpt": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 180 # Comments: 137"
     },
     {
       "id": "sonkyung:https://podcastfile.imbc.com/cgi-bin/podcast.fcgi/podcast/economy/ECONOMYPLUS_20261121.mp3",
@@ -6483,8 +6411,8 @@
       },
       {
         "id": "hn",
-        "count": 7,
-        "parsed": 7
+        "count": 5,
+        "parsed": 5
       },
       {
         "id": "tldr",
