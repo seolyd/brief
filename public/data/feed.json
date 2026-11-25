@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:12:32.170Z",
+  "generatedAt": "2026-11-25T20:14:53.839Z",
   "domains": [
     {
       "id": "local",
@@ -124,7 +124,7 @@
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "돌아온 황 ‘마이웨이’⋯ “승계 계획 필요 없다”",
+      "title": "“승계 계획 필요 없다” 돌아온 황, ‘마이웨이’ 선언",
       "url": "https://www.kmib.co.kr/article/20261125502158",
       "publishedAt": "2026-11-26T14:34:03.000Z",
       "excerpt": "로이터연합뉴스 중국 스파이 연루 ‘불륜 스캔들’로 물러났다가 11일 만에 복귀한 젠슨 황 엔비디아 최고경영자(CEO)가 “별도의 승계 계획은 필요하지 않다”며 기존의 창업자 중심 경영 체제를 고수하겠다는 뜻을 분명히 했다. 초유의 수장 공백 사태로 ‘1인 지배’ 구조의 한계가 드러났음에도 기존 경영 방식과 시스템을 바꿀 생각이 없다고 선을 그은 것이다. 복귀 과정에서의 백악관 개입 논란과 미국 의회 청문회까지 맞물리면서 황 C…"
@@ -184,7 +184,7 @@
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "[단독] 정착 위해 셔틀버스 없앴는데⋯ 왕복 5시간 ‘통근지옥’도 감수",
+      "title": "[단독] “버스 없애라” 대통령 한마디에⋯출퇴근 현장은 1년째 ‘혼란’",
       "url": "https://www.kmib.co.kr/article/20261125502115",
       "publishedAt": "2026-11-26T12:47:03.000Z",
       "excerpt": "뉴시스 충북혁신도시 한 공공기관에 근무하는 30대 A씨는 매일 출퇴근비로 왕복 2만6000원을 쓴다. 수도권행 통근버스는 최근 중단됐고, 사택은 우선순위에 밀려 들어가지 못했다. A씨는 “길에 버리는 시간이 아깝지만 이중으로 주거비를 낼 수는 없다”고 말했다. 강원도 한 공공기관 직원인 30대 B씨 사정도 비슷하다. 통근버스가 사라진 뒤 매일 오전 5시에 일어나 KTX를 탄 뒤 차를 운전해 회사로 간다. 왕복 5시간 넘는 길이…"
@@ -214,148 +214,556 @@
       "excerpt": "김한권 기감 서울남연회 감독이 최근 서울 동작구 새론교회에서 감독 당선 소감을 밝히며 미소짓고 있다. 신석현 포토그래퍼 “피아노 양 끝의 저음부와 고음부로만 연주하는 곡이 얼마나 될까요. 명연주를 위해선 피아노의 모든 음이 필요합니다. 교회 또한 마찬가지입니다. 각자 역할은 달라도 함께 조화로운 소리를 낼 때 하나님의 역사를 볼 수 있을 거라 믿습니다.” 기독교대한감리회(기감) 서울남연회 신임 감독인 김한권(59) 새론교회 목…"
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/society/labor/1289146.html",
+      "id": "hani:https://www.hani.co.kr/arti/opinion/because/1289160.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "민주노총, 다음달 위원장 선출 결선 투표…양경수-엄길용 맞대결",
-      "url": "https://www.hani.co.kr/arti/society/labor/1289146.html",
-      "publishedAt": "2026-11-25T19:12:30.217Z",
+      "title": "나쁜 일자리라도 줄 테니 시간과 삶 내놓으라? [왜냐면]",
+      "url": "https://www.hani.co.kr/arti/opinion/because/1289160.html",
+      "publishedAt": "2026-11-25T20:14:51.586Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/international/international_general/1289145.html",
+      "id": "hani:https://www.hani.co.kr/arti/hanihealth/medical/1289159.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "미국, ‘과잉생산 관세’ 예고…“한국은 15% 상한 유지”",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1289145.html",
-      "publishedAt": "2026-11-25T19:12:30.217Z",
+      "title": "요양병원 퇴원 후 일상 복귀, 어떤 도움을 받을 수 있을까? [건강한겨레]",
+      "url": "https://www.hani.co.kr/arti/hanihealth/medical/1289159.html",
+      "publishedAt": "2026-11-25T20:14:51.586Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/international/international_general/1289144.html",
+      "id": "hani:https://www.hani.co.kr/arti/hanihealth/medical/1289158.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "미, 14개국에 과잉생산 관세…“한국 15% 상한 유지”",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1289144.html",
-      "publishedAt": "2026-11-25T19:12:30.217Z",
+      "title": "“아이들 근시, 병원에만 맡겨선 안 돼”…정부·학교·의료계 뭉친 싱가포르 [건강한겨레]",
+      "url": "https://www.hani.co.kr/arti/hanihealth/medical/1289158.html",
+      "publishedAt": "2026-11-25T20:14:51.586Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/opinion/editorial/1289143.html",
+      "id": "hani:https://www.hani.co.kr/arti/hanihealth/pharm/1289157.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "[사설] 무분별한 ‘친중-반미’ 딱지 붙이기, 국익에 무슨 도움 되나",
-      "url": "https://www.hani.co.kr/arti/opinion/editorial/1289143.html",
-      "publishedAt": "2026-11-25T19:12:30.217Z",
+      "title": "노화를 관리하는 새로운 관점…“세포 생태계 속도를 다스려라”",
+      "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1289157.html",
+      "publishedAt": "2026-11-25T20:14:51.586Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/politics/bluehouse/1289142.html",
+      "id": "hani:https://www.hani.co.kr/arti/hanihealth/healthcolumn/1289156.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "이 대통령 “공적주택, 2030년까지 매해 24만호 공급…중산층 선택지 돼야”",
-      "url": "https://www.hani.co.kr/arti/politics/bluehouse/1289142.html",
-      "publishedAt": "2026-11-25T19:12:30.217Z",
+      "title": "항암제는 왜 암덩어리 구석구석까지 도달하지 못할까",
+      "url": "https://www.hani.co.kr/arti/hanihealth/healthcolumn/1289156.html",
+      "publishedAt": "2026-11-25T20:14:51.586Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/society/society_general/1289141.html",
+      "id": "hani:https://www.hani.co.kr/arti/hanihealth/medical/1289155.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "창원 판사회의 ‘조희대 탄핵’ 반대…“재판 이유 법관 탄핵 헌법 가치 훼손”",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1289141.html",
-      "publishedAt": "2026-11-25T19:12:30.217Z",
+      "title": "제1회 대한민국 환자중심대상에 한국아스트라제네카의 ‘희망샘’ [건강한겨레]",
+      "url": "https://www.hani.co.kr/arti/hanihealth/medical/1289155.html",
+      "publishedAt": "2026-11-25T20:14:51.586Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/society/schooling/1289140.html",
+      "id": "hani:https://www.hani.co.kr/arti/society/schooling/1289154.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "전교조 박영환 위원장 연임…2028년까지",
-      "url": "https://www.hani.co.kr/arti/society/schooling/1289140.html",
-      "publishedAt": "2026-11-25T19:12:30.217Z",
+      "title": "“그 많은 가방 어디다 보관하란 거냐”…기말고사 AI커닝 대책에 학교 혼란",
+      "url": "https://www.hani.co.kr/arti/society/schooling/1289154.html",
+      "publishedAt": "2026-11-25T20:14:51.586Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/politics/assembly/1289139.html",
+      "id": "hani:https://www.hani.co.kr/arti/economy/car/1289153.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "민주, ‘조희대 탄핵’ 동력 넓히고…범진보 결속 꾀하겠단 포석",
-      "url": "https://www.hani.co.kr/arti/politics/assembly/1289139.html",
-      "publishedAt": "2026-11-25T19:12:30.217Z",
+      "title": "[르포] 하루에 현대차 4대, BYD 34대 팔렸다…호주의 ‘자동차 매드맥스’",
+      "url": "https://www.hani.co.kr/arti/economy/car/1289153.html",
+      "publishedAt": "2026-11-25T20:14:51.586Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/politics/assembly/1289138.html",
+      "id": "hani:https://www.hani.co.kr/arti/hanihealth/medical/1289152.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "국힘 “강금실 ‘친중·반미’” 지명 철회 촉구…민주 “낡은 색깔론”",
-      "url": "https://www.hani.co.kr/arti/politics/assembly/1289138.html",
-      "publishedAt": "2026-11-25T19:12:30.217Z",
+      "title": "“근시 증가는 공중보건 비상사태”…중국, 학교 숙제도 줄였다 [건강한겨레]",
+      "url": "https://www.hani.co.kr/arti/hanihealth/medical/1289152.html",
+      "publishedAt": "2026-11-25T20:14:51.586Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/politics/assembly/1289137.html",
+      "id": "hani:https://www.hani.co.kr/arti/hanihealth/medical/1289151.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "“자리 요구 막히니 폭로”…국힘 ‘조작징계’ 진흙탕 싸움",
-      "url": "https://www.hani.co.kr/arti/politics/assembly/1289137.html",
-      "publishedAt": "2026-11-25T19:12:30.217Z",
+      "title": "잘못된 항생제 복용 습관, ‘감염병 치료의 미래’ 무너뜨린다 [건강한겨레]",
+      "url": "https://www.hani.co.kr/arti/hanihealth/medical/1289151.html",
+      "publishedAt": "2026-11-25T20:14:51.586Z",
       "excerpt": ""
     },
     {
-      "id": "donga:https://www.donga.com/news/It/article/all/20261126/135092822/1",
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125177800504",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "\"도발에 응징은 하책\"…청문회 앞둔 홍익표의 과거 발언 주목",
+      "url": "https://www.yna.co.kr/view/AKR20261125177800504",
+      "publishedAt": "2026-11-25T20:01:00.000Z",
+      "excerpt": "(서울=연합뉴스) 하채림 기자 = 홍익표 통일부 장관 후보자는 8년간 남북관계 단절 속에서 이재명 정부의 한반도 평화공존 정책의 지휘관으로 발탁..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125150200001",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "국세청장 후보자 인사청문회…비거주 1주택 등 공방 예상",
+      "url": "https://www.yna.co.kr/view/AKR20261125150200001",
+      "publishedAt": "2026-11-25T20:00:03.000Z",
+      "excerpt": "(서울=연합뉴스) 오규진 기자 = 국회 재정경제기획위원회는 26일 안덕수 국세청장 후보자에 대한 인사청문회를 연다."
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125099500051",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "'1심 유죄·2심 무죄' 김석준 부산교육감 오늘 대법 선고",
+      "url": "https://www.yna.co.kr/view/AKR20261125099500051",
+      "publishedAt": "2026-11-25T20:00:02.000Z",
+      "excerpt": "(부산=연합뉴스) 차근호 기자 = 전국교직원노동조합(전교조) 해직 교사 특별채용 과정에서 직권을 남용한 혐의로 기소돼 1심에서 유죄, 2심에서 ..."
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125160700001",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "김민석, 오늘 충북서 소방관과 현장 간담회…민원 청취",
+      "url": "https://www.yna.co.kr/view/AKR20261125160700001",
+      "publishedAt": "2026-11-25T20:00:02.000Z",
+      "excerpt": "(서울=연합뉴스) 오규진 기자 = 더불어민주당 김민석 대표는 26일 충북을 찾아 소방관과 간담회를 하고 애로사항을 청취한다."
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125171100001",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "국힘, 오늘 용인서 '조작기소 특검법' 규탄 대회",
+      "url": "https://www.yna.co.kr/view/AKR20261125171100001",
+      "publishedAt": "2026-11-25T20:00:00.000Z",
+      "excerpt": "(서울=연합뉴스) 이율립 기자 = 국민의힘은 26일 경기 용인시에서 조작기소 특검법에 반대하는 '100% 위헌 이재명 탈옥법 용인 규탄 대회'를..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261126006200087",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "부켈레의 엘살바도르 감옥 '세코트' 중남미 우파의 '성지' 되나",
+      "url": "https://www.yna.co.kr/view/AKR20261126006200087",
+      "publishedAt": "2026-11-25T19:57:16.000Z",
+      "excerpt": "(멕시코시티=연합뉴스) 송광호 특파원 = 24시간 내내 조명이 켜진 환한 풍경. 잠을 청하기조차 어려운 비좁은 감방 안에는 수형자들이 득실거린다..."
+    },
+    {
+      "id": "inc:https://www.inc.com/chloe-aiello/hackers-breached-u-s-intelligence-agencies-with-a-tool-anyone-can-still-find-online/91443083",
+      "sourceId": "inc",
+      "sourceName": "Inc.",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "Hackers Breached U.S. Intelligence Agencies With a Tool Anyone Can Still Find Online",
+      "url": "https://www.inc.com/chloe-aiello/hackers-breached-u-s-intelligence-agencies-with-a-tool-anyone-can-still-find-online/91443083",
+      "publishedAt": "2026-11-25T19:53:43.000Z",
+      "excerpt": "Authorities are suspect state-backed hackers from China, Iran, or Russia are responsible for cyberattacks on energy tankers and intelligence agencies."
+    },
+    {
+      "id": "nrn:https://www.nrn.com/emerging-chains/heytea-launches-new-matcha-lab-in-new-york-city",
+      "sourceId": "nrn",
+      "sourceName": "Nation's Restaurant News",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "Heytea launches new Matcha Lab in New York City",
+      "url": "https://www.nrn.com/emerging-chains/heytea-launches-new-matcha-lab-in-new-york-city",
+      "publishedAt": "2026-11-25T19:48:45.000Z",
+      "excerpt": "The China-based beverage chain hopes to spark deeper appreciation for the tea, but also encourage experimentation."
+    },
+    {
+      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008863732",
+      "sourceId": "sbs-head",
+      "sourceName": "SBS 주요뉴스",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "미, 한국 등 14곳에 '과잉생산' 관세…15% 상한 유지",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863732",
+      "publishedAt": "2026-11-25T19:48:00.000Z",
+      "excerpt": "▲ 제이미슨 그리어 미국 무역대표부 대표미국이 한국을 포함해 14개 경제주체에 과잉생산을 문제 삼는 관세를 예고했습니다.무역법 301…"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261126005400071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "美민주, 하원 259석으로 늘어…36년만에 최다 의석",
+      "url": "https://www.yna.co.kr/view/AKR20261126005400071",
+      "publishedAt": "2026-11-25T19:46:51.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 민주당의 연방하원 의석이 259석으로 늘어났다. 이는 민주당이 1990년 이후 확보한 가장 많은 하원..."
+    },
+    {
+      "id": "nrn:https://www.nrn.com/casual-dining/6-take-aways-on-brazilian-steakhouse-chain-fogo-de-ch-o-s-booming-popularity",
+      "sourceId": "nrn",
+      "sourceName": "Nation's Restaurant News",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "6 take-aways on Brazilian steakhouse chain Fogo de Chão’s booming popularity",
+      "url": "https://www.nrn.com/casual-dining/6-take-aways-on-brazilian-steakhouse-chain-fogo-de-ch-o-s-booming-popularity",
+      "publishedAt": "2026-11-25T19:45:03.000Z",
+      "excerpt": "How Barry McGowan has turned the nearly 50-year-old churrascaria inspired chain into one of the nation’s most exciting growth stories."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261126005200071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "美, '韓과잉생산' 반도체·車 조준…'관세 25% 인상여지' 으름장",
+      "url": "https://www.yna.co.kr/view/AKR20261126005200071",
+      "publishedAt": "2026-11-25T19:44:49.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 백나리 특파원 = 미국 무역대표부(USTR)가 25일(현지시간) 내놓은 과잉생산 관세 예고 보고서에는 한국의 전략산업 육성 ..."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Entertainment/article/all/20261126/135092839/1",
       "sourceId": "donga",
       "sourceName": "동아일보",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "우주로 보낸 ‘미니 뇌’ 40일 뒤 보니…알츠하이머 단백질 늘었다",
-      "url": "https://www.donga.com/news/It/article/all/20261126/135092822/1",
-      "publishedAt": "2026-11-25T19:10:53.000Z",
-      "excerpt": "국제우주정거장(ISS)에서 인간 뇌 조직을 본떠 만든 ‘미니 뇌’를 40일간 배양했더니 일부에서 알츠하이머병과 관련된 단백질이 지상 배양군보다 증가했다. 유전자 활동에도 변화가 나타나면서 우주 환경을 뇌 질환 연구에 활용할 가능성이 제시됐다.미국 캘리포니아대 샌디에이고(UCSD) 등 국제 공동연구진은 이 같은 연구 결과를 국제학술지 ‘사이언스 어드밴시스’에 26일 발표했다.알츠하이머병은 기억력과 인지 기능이 점차 떨어지는 퇴행…"
+      "title": "투모로우바이투게더, 日 오리콘 주간 3관왕…합산 앨범 역대 최다 1위",
+      "url": "https://www.donga.com/news/Entertainment/article/all/20261126/135092839/1",
+      "publishedAt": "2026-11-25T19:44:37.000Z",
+      "excerpt": "그룹 ‘투모로우바이투게더’(TXT·투바투가 일본 오리콘 주간 차트 3관왕을 차지했다.25일 오리콘에 따르면, 투모로우바이투게더의 미니 9집 ‘퍼펙트 스톰(PERFECT STORM)’은 최신 ‘주간 합산 앨범 랭킹’(11월 30일 자·집계 기간 11월 16~22일)에서 26만3313포인트를 기록하며 1위에 올랐다.이로써 투모로우바이투게더는 해당 차트 통산 15번째 정상을 밟으며 일본과 해외 아티스트를 통틀어 역대 최다 1위 기록…"
     },
     {
-      "id": "donga:https://www.donga.com/news/Culture/article/all/20261126/135092819/1",
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261126006600079",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "네타냐후 \"재판은 무너졌다\"…부패 재판 종결 촉구",
+      "url": "https://www.yna.co.kr/view/AKR20261126006600079",
+      "publishedAt": "2026-11-25T19:44:26.000Z",
+      "excerpt": "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 법원이 부패 재판의 주요 형사 혐의 대부분을 철회할 것을 권고하자 베냐민 네타냐후 총리는 자신의 ..."
+    },
+    {
+      "id": "inc:https://www.inc.com/lucia-auerbach/bacardi-bought-angels-envy-11-years-ago-now-suing-former-executive-new-whiskey/91442766",
+      "sourceId": "inc",
+      "sourceName": "Inc.",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "Bacardi Bought Angel’s Envy 11 Years Ago. Now It’s Suing a Former Executive Over His New Whiskey",
+      "url": "https://www.inc.com/lucia-auerbach/bacardi-bought-angels-envy-11-years-ago-now-suing-former-executive-new-whiskey/91442766",
+      "publishedAt": "2026-11-25T19:35:54.000Z",
+      "excerpt": "The spirits giant claims the former executive’s new whiskey brand is misleading consumers. The lawsuit raises questions about how founders can promote the businesses they have sold."
+    },
+    {
+      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-25/fed-beige-book-shows-moderate-growth-uptick-in-wage-pressures",
+      "sourceId": "bbg-econ",
+      "sourceName": "Bloomberg Economics",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Fed Beige Book Shows Moderate Growth, Uptick in Wage Pressures",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/fed-beige-book-shows-moderate-growth-uptick-in-wage-pressures",
+      "publishedAt": "2026-11-25T19:35:50.000Z",
+      "excerpt": "Most Federal Reserve districts saw slight to moderate growth in recent weeks, and companies reported increased wage pressures, according to a survey of the central bank’s regional contacts."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261126/135092835/1",
       "sourceId": "donga",
       "sourceName": "동아일보",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "효민, 이탈리아서 비키니 자태…꾸준한 운동 탄탄한 몸매",
-      "url": "https://www.donga.com/news/Culture/article/all/20261126/135092819/1",
-      "publishedAt": "2026-11-25T19:10:37.000Z",
-      "excerpt": "그룹 티아라 멤버 효민이 비키니를 입은 사진을 공개해 그의 몸매 관리법에 다시 한번 관심이 쏠리고 있다.효민은 지난 24일 자신의 소셜미디어(SNS)에 “아기자기한 산장들이 모여있는 하나의 작은 마을 같았던 돌로미티의 두번째 숙소”라는 글과 함께 여행 중 찍은 사진 여러 장을 공개했다.사진 속 효민은 검은색 비키니를 입고 포즈를 취하고 있다. 데뷔 17년 차라는 말이 무색할 만큼 변함없이 탄탄하고 늘씬한 몸매를 뽐내 팬들의 감…"
+      "title": "“사랑한다, 건강하니? 밥 먹자”…이혼 반년인데, 끝없이 카톡 하는 전 시모",
+      "url": "https://www.donga.com/news/Society/article/all/20261126/135092835/1",
+      "publishedAt": "2026-11-25T19:34:17.000Z",
+      "excerpt": "이혼한 지 6개월이 지났는데도 수시로 안부를 묻고 애정 표현을 하는 전 시어머니 지나친 관심이 불편하다는 사연이 전해졌다.25일 한 온라인 커뮤니티를 통해 A 씨는 “이혼한 지 6개월이 넘었는데 시어머니한테서 자꾸 연락이 온다”며 “잊을 만하면 한 번씩 밤낮을 가리지 않고 카톡을 보내신다”고 고민을 털어놨다.A 씨는 결혼생활 당시 시어머니와 특별한 갈등은 없었지만 살갑게 지내는 사이도 아니었다고 한다. 오히려 조금 데면데면하게…"
+    },
+    {
+      "id": "inc:https://www.inc.com/sneha-saigal/75-percent-of-holiday-shoppers-want-to-buy-from-a-small-business-and-many-are-asking-ai-for-ideas-take-4-steps-to-get-recommended/91435732",
+      "sourceId": "inc",
+      "sourceName": "Inc.",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "75 Percent of Holiday Shoppers Want to Buy From a Small Business—and Many Are Asking AI for Ideas. Take 4 Steps to Get Recommended",
+      "url": "https://www.inc.com/sneha-saigal/75-percent-of-holiday-shoppers-want-to-buy-from-a-small-business-and-many-are-asking-ai-for-ideas-take-4-steps-to-get-recommended/91435732",
+      "publishedAt": "2026-11-25T19:33:37.000Z",
+      "excerpt": "With 65 percent of holiday shoppers turning to AI for gift ideas, chatbots are the new storefront. Here are 4 ways small businesses can get recommended by ChatGPT, Gemini, and Perplexity—without blowing their ad budget."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Inter/article/all/20261126/135092832/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "美 육군, 아이오와서 독성 납 폭발물 4.5t 폭파 처리…주민 대피령",
+      "url": "https://www.donga.com/news/Inter/article/all/20261126/135092832/1",
+      "publishedAt": "2026-11-25T19:33:21.000Z",
+      "excerpt": "미국 육군이 아이오와주 탄약 공장에 10년 넘게 보관돼 있던 독성 납 폭발물 약 4.5t을 통제된 방식으로 폭파 처리했다. 변질된 폭발물의 자연 폭발 위험이 커진 데 따른 조치로, 작업 과정에서 인근 주민들에게 대피령이 내려지는 등 안전 논란이 이어졌다.AP통신, CNN 등 외신에 따르면 애덤 텔 미 육군 장관 대행은 25일(현지 시간) X(옛 트위터)를 통해 “통제된 폭발 작업이 모든 예상을 뛰어넘는 엄청난 성공을 거뒀다”고…"
+    },
+    {
+      "id": "inc:https://www.inc.com/tim-hilcove/ai-could-be-harming-your-brand-without-you-even-knowing-it/91441190",
+      "sourceId": "inc",
+      "sourceName": "Inc.",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "AI could be harming your brand without you even knowing it",
+      "url": "https://www.inc.com/tim-hilcove/ai-could-be-harming-your-brand-without-you-even-knowing-it/91441190",
+      "publishedAt": "2026-11-25T19:33:00.000Z",
+      "excerpt": "Using AI to generate images is not the same as having a design process."
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=37849&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "GitHub 제품 전반의 서비스 저하 조사",
+      "url": "https://news.hada.io/topic?id=37849&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-25T19:31:24.000Z",
+      "excerpt": "GitHub의 Actions, Webhooks 등 8개 서비스 에서 성능 또는 가용성 저하가 발생했으며, 최종적으로 장애가 해결됨 장애 대응 중 높은 데이터베이스 부하로 인한 실패 증가 를 확인하고, 부하를 줄여 서비스를 복구하는 조치를 진행함 데이터베이스 부하 분산을 조정 한 뒤 복구 징후가 나타났으며, 서비스별로 장애 완화와 안정성 모니터링을 진행함 2026년 11월 25일 15:55 UTC에 조사 공지 를 시작하고, 16…"
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125182900063",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "철도노조, 오전 9시부터 '안전운행 투쟁'…일부 열차 지연 예상",
+      "url": "https://www.yna.co.kr/view/AKR20261125182900063",
+      "publishedAt": "2026-11-25T19:30:00.000Z",
+      "excerpt": "(대전=연합뉴스) 이재림 기자 = 전국철도노동조합(철도노조)이 승진 제도 개선·추가 수당 지급·인력 확충을 요구하며 26일 오전 9시부터 쟁의 ..."
+    },
+    {
+      "id": "inc:https://www.inc.com/marc-berman/own-bank-on-her-shark-tank/91442817",
+      "sourceId": "inc",
+      "sourceName": "Inc.",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "OWN Just Announced a ‘Shark Tank’ Rival, But the Biggest Difference Isn’t the Panel",
+      "url": "https://www.inc.com/marc-berman/own-bank-on-her-shark-tank/91442817",
+      "publishedAt": "2026-11-25T19:30:00.000Z",
+      "excerpt": "‘Bank on Her’ will highlight women entrepreneurs pitching for a life-changing investment."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Inter/article/all/20261126/135092301/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "추수감사절 ‘사면’하는 트럼프",
+      "url": "https://www.donga.com/news/Inter/article/all/20261126/135092301/2",
+      "publishedAt": "2026-11-25T19:30:00.000Z",
+      "excerpt": "도널드 트럼프 미국 대통령(왼쪽)과 부인 멜라니아 여사가 24일(현지 시간) 워싱턴 백악관에서 추수감사절 칠면조 사면 행사에 참석해 칠면조 ‘프리덤’을 바라보고 있다. 백악관에선 매년 추수감사절을 앞두고 선물받은 칠면조를 식탁에 올리지 않고 살려주는 전통이 있다. 올해 대통령으로부터 사면받은 칠면조 ‘프리덤’과 ‘페더스’는 백악관 인근 5성급 호텔의 스위트룸에 묵으며 기자회견을 갖는 등 VIP 대접을 받았다."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Culture/article/all/20261126/135091813/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "책장 한칸에 차린 내 책방… ‘공유서점’, 취향을 꽂는다",
+      "url": "https://www.donga.com/news/Culture/article/all/20261126/135091813/2",
+      "publishedAt": "2026-11-25T19:30:00.000Z",
+      "excerpt": "권리금 0원, 인테리어 비용 0원. 그리고 월세는 5만 원에서 6만 원. 서울 마포구 연남동에 서점을 차리는 데 드는 비용이다. 믿기 어렵겠지만, 조건이 하나 있다. 매장 크기가 ‘가로 35cm, 세로 32cm’. 1인 출판사 ‘후즈갓마이테일’의 황정혜 대표(48)는 1년 전 이 조건으로 서점 주인이 됐다. 이른바 ‘공유서점’이다.● 서점 안에 서점 100개황 대표의 서점이 있는 곳은 연남동에 있는 공유서점 ‘연남서가’다. 2…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Culture/article/all/20261126/135091809/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "서울 찍고 부산 넘어 ‘소도시’로… 확 넓어진 K-관광지도",
+      "url": "https://www.donga.com/news/Culture/article/all/20261126/135091809/2",
+      "publishedAt": "2026-11-25T19:30:00.000Z",
+      "excerpt": "지난달 15일 경남 함안군 무진정에서 열린 ‘낙화놀이’ 현장. 아름다운 불꽃이 일제히 물 위로 쏟아지는 가운데, 이 광경을 즐기는 관광객 1500명은 모두 일본인이었다. 한국관광공사가 지방자치단체와 함께 기획한 ‘저팬 스페셜 데이(Japan Day)’ 행사다. 일본 후쿠오카에서 온 미야야마(宮山) 씨는 “서울과 부산은 여러 번 가봤지만, 함안은 이번 여행을 통해 처음 알게 됐다”며 “한국 드라마 속 주인공이 된 느낌이었다. 내…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Culture/article/all/20261126/135091811/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "죽은 벗과 어울렸던 겨울밤… 그때 하늘선 푹푹 눈 내렸지",
+      "url": "https://www.donga.com/news/Culture/article/all/20261126/135091811/2",
+      "publishedAt": "2026-11-25T19:30:00.000Z",
+      "excerpt": "존 휴스턴 감독의 마지막 영화 ‘죽은 사람들(The Dead·1987년)’에서 눈은 죽은 이들에 대한 기억을 환기하고, 삶과 죽음을 아울러 인간 존재의 유한함을 애도하는 계기가 된다. 조선 후기 박제가(1750∼1805)도 내리는 눈을 바라보며 죽은 벗을 떠올렸다.같은 서얼 신분으로 수학과 천문학에도 밝았던 유금(柳琴)을 추억한 작품이다. 유금의 초명은 련(璉)이었는데, 거문고를 유독 좋아해 금(琴)으로 개명했다고 한다. 박제…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Entertainment/article/all/20261126/135091659/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[오늘의 채널A]국힘 ‘조작 징계’ 의혹 공방",
+      "url": "https://www.donga.com/news/Entertainment/article/all/20261126/135091659/2",
+      "publishedAt": "2026-11-25T19:30:00.000Z",
+      "excerpt": "윤민우 국민의힘 중앙윤리위원장이 한동훈 무소속 의원 등의 징계가 조작됐다고 주장해 온 최모 교수의 주장에 대해 반박에 나섰다. 국민의힘은 의혹을 제기한 황경성 윤리위원에 대한 법적 조치에 들어갔다. ‘조작 징계’ 의혹을 둘러싼 국민의힘 상황을 점검해 본다."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/It/article/all/20261126/135091253/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "‘고음불가’ 5060, 12주 훈련하고 3옥타브 뚫었다[이진한 의학전문기자의 메디컬 체험]",
+      "url": "https://www.donga.com/news/It/article/all/20261126/135091253/2",
+      "publishedAt": "2026-11-25T19:30:00.000Z",
+      "excerpt": "“노래방만 가면 주눅 들었는데 12주 훈련 끝에 3옥타브 ‘레’까지 올라가네요.” 노래방 구석 자리에서 항상 마이크를 외면하던 중년 남성들이 12주간의 도전 끝에 숨어 있던 목소리를 되찾았다. 학창시절 음악 성적표에 ‘미’만 찍혔던 이들의 오랜 한이 풀리는 순간이었다. 본보 기자와 하태국 포근한맘요양병원 원장(가정의학과 전문의)이 참여한 ‘꽃중년 남성 목소리 고음 프로젝트’의 최종 성적표가 나왔다. 12주 동안의 훈련 과정은 …"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261126/135091248/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "환자 운전 적합성 판단, ‘의사 목소리’도 담아야[기고/이재명]",
+      "url": "https://www.donga.com/news/Society/article/all/20261126/135091248/2",
+      "publishedAt": "2026-11-25T19:30:00.000Z",
+      "excerpt": "최근 교통사고로 중환자외상외과에 한 택시 기사가 입원했다. 환자는 운전 중 갑자기 의식을 잃었다고 한다. 외상 환자를 진료할 때는 사고 원인을 규명하는 것도 중요하다. 단순한 운전 부주의가 아니라 의식 소실을 유발한 기저질환이 존재할 수 있고, 그 원인을 발견하지 못한다면 같은 사고가 반복될 위험이 있기 때문이다. 검사 결과 환자는 심각한 만성 폐질환을 갖고 있었다. 결핵으로 한쪽 폐의 기능이 크게 손상됐고, 간헐적으로 혈중 …"
+    },
+    {
+      "id": "axios:https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+      "sourceId": "axios",
+      "sourceName": "Axios",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+      "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+      "publishedAt": "2026-11-25T19:28:00.000Z",
+      "excerpt": "Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing back on Axios' reporting about a growing ideological divide among top AI executives. Why it matters: This is Amodei's most sig…"
+    },
+    {
+      "id": "semafor:https://www.semafor.com/article/11/25/2026/house-democrats-chart-path-on-trading-bans",
+      "sourceId": "semafor",
+      "sourceName": "Semafor",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "House Democrats chart path on trading bans",
+      "url": "https://www.semafor.com/article/11/25/2026/house-democrats-chart-path-on-trading-bans",
+      "publishedAt": "2026-11-25T19:27:44.000Z",
+      "excerpt": "Democrats may ban members from using prediction markets as part of a measure governing the House — then vote on standalone legislation that would prevent elected officials from trading individual stocks and most cryptocurrencies, Rep. Seth …"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261126005000075",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "미국서 유독성 軍폭발물 4.5t 터트려 폐기…주민들 납오염 우려",
+      "url": "https://www.yna.co.kr/view/AKR20261126005000075",
+      "publishedAt": "2026-11-25T19:26:17.000Z",
+      "excerpt": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 미군이 폭발물 기폭제용 화학물질 약 4.5t을 통제 폭파하는 방식으로 폐기 처리했다."
+    },
+    {
+      "id": "inc:https://www.inc.com/javier-david/how-the-dallas-cowboys-turned-a-thanksgiving-tradition-into-a-fundraising-powerhouse/91442953",
+      "sourceId": "inc",
+      "sourceName": "Inc.",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "How the Dallas Cowboys Turned a Thanksgiving Tradition Into a Fundraising Powerhouse",
+      "url": "https://www.inc.com/javier-david/how-the-dallas-cowboys-turned-a-thanksgiving-tradition-into-a-fundraising-powerhouse/91442953",
+      "publishedAt": "2026-11-25T19:20:56.000Z",
+      "excerpt": "Cowboys owner Jerry Jones’s foundation is donating $30 million to the Salvation Army, marking three decades of partnership."
+    },
+    {
+      "id": "inc:https://www.inc.com/bruce-crumley/employers-think-women-take-nearly-all-parental-leave-the-data-tells-a-different-story/91442721",
+      "sourceId": "inc",
+      "sourceName": "Inc.",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "Employers Think Women Take Nearly All Parental Leave. The Data Tells a Different Story",
+      "url": "https://www.inc.com/bruce-crumley/employers-think-women-take-nearly-all-parental-leave-the-data-tells-a-different-story/91442721",
+      "publishedAt": "2026-11-25T19:15:32.000Z",
+      "excerpt": "Employers think women dominate parental leave, but the numbers reveal a much narrower gender divide and an unexpected paid-leave gap."
+    },
+    {
+      "id": "nrn:https://www.nrn.com/restaurant-technology/tech-tracker-opentable-to-acquire-australia-s-me-u",
+      "sourceId": "nrn",
+      "sourceName": "Nation's Restaurant News",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "Tech Tracker: OpenTable to acquire Australia’s Me&u",
+      "url": "https://www.nrn.com/restaurant-technology/tech-tracker-opentable-to-acquire-australia-s-me-u",
+      "publishedAt": "2026-11-25T19:07:31.000Z",
+      "excerpt": "Also, Resy adds rewards for AmEx members, Square and SpotOn launch new AI agents, and Toast names a new CFO."
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=37848&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -382,42 +790,6 @@
       "excerpt": "These measures can mitigate the risk of one employee having to know everything."
     },
     {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261126/135092816/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "독일 외무장관 “젠슨 황 CEO 복귀 트럼프 개입에 충격받아”",
-      "url": "https://www.donga.com/news/Inter/article/all/20261126/135092816/1",
-      "publishedAt": "2026-11-25T18:55:08.000Z",
-      "excerpt": "요한 바데풀 독일 외무장관은 24일(현지 시간) 도널드 트럼프 미국 대통령의 젠슨 황 엔비디아 최고경영자(CEO) 복귀 개입에 대해 “충격받았다”는 반응을 보였다. 정치권이 개별 기업의 경영 활동에 개입하는 것은 전례가 없다며 우려를 표했다.AFP통신 등에 따르면 바데풀 장관은 이날 베를린에서 열린 외교포럼에서 황 CEO 복귀에 관한 질문에 “솔직히 말해 충격받았다”며 “개별 기업에 관해 이런 정치적 개입을 경험하거나 목격한 …"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261126/135092813/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "美 정재계 젠슨 황 복귀 후폭풍…“자본주의 아닌 마오주의”",
-      "url": "https://www.donga.com/news/Inter/article/all/20261126/135092813/1",
-      "publishedAt": "2026-11-25T18:54:14.000Z",
-      "excerpt": "중국 스파이 불륜 스캔들로 엔비디아 최고경영자(CEO) 자리에서 물러났던 젠슨 황의 전격 복귀를 놓고 미국 내 비판 여론이 가라앉지 않고 있다. 특히 도널드 트럼프 대통령이 엔비디아 이사회를 압박, 자본주의 질서를 위협하고 있다는 우려가 크다. 24일(현지 시간) 뉴욕타임스(NYT)와 워싱턴포스트(WP) 등 미국 주요 언론은 트럼프 대통령이 한 하나의 기업, 단 한 명의 기업인을 위해 국가 안보와 자본주의 질서를 무시했다는 취…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261126/135092810/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "11일 공백에도 ‘승계계획’ 필요없다?…젠슨 황 고집의 이유",
-      "url": "https://www.donga.com/news/Inter/article/all/20261126/135092810/1",
-      "publishedAt": "2026-11-25T18:53:58.000Z",
-      "excerpt": "젠슨 황 엔비디아 최고경영자(CEO)가 최근 자신의 사임으로 11일간 경영 공백을 겪고도 별도 승계 계획은 필요하지 않다는 입장을 고수했다. 승계 구도가 오히려 불필요한 위계질서를 만들 수 있다는 이유에서다.25일(현지시간) 미국 정보기술(IT) 매체 테크크런치에 따르면 황 CEO는 최근 전 직원 회의에서 엔비디아의 독특한 사업 구조상 별도의 CEO 승계계획이 필요하지 않다는 취지로 말했다.특히 승계계획을 마련할 경우 조직 내…"
-    },
-    {
       "id": "inc:https://www.inc.com/aaron-mok/anthropic-claude-turn-workflows-into-desktop-apps/91442773",
       "sourceId": "inc",
       "sourceName": "Inc.",
@@ -442,30 +814,6 @@
       "excerpt": "(샌프란시스코=연합뉴스) 권영전 특파원 = 일론 머스크의 우주기업 스페이스X가 인공지능(AI) 우주 데이터센터를 위한 위성 100만 기 배치를 ..."
     },
     {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261126/135092806/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "이스라엘 법원, 네타냐후 뇌물 혐의에 제동…“유죄 입증 어려워”",
-      "url": "https://www.donga.com/news/Inter/article/all/20261126/135092806/1",
-      "publishedAt": "2026-11-25T18:43:11.000Z",
-      "excerpt": "베냐민 네타냐후 이스라엘 총리의 형사 재판을 담당하는 법원이 총리에게 적용된 핵심 뇌물수수 혐의에 대해 유죄를 입증하기 어려울 것으로 보인다며 검찰에 기소 내용 재검토를 권고했다.25일(현지 시간)타임오브이스라엘(TOI)에 따르면 예루살렘 지방 법원에서 열린 심리에서 재판부는 갈리 바하라브-미아라 검찰총장을 직접 불러 네타냐후 총리의 3개 사건 가운데 가장 중대한 사건의 뇌물수수 혐의에 상당한 의문이 있다고 밝혔다.리브카 프리…"
-    },
-    {
-      "id": "axios:https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
-      "sourceId": "axios",
-      "sourceName": "Axios",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
-      "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
-      "publishedAt": "2026-11-25T18:41:39.000Z",
-      "excerpt": "Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing back on Axios' reporting about a growing ideological divide among top AI executives. Why it matters: This is Amodei's most sig…"
-    },
-    {
       "id": "inc:https://www.inc.com/melissa-angell/small-businesses-are-not-thankful-for-trumps-thanksgiving-tariff-surprise/91440688",
       "sourceId": "inc",
       "sourceName": "Inc.",
@@ -488,18 +836,6 @@
       "url": "https://news.hada.io/topic?id=37847&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "publishedAt": "2026-11-25T18:32:24.000Z",
       "excerpt": "공격자가 직원의 업무용 GitHub 계정 을 통해 소스 코드에 접근하고 백엔드 서비스에 악성 코드를 삽입해, 일부 고객의 이름과 이메일 주소 등 계정 정보를 복사함 보관함 내용과 보호 키 는 영향받지 않았으며, 공격자가 보관함 내용에 접근할 수 있었던 시점도 없었음 유출된 계정 기록에는 식별자, 로그인 시각, 공개 키와 일부 초대/계정 복구 링크 토큰 이 포함되며, 해당 토큰만으로는 계정에 접근할 수 없음 1Password는 …"
-    },
-    {
-      "id": "inc:https://www.inc.com/tomas-gorny/the-real-small-business-saturday-payoff-isnt-the-first-sale-its-the-second-heres-how-to-earn-it/91442828",
-      "sourceId": "inc",
-      "sourceName": "Inc.",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "The Real Small Business Saturday Payoff Isn’t the First Sale—It’s the Second. Here’s How to Earn It",
-      "url": "https://www.inc.com/tomas-gorny/the-real-small-business-saturday-payoff-isnt-the-first-sale-its-the-second-heres-how-to-earn-it/91442828",
-      "publishedAt": "2026-11-25T18:30:00.000Z",
-      "excerpt": "Businesses can turn one-time customers into repeat shoppers with a few smart choices."
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261126004200082",
@@ -538,18 +874,6 @@
       "excerpt": "Presidential envoy Jared Kushner urged Israeli Prime Minister Benjamin Netanyahu on Tuesday to make good on commitments he made to Donald Trump to implement a Gaza peace plan , according to three sources with knowledge of a call between the…"
     },
     {
-      "id": "inc:https://www.inc.com/rachel-suleymanov/corporate-credit-card-rate-score-lenders-borrowers-small-business-owners/91442552",
-      "sourceId": "inc",
-      "sourceName": "Inc.",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Your Credit Card Rate Isn’t Just About Your Credit Score. New Research Points to Another Factor",
-      "url": "https://www.inc.com/rachel-suleymanov/corporate-credit-card-rate-score-lenders-borrowers-small-business-owners/91442552",
-      "publishedAt": "2026-11-25T18:13:31.000Z",
-      "excerpt": "Two borrowers with the same credit can get very different rates. Here’s how to shop around."
-    },
-    {
       "id": "fastco:https://www.fastcompany.com/91649024/ozempic-is-changing-the-way-americans-shop-and-eat-even-if-theyve-never-taken-it",
       "sourceId": "fastco",
       "sourceName": "Fast Company",
@@ -562,40 +886,19 @@
       "excerpt": "The new class of drugs led by Ozempic and Wegovy don’t just have transformative effects on the people who take them – they’re reshaping the lives around them too. Patients prescribed GLP-1s are eating less and drinking less, but those behav…"
     },
     {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261126/135092793/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“하루 1800병 척척”…日 편의점, 음료 진열하는 AI 로봇 도입",
-      "url": "https://www.donga.com/news/Inter/article/all/20261126/135092793/1",
-      "publishedAt": "2026-11-25T18:12:14.000Z",
-      "excerpt": "일본 대형 편의점 체인 패밀리마트가 내년 1월부터 인공지능(AI)을 활용해 음료를 자동으로 진열하는 로봇을 본격 도입한다. 하루 24시간 가동되는 이 로봇은 최대 1800병의 음료를 진열할 수 있으며, 매장 직원의 음료 보충 작업 시간을 약 70% 줄일 수 있을 것으로 기대된다.24일 일본 제이캐스트(J-CAST)뉴스에 따르면 패밀리마트는 내년 1월부터 전국 희망 점포를 대상으로 음료 보충 로봇 ‘TX 고스트(TX GHOST)…"
-    },
-    {
-      "id": "inc:https://www.inc.com/ken-sterling/nvidias-jensen-huang-decision-puts-corporate-governance-under-the-microscope/91442296",
-      "sourceId": "inc",
-      "sourceName": "Inc.",
+      "id": "starterstory:https://episode.flightcast.com/brdo5odzmxe9n8ew0sthrrnc.mp3",
+      "sourceId": "starterstory",
+      "sourceName": "Starter Story",
       "domain": "ideas",
       "lang": "en",
-      "kind": "article",
-      "title": "Nvidia’s Jensen Huang Decision Puts Corporate Governance Under the Microscope",
-      "url": "https://www.inc.com/ken-sterling/nvidias-jensen-huang-decision-puts-corporate-governance-under-the-microscope/91442296",
-      "publishedAt": "2026-11-25T18:00:00.000Z",
-      "excerpt": "Jensen Huang is back in the driver’s seat. But who’s checking the brakes?"
-    },
-    {
-      "id": "inc:https://www.inc.com/sarah-bregel/maryland-is-expanding-menopause-care-the-law-could-give-employers-a-new-benefits-benchmark/91441747",
-      "sourceId": "inc",
-      "sourceName": "Inc.",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Maryland Is Expanding Menopause Care. The Law Could Give Employers a New Benefits Benchmark",
-      "url": "https://www.inc.com/sarah-bregel/maryland-is-expanding-menopause-care-the-law-could-give-employers-a-new-benefits-benchmark/91441747",
-      "publishedAt": "2026-11-25T17:58:46.000Z",
-      "excerpt": "The law expands coverage for menopause and perimenopause treatment and calls for broader training."
+      "kind": "episode",
+      "title": "I Built 3 Apps to $100K/month: This is My Playbook",
+      "url": "https://episode.flightcast.com/brdo5odzmxe9n8ew0sthrrnc.mp3",
+      "publishedAt": "2026-11-25T18:00:26.000Z",
+      "excerpt": "About 1 year ago, George came on Starter Story and told us about how he was making $17K per month with his app. Today, just one year later, he has grown multiple to nearly $120K per month!! In this video, George will break down how grew his…",
+      "audioUrl": "https://episode.flightcast.com/brdo5odzmxe9n8ew0sthrrnc.mp3",
+      "durationSec": 671,
+      "imageUrl": "https://files.flightcast.com/workspaces/pe8n3o18vo7kub4qa750g9lw/01KMN6S0ZP5JW4MSZ631M78NKB/podcast_cover__2_.jpg"
     },
     {
       "id": "fastco:https://www.fastcompany.com/91649046/mcdonalds-has-found-a-new-way-to-sell-burgers-to-people-who-dont-want-to-stop-playing-video-games",
@@ -607,7 +910,7 @@
       "title": "McDonald’s has found a new way to sell burgers to people who don’t want to stop playing video games",
       "url": "https://www.fastcompany.com/91649046/mcdonalds-has-found-a-new-way-to-sell-burgers-to-people-who-dont-want-to-stop-playing-video-games",
       "publishedAt": "2026-11-25T17:56:26.000Z",
-      "excerpt": "McDonald’s to gamers: We are so hip. Ahead of the highly-anticipated release of Grand Theft Auto VI last week, the fast food giant announced that U.S.-based gamers can now place an order on Discord to be delivered by Uber Eats . And to demo…"
+      "excerpt": "McDonald’s to gamers: We are so hip. Ahead of the highly anticipated release of Grand Theft Auto VI last week, the fast food giant announced that U.S.-based gamers can now place an order on Discord to be delivered by Uber Eats . And to demo…"
     },
     {
       "id": "semafor:https://www.semafor.com/article/11/25/2026/asml-makes-the-case-for-selling-chips-to-china",
@@ -632,18 +935,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261126003900085",
       "publishedAt": "2026-11-25T17:47:28.000Z",
       "excerpt": "(런던=연합뉴스) 김지연 특파원 = 도널드 트럼프 미국 행정부의 행정 착오로 본국으로 추방됐다가 미국으로 돌아갔던 30대 엘살바도르인이 미국을 ..."
-    },
-    {
-      "id": "inc:https://www.inc.com/moses-jeanfrancois/stripe-nearing-200-billion-dollar-valuation-surprising-part-is-not-number/91442816",
-      "sourceId": "inc",
-      "sourceName": "Inc.",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Stripe Is Nearing a $200 Billion Valuation. The Surprising Part Isn’t the Number",
-      "url": "https://www.inc.com/moses-jeanfrancois/stripe-nearing-200-billion-dollar-valuation-surprising-part-is-not-number/91442816",
-      "publishedAt": "2026-11-25T17:40:08.000Z",
-      "excerpt": "The company’s last funding round was in 2023. Reports of new investor talks say that the fintech’s valuation could soon hit $200 billion."
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=37846&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -692,18 +983,6 @@
       "url": "https://www.semafor.com/article/11/25/2026/jensen-huang-to-face-questioning-on-capitol-hill",
       "publishedAt": "2026-11-25T17:35:40.000Z",
       "excerpt": "The Nvidia CEO will appear before Congress on Tuesday, the same day he was scheduled to give a keynote at its annual tech showcase for developers, industry partners, and government officials."
-    },
-    {
-      "id": "inc:https://www.inc.com/joseph-s-pete/indycar-sponsors-accused-of-600-million-ponzi-scheme/91441723",
-      "sourceId": "inc",
-      "sourceName": "Inc.",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "IndyCar Sponsors Accused of $600 Million Ponzi Scheme",
-      "url": "https://www.inc.com/joseph-s-pete/indycar-sponsors-accused-of-600-million-ponzi-scheme/91441723",
-      "publishedAt": "2026-11-25T17:35:11.000Z",
-      "excerpt": "The owners of an Indianapolis sports marketing firm are accused of defrauding more than 2,000 investors through an AI trading scheme."
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=37845&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -769,18 +1048,6 @@
       "excerpt": "(뉴욕=연합뉴스) 임수정 특파원 = 최근 미국 정부기관의 사이버 보안 사고가 잇따르는 가운데 자금세탁 등 금융범죄 방지를 담당하는 미 재무부 산..."
     },
     {
-      "id": "inc:https://www.inc.com/esther-lian/blood-test-predict-cognitive-decline-10-years-before-symptoms-appear/91442546",
-      "sourceId": "inc",
-      "sourceName": "Inc.",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "A Blood Test May Predict Cognitive Decline 10 Years Before Symptoms Appear. 1 Factor Changes the Odds",
-      "url": "https://www.inc.com/esther-lian/blood-test-predict-cognitive-decline-10-years-before-symptoms-appear/91442546",
-      "publishedAt": "2026-11-25T17:20:48.000Z",
-      "excerpt": "Researchers say that such a test could enable patients and medical professionals to weigh the benefits and risks of preventive Alzheimer’s treatments."
-    },
-    {
       "id": "hn:https://1password.com/blog/update-on-nov-2026-security-incident",
       "sourceId": "hn",
       "sourceName": "Hacker News (200점 이상)",
@@ -790,7 +1057,7 @@
       "title": "1Password Security Incident",
       "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
       "publishedAt": "2026-11-25T17:18:26.000Z",
-      "excerpt": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 315 # Comments: 139"
+      "excerpt": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 566 # Comments: 246"
     },
     {
       "id": "nrn:https://www.nrn.com/menu-trends/menu-tracker-new-items-from-firehouse-subs-papa-johns-and-potbelly",
@@ -865,16 +1132,16 @@
       "excerpt": "The company has partnered with Eulerity to automate campaigns across search, social, display, video, and connected TV."
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261126001600087",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
+      "id": "entrepreneur:https://www.entrepreneur.com/business-news/tech/a-4-question-test-for-deciding-where-ai-belongs-in-your-business",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
       "kind": "article",
-      "title": "엄마 '미스 유니버스' 첫 탄생…7살 딸 둔 기혼자가 왕관 썼다",
-      "url": "https://www.yna.co.kr/view/AKR20261126001600087",
-      "publishedAt": "2026-11-25T16:57:06.000Z",
-      "excerpt": "(멕시코시티=연합뉴스) 송광호 특파원 = 세계에서 가장 아름다운 여성을 선정하는 '미스 유니버스' 대회에서 사상 처음으로 아이를 둔 엄마 우승자..."
+      "title": "A 4-Question Test for Deciding Where AI Belongs in Your Business",
+      "url": "https://www.entrepreneur.com/business-news/tech/a-4-question-test-for-deciding-where-ai-belongs-in-your-business",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "excerpt": "Every business is adopting AI. The businesses that utilize it best are the ones that know where to put it and how to test it."
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-25/el-salvador-finally-reaps-economic-gains-from-gang-crackdown",
@@ -913,18 +1180,6 @@
       "excerpt": "Democrats’ 2016 presidential primary finally ended this week. Bernie Sanders won."
     },
     {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261126/135092551/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“이란, 호르무즈 해협 통행료 징수…암호화폐로 제재 우회”",
-      "url": "https://www.donga.com/news/Inter/article/all/20261126/135092551/1",
-      "publishedAt": "2026-11-25T16:50:31.000Z",
-      "excerpt": "이란이 호르무즈 해협을 통과하는 선박들로부터 통행료와 보험료를 징수하며 해상 요충지를 수익원으로 활용하고 있다는 보도가 나왔다.일부 해운업체들은 이란의 공격을 피하고 안전한 통항을 확보하기 위해 비용을 지불하고 있으며, 결제에는 암호화폐와 중국 위안화 등이 사용되고 있다.25일(현지 시간) 아라비안 걸프 비즈니스 인사이트(AGBI)에 따르면 해운업계 관계자와 유조선 추적·위험정보 전문가들은 이란이 호르무즈 해협을 사실상 통행료…"
-    },
-    {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-25/bank-of-england-rate-setters-leave-december-hike-on-the-table",
       "sourceId": "bbg-econ",
       "sourceName": "Bloomberg Economics",
@@ -961,16 +1216,16 @@
       "excerpt": "한 보안 연구자가 12개월 동안 Google에 취약점 95건 을 신고하고 약 95%에 작동하는 개념 증명을 첨부했지만, 받은 보상은 단 한 차례 250달러 였음 연구자의 출하 바이너리 비교 결과, 중복이나 취약점 아님 등의 사유로 종료된 신고 중 10건에 수정이 반영 됐으며, 해당 건들은 보상과 기여자 표기 없이 종료 상태로 남음 중복, 실현 불가능, 재현 불가로 종료된 여러 신고에서 결함 코드가 그대로 남아 있음 을 확인함.…"
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261125186251072",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
+      "id": "entrepreneur:https://www.entrepreneur.com/business-news/tech/elon-musk-is-building-the-future-we-saw-in-the-movies-so-whos-imagining-the-technology-of-tomorrow",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
       "kind": "article",
-      "title": "美 3분기 성장률 4.3%…투자·소비 호조에 3년 만에 최고(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261125186251072",
-      "publishedAt": "2026-11-25T16:28:37.000Z",
-      "excerpt": "(뉴욕=연합뉴스) 임수정 특파원 = 미국 경제가 견조한 소비와 인공지능(AI) 관련 기업 투자에 힘입어 올해 3분기 3년 만에 가장 높은 성장률..."
+      "title": "Elon Musk Is Building the Future We Saw in the Movies. So Who’s Imagining the Technology of Tomorrow?",
+      "url": "https://www.entrepreneur.com/business-news/tech/elon-musk-is-building-the-future-we-saw-in-the-movies-so-whos-imagining-the-technology-of-tomorrow",
+      "publishedAt": "2026-11-25T16:30:00.000Z",
+      "excerpt": "A new generation of entrepreneurs is emerging, armed with tools that previous generations could only dream of."
     },
     {
       "id": "yna-econ:https://www.yna.co.kr/view/AKR20261126001900530",
@@ -997,28 +1252,16 @@
       "excerpt": "(서울=연합뉴스) 신창용 기자 = 미국이 강제노동 관세에 이어 과잉생산 관세까지 부과하기로 했지만 한국에 적용되는 관세 상한은 기존 한미 합의대..."
     },
     {
-      "id": "donga:https://www.donga.com/news/Society/article/all/20261126/135092470/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
+      "id": "entrepreneur:https://www.entrepreneur.com/business-news/amazon-tech-leaders-famous-morning-routine-starts-at-4-a-m-with-ai-agent",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
       "kind": "article",
-      "title": "스시자로 되팔겠다고?…“걸리면 최대 징역 5년”",
-      "url": "https://www.donga.com/news/Society/article/all/20261126/135092470/1",
-      "publishedAt": "2026-11-25T16:18:27.000Z",
-      "excerpt": "국내보다 저렴한 가격에 비만치료제인 마운자로를 해외에서 처방받는 이른바 ‘스시자로’와 같은 원정 처방이 늘고 있는 가운데, 국내 불법 유통에 대해 식품의약품안전처가 엄정 대응에 나섰다.26일 제약바이오업계에 따르면 식약처와 관세청은 지난 12일부터 자가 치료용 의약품에 대해 개인 휴대 반입을 허용하기로 했다. 이에 따라 통관이 보류되던 GLP-1 치료제인 마운자로와 위고비 등도 3개월 복용량에 한해 반입이 가능해졌다.GLP-1…"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261126001800079",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "이란군 \"호르무즈서 LNG선·유조선 기뢰 충돌 화재\"",
-      "url": "https://www.yna.co.kr/view/AKR20261126001800079",
-      "publishedAt": "2026-11-25T16:17:20.000Z",
-      "excerpt": "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협에서 액화천연가스(LNG) 운반선과 유조선이 기뢰와 접촉해 화재가 발생했다고 이란군이 25일(..."
+      "title": "This Amazon Tech Leader Has a ‘Famous’ 4 a.m. Morning Routine. It Starts With an AI Agent.",
+      "url": "https://www.entrepreneur.com/business-news/amazon-tech-leaders-famous-morning-routine-starts-at-4-a-m-with-ai-agent",
+      "publishedAt": "2026-11-25T16:19:41.000Z",
+      "excerpt": "Here's how the Amazon Web Services chief AI and tech officer uses an AI agent to streamline getting ready."
     },
     {
       "id": "axios:https://www.axios.com/2026/11/25/iowa-army-lead-detonation",
@@ -1057,18 +1300,6 @@
       "excerpt": "현금에서 카드로, 또 카드에서 스마트폰으로 진화한 결제 방식이 이제는 우리 몸으로 옮겨 가고 있습니다. 얼굴이나 손바닥만 내밀어도 계산이 가능해…"
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261126001700098",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "EU, 새 美관세에 \"유럽, 과잉생산 원천 아냐…15% 상한 준수돼야\"",
-      "url": "https://www.yna.co.kr/view/AKR20261126001700098",
-      "publishedAt": "2026-11-25T16:11:34.000Z",
-      "excerpt": "(브뤼셀=연합뉴스) 현윤경 특파원 = 미국이 24일(현지시간) 무역법 301조를 근거로 새 관세를 제시하자 유럽연합(EU)이 신규 관세 근거에 ..."
-    },
-    {
       "id": "semafor:https://www.semafor.com/article/11/25/2026/bidens-enduring-win",
       "sourceId": "semafor",
       "sourceName": "Semafor",
@@ -1093,18 +1324,6 @@
       "excerpt": "인간이 100년 넘게 풀지 못한 수학 난제를 인공지능이 잇따라 해결하고 있습니다. 앤트로픽과 오픈AI가 앞다퉈 난제 해결 성과를 내놓으며 경쟁하는 가운데, 이제 수학자들이 설 자리가 사라질 거라는 말이 나오고 있습니다.최승훈 기자가 보도합니다."
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261125185752071",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
-      "url": "https://www.yna.co.kr/view/AKR20261125185752071",
-      "publishedAt": "2026-11-25T16:09:32.000Z",
-      "excerpt": "(워싱턴=연합뉴스) 백나리 특파원 = 미국이 무역법 301조에 따른 조사를 거쳐 한국을 포함해 14개 경제주체에 과잉생산을 문제 삼는 관세를 예..."
-    },
-    {
       "id": "semafor:https://www.semafor.com/article/11/25/2026/patent-expiration-cliffs-spur-drugmaker-ma",
       "sourceId": "semafor",
       "sourceName": "Semafor",
@@ -1115,6 +1334,18 @@
       "url": "https://www.semafor.com/article/11/25/2026/patent-expiration-cliffs-spur-drugmaker-ma",
       "publishedAt": "2026-11-25T16:08:06.000Z",
       "excerpt": "The looming expiration of a blockbuster drug patent pushed Sanofi into the biggest M&A deal in its history this week, and more are expected to come."
+    },
+    {
+      "id": "entrepreneur:https://www.entrepreneur.com/building-a-business/an-email-avalanche-is-coming-to-your-customers-on-black-friday-heres-how-to-make-sure-yours-reaches-them",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "An Email Avalanche Is Coming to Your Customers on Black Friday. Here’s How to Make Sure Yours Reaches Them",
+      "url": "https://www.entrepreneur.com/building-a-business/an-email-avalanche-is-coming-to-your-customers-on-black-friday-heres-how-to-make-sure-yours-reaches-them",
+      "publishedAt": "2026-11-25T16:00:00.000Z",
+      "excerpt": "Black Friday inboxes are brutally crowded. Here’s how to avoid the deliverability mistakes that can send your campaign to spam before customers ever see your offer."
     },
     {
       "id": "fastco:https://www.fastcompany.com/91648944/10-person-board-voted-reinstate-nvidias-ceo-also-now-under-scrutiny",
@@ -1189,30 +1420,6 @@
       "excerpt": "pw-loudness-eq 는 Windows의 WMALFXGFXDSP.dll 을 역공학해 앱별 재생 음량을 고르게 만드는 PipeWire 프로젝트로, 조용한 구간과 큰 구간을 비슷한 음량으로 재생함 각 앱의 재생 스트림 안에서 볼륨 조절과 믹싱 전에 음량을 처리하며, 이름과 달리 주파수별 음색을 조정하는 대신 광대역 자동 이득 제어를 수행함 Windows 오디오 엔진에서 이식한 출력 리미터 가 모든 재생 장치에서 증폭에 따른 …"
     },
     {
-      "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008863732",
-      "sourceId": "sbs-head",
-      "sourceName": "SBS 주요뉴스",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "미국, 14개 경제주체에 과잉생산 관세…한국 15% 상한 유지",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863732",
-      "publishedAt": "2026-11-25T15:36:00.000Z",
-      "excerpt": "▲ 제이미슨 그리어 미국 무역대표부 대표미국이 한국을 포함해 14개 경제주체에 과잉생산을 문제 삼는 관세를 예고했습니다.무역법 301…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261126/135092417/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "주북 中대사, 北외무성 부상 만나 “내년에도 교류·협력 확대”",
-      "url": "https://www.donga.com/news/Inter/article/all/20261126/135092417/1",
-      "publishedAt": "2026-11-25T15:31:43.000Z",
-      "excerpt": "왕야쥔 주북 중국대사가 25일 김명수 북한 외무성 부상을 만나 내년에도 북중 정상 간 합의를 바탕으로 교류와 협력을 확대하겠다고 밝혔다.주북 중국대사관에 따르면 왕 대사는 이날 평양 대사관에서 “양국 정상이 1년 사이 서로 방문해 양국 관계가 새로운 역사적 단계에 들어섰다”고 말했다.김 부상은 시진핑 중국 국가주석의 6월 방북과 김정은 북한 노동당 총비서의 지난달 중국 단둥 방문을 두고 “피로 맺은 조중(북중) 우의가 굳건하다…"
-    },
-    {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-25/ecb-in-no-rush-to-increase-banks-minimum-reserves-after-debate",
       "sourceId": "bbg-econ",
       "sourceName": "Bloomberg Economics",
@@ -1258,7 +1465,7 @@
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
       "publishedAt": "2026-11-25T15:14:32.000Z",
-      "excerpt": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 318 # Comments: 83"
+      "excerpt": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 342 # Comments: 87"
     },
     {
       "id": "hn:https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
@@ -1270,7 +1477,7 @@
       "title": "Rumors swirling that labs might have cracked Factoring in P",
       "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
       "publishedAt": "2026-11-25T15:08:44.000Z",
-      "excerpt": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50643065 Points: 281 # Comments: 197"
+      "excerpt": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50643065 Points: 351 # Comments: 240"
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-25/new-us-home-sales-climb-to-highest-this-year-topping-forecasts",
@@ -1307,6 +1514,42 @@
       "url": "https://therideshareguy.com/have-you-ever-considered-leaving-rideshare-for-another-job/",
       "publishedAt": "2026-11-25T15:00:00.000Z",
       "excerpt": "Let me ask you a question that some Uber and Lyft drivers might not want to answer honestly: Have you ever considered walking away from rideshare and finding another job? Not taking a few days off, not switching from Uber to Lyft, and not a…"
+    },
+    {
+      "id": "entrepreneur:https://www.entrepreneur.com/business-news/thinking-about-a-second-location-here-are-5-signs-youre-ready",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "Thinking About a Second Location? Here Are 5 Signs You’re Ready",
+      "url": "https://www.entrepreneur.com/business-news/thinking-about-a-second-location-here-are-5-signs-youre-ready",
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "excerpt": "Before you open a second location, take a hard look at what makes the first one work."
+    },
+    {
+      "id": "entrepreneur:https://www.entrepreneur.com/side-hustle/claude-was-my-first-employee-her-tasty-side-hustle-sold-out-fast-and-makes-15000-a-month",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "‘Claude Was My First Employee’: Her Tasty Side Hustle Sold Out Fast and Makes $15,000 a Month",
+      "url": "https://www.entrepreneur.com/side-hustle/claude-was-my-first-employee-her-tasty-side-hustle-sold-out-fast-and-makes-15000-a-month",
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "excerpt": "Lauren Mahurin lost 100 pounds and was unimpressed by the \"better for you\" options on grocery store shelves."
+    },
+    {
+      "id": "entrepreneur:https://www.entrepreneur.com/buying-a-franchise/glp-1-meds-like-ozempic-are-having-a-weighty-impact-on-fast-food-restaurants",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "GLP-1 Meds Like Ozempic Are Having a Weighty Impact on Fast-Food Restaurants",
+      "url": "https://www.entrepreneur.com/buying-a-franchise/glp-1-meds-like-ozempic-are-having-a-weighty-impact-on-fast-food-restaurants",
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "excerpt": "A new report found that 73% of consumers are eating less at fast-food restaurants since they’ve started taking the drugs."
     },
     {
       "id": "venturesquare:https://www.venturesquare.net/1131597/",
@@ -1477,6 +1720,18 @@
       "excerpt": "웨어러블 로봇 하이퍼쉘이 MBC ‘기분 좋은 날’에 등장해 시니어의 보행과 야외 활동을 지원하는 착용형 로봇 기술을 소개했다. 하이퍼쉘은 사용자의 움직임에 맞춰 보조 동력을 제공하며 산책과 등산 등 다양한 아웃도어 활동에 활용할 수 있도록 설계됐다. 국내 총판인 브이디... The post 하이퍼쉘, 입는 로봇의 무대는 일상으로…시니어 산책·등산 시장에 활용 가능성 제시 appeared first on 벤처스퀘어 ."
     },
     {
+      "id": "entrepreneur:https://www.entrepreneur.com/business-news/the-nutty-story-of-how-a-thieving-squirrel-became-a-macys-thanksgiving-parade-star",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "The Nutty Story of How a Thieving Squirrel Became a Macy’s Thanksgiving Parade Star",
+      "url": "https://www.entrepreneur.com/business-news/the-nutty-story-of-how-a-thieving-squirrel-became-a-macys-thanksgiving-parade-star",
+      "publishedAt": "2026-11-25T14:17:00.000Z",
+      "excerpt": "The strange story of Earl the Squirrel's ascent from an inside joke at Universal Orlando to valuable IP."
+    },
+    {
       "id": "fastco:https://www.fastcompany.com/91648932/6-tips-use-thanksgiving-when-family-asks-about-your-career",
       "sourceId": "fastco",
       "sourceName": "Fast Company",
@@ -1511,18 +1766,6 @@
       "url": "https://www.mk.co.kr/news/economy/12218769",
       "publishedAt": "2026-11-25T14:12:38.000Z",
       "excerpt": "한국투자금융지주의 자회사인 한국투자저축은행에서 저축은행권 최대 규모인 8만6433명의 고객 개인정보가 유출되는 해킹 사고가 발생했다. 이로써 해킹 피해를 입은 저축은행은 예가람·O.."
-    },
-    {
-      "id": "bbg-econ:https://www.bloomberg.com/news/videos/2026-11-25/what-the-pce-data-means-for-fed-policy-video",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "What the PCE Data Means for Fed Policy",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/what-the-pce-data-means-for-fed-policy-video",
-      "publishedAt": "2026-11-25T14:11:57.000Z",
-      "excerpt": "The Federal Reserve’s preferred measure of underlying inflation, the personal consumption expenditures price index excluding food and energy, rose 0.3%. From a year earlier, core PCE was up 3.3%, the most since 2023 — keeping Fed policymake…"
     },
     {
       "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125186300504",
@@ -1657,30 +1900,6 @@
       "excerpt": "Poll suggests that Israel support and Iran war hurt GOP in midterms"
     },
     {
-      "id": "semafor:https://www.semafor.com/article/11/25/2026/the-dopamine-hit-in-markets-from-jensen-huangs-comeback-has-already-faded",
-      "sourceId": "semafor",
-      "sourceName": "Semafor",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "The dopamine hit in markets from Jensen Huang's comeback has already faded",
-      "url": "https://www.semafor.com/article/11/25/2026/the-dopamine-hit-in-markets-from-jensen-huangs-comeback-has-already-faded",
-      "publishedAt": "2026-11-25T13:35:49.000Z",
-      "excerpt": "The laws of financial gravity are catching up to AI and its frontman at speeds that are hard to outrun."
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=37838&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Marginalia Search, 자금, C++, Rust, AI와 이런저런 이야기",
-      "url": "https://news.hada.io/topic?id=37838&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-25T13:33:27.000Z",
-      "excerpt": "Marginalia Search 는 주요 구성 요소를 대부분 갖춘 상태로, 최근 몇 달간 대형 기능 추가보다 버그 수정과 기술 부채 정리에 집중함 SerpApi의 1만 달러 후원 에 더해 기부와 API 키 매출이 여름 이후 매달 증가했지만, 아직 지속적으로 자립 가능한 운영 상태는 아님 CPU 병목과 Java의 오프힙 메모리 처리 불편을 해소하고자 인덱스 코드를 C++로 옮기는 실험 을 진행 중이며, 전환 여부와 성능 개선 폭…"
-    },
-    {
       "id": "hn:https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "sourceId": "hn",
       "sourceName": "Hacker News (200점 이상)",
@@ -1690,7 +1909,7 @@
       "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
       "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "publishedAt": "2026-11-25T13:33:07.000Z",
-      "excerpt": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 335 # Comments: 257"
+      "excerpt": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 371 # Comments: 289"
     },
     {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008863501",
@@ -1912,18 +2131,6 @@
       "excerpt": "◇ 남자부"
     },
     {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125181300001",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "위성락, 오만 외교장관 접견…\"호혜적 실질협력 확대\"",
-      "url": "https://www.yna.co.kr/view/AKR20261125181300001",
-      "publishedAt": "2026-11-25T12:34:35.000Z",
-      "excerpt": "(서울=연합뉴스) 고동욱 기자 = 위성락 국가안보실장은 25일 방한 중인 바드르 빈 하마드 빈 하무드 알 부사이디 오만 외교장관과 만나 중동 정..."
-    },
-    {
       "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125168651001",
       "sourceId": "yna-econ",
       "sourceName": "연합뉴스 경제",
@@ -2020,18 +2227,6 @@
       "excerpt": "올해만 102회 발동 “변동성만 키운다” 여론…미·일선 90년대 폐지1996년 11월25일 유가증권(코스피)시장에 처음 도입된 사이드카 제도가 30주년을 맞은 가운데 그동안 발동된 코스피 사이드카의 절반 이상이 올해 쏟아진 것으로 드러났다. 올해 증시가 하루가 멀다고 급등·급락을 오가면서 유례없는 변동성 장세가 이어졌기 때문이다. 30년 전 만들어진 사이드···"
     },
     {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125180100504",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "한국-오만 외교장관 회담…청해부대 활동 협조 당부",
-      "url": "https://www.yna.co.kr/view/AKR20261125180100504",
-      "publishedAt": "2026-11-25T12:20:25.000Z",
-      "excerpt": "(서울=연합뉴스) 김지헌 기자 = 조현 외교부 장관은 25일 외교부 청사에서 바드르 빈 하마드 빈 하무드 알 부사이디 오만 외교장관과 회담을 가..."
-    },
-    {
       "id": "yna-local:https://www.yna.co.kr/view/AKR20261125180500062",
       "sourceId": "yna-local",
       "sourceName": "연합뉴스 전국",
@@ -2054,18 +2249,6 @@
       "url": "https://www.khan.co.kr/article/202611252119015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
       "publishedAt": "2026-11-25T12:19:01.000Z",
       "excerpt": ""
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261125179800003",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "한화오션 \"태국 해군 호위함 우선협상대상자 지위 상실\"",
-      "url": "https://www.yna.co.kr/view/AKR20261125179800003",
-      "publishedAt": "2026-11-25T12:15:47.000Z",
-      "excerpt": "(서울=연합뉴스) 장하나 기자 = 한화오션이 태국의 차세대 호위함 도입 사업에 대한 우선협상대상자 지위를 상실했다."
     },
     {
       "id": "mfm:https://pdst.fm/e/traffic.megaphone.fm/HS5978371746.mp3",
@@ -2176,31 +2359,7 @@
       "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
       "url": "https://github.com/xoxorwr/pw-loudness-eq",
       "publishedAt": "2026-11-25T11:34:25.000Z",
-      "excerpt": "Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 260 # Comments: 150"
-    },
-    {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125176000054",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "광주경찰, 주간 어린이보호구역 단속…법규위반 39건 적발",
-      "url": "https://www.yna.co.kr/view/AKR20261125176000054",
-      "publishedAt": "2026-11-25T11:22:07.000Z",
-      "excerpt": "(전남광주=연합뉴스) 민현기 기자 = 광주경찰청과 광주자치경찰위원회는 25일 어린이보호구역에서 주간 음주단속을 펼쳐 39건의 법규 위반차량을 적..."
-    },
-    {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261125131251054",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "무안 KTX 공사장서 60대 작업자 추락 사망…노동당국 조사(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261125131251054",
-      "publishedAt": "2026-11-25T11:20:00.000Z",
-      "excerpt": "(무안=연합뉴스) 민현기 기자 = 전남광주 무안군의 KTX 공사 현장에서 60대 작업자가 추락해 숨져 경찰과 노동당국이 조사에 나섰다."
+      "excerpt": "Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 274 # Comments: 162"
     },
     {
       "id": "startupn:https://www.startupn.kr/news/articleView.html?idxno=60811",
@@ -2420,18 +2579,6 @@
       "url": "https://www.techinasia.com/news/telekom-malaysia-posts-33-revenue-growth-profit",
       "publishedAt": "2026-11-25T09:30:05.000Z",
       "excerpt": "TM said the comparison was also affected by a prior-year one-off investment gain and lower tax charges."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261125167400002",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "미공개중요정보로 1.8억 부당이득…코스닥社 임직원 중수청 통보",
-      "url": "https://www.yna.co.kr/view/AKR20261125167400002",
-      "publishedAt": "2026-11-25T09:25:23.000Z",
-      "excerpt": "(서울=연합뉴스) 강수련 기자 = 금융위원회 산하 증권선물위원회는 25일 21차 정례회의에서 미공개중요정보를 이용해 부당이득을 취한 코스닥 상장..."
     },
     {
       "id": "sedaily:https://www.sedaily.com/article/20118977",
@@ -3014,19 +3161,7 @@
       "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
       "url": "https://gpu-demo-gallery.pages.dev/",
       "publishedAt": "2026-11-25T04:31:48.000Z",
-      "excerpt": "Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 293 # Comments: 65"
-    },
-    {
-      "id": "hn:https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Taking over US Treasury subdomains for $3 each",
-      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-      "publishedAt": "2026-11-25T04:27:55.000Z",
-      "excerpt": "Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each Comments URL: https://news.ycombinator.com/item?id=50638478 Points: 205 # Comments: 43"
+      "excerpt": "Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 302 # Comments: 67"
     },
     {
       "id": "producthunt:https://www.producthunt.com/products/hiring-right-now",
@@ -3074,7 +3209,7 @@
       "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
       "url": "https://buttons.joshwcomeau.com/",
       "publishedAt": "2026-11-25T03:23:07.000Z",
-      "excerpt": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 746 # Comments: 119"
+      "excerpt": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 769 # Comments: 124"
     },
     {
       "id": "platum:https://platum.kr/archives/299450?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ea%25b0%2584%25ec%259e%25a5%25eb%25b6%2580%25ed%2584%25b0-%25ec%2588%2598%25ec%2586%258c-%25ec%2595%2595%25ec%25b6%2595%25ea%25b8%25b0%25ea%25b9%258c%25ec%25a7%2580-%25ec%2584%25b8%25eb%258c%2580-%25ec%259d%25b4%25ec%2596%25b4-%25ec%2598%25a8-%25ec%25a4%2591%25ec%2586%258c%25c2%25b7%25ec%25a4%2591%25ea%25b2%25ac",
@@ -3098,7 +3233,7 @@
       "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
       "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
       "publishedAt": "2026-11-25T03:04:37.000Z",
-      "excerpt": "Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit Comments URL: https://news.ycombinator.com/item?id=50637890 Points: 394 # Comments: 132"
+      "excerpt": "Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit Comments URL: https://news.ycombinator.com/item?id=50637890 Points: 408 # Comments: 133"
     },
     {
       "id": "platum:https://platum.kr/archives/299447?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%2597%2590-%25ea%25b3%25a0%25ea%25b0%2580-%25ec%2597%25b0%25ea%25b5%25ac%25ec%259e%25a5%25eb%25b9%2584-%25ea%25b0%259c%25eb%25b0%25a9-%25ec%2586%25a1%25eb%258f%2584-k-%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4",
@@ -3134,7 +3269,7 @@
       "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
       "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
       "publishedAt": "2026-11-25T02:34:21.000Z",
-      "excerpt": "Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being Comments URL: https://news.ycombinator.com/item?id=50637686 Points: 407 # Comments: 175"
+      "excerpt": "Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being Comments URL: https://news.ycombinator.com/item?id=50637686 Points: 412 # Comments: 180"
     },
     {
       "id": "wowtale:https://wowtale.net/2026/11/25/268641/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%2595%2584%25eb%25b3%25b4%25eb%25a9%2594%25eb%2593%259c-153%25ec%2596%25b5-%25ec%258b%259c%25eb%25a6%25ac%25ec%25a6%2588d-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%25982027%25eb%2585%2584-ipo-%25ec%25b6%2594%25ec%25a7%2584",
@@ -3256,6 +3391,18 @@
       "url": "https://www.producthunt.com/products/peerband",
       "publishedAt": "2026-11-25T01:23:23.000Z",
       "excerpt": "Reach every coding agent you run, from anywhere Discussion | Link"
+    },
+    {
+      "id": "hn:https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "publishedAt": "2026-11-25T01:19:26.000Z",
+      "excerpt": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 948 # Comments: 532"
     },
     {
       "id": "producthunt:https://www.producthunt.com/products/blink-35",
@@ -3467,18 +3614,6 @@
       "excerpt": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts"
     },
     {
-      "id": "entrepreneur:https://www.entrepreneur.com/building-a-business/your-company-may-be-acting-on-decisions-nobody-actually-approved-heres-how-it-happens-and-what-it-costs",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Your Company May Be Acting on Decisions Nobody Actually Approved. Here’s How It Happens (and What It Costs).",
-      "url": "https://www.entrepreneur.com/building-a-business/your-company-may-be-acting-on-decisions-nobody-actually-approved-heres-how-it-happens-and-what-it-costs",
-      "publishedAt": "2026-11-24T19:00:00.000Z",
-      "excerpt": "Commitments built on a working assumption can give it the weight of a decision, even though no one actually decided anything."
-    },
-    {
       "id": "nrn:https://www.nrn.com/menu-trends/restaurants-may-be-getting-a-larger-share-of-business-this-thanksgiving",
       "sourceId": "nrn",
       "sourceName": "Nation's Restaurant News",
@@ -3489,18 +3624,6 @@
       "url": "https://www.nrn.com/menu-trends/restaurants-may-be-getting-a-larger-share-of-business-this-thanksgiving",
       "publishedAt": "2026-11-24T18:59:51.000Z",
       "excerpt": "Data from OpenTable and Popmenu reveals that with the cost of a home-cooked meal skyrocketing, Americans are opting for restaurant reservations and takeout."
-    },
-    {
-      "id": "nrn:https://www.nrn.com/menumasters-spotlight/pizza-burgers-chili-peppers-oh-my-church-s-texas-chicken-chef-talks-culinary-journey",
-      "sourceId": "nrn",
-      "sourceName": "Nation's Restaurant News",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Pizza, burgers, chili peppers, oh my: Church’s Texas Chicken chef talks culinary journey",
-      "url": "https://www.nrn.com/menumasters-spotlight/pizza-burgers-chili-peppers-oh-my-church-s-texas-chicken-chef-talks-culinary-journey",
-      "publishedAt": "2026-11-24T18:42:40.000Z",
-      "excerpt": "Dave Woolley has cooked in just about every type of foodservice establishment imaginable. His advice to young chefs? Find a mentor and stay connected."
     },
     {
       "id": "tc-startups:https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
@@ -3527,78 +3650,6 @@
       "excerpt": "As memory prices crept up, Best Buy’s computing sales held the line this quarter, propped up by horsepower needs for gaming and artificial intelligence."
     },
     {
-      "id": "entrepreneur:https://www.entrepreneur.com/building-a-business/not-every-client-is-worth-taking-on-the-wrong-ones-could-cost-you-more-than-you-think",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Not Every Client Is Worth Taking On. The Wrong Ones Could Cost You More Than You Think.",
-      "url": "https://www.entrepreneur.com/building-a-business/not-every-client-is-worth-taking-on-the-wrong-ones-could-cost-you-more-than-you-think",
-      "publishedAt": "2026-11-24T18:00:00.000Z",
-      "excerpt": "Sometimes, the smartest business decision is turning away a prospective client."
-    },
-    {
-      "id": "nrn:https://www.nrn.com/independent-restaurants/for-chicago-s-donnie-madia-the-secret-to-restaurant-longevity-is-old-school-hospitality",
-      "sourceId": "nrn",
-      "sourceName": "Nation's Restaurant News",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "For Chicago’s Donnie Madia, the secret to restaurant longevity is old-school hospitality",
-      "url": "https://www.nrn.com/independent-restaurants/for-chicago-s-donnie-madia-the-secret-to-restaurant-longevity-is-old-school-hospitality",
-      "publishedAt": "2026-11-24T17:31:48.000Z",
-      "excerpt": "Menu Talk: The founder and partner in One Off Hospitality fell in love with the industry as a bartender, and persistence and determination got him to where he is today, with longtime restaurants like Avec, Publican, and Big Star in his port…"
-    },
-    {
-      "id": "entrepreneur:https://www.entrepreneur.com/business-news/meet-the-indigenous-founder-and-investor-teaching-people-how-to-manifest-their-dream-businesses",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Meet the Indigenous Founder and Investor Teaching People How to Manifest Their Dream Businesses: ‘The Folks Who Are Winning Are Thinking Differently’",
-      "url": "https://www.entrepreneur.com/business-news/meet-the-indigenous-founder-and-investor-teaching-people-how-to-manifest-their-dream-businesses",
-      "publishedAt": "2026-11-24T17:05:58.000Z",
-      "excerpt": "Betsy Fore's entrepreneurial journey kicked off over 20 years ago."
-    },
-    {
-      "id": "entrepreneur:https://www.entrepreneur.com/building-a-business/selling-a-business/selling-your-business-make-these-3-moves-to-reduce-taxes-and-protect-your-assets-from-lawsuits",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Selling Your Business? Make These 3 Moves to Reduce Taxes and Protect Your Assets From Lawsuits.",
-      "url": "https://www.entrepreneur.com/building-a-business/selling-a-business/selling-your-business-make-these-3-moves-to-reduce-taxes-and-protect-your-assets-from-lawsuits",
-      "publishedAt": "2026-11-24T17:00:00.000Z",
-      "excerpt": "The planning that actually changes the outcome of a business sale lives primarily in three strategies, and each one should be considered well in advance of marketing the company for sale."
-    },
-    {
-      "id": "entrepreneur:https://www.entrepreneur.com/building-a-business/youtube-cooking-videos-before-opening-restaurant-jason-ganahl-gque-bbq",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "He Spent Two Years Teaching Strangers to Cook on YouTube Before Opening His First Restaurant. Here’s What It Did for His Business.",
-      "url": "https://www.entrepreneur.com/building-a-business/youtube-cooking-videos-before-opening-restaurant-jason-ganahl-gque-bbq",
-      "publishedAt": "2026-11-24T16:33:00.000Z",
-      "excerpt": "Watch now to learn how Jason Ganahl built a barbecue audience on YouTube, what he looks for in a hire and how he grew GQue BBQ."
-    },
-    {
-      "id": "entrepreneur:https://www.entrepreneur.com/business-news/a-thanksgiving-feast-for-just-35-why-grocers-are-willing-to-lose-money-walmart",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "A Thanksgiving Feast for 10 People for Just $35? Why Grocers Are Willing to Lose Money on Your Holiday Dinner.",
-      "url": "https://www.entrepreneur.com/business-news/a-thanksgiving-feast-for-just-35-why-grocers-are-willing-to-lose-money-walmart",
-      "publishedAt": "2026-11-24T16:25:27.000Z",
-      "excerpt": "From Walmart to Aldi, grocers are using meal bundles to attract customers."
-    },
-    {
       "id": "franchisetimes:https://www.franchisetimes.com/franchise_news/jeff-s-bagel-run-inks-trio-of-deals-for-multi-state-expansion-plus-more-multi/article_be9674c6-02b5-4ac1-bcac-4bce3ed7e9c8.html",
       "sourceId": "franchisetimes",
       "sourceName": "Franchise Times",
@@ -3609,42 +3660,6 @@
       "url": "https://www.franchisetimes.com/franchise_news/jeff-s-bagel-run-inks-trio-of-deals-for-multi-state-expansion-plus-more-multi/article_be9674c6-02b5-4ac1-bcac-4bce3ed7e9c8.html",
       "publishedAt": "2026-11-24T16:00:00.000Z",
       "excerpt": "Jeff’s Bagel Run signed a trio of deals to open eight locations in three states, the largest of which is for four restaurants in Detroit. Leading the development are uBreakiFix franchisees Drew and Lauren Lessaris, who are teaming up with…"
-    },
-    {
-      "id": "entrepreneur:https://www.entrepreneur.com/buying-a-franchise/he-saw-a-weird-machine-on-instagram-got-on-a-plane-to-try-it-and-built-a-75-million-fitness-empire",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "He Saw a ‘Weird’ Machine on Instagram, Got on a Plane to Try It and Built a $75 Million Fitness Empire",
-      "url": "https://www.entrepreneur.com/buying-a-franchise/he-saw-a-weird-machine-on-instagram-got-on-a-plane-to-try-it-and-built-a-75-million-fitness-empire",
-      "publishedAt": "2026-11-24T15:45:00.000Z",
-      "excerpt": "STRONG Pilates co-founder Michael Ramsey shares the making of one of the fastest-growing fitness franchises in the world."
-    },
-    {
-      "id": "nrn:https://www.nrn.com/restaurant-franchising/domino-s-franchisee-files-for-chapter-11-bankruptcy",
-      "sourceId": "nrn",
-      "sourceName": "Nation's Restaurant News",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Domino’s franchisee files for Chapter 11 bankruptcy",
-      "url": "https://www.nrn.com/restaurant-franchising/domino-s-franchisee-files-for-chapter-11-bankruptcy",
-      "publishedAt": "2026-11-24T15:42:48.000Z",
-      "excerpt": "Performance Pizza Inc. operates a location in Florida."
-    },
-    {
-      "id": "entrepreneur:https://www.entrepreneur.com/business-news/grand-theft-auto-vi-made-3-79-billion-in-one-day-beating-taylor-swifts-entire-eras-tour",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Grand Theft Auto VI Made $3.79 Billion In One Day. Taylor Swift’s Entire Eras Tour Made About Half That.",
-      "url": "https://www.entrepreneur.com/business-news/grand-theft-auto-vi-made-3-79-billion-in-one-day-beating-taylor-swifts-entire-eras-tour",
-      "publishedAt": "2026-11-24T15:15:00.000Z",
-      "excerpt": "Rockstar is calling its new release the biggest entertainment launch in history — and the numbers are highway robbery."
     },
     {
       "id": "modernretail:https://www.modernretail.co/marketing/brands-briefing-crocs-has-found-a-social-media-star-in-new-mascot-niles/?utm_campaign=modernretaildis&#038;utm_medium=rss&#038;utm_source=general-rss",
@@ -6244,21 +6259,6 @@
       "imageUrl": "https://megaphone-images.spotifycdn.com/podcasts/c4d3776e-cc3a-11f1-8067-f31660fe96f0/image/a880a4ccd46dd3ac6aed1a9413c6d84c.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "id": "starterstory:https://episode.flightcast.com/v8dkmpy97dizjwzvu4aw88zh.mp3",
-      "sourceId": "starterstory",
-      "sourceName": "Starter Story",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "episode",
-      "title": "How I Built It: $30K/Month Micro-SaaS",
-      "url": "https://episode.flightcast.com/v8dkmpy97dizjwzvu4aw88zh.mp3",
-      "publishedAt": "2026-10-21T17:00:03.000Z",
-      "excerpt": "Charlie bootstrapped his micro-saas, Links, to over $30K/month, which allowed him to quit his job... twice! In this episode, he shares exactly how he grew Liinks to $30K/month (even in a saturated market), and his advice for building a side…",
-      "audioUrl": "https://episode.flightcast.com/v8dkmpy97dizjwzvu4aw88zh.mp3",
-      "durationSec": 958,
-      "imageUrl": "https://files.flightcast.com/workspaces/pe8n3o18vo7kub4qa750g9lw/01KMN6S0ZP5JW4MSZ631M78NKB/podcast_cover__2_.jpg"
-    },
-    {
       "id": "pragmatic:https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
       "sourceId": "pragmatic",
       "sourceName": "The Pragmatic Engineer",
@@ -6524,7 +6524,7 @@
       {
         "id": "semafor",
         "count": 10,
-        "parsed": 272
+        "parsed": 271
       },
       {
         "id": "geeknews",
@@ -6534,7 +6534,7 @@
       {
         "id": "hn",
         "count": 10,
-        "parsed": 14
+        "parsed": 12
       },
       {
         "id": "tldr",
@@ -6649,7 +6649,7 @@
       {
         "id": "starterstory",
         "count": 10,
-        "parsed": 101
+        "parsed": 102
       },
       {
         "id": "sidehustle",
