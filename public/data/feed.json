@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T18:58:25.755Z",
+  "generatedAt": "2026-11-26T19:52:27.553Z",
   "domains": [
     {
       "id": "local",
@@ -214,6 +214,18 @@
       "excerpt": "서울 강남구 코엑스에서 열린 제28회 반도체대전(SEDEX 2026)에서 관람객들이 SK하이닉스 부스를 둘러보고 있다. 뉴시스 미국 무역대표부(USTR)가 한국 반도체의 ‘구조적 공급 과잉’을 명분으로 관세율을 최대 25%까지 높일 여지를 남겼다. 하지만 고대역폭메모리(HBM)와 D램의 공급 부족 상황은 내년에도 계속될 것으로 전망된다. USTR의 엄포는 한국의 반도체 산업 육성 정책을 문제 삼아 향후 통상 협상에서 주도권을 …"
     },
     {
+      "id": "hani:https://www.hani.co.kr/arti/science/science_general/1289343.html",
+      "sourceId": "hani",
+      "sourceName": "한겨레",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "땅밑 광섬유로 ‘작은 지진’ 관측하니… 큰 지진처럼 복잡했다",
+      "url": "https://www.hani.co.kr/arti/science/science_general/1289343.html",
+      "publishedAt": "2026-11-26T19:52:23.772Z",
+      "excerpt": ""
+    },
+    {
       "id": "hani:https://www.hani.co.kr/arti/politics/politics_general/1289342.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
@@ -222,7 +234,7 @@
       "kind": "article",
       "title": "최민희 징계 결정 임박…민주당 긴장감 고조",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1289342.html",
-      "publishedAt": "2026-11-26T18:58:24.041Z",
+      "publishedAt": "2026-11-26T19:52:23.772Z",
       "excerpt": ""
     },
     {
@@ -234,7 +246,7 @@
       "kind": "article",
       "title": "정청래, 중진 만찬 불참하고 “화해 빙자한 몽둥이 찜질”",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1289341.html",
-      "publishedAt": "2026-11-26T18:58:24.041Z",
+      "publishedAt": "2026-11-26T19:52:23.772Z",
       "excerpt": ""
     },
     {
@@ -246,7 +258,7 @@
       "kind": "article",
       "title": "한덕수 판결, 헌정 파괴의 큰길을 내다",
       "url": "https://www.hani.co.kr/arti/society/society_general/1289340.html",
-      "publishedAt": "2026-11-26T18:58:24.041Z",
+      "publishedAt": "2026-11-26T19:52:23.772Z",
       "excerpt": ""
     },
     {
@@ -258,7 +270,7 @@
       "kind": "article",
       "title": "헌재, 노동악법 ‘제3자 개입금지’ 위헌 결정…33년 만에 판례 바꿔",
       "url": "https://www.hani.co.kr/arti/society/society_general/1289339.html",
-      "publishedAt": "2026-11-26T18:58:24.041Z",
+      "publishedAt": "2026-11-26T19:52:23.772Z",
       "excerpt": ""
     },
     {
@@ -270,7 +282,7 @@
       "kind": "article",
       "title": "허위 보도 언론에 정부 광고 중단…‘이중 제재’ 우려 언론4법 소위 통과",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1289338.html",
-      "publishedAt": "2026-11-26T18:58:24.041Z",
+      "publishedAt": "2026-11-26T19:52:23.772Z",
       "excerpt": ""
     },
     {
@@ -282,7 +294,7 @@
       "kind": "article",
       "title": "[사설] ‘낙수효과’ 아직인데 금리는 상승, 취약층 보호해야",
       "url": "https://www.hani.co.kr/arti/opinion/editorial/1289337.html",
-      "publishedAt": "2026-11-26T18:58:24.041Z",
+      "publishedAt": "2026-11-26T19:52:23.772Z",
       "excerpt": ""
     },
     {
@@ -294,7 +306,7 @@
       "kind": "article",
       "title": "‘조작 징계’ 두고 국힘 난장판…정점식 “당 꼬라지하고는”",
       "url": "https://www.hani.co.kr/arti/politics/assembly/1289336.html",
-      "publishedAt": "2026-11-26T18:58:24.041Z",
+      "publishedAt": "2026-11-26T19:52:23.772Z",
       "excerpt": ""
     },
     {
@@ -306,7 +318,7 @@
       "kind": "article",
       "title": "조작기소 특검 후보 이임성·이정훈…법조인 고사 ‘구인난’",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1289335.html",
-      "publishedAt": "2026-11-26T18:58:24.041Z",
+      "publishedAt": "2026-11-26T19:52:23.772Z",
       "excerpt": ""
     },
     {
@@ -318,20 +330,284 @@
       "kind": "article",
       "title": "조현, 이란 외교장관과 통화 “청해부대, 전쟁 불개입”",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1289334.html",
-      "publishedAt": "2026-11-26T18:58:24.041Z",
+      "publishedAt": "2026-11-26T19:52:23.772Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/politics/politics_general/1289333.html",
-      "sourceId": "hani",
-      "sourceName": "한겨레",
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127003351071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "한국 보란듯 전술핵 과시한 김정은…접경지 배치 시사도",
-      "url": "https://www.hani.co.kr/arti/politics/politics_general/1289333.html",
-      "publishedAt": "2026-11-26T18:58:24.041Z",
-      "excerpt": ""
+      "title": "트럼프 \"중간선거 전 발표된 3분기 성장률 가짜…즉각 조사를\"(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261127003351071",
+      "publishedAt": "2026-11-26T19:40:46.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 3분기 성장률이 중간선거 전에는 크게 낮게 발표됐다며 의도적 조작 의혹을 제기..."
+    },
+    {
+      "id": "wowtale:https://wowtale.net/2026/11/27/268712/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=iqm-%25ed%2580%2580%25ed%2585%2580-%25ec%25bb%25b4%25ed%2593%25a8%25ed%2584%25b0%25ec%258a%25a4-qai%25ec%2597%2590-54%25ed%2581%2590%25eb%25b9%2584%25ed%258a%25b8-iqm-%25eb%25a0%2588%25eb%2594%2594%25ec%2596%25b8%25ec%258a%25a4-r3-%25ea%25b3%25b5%25ea%25b8%2589",
+      "sourceId": "wowtale",
+      "sourceName": "와우테일",
+      "domain": "startup",
+      "lang": "ko",
+      "kind": "article",
+      "title": "IQM 퀀텀 컴퓨터스, QAI에 54큐비트 ‘IQM 레디언스 R3’ 공급",
+      "url": "https://wowtale.net/2026/11/27/268712/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=iqm-%25ed%2580%2580%25ed%2585%2580-%25ec%25bb%25b4%25ed%2593%25a8%25ed%2584%25b0%25ec%258a%25a4-qai%25ec%2597%2590-54%25ed%2581%2590%25eb%25b9%2584%25ed%258a%25b8-iqm-%25eb%25a0%2588%25eb%2594%2594%25ec%2596%25b8%25ec%258a%25a4-r3-%25ea%25b3%25b5%25ea%25b8%2589",
+      "publishedAt": "2026-11-26T19:39:15.000Z",
+      "excerpt": "핀란드 IQM 퀀텀 컴퓨터스(IQM Quantum Computers)가 한국 QAI의 서울 데이터센터에 54큐비트 양자 컴퓨터 IQM 레디언스 R3를 2027년 말까지 공급한다."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261127/135099313/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "차량 감지해 초록불… 한밤 과속 줄이니 사고율 46%↓",
+      "url": "https://www.donga.com/news/Society/article/all/20261127/135099313/2",
+      "publishedAt": "2026-11-26T19:30:00.000Z",
+      "excerpt": "4일(현지 시간) 미국 텍사스주 오스틴시 캐머런 로드. 한밤중 차량 통행이 뜸한 교차로에 빨간불이 켜져 있다. 한참이 지나도 초록불은 들어오지 않는다. 멀리서 자동차 한 대가 다가오자 그제야 신호가 바뀐다. 차량 통행이 적은 심야 시간대 과속을 막기 위해 오스틴시가 도입한 ‘레스트 인 레드(Rest-in-Red)’ 신호 방식이다. 일반 신호등은 정해진 주기에 따라 빨간불과 초록불을 반복하지만, 레스트 인 레드는 차가 없으면 빨…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261127/135099316/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "AI로 ‘충돌 위기’ 238건 찾아내… 인명피해 전 횡단보도 새로 설치",
+      "url": "https://www.donga.com/news/Society/article/all/20261127/135099316/2",
+      "publishedAt": "2026-11-26T19:30:00.000Z",
+      "excerpt": "‘0.7초, 0.1초, 위험도 높음(High).’ 노트북에 띄운 영상에는 승용차와 자전거가 충돌할 뻔한 순간과 함께 이런 수치가 표시됐다. 다행히 사고는 나지 않았지만 승용차가 자전거의 경로를 0.7초 차이로 지나갔고, 만약 방향이나 속도를 바꾸지 않았다면 0.1초 후에 충돌했을 거란 뜻이다. 지난달 23일 오후 6시 22분 오스틴 시내 바턴스프링스 로드에서 촬영된 영상을 미국 텍사스주 오스틴시 교통공공사업국이 분석한 결과였다…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Economy/article/all/20261127/135099701/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "종부세 대상 35% 늘어… 한강벨트선 작년보다 3배 내는 곳도",
+      "url": "https://www.donga.com/news/Economy/article/all/20261127/135099701/2",
+      "publishedAt": "2026-11-26T19:30:00.000Z",
+      "excerpt": "올해 주택분 종합부동산세를 내는 사람이 72만6000명으로 지난해보다 18만8000명(34.9%) 늘었다. 서울 아파트 공시가격이 올해 18.6% 뛰는 등 수도권 집값 상승세로 납부 대상이 대폭 확대됐다. 이들이 내야 하는 종부세는 2조3000억 원으로 지난해(1조3000억 원)보다 76.9% 증가했다. 올해는 서울 강남, 서초, 송파구뿐 아니라 마포, 용산, 성동구 등 ‘한강벨트’에서도 종부세가 지난해의 2, 3배로 늘어난 …"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Economy/article/all/20261127/135099703/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "세부담에 재초환 겹쳐… 강남 아파트 호가 수억원씩 낮춰",
+      "url": "https://www.donga.com/news/Economy/article/all/20261127/135099703/2",
+      "publishedAt": "2026-11-26T19:30:00.000Z",
+      "excerpt": "26일 서울 서초구 반포동 래미안트리니원에서는 전용면적 112㎡ 매물이 재건축 초과이익 환수제(재초환) 부담금을 매수자가 내는 조건으로 50억 원대에 나와 있다. 올해 9월의 기존 최고가 74억5548만 원과 비교하면 25억 원가량 낮은 가격이다. 이 단지 중개를 주로 맡는 공인중개사 김모 씨는 “고령 집주인들이 세금을 부담할 여력이 부족한데 재초환 부담금까지 부과된다고 하자 급매에 나선 것”이라고 말했다. 이 단지의 재초환 …"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Economy/article/all/20261127/135099705/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "1기 신도시도 재초환 반발… 분당서 폐지 촉구 공동성명",
+      "url": "https://www.donga.com/news/Economy/article/all/20261127/135099705/2",
+      "publishedAt": "2026-11-26T19:30:00.000Z",
+      "excerpt": "경기 성남시 분당신도시에서 재건축을 추진 중인 8개 사업지 대표들이 28일 재건축초과이익환수제(재초환) 폐지를 촉구하는 공동성명을 낸다. 서울의 재건축 단지들이 부담금 부과를 앞두고 집회와 소송 등을 예고하는 등 대응에 나선 데 이어 아직 부담금 예정액을 통보받지 않은 1기 신도시인 분당에서도 반발이 나오고 있다. 26일 분당 양지마을 정비사업위원회에 따르면 8개 사업지 대표들은 28일 위원회 사무실 개소식에서 성명을 발표한다…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Economy/article/all/20261127/135099717/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "호남팹까지 트집 잡은 美 “韓과 협의 불만족땐 25% 관세 적용”",
+      "url": "https://www.donga.com/news/Economy/article/all/20261127/135099717/2",
+      "publishedAt": "2026-11-26T19:30:00.000Z",
+      "excerpt": "미국이 한국에 최대 25% 관세를 부과할 가능성을 열어둔 데 이어 호남권 반도체 클러스터 등 산업 육성 정책까지 문제 삼으며 강한 압박에 나섰다. 한국은 지난해 무역합의로 약속한 15% 상한선을 일단 방어했지만, 미국이 과잉생산을 명분으로 대미 투자 협상 등에서 추가 양보를 요구할 수 있다는 우려가 나온다. 25일(현지 시간) 미 무역대표부(USTR)는 한국 등을 대상으로 과잉생산 관련 301조 조사 결과를 발표하면서 한국의 …"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/People/article/all/20261127/135099497/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[부고]송봉식 씨 별세 外",
+      "url": "https://www.donga.com/news/People/article/all/20261127/135099497/2",
+      "publishedAt": "2026-11-26T19:30:00.000Z",
+      "excerpt": "◇송봉식 전 대전 유성구의회 의장 별세=25일 대전 성심장례식장, 발인 28일 오전 6시 반 042-522-4494 ◇유기송 씨 별세·동수 경기일보 화백 부친상=25일 경기 성남시의료원, 발인 28일 오전 11시 031-738-7450 ◇전수남 씨 별세·승희 신세계 백화점부문 홍보기획팀장 부친상·안광건 ㈜메가비엠씨 사업운영장 본부장 상무 장인상=26일 서울 세브란스병원, 발인 28일 오전 5시 20분 02-2227-7500 ◇…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Inter/article/all/20261127/135099597/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "美 “中 관세 40%까지 올릴수도” 中 “단호히 반대, 대응 조치”",
+      "url": "https://www.donga.com/news/Inter/article/all/20261127/135099597/2",
+      "publishedAt": "2026-11-26T19:30:00.000Z",
+      "excerpt": "도널드 트럼프 미국 행정부가 25일(현지 시간) 세계 각국에 과잉생산 관세 부과를 발표하자 중국, 일본, 유럽연합(EU), 브라질 등은 일제히 반발했다. 세 경제권 모두 미국과 이전에 합의한 수준의 관세율이 부과됐지만 향후 추가 인상 가능성 등을 우려하고 있다. 동시에 올 2월 미국 연방대법원의 상호관세 무효 판결, 3일 미국 중간선거 패배에도 관세에 대한 트럼프 행정부의 의지가 굳건하다는 평가가 나온다. 이날 미 무역대표부(…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/People/article/all/20261127/135099474/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[인사]경찰청 外",
+      "url": "https://www.donga.com/news/People/article/all/20261127/135099474/2",
+      "publishedAt": "2026-11-26T19:30:00.000Z",
+      "excerpt": "◇경찰청 〈승진〉 ▽치안정감 △본청 차장 송영호 △부산경찰청장 김병기 ▽치안감 △본청 대변인 박우현 △본청 경비국장 김종민 △대구경찰청장 박준성 △충남〃 이서영 〈승진 내정〉 ▽치안감 △본청 치안정보국장 직무대리 강상길 △경남경찰청장 〃 함영욱 ◇아산사회복지재단 △보령아산병원장 정성량 △영덕〃 권준대"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Politics/article/all/20261127/135099707/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "수소탄-전술핵 줄줄이 과시한 北… 김정은 “南, 가장 위해한 적국”",
+      "url": "https://www.donga.com/news/Politics/article/all/20261127/135099707/2",
+      "publishedAt": "2026-11-26T19:30:00.000Z",
+      "excerpt": "북한이 26일 새 우라늄 농축시설과 함께 크기와 모양이 다른 ‘화산’ 계열 핵탄두를 공개했다. 소형 수소탄으로 추정되는 ‘화산-25’와 핵추진잠수함용 원자로로 추정되는 장비도 처음 모습을 드러냈다. 핵물질 생산을 늘리면서 한국을 겨냥해 지상·해상·수중에서 쓸 핵탄두를 다양화하고 있음을 과시하려는 것으로 풀이된다.● 北 핵무력 ‘3종 세트’ 공개 조선중앙통신은 김정은 국무위원장이 25일 무기급 핵물질 생산기지와 ‘핵동력 관련 설…"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261126193352098",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "르펜에 발목 잡힐라…EU, 우크라 지원안·7년 예산 놓고 격론(종합2보)",
+      "url": "https://www.yna.co.kr/view/AKR20261126193352098",
+      "publishedAt": "2026-11-26T19:26:47.000Z",
+      "excerpt": "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU) 27개국 정상들이 2028년부터 7년에 걸친 EU의 차기 장기예산안과 우크라이나 신규 대출..."
+    },
+    {
+      "id": "inc:https://www.inc.com/daniel-robbins/their-bitcoin-mine-lost-millions-in-3-months-so-they-made-a-delusional-pivot-it-just-paid-off/91442418",
+      "sourceId": "inc",
+      "sourceName": "Inc.",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "Their Bitcoin Mine Lost Millions in 3 Months—So They Made a ‘Delusional’ Pivot. It Just Paid Off",
+      "url": "https://www.inc.com/daniel-robbins/their-bitcoin-mine-lost-millions-in-3-months-so-they-made-a-delusional-pivot-it-just-paid-off/91442418",
+      "publishedAt": "2026-11-26T19:20:01.000Z",
+      "excerpt": "When skyrocketing energy prices crushed their Norwegian Bitcoin mine, LIAN Group’s founders made a desperate pivot—turning their powered land into Polar, a data center platform that just raised over €1 billion."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127003400071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "트럼프 \"푸틴에 유럽 침략 중단 요구…우크라 종전 충분히 가능\"",
+      "url": "https://www.yna.co.kr/view/AKR20261127003400071",
+      "publishedAt": "2026-11-26T19:18:04.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 대통령은 26일(현지시간) 최근 중국에서 블라디미르 푸틴 러시아 대통령을 만났을 때 유럽 전..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127003100075",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "美어린이에 주식 나눈 머스크…주당 13조원 주장하며 \"보유해라\"",
+      "url": "https://www.yna.co.kr/view/AKR20261127003100075",
+      "publishedAt": "2026-11-26T19:16:28.000Z",
+      "excerpt": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 세계 최대 부호 일론 머스크가 미국 내 모든 어린이에게 스페이스X 주식을 기부하기로 한 가운데 자신의..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127003300071",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "트럼프 \"중간선거 전 발표된 3분기 성장률 가짜…즉각 조사를\"",
+      "url": "https://www.yna.co.kr/view/AKR20261127003300071",
+      "publishedAt": "2026-11-26T19:11:22.000Z",
+      "excerpt": "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 3분기 성장률이 중간선거 전에는 크게 낮게 발표됐다며 의도적 조작 의혹을 제기..."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127003200072",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "물가 뛰는데 트럼프 관세 '부채질'…\"최악 시기 경제적 자해\"",
+      "url": "https://www.yna.co.kr/view/AKR20261127003200072",
+      "publishedAt": "2026-11-26T19:07:55.000Z",
+      "excerpt": "(뉴욕=연합뉴스) 임수정 특파원 = 미국의 인플레이션이 다시 가속하는 가운데 도널드 트럼프 미 행정부가 대대적인 관세 인상을 추진하면서 미 주요..."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611270400001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "국내 연구진, 땅속 통신용 광섬유를 지진계로 바꾸는 기술 개발",
+      "url": "https://www.khan.co.kr/article/202611270400001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-26T19:00:00.000Z",
+      "excerpt": "광섬유에 레이저 빛 쏴 지하 변화 감지작은 지진 과정 파악해 대형 재난 대비김영희 서울대 교수. 과학기술정보통신부 제공국내 연구진이 땅속에 묻힌 통신용 광섬유로 규모 3 미만의 작은 지진이 어떻게 생기는지 알아내는 기술을 개발했다. 그동안 작은 지진은 기술의 한계로 인해 발생 과정을 정확히 알 수 없었다. 작은 지진의 원리는 큰 지진에 대비할 과학적 자료여···"
+    },
+    {
+      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-26/mexico-central-bank-lifts-growth-outlook-in-boost-to-sheinbaum",
+      "sourceId": "bbg-econ",
+      "sourceName": "Bloomberg Economics",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Mexico Central Bank Lifts Growth Outlook in Boost to Sheinbaum",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/mexico-central-bank-lifts-growth-outlook-in-boost-to-sheinbaum",
+      "publishedAt": "2026-11-26T18:54:15.000Z",
+      "excerpt": "Mexico’s central bank raised its forecast for gross domestic product growth this year to 1.9% from 1.5% after exports and investment boosted Latin America’s second-largest economy."
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=37915&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "AI가 완치한 질병 추적하기",
+      "url": "https://news.hada.io/topic?id=37915&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-26T18:49:29.000Z",
+      "excerpt": "AI가 발견한 치료법으로 완치한 질병은 0개 로 집계됐으며, 2026년 11월 26일 기준 AI 발견 신약의 FDA 또는 EMA 승인도 없음 집계에 포함되려면 AI가 표적과 분자를 모두 선정하거나 설계 하고, 임상 3상과 규제기관 승인을 거쳐 실제로 질병을 제거하거나 지속적으로 되돌려야 함 영상 판독, 단백질 구조 예측, 연구 효율 개선 은 완치와 구분하며, 임상시험 중인 후보물질도 집계하지 않음 가장 앞선 사례로 꼽는 Ren…"
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=37914&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "재미로 AWS Lambda에서 Qwen 서빙하기, 비용은 80배 넘게",
+      "url": "https://news.hada.io/topic?id=37914&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-26T18:46:29.000Z",
+      "excerpt": "자체 호스팅 모델의 추론을 5,600개의 AWS Lambda 로 분산하는 실험에 성공했지만, 비교 대상인 호스팅 모델보다 비용이 80배 이상 높았음 실험에는 Qwen3.5-4B를 미세 조정한 H2O-Lightning 을 사용함. 문서를 읽고 선택지 하나를 고르는 의사결정 모델이라 단 한 번의 순전파에 집중할 수 있었음 Lambda 메모리를 3GB로 제한 하고, 전체 모델 대신 레이어와 토큰 블록 단위로 작업을 나눔. 각 작업은…"
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=37913&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "CIA 비기밀 시스템, 사이버공격으로 침해당해",
+      "url": "https://news.hada.io/topic?id=37913&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-26T18:43:29.000Z",
+      "excerpt": "사건을 아는 익명 소식통에 따르면 CIA의 공개출처정보 수집/분석 시스템 이 사이버공격으로 침해당함 같은 소식통은 기밀정보는 관련되지 않았으며 , 해당 문제는 해결됐다고 밝힘 침해된 구체적인 정보와 공격 주체 는 확인되지 않음 이번 사건은 NSA 통신망 중단과 FBI 데이터베이스 해킹 의심 사건 등 잇따른 장애 속에서 드러나, 주요 인프라와 디지털 시스템의 취약성 에 관심이 쏠림 Trump 행정부는 일련의 장애가 조직적인 사이…"
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=37912&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -418,64 +694,16 @@
       "excerpt": "Markdown으로 관리하던 블로그를 Gemini 캡슐 로 변환해, 기존 웹사이트와 함께 텍스트 중심 네트워크에서도 읽을 수 있게 함 Gemini 는 문서와 링크에 집중하는 별도 인터넷 공간으로, 독자의 개인정보, 주의력, 대역폭을 존중하는 가벼운 환경을 지향함 기본 문서 형식인 Gemtext 는 제목, 문단, 독립된 링크 등만 지원하며, 표현력이 제한적인 대신 단순한 클라이언트에서도 일관되게 표시됨 AI로 만든 Rust 변환…"
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127002000087",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
+      "id": "entrepreneur:https://www.entrepreneur.com/business-news/should-you-run-your-own-ai-or-pay-a-provider-heres-how-to-decide",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
       "kind": "article",
-      "title": "쿠바, 2조7천억원 규모 외국인 투자 승인…에너지·금융 개방",
-      "url": "https://www.yna.co.kr/view/AKR20261127002000087",
-      "publishedAt": "2026-11-26T17:55:25.000Z",
-      "excerpt": "(멕시코시티=연합뉴스) 송광호 특파원 = 미국의 봉쇄 압박 속에 심각한 위기에 직면한 쿠바가 올해 들어 대규모 외국인 투자를 승인한 데 이어, ..."
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261127/135100600/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "트럼프, 美 성장률 대폭 상향에 “왜 선거 전에 발표 안 했나”…조사 요구",
-      "url": "https://www.donga.com/news/Inter/article/all/20261127/135100600/1",
-      "publishedAt": "2026-11-26T17:54:00.000Z",
-      "excerpt": "도널드 트럼프 미국 대통령이 미 상무부가 중간선거를 앞두고 경제성장률을 고의로 낮춰 발표했다고 주장하며 즉각적인 조사를 요구했다.26일(현지 시간) AP통신에 따르면 트럼프 대통령은 이날 소셜미디어를 통해 “선거 전에 발표된 경제 지표가 가짜였으며 해당 수치를 산출하는 정부 기관이 어제 이를 수정했다는 사실이 드러났다”고 주장했다.이어 “왜 정확한 수치가 선거 전에 발표되지 않았느냐”며 “이 사안에 대한 즉각적인 조사를 요구한…"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261126193351098",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "르펜에 발목 잡힐라…EU, 우크라 지원안·7년 예산 격론 돌입(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261126193351098",
-      "publishedAt": "2026-11-26T17:51:16.000Z",
-      "excerpt": "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽연합(EU) 27개국 정상들이 2028년부터 7년에 걸친 EU의 차기 장기예산안과 우크라이나 신규 대출..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127001900071",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "美기술패권 진력하는 트럼프…교역국엔 '깨알 트집' 관세 칼날",
-      "url": "https://www.yna.co.kr/view/AKR20261127001900071",
-      "publishedAt": "2026-11-26T17:50:30.000Z",
-      "excerpt": "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 행정부가 자국의 첨단산업 발전을 통한 기술패권 유지에 진력하면서 교역국의 산업 진흥 정..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127002600085",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "영국·EU 무역합의에 '패라지 조항'…10년 내 파기시 비용 물어야",
-      "url": "https://www.yna.co.kr/view/AKR20261127002600085",
-      "publishedAt": "2026-11-26T17:47:16.000Z",
-      "excerpt": "(런던=연합뉴스) 김지연 특파원 = 유럽연합(EU)과 영국이 최근 정상회담을 통해 이룬 무역 합의에 10년 내로 합의를 종료하려는 쪽이 관련 비..."
+      "title": "Should You Run Your Own AI or Pay a Provider? Here’s How to Decide.",
+      "url": "https://www.entrepreneur.com/business-news/should-you-run-your-own-ai-or-pay-a-provider-heres-how-to-decide",
+      "publishedAt": "2026-11-26T18:00:00.000Z",
+      "excerpt": "Open-weight models finally give businesses a real choice between running AI on their own servers or renting it from the cloud."
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=37910&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -514,18 +742,6 @@
       "excerpt": "Turns out, the secret to a retail makeover starts with opening your ears."
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261126196051082",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "차기 ECB 총재에 '비둘기파' 스페인 데코스(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261126196051082",
-      "publishedAt": "2026-11-26T16:56:59.000Z",
-      "excerpt": "(베를린=연합뉴스) 김계연 특파원 = 스페인 출신인 파블로 에르난데스 데코스(55) 국제결제은행(BIS) 사무총장이 차기 유럽중앙은행(ECB) ..."
-    },
-    {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008865659",
       "sourceId": "sbs-head",
       "sourceName": "SBS 주요뉴스",
@@ -536,18 +752,6 @@
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865659",
       "publishedAt": "2026-11-26T16:55:00.000Z",
       "excerpt": "젠슨황 복귀를 둘러싼 후폭풍이 이어지는 가운데, 엔비디아가 신용등급 강등 위기에 놓였습니다. 트럼프 미국 대통령에 이어 밴스 부통령까지 젠슨 황을 공개적으로 옹호하면서 면죄부 논란도 확산하고 있습니다.뉴욕 김현우 특파원의 보도입니다."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127001800071",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "美 새 관세 시행땐 평균관세율 13.9%…상호관세 무효화 전으로",
-      "url": "https://www.yna.co.kr/view/AKR20261127001800071",
-      "publishedAt": "2026-11-26T16:51:22.000Z",
-      "excerpt": "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 행정부가 산업 과잉생산을 이유로 추진하는 새로운 관세가 시행되면 미국의 평균 관세율이 ..."
     },
     {
       "id": "venturesquare:https://www.venturesquare.net/1132104/",
@@ -718,18 +922,6 @@
       "excerpt": "금리 인상에, 세금 부담도 더해집니다. 올해 종부세를 내야 할 사람이 지난해보다 19만 명 늘었고, 금액도 30% 이상 증가했습니다.이어서 김기태 기자입니다."
     },
     {
-      "id": "donga:https://www.donga.com/news/Entertainment/article/all/20261127/135100064/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "선우용여, 젠슨 황 불륜에 대노 “왜 돈만 벌면 바람 피나”",
-      "url": "https://www.donga.com/news/Entertainment/article/all/20261127/135100064/1",
-      "publishedAt": "2026-11-26T16:11:48.000Z",
-      "excerpt": "배우 선우용여가 젠슨 황 엔비디아 최고경영자(CEO)의 불륜 소식을 접하고 분노했다. 26일 유튜브 채널 ‘순풍 선우용여’에는 ‘82세 선우용여가 60년간 다닌 부촌 성북동 단골코스 최초공개’라는 제목의 영상이 공개됐다. 영상에서 선우용여는 과거 남편과 함께 방문했던 삼청각을 찾아 식사를 즐겼다.선우용여는 “우리 남편이 왜 이렇게 나를 맛있는 곳에 데리고 다녔나 생각해 보니까 내가 그렇게 잘 먹었다”며 “남편은 내가 맛있게 먹…"
-    },
-    {
       "id": "inc:https://www.inc.com/moses-jeanfrancois/amazon-called-black-friday-deals-1-in-3-cost-same-or-more-new-report/91441264",
       "sourceId": "inc",
       "sourceName": "Inc.",
@@ -826,102 +1018,6 @@
       "excerpt": "The popular skin care brand is taking an unconventional approach to holiday shopping. A retail expert explains the takeaways for other businesses."
     },
     {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261126/135098564/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“메모리 초호황 내년 고점” vs “수요가 공급 압도”",
-      "url": "https://www.donga.com/news/Economy/article/all/20261126/135098564/2",
-      "publishedAt": "2026-11-26T15:30:00.000Z",
-      "excerpt": "메모리 반도체 슈퍼사이클의 지속성과 관련한 논쟁이 다시 불붙으며 국내외 메모리 주가가 크게 흔들리고 있다. 메모리 공급이 수요를 따라잡아 수급이 균형에 가까워지는 시점이 기존 2028년 중반에서 내년으로 1년 앞당겨질 것이라는 ‘2027년 고점론’과 함께 월가 전설 스탠리 드러켄밀러의 반도체주 처분 소식까지 겹치며 불안 심리가 커지는 모습이다.● 고점론 불 지핀 BNP파리바·드러켄밀러26일 삼성전자는 전날보다 0.4% 오른 1…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261126/135098573/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘젠슨 황 컴백’에도 엔비디아 휘청… S&P, 신용 강등 경고",
-      "url": "https://www.donga.com/news/Economy/article/all/20261126/135098573/2",
-      "publishedAt": "2026-11-26T15:30:00.000Z",
-      "excerpt": "세계 최대 인공지능(AI) 반도체 기업 엔비디아가 젠슨 황 최고경영자(CEO)의 복귀에도 신용등급 강등 위기에 놓였다. 글로벌 AI 인프라 투자에도 부담이 될 수 있다는 우려가 나온다. 25일(현지 시간) 블룸버그통신 등에 따르면 국제신용평가사 스탠더드앤드푸어스(S&P)는 엔비디아의 장기 신용등급을 AA로 유지하되 ‘부정적 관찰 대상’에 올렸다. 이는 향후 90일간 검토를 거쳐 AA－로 신용등급을 한 단계 낮출 수 있다는 예고…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261126/135098571/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“韓금융사 7곳 뚫은 ‘아르텍스’, 北-中조직 5곳도 써”",
-      "url": "https://www.donga.com/news/Economy/article/all/20261126/135098571/2",
-      "publishedAt": "2026-11-26T15:30:00.000Z",
-      "excerpt": "한국 금융사 7곳 연쇄 해킹에 쓰인 중국어권 인공지능(AI) 모의 해킹 도구 ‘아르텍스(ARTEX)’를 중국의 전문 해킹 조직 ‘솔트 타이푼’도 사용하는 것으로 조사됐다. 이곳은 2024년 미국 통신사 최소 9곳을 뚫고 당시 대선 후보였던 도널드 트럼프 대통령의 휴대전화를 노린 배후로 지목된 조직이다. 마이크로소프트(MS)는 25일(현지 시간) 보안 블로그에서 아르텍스를 쓰는 해킹 조직으로 솔트 타이푼 등 6곳을 꼽았다. 중국…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261126/135098713/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "내년 주담대 금리 年 8%대로 뛸 듯… “고정금리가 유리” 조언",
-      "url": "https://www.donga.com/news/Economy/article/all/20261126/135098713/2",
-      "publishedAt": "2026-11-26T15:30:00.000Z",
-      "excerpt": "한국은행 금융통화위원회가 최근 4개월간 기준금리를 연 2.50%에서 3.25%까지 0.75%포인트 올리면서 주택담보대출(주담대) 최고 금리가 다시 연 8%대로 뛸 수 있다는 전망이 나온다. 전문가들은 내년에 금리가 더 오를 가능성이 높은 만큼 주담대는 고정금리형이 유리하다고 조언했다. 예금도 금리가 오를 가능성에 대비해 만기를 짧게 두면서 다양하게 분산할 필요가 있다고 봤다.● “변동형 대출, 금리 상승기 불리” 26일 금융권…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261126/135098711/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "저신용자 내년 1분기 年 10%대 금리 신용대출 가능",
-      "url": "https://www.donga.com/news/Economy/article/all/20261126/135098711/2",
-      "publishedAt": "2026-11-26T15:30:00.000Z",
-      "excerpt": "저신용자들은 내년 1분기(1∼3월)부터 은행과 저축은행이 협업해 내놓은 연 10%대 금리 신용대출을 받을 수 있다. 금융위원회는 26일 포용적 금융 대전환 회의를 열고 금융권이 저신용자에게 기존보다 낮은 금리로 더 많은 대출을 내주는 ‘포용 금융’을 독려하기 위해 규제 완화 방안을 내놨다. 은행은 7월 말 기준 저신용자에게 연 8.63%, 저축은행은 연 15.07% 금리로 대출을 내주고 있다. 3월 말보다 각각 0.05%포인트…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261126/135098709/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘4인가족’ 김장비용, 작년보다 2만원 낮은 18만7613원",
-      "url": "https://www.donga.com/news/Economy/article/all/20261126/135098709/2",
-      "publishedAt": "2026-11-26T15:30:00.000Z",
-      "excerpt": "26일 서울의 한 대형마트에서 고객들이 김장 채소를 고르고 있다. 한국농수산식품유통공사(aT)에 따르면 4인 가족 김장비용(배추 20포기 기준)은 18만7613원으로 지난해보다 2만 원가량 낮았다."
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261126/135098704/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "주병기 “대기업집단이 성장 성과 독차지… 재벌 경영권 세습-문어발식 확장 끝내야”",
-      "url": "https://www.donga.com/news/Economy/article/all/20261126/135098704/2",
-      "publishedAt": "2026-11-26T15:30:00.000Z",
-      "excerpt": "주병기 공정거래위원장(사진)이 26일 “한국 경제가 주력 수출 산업의 대기업과 그 대기업이 소속된 재벌 대기업집단이 성장의 성과를 독차지하는 구조적인 문제를 안고 있다”고 밝혔다. 재벌의 경영권 세습과 문어발식 확장을 끝내야 한다고도 언급했다. 앞서 “착취적 대한민국을 만드는 적은 재벌과 대기업집단의 세습 경제”라고 밝힌 주 위원장이 재차 이런 입장을 강조한 것이라 논란이 예상된다. 주 위원장은 이날 중소기업중앙회에서 ‘중소기…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261126/135098707/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "민간 자본시장 개혁기구 출범… 위원장 김용범씨",
-      "url": "https://www.donga.com/news/Economy/article/all/20261126/135098707/2",
-      "publishedAt": "2026-11-26T15:30:00.000Z",
-      "excerpt": "금융위원회는 향후 발족할 자본시장 개혁기구인 ‘자본시장 대전환 위원회’(가칭) 위원장을 김용범 메리츠금융지주 부회장(사진)에게 맡기기로 했다고 26일 밝혔다. 이억원 금융위원장은 이날 정부서울청사에서 김 부회장을 만나 자본시장 개혁기구 구성 및 운영방안 등을 논의했다. 위원회는 위원장이 직접 뽑은 민간위원으로만 운영하고, 위원장이 직접 이재명 대통령에게 보고하도록 했다고 금융위는 설명했다. 위원회는 주주중심 경영 확산, 기업가…"
-    },
-    {
       "id": "geeknews:https://news.hada.io/topic?id=37904&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "sourceId": "geeknews",
       "sourceName": "GeekNews",
@@ -968,42 +1064,6 @@
       "url": "https://www.inc.com/ethan-fixell/a-ceo-made-2000-employees-take-an-ai-course-employers-say-theyre-missing-a-bigger-skill/91442275",
       "publishedAt": "2026-11-26T15:00:00.000Z",
       "excerpt": "AI can do the heavy lifting. Humans still need to check the work."
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=37903&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "재무부 CIO, 본업 대신 바이브 코딩에 너무 바쁜 상태 #147",
-      "url": "https://news.hada.io/topic?id=37903&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-26T14:41:16.000Z",
-      "excerpt": "Legatum 게임 저장소의 이슈 #147 에서 재무부 CIO가 FinCEN 서비스를 복구하는 대신 게임을 바이브 코딩하고 있다는 비판이 나옴 댓글에 인용된 Catherine Rampell의 게시물에 따르면 FinCEN 의심거래보고(SAR) 일괄 제출 장애 가 이어졌으며, 이후 일부 수동 제출과 금융기관용 FI Portal도 작동하지 않음 같은 게시물은 FinCEN이 사이버 보안 침해를 인정했다 고 전하며, CIO가 사흘간 C…"
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=37902&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Euro-Office, Nextcloud Office Desktop 앱으로 데스크톱에 진출",
-      "url": "https://news.hada.io/topic?id=37902&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-26T14:38:16.000Z",
-      "excerpt": "Euro-Office 기반 Nextcloud Office Desktop 앱 이 다운로드 가능한 버전으로 공개됨. Windows, macOS, Linux에서 무료 오픈소스 오피스를 사용할 수 있음 문서, 스프레드시트, 프레젠테이션, PDF 편집기를 갖추고 Microsoft Office 형식과 개방형 문서 형식 에 높은 호환성을 제공함 오프라인 편집 으로 인터넷 연결이나 온라인 도구 장애와 무관하게 로컬 파일 작업을 이어갈 수 있…"
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=37901&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Lions의 Unix 해설서가 20년 동안 몰래 복사된 이유",
-      "url": "https://news.hada.io/topic?id=37901&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-26T14:35:16.000Z",
-      "excerpt": "John Lions의 Unix 해설서 는 운영체제를 실제 코드로 가르치기 위해 1976년 작성한 Unix Version 6 커널 강의 노트에서 출발함 AT&T가 1979년 발표한 Version 7 라이선스 조건 은 소스 코드를 공개하거나 논의하는 수업을 제한했고, Lions의 책 배포도 엄격히 통제됨 컴퓨터과학 학생들은 정식판이 나오기 전 약 20년 동안 무단 복사본 으로 공부했으며, 이 책은 한 세대가 직접 운영체제를 만드는…"
     },
     {
       "id": "hn:https://news.ycombinator.com/item?id=50655664",
@@ -1342,18 +1402,6 @@
       "excerpt": "Disney is betting fans will pay big-screen prices for the biggest game."
     },
     {
-      "id": "inc:https://www.inc.com/amaya-nichole/nordstrom-closing-stores-list-doomed-locations-2026/91442037",
-      "sourceId": "inc",
-      "sourceName": "Inc.",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Nordstrom Is Closing Stores: Updated List of Doomed Locations for 2026",
-      "url": "https://www.inc.com/amaya-nichole/nordstrom-closing-stores-list-doomed-locations-2026/91442037",
-      "publishedAt": "2026-11-26T13:00:00.000Z",
-      "excerpt": "Even as the company’s sales hit their strongest growth in years, the retailer is closing a handful of locations across the U.S."
-    },
-    {
       "id": "startupn:https://www.startupn.kr/news/articleView.html?idxno=60825",
       "sourceId": "startupn",
       "sourceName": "스타트업엔",
@@ -1558,18 +1606,6 @@
       "excerpt": "‘아동학대 신고 제도 개선안’에“현행법보다 두텁게 인정” 평가교원 부담 감소 등 빠져 비판도정부가 26일 발표한 교원 대상 무고성 아동학대 신고 제도 개선 방안은 기존 대법원 판례를 법률에 반영해 아동학대 판단의 예측 가능성을 높이는 데 방점이 찍혀 있다. 학부모와 수사기관이 어떤 행위가 아동학대에 해당하는지를 더욱 명확히 알 수 있도록 해 불필요한 신고와···"
     },
     {
-      "id": "khan:https://www.khan.co.kr/article/202611262127005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "신현송 “내년에 반도체 낙수효과”…금리 인상엔 또 “선제 대응”",
-      "url": "https://www.khan.co.kr/article/202611262127005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-26T12:27:00.000Z",
-      "excerpt": "성장률 전망 상향 근거로 “법인세·성과급·배당 등 국민경제로 환원”금통위 다수, 6개월 후 금리 ‘3.5~3.75%’ 전망…내년에도 인상 예고통화정책 방향 설명 신현송 한은 총재가 26일 서울 중구 한국은행에서 열린 금융통화위원회의 통화정책 방향에 대해 설명하고 있다. 사진공동취재단신현송 한국은행 총재는 26일 올해와 내년 성장률 전망치를 올리면서 “충분한···"
-    },
-    {
       "id": "yna-local:https://www.yna.co.kr/view/AKR20261118180857007",
       "sourceId": "yna-local",
       "sourceName": "연합뉴스 전국",
@@ -1748,18 +1784,6 @@
       "url": "https://www.sedaily.com/article/20119587",
       "publishedAt": "2026-11-26T11:31:31.000Z",
       "excerpt": ""
-    },
-    {
-      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-26/boe-ploughs-ahead-with-gilt-repo-market-reform-next-year",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "BOE Prepares Repo Reform as Hedge Fund Leverage Raises Risks",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/boe-ploughs-ahead-with-gilt-repo-market-reform-next-year",
-      "publishedAt": "2026-11-26T11:14:00.000Z",
-      "excerpt": "The Bank of England is pushing ahead with reforms to the gilt repo market to tackle risks imposed by the growing presence of hedge funds."
     },
     {
       "id": "startupn:https://www.startupn.kr/news/articleView.html?idxno=60816",
@@ -2916,18 +2940,6 @@
       "excerpt": "실시간 단기 일자리 매칭 플랫폼 ‘급구’를 운영하는 니더가 올해 1~10월 연령대별 앱 이용 데이터를 분석한 결과, 단기 알바 이용층이 20대 중심에서 30대까지 확대되는 추세인 것으로 나타났다. 30대의 근무 완료 건수가 전년 동기 대비 72% 증가하며 전체 평균 증가율(51%)과 20대 증가율(39%)을 모두 웃돌았다. 이번 분석에서 가장 두드러진 변화는 30대의 실제 근무 참여 증가다. 30대 구직자의 지원 ... 더 읽…"
     },
     {
-      "id": "wowtale:https://wowtale.net/2026/11/26/268683/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%2582%2598%25eb%2588%2594%25eb%25b9%2584%25ed%2583%2580%25eb%25af%25bc-2026-lbs-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%25b1%258c%25eb%25a6%25b0%25ec%25a7%2580-%25ec%25b5%259c%25ec%259a%25b0%25ec%2588%2598%25ec%2583%2581",
-      "sourceId": "wowtale",
-      "sourceName": "와우테일",
-      "domain": "startup",
-      "lang": "ko",
-      "kind": "article",
-      "title": "나눔비타민, ‘2026 LBS 스타트업 챌린지’ 최우수상",
-      "url": "https://wowtale.net/2026/11/26/268683/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%2582%2598%25eb%2588%2594%25eb%25b9%2584%25ed%2583%2580%25eb%25af%25bc-2026-lbs-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%25b1%258c%25eb%25a6%25b0%25ec%25a7%2580-%25ec%25b5%259c%25ec%259a%25b0%25ec%2588%2598%25ec%2583%2581",
-      "publishedAt": "2026-11-26T00:31:53.000Z",
-      "excerpt": "나눔비타민이 2026 LBS 스타트업 챌린지 사업화 분야 최우수상을 받고, 위치정보 기반 아동급식카드 플랫폼 나비얌을 12월 경기도로 확대한다."
-    },
-    {
       "id": "platum:https://platum.kr/archives/299520?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ed%2581%25ac%25eb%25a6%25bf%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ed%2595%259c%25ea%25b5%25ad-%25ec%259b%25b9%25ed%2588%25b0-ip-%25ec%259d%25bc%25eb%25b3%25b8-%25ec%2582%25ac%25ec%2597%2585%25ed%2599%2594-%25ea%25b8%25b0%25ec%2597%2585-%25ed%2581%25b4%25eb%25a7%2581%25ed%2581%25ac%25ec%2597%2590",
       "sourceId": "platum",
       "sourceName": "플래텀",
@@ -3524,18 +3536,6 @@
       "url": "https://www.entrepreneur.com/business-news/tech/elon-musk-is-building-the-future-we-saw-in-the-movies-so-whos-imagining-the-technology-of-tomorrow",
       "publishedAt": "2026-11-25T16:30:00.000Z",
       "excerpt": "A new generation of entrepreneurs is emerging, armed with tools that previous generations could only dream of."
-    },
-    {
-      "id": "entrepreneur:https://www.entrepreneur.com/business-news/amazon-tech-leaders-famous-morning-routine-starts-at-4-a-m-with-ai-agent",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "This Amazon Tech Leader Has a ‘Famous’ 4 a.m. Morning Routine. It Starts With an AI Agent.",
-      "url": "https://www.entrepreneur.com/business-news/amazon-tech-leaders-famous-morning-routine-starts-at-4-a-m-with-ai-agent",
-      "publishedAt": "2026-11-25T16:19:41.000Z",
-      "excerpt": "Here's how the Amazon Web Services chief AI and tech officer uses an AI agent to streamline getting ready."
     },
     {
       "id": "axios:https://www.axios.com/2026/11/25/iowa-army-lead-detonation",
@@ -6470,11 +6470,6 @@
         "parsed": 20
       },
       {
-        "id": "hn",
-        "count": 10,
-        "parsed": 13
-      },
-      {
         "id": "tldr",
         "count": 5,
         "parsed": 20
@@ -6600,6 +6595,13 @@
         "parsed": 772
       }
     ],
-    "failed": []
+    "failed": [
+      {
+        "id": "hn",
+        "name": "Hacker News (200점 이상)",
+        "url": "https://hnrss.org/frontpage?points=200",
+        "error": "fetch failed"
+      }
+    ]
   }
 }
