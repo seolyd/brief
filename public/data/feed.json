@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:40:07.268Z",
+  "generatedAt": "2026-11-27T04:36:49.739Z",
   "domains": [
     {
       "id": "local",
@@ -154,18 +154,6 @@
       "excerpt": "김정은 북한 국무위원장이 지난 25일 핵물질 생산시설을 방문해 은색 우라늄 농축용 원심분리기 사이를 걷고 있다(위 사진). 아래 사진은 2024년 9월 북한이 공개한 우라늄 농축시설 모습. 북한은 그동안 세 차례 우라늄 농축시설을 공개했다. 이번에 선보인 시설은 당시보다 내부가 어둡고 층고가 낮아 지하에 새로 조성된 시설일 가능성이 제기된다. 조선중앙TV연합뉴스 북한이 26일 공개한 우라늄 농축시설은 앞서 세 차례 선보인 것과…"
     },
     {
-      "id": "kmib:https://www.kmib.co.kr/article/20261126501869",
-      "sourceId": "kmib",
-      "sourceName": "국민일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "케어랩스, 사명 ‘원익H&X’로 변경",
-      "url": "https://www.kmib.co.kr/article/20261126501869",
-      "publishedAt": "2026-11-27T12:09:37.000Z",
-      "excerpt": "이민경 원익 H&amp;X 대표. 원익H&amp;X 제공 메디컬뷰티 플랫폼 ‘바비톡’ 등을 서비스해온 케어랩스가 사명을 ‘원익H&amp;X’로 변경했다. 헬스·뷰티·롱제비티를 아우르는 ‘웰니스’를 새 방향성으로 잡았다. 원익H&amp;X는 26일 임시주주총회를 열고, 사명 변경을 위한 정관 일부 변경의 건을 원안대로 의결했다. 원익그룹 계열사로서 정체성을 강화하고, 헬스·뷰티·시니어 케어 경험을 제공하겠다는 회사의 방향성을 새…"
-    },
-    {
       "id": "kmib:https://www.kmib.co.kr/article/20261126501851",
       "sourceId": "kmib",
       "sourceName": "국민일보",
@@ -214,15 +202,63 @@
       "excerpt": "절망에 놓인 사람에게 진정한 희망은 어디서 오는 것일까. 아홉 살에 소아암 진단을 받고 49번의 항암 치료와 25번의 방사선 치료를 견딘 저자는 그 답을 사람에게서 발견한다. 치료실 밖에서 주기도문을 1000번 암송한 어머니, 4년간 치료비를 내준 이름 없는 후원자의 이야기가 먹먹하게 다가온다. 20년 만에 다시 뇌종양 진단을 받고도 그가 붙드는 것은 반드시 회복되리라는 확신보다 하나님이 여전히 함께하신다는 믿음이다. 고난의 …"
     },
     {
+      "id": "kmib:https://www.kmib.co.kr/article/20261126501841",
+      "sourceId": "kmib",
+      "sourceName": "국민일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "[새로 나온 책] 눈이 번쩍! 성경 풍물관: 물건 편",
+      "url": "https://www.kmib.co.kr/article/20261126501841",
+      "publishedAt": "2026-11-27T11:28:21.000Z",
+      "excerpt": "세계기독교박물관장이 성경 속 물건과 풍습을 알기 쉽게 풀어 쓴 교양서다. 저자는 대한무역투자진흥공사(KOTRA)에서 32년간 일하며 80여개국을 다녔고 이스라엘 등지에 살며 성경 물건 1만3000여점을 모았다. 책은 의상과 음식, 주거와 생활로 나눠 성경 물건 45가지를 다룬다. 만나의 실체를 확인하려고 에셀나무 숲에서 밤을 새우고 연자맷돌을 찾기 위해 3년 반 동안 이스라엘 구약 유적지를 누비는 등 저자가 발로 확인한 기록이…"
+    },
+    {
+      "id": "hani:https://www.hani.co.kr/arti/international/international_general/1289420.html",
+      "sourceId": "hani",
+      "sourceName": "한겨레",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "디즈니 전성기 이끈 밥 아이거도 사내 불륜 의혹…“임신중지 수술 받아”",
+      "url": "https://www.hani.co.kr/arti/international/international_general/1289420.html",
+      "publishedAt": "2026-11-27T04:36:47.267Z",
+      "excerpt": ""
+    },
+    {
+      "id": "hani:https://www.hani.co.kr/arti/area/chungcheong/1289419.html",
+      "sourceId": "hani",
+      "sourceName": "한겨레",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "5년 만에 원청 교섭하는 현대제철 비정규직…“직접 고용 쟁취하자”",
+      "url": "https://www.hani.co.kr/arti/area/chungcheong/1289419.html",
+      "publishedAt": "2026-11-27T04:36:47.267Z",
+      "excerpt": ""
+    },
+    {
+      "id": "hani:https://www.hani.co.kr/arti/sports/basketball/1289418.html",
+      "sourceId": "hani",
+      "sourceName": "한겨레",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "‘국보급 센터’ 서장훈의 농구 인생 조명 전시회 열린다",
+      "url": "https://www.hani.co.kr/arti/sports/basketball/1289418.html",
+      "publishedAt": "2026-11-27T04:36:47.267Z",
+      "excerpt": ""
+    },
+    {
       "id": "hani:https://www.hani.co.kr/arti/politics/politics_general/1289417.html",
       "sourceId": "hani",
       "sourceName": "한겨레",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "민주당 특위, ‘65살 정년연장’ 노사 접점 못찾아…다음달 2일 마지막 회의",
+      "title": "10개월 만에 열리고도…민주당 특위, ‘65살 정년연장’ 노사 접점 못찾아",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1289417.html",
-      "publishedAt": "2026-11-27T03:40:06.141Z",
+      "publishedAt": "2026-11-27T04:36:47.267Z",
       "excerpt": ""
     },
     {
@@ -234,7 +270,7 @@
       "kind": "article",
       "title": "“최선 다하겠다”…한국 농구, 이승현이 보여준 베테랑의 품격",
       "url": "https://www.hani.co.kr/arti/sports/basketball/1289416.html",
-      "publishedAt": "2026-11-27T03:40:06.141Z",
+      "publishedAt": "2026-11-27T04:36:47.267Z",
       "excerpt": ""
     },
     {
@@ -246,7 +282,7 @@
       "kind": "article",
       "title": "Yoon ranks below Chun Doo-hwan in favorability ranking of Korean presidents",
       "url": "https://www.hani.co.kr/arti/english_edition/e_national/1289415.html",
-      "publishedAt": "2026-11-27T03:40:06.141Z",
+      "publishedAt": "2026-11-27T04:36:47.267Z",
       "excerpt": ""
     },
     {
@@ -258,7 +294,7 @@
       "kind": "article",
       "title": "‘관저 이전 예산 전용’ 김대기 전 비서실장, 징역형 집유…이상민은 무죄",
       "url": "https://www.hani.co.kr/arti/society/society_general/1289414.html",
-      "publishedAt": "2026-11-27T03:40:06.141Z",
+      "publishedAt": "2026-11-27T04:36:47.267Z",
       "excerpt": ""
     },
     {
@@ -270,7 +306,7 @@
       "kind": "article",
       "title": "하객 40만명에 양고기 1t…인도 가난한 시골마을 정치인 딸의 ‘초호화 결혼식’",
       "url": "https://www.hani.co.kr/arti/international/asiapacific/1289413.html",
-      "publishedAt": "2026-11-27T03:40:06.141Z",
+      "publishedAt": "2026-11-27T04:36:47.267Z",
       "excerpt": ""
     },
     {
@@ -282,7 +318,7 @@
       "kind": "article",
       "title": "삼성전자, 오늘 30조 배당…이재용 회장 4400억",
       "url": "https://www.hani.co.kr/arti/economy/marketing/1289412.html",
-      "publishedAt": "2026-11-27T03:40:06.141Z",
+      "publishedAt": "2026-11-27T04:36:47.267Z",
       "excerpt": ""
     },
     {
@@ -294,44 +330,476 @@
       "kind": "article",
       "title": "이 대통령 지지율 41%…민주 37%, 국힘 30% [갤럽]",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1289411.html",
-      "publishedAt": "2026-11-27T03:40:06.141Z",
+      "publishedAt": "2026-11-27T04:36:47.267Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/sports/soccer/1289410.html",
-      "sourceId": "hani",
-      "sourceName": "한겨레",
+      "id": "donga:https://www.donga.com/news/Politics/article/all/20261127/135102352/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "[포토] 유로파리그 ‘관중 난투극’ 11명 부상",
-      "url": "https://www.hani.co.kr/arti/sports/soccer/1289410.html",
-      "publishedAt": "2026-11-27T03:40:06.141Z",
+      "title": "울릉도 인근서 구조된 北어민 6명 송환…1명은 귀순",
+      "url": "https://www.donga.com/news/Politics/article/all/20261127/135102352/1",
+      "publishedAt": "2026-11-27T04:33:00.000Z",
+      "excerpt": "이달 초 동해 울릉도 인근 해상에서 표류하다 구조된 북한 어민 6명과 이들이 탄 어선이 27일 동해 북방한계선(NLL)을 넘어 북한으로 돌아갔다. 북한 어민 1명은 귀순 의사를 밝혀 한국에서 북한이탈주민으로 보호를 받게 된다. 통일부에 따르면 북한 어선은 이날 오전 8시 33분에 동해 NLL을 통과했고 북쪽에서 대기 중이던 북측 경비정과 만나 북쪽으로 이동했다. 앞서 이달 3일 해군과 해양경찰은 울릉도 북방 공해상에서 표류하던…"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127082500009",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "대만 법원, '중국 포섭돼 스파이활동' 퇴역 군인에 징역 6년",
+      "url": "https://www.yna.co.kr/view/AKR20261127082500009",
+      "publishedAt": "2026-11-27T04:29:06.000Z",
+      "excerpt": "(타이베이=연합뉴스) 김철문 통신원 = 대만해협을 둘러싼 군사적 긴장이 고조하는 가운데 대만 법원이 중국에 포섭돼 스파이 활동을 한 퇴역 군인에..."
+    },
+    {
+      "id": "mk:https://www.mk.co.kr/news/economy/12220080",
+      "sourceId": "mk",
+      "sourceName": "매일경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "산업연 “반도체 호황으로 더 걷힌 법인세, 비반도체 산업에 투자해야”",
+      "url": "https://www.mk.co.kr/news/economy/12220080",
+      "publishedAt": "2026-11-27T04:28:44.000Z",
+      "excerpt": "수출 상위 10대 품목 비중 66%로 D램 모듈, 자동차 제치고 2위 올라 반도체 쏠림 심해질수록 다른 산업 정책금융 확대해야반도체 호황으로 늘어난 법인세 수입의 일부를 비반도체 .."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Inter/article/all/20261127/135102611/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“쓰촨 사람이 쓰촨 말 쓰는 게 죄냐” 쉬는 시간 사투리 썼다고 징계한 中 학교",
+      "url": "https://www.donga.com/news/Inter/article/all/20261127/135102611/1",
+      "publishedAt": "2026-11-27T04:28:00.000Z",
+      "excerpt": "중국 쓰촨성의 한 학교가 교내 쉬는 시간에 지역 방언(사투리)을 썼다는 이유로 학생에게 반성문을 쓰게 하는 등 징계를 내렸다가 여론의 뭇매를 맞고 관련 규정을 폐지했다. 중국 당국이 최근 표준어(보통화) 보급을 법제화하며 언어 통제 수위를 높이는 가운데, 일선 현장에서 빚어진 과잉 단속이 반발을 키운 것이다.27일 홍콩 명보 등에 따르면, 쓰촨성 이빈시의 한 학교에 재학 중인 학생은 최근 지방정부 온라인 민원 게시판에 교내 사…"
+    },
+    {
+      "id": "wowtale:https://wowtale.net/2026/11/27/268771/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ea%25b7%25b9%25ec%25a7%2580%25ec%2597%25b0%25ea%25b5%25ac%25ec%2586%258c%25c2%25b7%25ec%25bd%259c%25ec%25a6%2588%25eb%258b%25a4%25ec%259d%25b4%25eb%2582%2598%25eb%25af%25b9%25ec%258a%25a4-%25ea%25b7%25b9%25ec%25a7%2580-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0-%25ec%259c%25b5%25ed%2595%25a9-%25ec%258a%25a4",
+      "sourceId": "wowtale",
+      "sourceName": "와우테일",
+      "domain": "startup",
+      "lang": "ko",
+      "kind": "article",
+      "title": "극지연구소·콜즈다이나믹스, ‘극지 데이터 융합 스케일업’ 중간 데모데이 개최",
+      "url": "https://wowtale.net/2026/11/27/268771/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ea%25b7%25b9%25ec%25a7%2580%25ec%2597%25b0%25ea%25b5%25ac%25ec%2586%258c%25c2%25b7%25ec%25bd%259c%25ec%25a6%2588%25eb%258b%25a4%25ec%259d%25b4%25eb%2582%2598%25eb%25af%25b9%25ec%258a%25a4-%25ea%25b7%25b9%25ec%25a7%2580-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0-%25ec%259c%25b5%25ed%2595%25a9-%25ec%258a%25a4",
+      "publishedAt": "2026-11-27T04:26:13.000Z",
+      "excerpt": "극지연구소와 콜즈다이나믹스가 부산에서 극지 데이터 융합 스케일업 중간 데모데이를 열어 10개 스타트업의 BM·PoC 성과를 점검하고 연구원 1:1 밋업을 지원했다."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261127/135102622/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“고위험 산모 위해”…손연재 부부의 ‘통큰 기부’",
+      "url": "https://www.donga.com/news/Society/article/all/20261127/135102622/1",
+      "publishedAt": "2026-11-27T04:26:01.000Z",
+      "excerpt": "리듬체조 국가대표 출신 손연재씨와 남편 이준효씨가 고위험 산모와 태아를 위한 전문협진센터 설립을 위해 30억원을 기부하기로 했다. 연세의료원은 손연재·이준효 부부가 세브란스병원 내에 고위험 산모와 태아를 위한 전문 협진센터 설립을 위해 30억원 후원 협약을 체결했다고 27일 밝혔다.30억원의 후원금은 전담 인력 충원과 최신 의료 인프라 확충, 특화 진료 모델 개발 등에 투입된다.최근 저출산과 전문 의료 인력 감소로 고위험 임신…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261127/135102361/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "여중생 성매매·절도 지시…성북 살인사건 피의자 前연인 송치",
+      "url": "https://www.donga.com/news/Society/article/all/20261127/135102361/1",
+      "publishedAt": "2026-11-27T04:26:00.000Z",
+      "excerpt": "서울 성북구에서 진모 씨(59)에게 살해당한 여중생(15)에게 생전 절도를 지시하고 성매매를 권유한 혐의로 진 씨의 전 연인 김모 씨(26)가 구속 송치됐다. 경찰은 김 씨가 여중생에게 성적, 정서적 학대를 가한 것으로 판단했다.서울 노원경찰서는 김 씨를 절도교사, 장물취득, 사기, 아동청소년성보호법 위반, 아동복지법 위반(학대) 등 혐의로 27일 서울북부지방공소청에 구속 송치했다고 밝혔다. 경찰에 따르면 김 씨는 숨진 여중생…"
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127083400054",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "광주경실련 \"도시철도 2호선 1.5조 증액…주민감사 청구\"",
+      "url": "https://www.yna.co.kr/view/AKR20261127083400054",
+      "publishedAt": "2026-11-27T04:22:40.000Z",
+      "excerpt": "(전남광주=연합뉴스) 민현기 기자 = 광주경제정의실천시민연합(광주경실련)은 27일 \"광주 도시철도 2호선 사업비가 당초보다 1조5천억원 넘게 늘..."
+    },
+    {
+      "id": "sedaily:https://www.sedaily.com/article/20119816",
+      "sourceId": "sedaily",
+      "sourceName": "서울경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "커지는 고용불안…실직 뒤 경력 못 살리면 첫 임금 10% 낮아",
+      "url": "https://www.sedaily.com/article/20119816",
+      "publishedAt": "2026-11-27T04:22:31.000Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/science/science_general/1289409.html",
-      "sourceId": "hani",
-      "sourceName": "한겨레",
-      "domain": "news",
+      "id": "sedaily:https://www.sedaily.com/article/20119815",
+      "sourceId": "sedaily",
+      "sourceName": "서울경제 경제",
+      "domain": "korea",
       "lang": "ko",
       "kind": "article",
-      "title": "식물은 왜 복잡한 잎보다 단순한 잎을 만들까?",
-      "url": "https://www.hani.co.kr/arti/science/science_general/1289409.html",
-      "publishedAt": "2026-11-27T03:40:06.141Z",
+      "title": "수출 1조 달러 분해해보니…증액 절반은 더 비싸게 판 덕",
+      "url": "https://www.sedaily.com/article/20119815",
+      "publishedAt": "2026-11-27T04:22:19.000Z",
       "excerpt": ""
     },
     {
-      "id": "hani:https://www.hani.co.kr/arti/economy/economy_general/1289408.html",
-      "sourceId": "hani",
-      "sourceName": "한겨레",
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127083600052",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "창원중앙역에 365일 경남관광기념품 판매 무인 자판기 운영",
+      "url": "https://www.yna.co.kr/view/AKR20261127083600052",
+      "publishedAt": "2026-11-27T04:22:11.000Z",
+      "excerpt": "(창원=연합뉴스) 이정훈 기자 = 경남관광재단은 코레일유통과 협의를 거쳐 창원중앙역 맞이방에 다양한 지역 관광기념품을 파는 무인 자판기를 운영하..."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611271321001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "백악관까지 나선 ‘쿠팡 옹호’…공정위 “국적 따른 ‘차별 조사’ 없다” 반박",
-      "url": "https://www.hani.co.kr/arti/economy/economy_general/1289408.html",
-      "publishedAt": "2026-11-27T03:40:06.141Z",
-      "excerpt": ""
+      "title": "제주 BRT 자문단 “서광로 섬식정류장 전면 철거·양문형 버스 도입 중단” 권고",
+      "url": "https://www.khan.co.kr/article/202611271321001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-27T04:21:00.000Z",
+      "excerpt": "자문단 “사고 늘고 이용객 혼란” 섬식정류장 철거상대식 정류장 일원화 제안···전환비용 131억 추산교통약자 위한 저상버스 도입 권고·중앙차로제 유지제주도는 간선급행버스체계(BRT) 고급화 사업을 추진하면서 국내 최초로 섬식 정류장을 도입해 운영 중이다. 박미라 기자제주 간선급행버스체계(BRT) 정책자문단이 제주시 서광로에 설치된 섬식정류장의 전면 철거와 ···"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Culture/article/all/20261127/135102542/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "강호동 아들, 전국 중고생 골프대회서 준우승",
+      "url": "https://www.donga.com/news/Culture/article/all/20261127/135102542/2",
+      "publishedAt": "2026-11-27T04:21:00.000Z",
+      "excerpt": "방송인 강호동의 아들 강시후(17)가 전국 학생 골프대회에서 준우승을 차지했다.27일 업계에 따르면 강시후는 이달 23~26일 전북 군산컨트리클럽에서 열린 ‘2026 전국중·고등학생골프대회’ 남자부에서 예선 72타, 본선 1라운드 74타, 최종 라운드 71타를 기록했다. 총 합계 217타를 적어낸 그는 남자고등부 2위로 대회를 마쳤다. 이번 대회는 남자중등부와 남자고등부로 나눠 시상했다. 남자고등부 개인전에는 총 69명이 출전…"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/It/article/all/20261127/135102606/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“줄넘기 넘으면 데이터로 차곡”… 메이크잇나우, 스마트 줄넘기로 학교 체육 디지털 전환 [인천대 X IT동아]",
+      "url": "https://www.donga.com/news/It/article/all/20261127/135102606/1",
+      "publishedAt": "2026-11-27T04:20:32.000Z",
+      "excerpt": "[인천대학교 X IT동아 공동기획] 인천대학교 창업지원단은 2017년부터 ‘스포츠산업 창업지원센터’를 운영하며 120개 이상의 스포츠산업 창업기업을 발굴·육성했습니다. 2026년에도 문화체육관광부와 국민체육진흥공단이 주관하는 ‘스포츠산업 예비초기 창업지원사업’ 운영기관으로 연속 선정되며, 창업 단계별 맞춤형 보육과 사업화 지원을 통해 스포츠산업의 미래를 이끌어갈 유망 스타트업을 선도하고 있습니다.국어, 수학, 과학 수업에 디지…"
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127083200057",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "울산 학교 비정규직 파업으로 절반가량 117개교 급식 차질",
+      "url": "https://www.yna.co.kr/view/AKR20261127083200057",
+      "publishedAt": "2026-11-27T04:20:14.000Z",
+      "excerpt": "(울산=연합뉴스) 김용태 기자 = 27일 전국학교비정규직연대회의 총파업으로 울산 유치원·학교 117곳에서 급식 차질이 빚어졌다."
+    },
+    {
+      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261127060751504",
+      "sourceId": "yna-pol",
+      "sourceName": "연합뉴스 정치",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "'표류' 北어선, 24일만에 돌아갔다…1명 남고 6명 송환(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261127060751504",
+      "publishedAt": "2026-11-27T04:16:08.000Z",
+      "excerpt": "(서울=연합뉴스) 하채림 윤보람 기자 = 이달 초 울릉도 인근 공해에서 표류하다 구조된 북한 어선이 24일 만에 동해상으로 송환됐다."
+    },
+    {
+      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-27/thai-exports-surge-as-imports-drive-trade-deficit-to-record-high",
+      "sourceId": "bbg-econ",
+      "sourceName": "Bloomberg Economics",
+      "domain": "global",
+      "lang": "en",
+      "kind": "article",
+      "title": "Thai Exports Surge as Imports Drive Trade Deficit to Record High",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/thai-exports-surge-as-imports-drive-trade-deficit-to-record-high",
+      "publishedAt": "2026-11-27T04:16:07.000Z",
+      "excerpt": "Thailand’s exports grew at the fastest pace in more than five years in October, but an even bigger surge in imports pushed the country’s trade deficit to a record."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Culture/article/all/20261127/135102582/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "솔비·이규한, 내년 4월25일 야외 결혼식 확정",
+      "url": "https://www.donga.com/news/Culture/article/all/20261127/135102582/1",
+      "publishedAt": "2026-11-27T04:13:29.000Z",
+      "excerpt": "가수 겸 화가 솔비(권지안)와 배우 이규한이 내년 4월25일 서울 종로구 모처에서 야외 결혼식을 올리는 것으로 27일 확인됐다. 예식은 양가 가족과 친인척, 가까운 지인들만 참석한 가운데 비공개로 진행된다.1984년생인 솔비와 1980년생인 이규한은 4세 차이다. 2017년 MBC TV 예능물 ‘오빠생각’에 함께 출연하며 인연을 맺었고, 8년 만인 지난해 7월 KBS Joy ‘오래된 만남 추구’ 시즌3에서 재회했다. 방송에서는…"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127081500083",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "쉬는 시간에 사투리 썼다고 학생 징계…中학교 황당한 교칙",
+      "url": "https://www.yna.co.kr/view/AKR20261127081500083",
+      "publishedAt": "2026-11-27T04:13:12.000Z",
+      "excerpt": "(베이징=연합뉴스) 한종구 특파원 = 중국 쓰촨성의 한 학교에서 쉬는 시간에 사투리를 썼다는 이유로 학생에게 반성문을 쓰게 하는 등 징계를 내려..."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Sports/article/all/20261127/135102579/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "탁구 임종훈·신유빈, 혼성 단체 월드컵서 3년 만에 호흡…첫 우승 도전",
+      "url": "https://www.donga.com/news/Sports/article/all/20261127/135102579/1",
+      "publishedAt": "2026-11-27T04:12:55.000Z",
+      "excerpt": "탁구 혼합 복식 세계랭킹 1위 임종훈(한국거래소)-신유빈(대한항공) 조가 오랜만에 혼성 단체 월드컵에 출격해 첫 정상 도전에 나선다.올해로 제4회째를 맞는 2026 국제탁구연맹(ITTF) 혼성 단체 월드컵이 11월29일부터 12월6일까지 여드레간 중국 청두의 하이 테크놀로지 존 스포츠 센터에서 펼쳐진다.이번 혼성 단체 월드컵에는 역대 가장 많은 20개국이 참가한다.조별리그는 10개 팀씩 2개 조로 나뉘어 풀리그 방식으로 진행되…"
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127063800062",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "김지영 삼척시의원, 시민축구단 창단 계획 전면 재검토 촉구",
+      "url": "https://www.yna.co.kr/view/AKR20261127063800062",
+      "publishedAt": "2026-11-27T04:10:02.000Z",
+      "excerpt": "(삼척=연합뉴스) 양지웅 기자 = 김지영 강원 삼척시의원은 27일 시의회에서 기자회견을 열고 삼척시민축구단 창단 계획의 전면 재검토를 촉구했다."
+    },
+    {
+      "id": "mk:https://www.mk.co.kr/news/economy/12220070",
+      "sourceId": "mk",
+      "sourceName": "매일경제 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "“신고하면 최대 30억원”…건보공단, ‘가짜 직장가입자’ 전쟁 선포",
+      "url": "https://www.mk.co.kr/news/economy/12220070",
+      "publishedAt": "2026-11-27T04:09:14.000Z",
+      "excerpt": "건강보험 직장가입자 자격을 허위로 취득하는 행위에 대한 제재가 대폭 강화된다. 직장가입자 자격을 허위로 취득하도록 한 사업주에게 부과하는 가산금이 종전의 4배로 늘어난다. 이런 사.."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611271307001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "손발은 시리고 몸은 천근만근··· 한방으로 대처하는 겨울나기[건강 돋보기]",
+      "url": "https://www.khan.co.kr/article/202611271307001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-27T04:07:00.000Z",
+      "excerpt": "손발이 시리거나 저린 수족냉증 증상은 자율신경계와 혈관계통의 문제로 나타날 수 있다. 게티이미지기온이 낮아지는 겨울철이 되면 손발이 차가워지는 수족냉증이 더 심해지고, 신체활동이 줄면서 피로감과 무기력감 등을 느끼는 경우도 많습니다. 이럴 땐 단순히 몸을 따뜻하게 데우는 대처 외에도 개인의 체질과 건강 상태에 맞는 적절한 관리법이 필요한데요. 한의학 전문가···"
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Economy/article/all/20261127/135102545/2",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "강호동 농협회장 “쌀 소비가 농촌의 미래”[K-라이스페스타]",
+      "url": "https://www.donga.com/news/Economy/article/all/20261127/135102545/2",
+      "publishedAt": "2026-11-27T04:00:38.000Z",
+      "excerpt": "농협이 쌀 가공식품과 우리 술을 앞세워 국내 쌀 소비 확대에 나섰다. 쌀을 활용한 다양한 식품과 새로운 식문화를 확산시켜 쌀 산업의 활로를 찾겠다는 구상이다.농협중앙회는 27일 경기도 고양시 킨텍스에서 ‘2026 K-라이스페스타’를 개최했다. 올해로 3회째를 맞은 이번 행사는 우리 쌀과 쌀 가공식품, 전통주 등의 우수성을 알리고 소비 기반을 확대하기 위해 마련됐다. 전국 쌀 가공식품 및 주류업체들이 참여해 다양한 제품과 기술을…"
+    },
+    {
+      "id": "techinasia:https://www.techinasia.com/ai-test-drive-singapore-smes-start",
+      "sourceId": "techinasia",
+      "sourceName": "Tech in Asia",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Taking AI for a test drive: where Singapore SMEs can start",
+      "url": "https://www.techinasia.com/ai-test-drive-singapore-smes-start",
+      "publishedAt": "2026-11-27T04:00:12.000Z",
+      "excerpt": "Beyondsoft's Tech Bridge program helps Singapore SMEs test suitable AI tools through focused trials before committing."
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127063200030",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "송미령 농식품장관 \"청년농 협업 경영 모델 지원\"",
+      "url": "https://www.yna.co.kr/view/AKR20261127063200030",
+      "publishedAt": "2026-11-27T04:00:01.000Z",
+      "excerpt": "(서울=연합뉴스) 한주홍 기자 = 송미령 농림축산식품부 장관은 27일 충남 보령시의 스마트팜 농업회사법인 그린몬스터즈를 방문해 청년농들과 협업 ..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261127079400030",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "농진청장 \"K-라이스벨트 사업 후 아프리카 농가 생산 두배 증가\"",
+      "url": "https://www.yna.co.kr/view/AKR20261127079400030",
+      "publishedAt": "2026-11-27T04:00:00.000Z",
+      "excerpt": "(서울=연합뉴스) 홍국기 기자 = 이승돈 농촌진흥청장은 27일 \"K-라이스벨트 사업 후 현지 농가의 평균 생산성이 두 배 이상 증가했다\"고 밝혔..."
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127080700062",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "\"오늘은 빵이네\" 강원 학교 3곳 중 2곳 파업 영향으로 급식 차질",
+      "url": "https://www.yna.co.kr/view/AKR20261127080700062",
+      "publishedAt": "2026-11-27T03:58:22.000Z",
+      "excerpt": "(춘천=연합뉴스) 양지웅 기자 = \"오늘은 급식 대신 빵이네요.\""
+    },
+    {
+      "id": "techinasia:https://www.techinasia.com/news/schneider-electric-launches-720kw-ev-charger-hong-kong",
+      "sourceId": "techinasia",
+      "sourceName": "Tech in Asia",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Schneider Electric launches 720kW EV charger in Hong Kong",
+      "url": "https://www.techinasia.com/news/schneider-electric-launches-720kw-ev-charger-hong-kong",
+      "publishedAt": "2026-11-27T03:58:06.000Z",
+      "excerpt": "Schneider said the first local commercial and industrial deployment has started at Asgard EV’s Chai Wan site."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127076200009",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "대만 여야, 지방선거 전날 막판 총력전…수도권에 화력 집중",
+      "url": "https://www.yna.co.kr/view/AKR20261127076200009",
+      "publishedAt": "2026-11-27T03:53:42.000Z",
+      "excerpt": "(타이베이=연합뉴스) 김철문 통신원 = 친미·독립 성향의 라이칭더 대만 총통의 중간 평가 성격이 짙은 대만 지방선거가 하루 앞으로 다가온 가운데..."
+    },
+    {
+      "id": "platum:https://platum.kr/archives/299662?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ed%2595%2580%25eb%258b%25a4%25eb%258a%2594-%25ec%259d%2580%25ed%2596%2589%25ec%259c%25bc%25eb%25a1%259c-%25ed%2595%259c%25ed%258c%25a8%25ec%258a%25a4%25eb%258a%2594-%25ed%2595%25b4%25ec%2599%25b8%25eb%25a1%259c%25ed%2595%2580%25ed%2585%258c%25ed%2581%25ac-6%25ea%25b3%25b3%25ec%259d%25b4-%25eb%25b0%259d",
+      "sourceId": "platum",
+      "sourceName": "플래텀",
+      "domain": "startup",
+      "lang": "ko",
+      "kind": "article",
+      "title": "핀다는 은행으로, 한패스는 해외로…핀테크 6곳이 밝힌 다음 사업",
+      "url": "https://platum.kr/archives/299662?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ed%2595%2580%25eb%258b%25a4%25eb%258a%2594-%25ec%259d%2580%25ed%2596%2589%25ec%259c%25bc%25eb%25a1%259c-%25ed%2595%259c%25ed%258c%25a8%25ec%258a%25a4%25eb%258a%2594-%25ed%2595%25b4%25ec%2599%25b8%25eb%25a1%259c%25ed%2595%2580%25ed%2585%258c%25ed%2581%25ac-6%25ea%25b3%25b3%25ec%259d%25b4-%25eb%25b0%259d",
+      "publishedAt": "2026-11-27T03:53:21.000Z",
+      "excerpt": "대출 비교 플랫폼 핀다는 은행 설립을, 외국인 금융 플랫폼 한패스는 해외 시장 진출을 다음 사업으로 내걸었다. 금융위원회가 주최한 ‘코리아 핀테크 위크 2026’ 마지막 날인 27일, 한국핀테크지원센터와 한국핀테크산업협회가 공동 주관한 ‘투자 및 생활 핀테크 서비스 소개’ 세미나에서 핀다와 한패스를 비롯해 AI 투자, 모바일 계모임, 대출 서류 자동화 분야 핀테크 기업 6곳이 서비스와 사업 계획을 발표했다. 가장 ... 더 읽…"
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127080400083",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "대만 내일 지방선거…'친미·반중' 라이칭더 정권 중간평가 무대",
+      "url": "https://www.yna.co.kr/view/AKR20261127080400083",
+      "publishedAt": "2026-11-27T03:53:17.000Z",
+      "excerpt": "(베이징=연합뉴스) 정성조 특파원 = 친미·반중 성향의 '라이칭더 정권' 중간평가 무대이자 2028년 대선 전초전인 대만 지방선거가 28일 치러..."
+    },
+    {
+      "id": "techinasia:https://www.techinasia.com/news/ant-group-opensources-ai-robots-map-navigate",
+      "sourceId": "techinasia",
+      "sourceName": "Tech in Asia",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Ant Group open-sources AI to help robots map and navigate",
+      "url": "https://www.techinasia.com/news/ant-group-opensources-ai-robots-map-navigate",
+      "publishedAt": "2026-11-27T03:50:41.000Z",
+      "excerpt": "Robbyant said LingBot-Navi retains spatial memory across missions, helping robots avoid repeated exploration."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127080100083",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "中, 임신부 혈액 3만8천건 밀반출 적발…범죄조직 37명 검거",
+      "url": "https://www.yna.co.kr/view/AKR20261127080100083",
+      "publishedAt": "2026-11-27T03:48:40.000Z",
+      "excerpt": "(베이징=연합뉴스) 김현정 특파원 = 중국 당국이 태아 성별 감별을 위해 임신부의 혈액 샘플을 해외로 밀반출한 범죄조직을 대거 적발하고 인간 유..."
+    },
+    {
+      "id": "khan:https://www.khan.co.kr/article/202611271248001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "sourceId": "khan",
+      "sourceName": "경향신문",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "증안펀드 가동하나 안하나…고민 깊어진 정부",
+      "url": "https://www.khan.co.kr/article/202611271248001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+      "publishedAt": "2026-11-27T03:48:00.000Z",
+      "excerpt": "이형일 부총리 겸 재정경제부 장관이 27일 서울 종로구 정부서울청사에서 열린 ‘시장상황점검회의’를 주재하고 있다.재정경제부 제공코스피 지수가 지난 6월 고점 대비 절반 가까이 떨어진 4700선을 맴돌면서 증권시장안정펀드(증안펀드) 가동 여부를 두고 정부의 고심이 깊어지고 있다. 증안펀드로 증시를 떠받쳐야 한다는 요구는 크지만 증안펀드가 마지막으로 가동된 2···"
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127081100054",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "전남광주 광산구 농민들 \"쓰레기소각장 입지 선정 중단하라\"",
+      "url": "https://www.yna.co.kr/view/AKR20261127081100054",
+      "publishedAt": "2026-11-27T03:47:23.000Z",
+      "excerpt": "(전남광주=연합뉴스) 정회성 기자 = 전남광주 광산구와 인접 농촌마을 주민들은 27일 \"전남광주통합시는 쓰레기 소각장 입지 선정 절차를 즉각 중..."
+    },
+    {
+      "id": "donga:https://www.donga.com/news/Society/article/all/20261127/135102504/1",
+      "sourceId": "donga",
+      "sourceName": "동아일보",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "결혼할 것처럼 손님 속여 7760만원 뜯은 유흥접객원 실형",
+      "url": "https://www.donga.com/news/Society/article/all/20261127/135102504/1",
+      "publishedAt": "2026-11-27T03:46:00.000Z",
+      "excerpt": "노래주점을 찾은 손님에게 결혼할 것처럼 행세해 수천만 원을 뜯어낸 40대 유흥접객원이 실형을 선고받았다.창원지법 형사4단독 석동우 판사는 사기 혐의로 기소된 40대(여)에게 징역 1년을 선고하고 피해자에게 7760만 원 배상을 명령했다고 27일 밝혔다.여성은 지난해 6월부터 8월까지 경남 창원시 성산구 상남동의 한 노래주점에서 유흥접객원으로 일하던 중 알게 된 손님을 속여 22차례에 걸쳐 총 7760만 원을 뜯어낸 혐의로 기소…"
+    },
+    {
+      "id": "platum:https://platum.kr/archives/299658?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%25b2%25ab-%25ed%258e%25a8%25ed%2585%258c%25ed%2581%25ac-%25eb%258d%25b0%25eb%25aa%25a8%25eb%258d%25b0%25ec%259d%25b4-%25ec%2597%25ac%25ec%2584%25b1-%25eb%25a7%259e%25ec%25b6%25a4-%25ec%2598%2581%25ec%2596%2591%25ea%25b4%2580%25eb%25a6%25ac-%25ec%2595%258c%25ea%25b3%25a0%25ec%25bc%2580%25ec%2596%25b4-%25ec%25b5%259c",
+      "sourceId": "platum",
+      "sourceName": "플래텀",
+      "domain": "startup",
+      "lang": "ko",
+      "kind": "article",
+      "title": "첫 펨테크 데모데이, 여성 맞춤 영양관리 알고케어 최우수상",
+      "url": "https://platum.kr/archives/299658?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%25b2%25ab-%25ed%258e%25a8%25ed%2585%258c%25ed%2581%25ac-%25eb%258d%25b0%25eb%25aa%25a8%25eb%258d%25b0%25ec%259d%25b4-%25ec%2597%25ac%25ec%2584%25b1-%25eb%25a7%259e%25ec%25b6%25a4-%25ec%2598%2581%25ec%2596%2591%25ea%25b4%2580%25eb%25a6%25ac-%25ec%2595%258c%25ea%25b3%25a0%25ec%25bc%2580%25ec%2596%25b4-%25ec%25b5%259c",
+      "publishedAt": "2026-11-27T03:43:56.000Z",
+      "excerpt": "난임 시술 보조 기기, 신소재 생리팬티, 산후 정서 관리 앱처럼 여성 건강 문제를 겨냥한 스타트업 12곳이 첫 펨테크 데모데이에서 한 해 사업화 성과를 발표했다. 중소벤처기업부가 올해 처음 시작한 ‘2026년 펨테크 산업 육성 사업’의 데모데이가 지난 24일 서울 강남구 팁스홀에서 열렸고, 심사 결과 여성 생애주기에 맞춘 정밀 영양관리 솔루션을 만드는 알고케어가 최우수상, AI 기반 프라이버시 보호 ... 더 읽기"
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261127078300008",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "엔비디아발 'AI 조정' 잦아드나…코스피·코스닥 일제히 급등",
+      "url": "https://www.yna.co.kr/view/AKR20261127078300008",
+      "publishedAt": "2026-11-27T03:39:14.000Z",
+      "excerpt": "(서울=연합뉴스) 황철환 기자 = 젠슨 황 엔비디아 최고경영자(CEO)의 불륜 스캔들과 사퇴, 복귀로 촉발된 글로벌 증시 급락의 여파가 다소 진..."
     },
     {
       "id": "khan:https://www.khan.co.kr/article/202611271235001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
@@ -340,22 +808,10 @@
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "퇴근하던 이주노동자 2명 화물차 밖으로 튀어나온 적재물 맞고 숨져",
+      "title": "화물차 적재함 밖 튀어나온 목조주택 지붕에 치여···퇴근길 이주노동자 2명 참변",
       "url": "https://www.khan.co.kr/article/202611271235001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
       "publishedAt": "2026-11-27T03:35:00.000Z",
       "excerpt": "화성서부경찰서. 화성서부경찰서 제공경기 화성시에서 퇴근하던 이주노동자 2명이 지나가던 화물차의 적재함 밖으로 튀어나온 물건에 맞아 숨지는 사고가 발생했다.화성서부경찰서는 교통사고처리 특례법 위반(치사) 혐의로 화물차 운전자인 A씨(50대)를 입건해 조사 중이라고 27일 밝혔다.A씨는 전날 오후 9시10분 화성시 만세구 장안면의 편도 1차로 도로에서 7.5t···"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Politics/article/all/20261127/135102486/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "‘울릉도 표류’ 北 주민 6명, 24일 만에 해상 송환…1명은 귀순",
-      "url": "https://www.donga.com/news/Politics/article/all/20261127/135102486/1",
-      "publishedAt": "2026-11-27T03:32:00.000Z",
-      "excerpt": "이달 3일 울릉도 인근 공해상에서 표류하다 발견된 북한 어민 7명 가운데 귀순 의사를 밝힌 1명을 제외한 6명이 24일 만에 북한으로 해상 송환됐다.통일부는 27일 “북한으로 돌아가고 싶다는 의사를 밝힌 6명에 대해 오늘 오전 9시경 동해 북방한계선(NLL) 상에서 송환했다”고 밝혔다.북한으로 돌아간 6명은 발견 당시 타고 있던 선박을 이용해 돌아갔다. 정부는 해당 선박의 점검 및 시운전을 통해 해상 송환이 가능한지 판단했다.…"
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127079800073",
@@ -392,42 +848,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261127069251001",
       "publishedAt": "2026-11-27T03:18:14.000Z",
       "excerpt": "(서울=연합뉴스) 박재하 기자 = 더불어민주당 정년연장특별위원회는 27일 10개월 만에 노사 협의를 재개하고 합의안 도출에 나섰지만 이견이 좁혀..."
-    },
-    {
-      "id": "donga:https://www.donga.com/news/It/article/all/20261127/135102475/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[강원 AI 활용지원] 모브주식회사 “고성 바닷가 카페서 푸드테크 기업으로, AI로 더 건강한 식품 제공”",
-      "url": "https://www.donga.com/news/It/article/all/20261127/135102475/1",
-      "publishedAt": "2026-11-27T03:18:13.000Z",
-      "excerpt": "[강원창조경제혁신센터 x IT동아 공동기획] 강원창조경제혁신센터는 소상공인들의 인공지능 전환과 현장 맞춤형 기술 도입을 지원하는 ‘혁신 소상공인 AI 활용 지원사업’을 운영합니다. 이를 토대로 현업의 문제를 AI로 해결하며 성과를 낸 강원도 소상공인들을 만나봅니다.인구감소지역에서 제조업과 매장을 함께 꾸려가는 소상공인에게 가장 뼈아픈 장벽은 단연 ‘인력난’이다. 숙련된 기술자를 구하기가 하늘의 별 따기인 데다, 재고·생산 관리…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/It/article/all/20261127/135102462/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "서울 대표 스타트업·지원기관 총집결, ‘2026 스타트업 스태리 나이트’ 성료",
-      "url": "https://www.donga.com/news/It/article/all/20261127/135102462/1",
-      "publishedAt": "2026-11-27T03:14:07.000Z",
-      "excerpt": "투자 한파와 급변하는 기술 환경 속에서도 서울의 창업 생태계는 글로벌 무대에서 꾸준히 존재감을 키우고 있다. 올해 글로벌 창업 생태계 평가 기관인 스타트업 지놈(Startup Genome)에서 세계 9위, 딜룸(Dealroom) 평가에서 세계 10위에 오른 데 이어, 스타트업 블링크(StartupBlink)로부터 아시아·태평양 지역 최우수 창업 생태계 도시로 선정되며 탄탄한 인프라를 입증했다.이러한 성과의 배경에는 서울시 곳곳…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Society/article/all/20261127/135102401/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "싸게 환전해준다며 손님 돈 2억 훔친 쌀국수 가게 업주 구속",
-      "url": "https://www.donga.com/news/Society/article/all/20261127/135102401/1",
-      "publishedAt": "2026-11-27T03:13:00.000Z",
-      "excerpt": "베트남 출신 귀화자가 원화를 베트남 돈으로 싸게 환전해주겠다며 베트남 국적 손님들의 현금 2억 원을 가로채 경찰에 구속됐다. 인천 서부경찰서는 26일 베트남 출신 귀화자(35·여)씨를 절도 혐의로 구속했다고 27일 밝혔다.이 여성은 이달 23일 오후 11시경 인천 서해구의 자신이 운영하는 쌀국수 가게에서 베트남 국적의 피해자(20대) 등 2명이 가져온 현금 2억 원을 훔친 혐의를 받고 있다.경찰에 따르면 여성이 원화를 낮은 수…"
     },
     {
       "id": "yna-pol:https://www.yna.co.kr/view/AKR20261127079000001",
@@ -476,54 +896,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261127078500001",
       "publishedAt": "2026-11-27T03:10:26.000Z",
       "excerpt": "(서울=연합뉴스) 김정진 기자 = 내년도 예산안 처리 시한이 27일로 5일 앞으로 다가온 가운데 지속적인 재정 투입이 필요한 복지사업 예산을 미..."
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261127/135102417/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“명문대 못 가면 8억원 환불”…美 사립고의 파격 조건",
-      "url": "https://www.donga.com/news/Inter/article/all/20261127/135102417/1",
-      "publishedAt": "2026-11-27T03:09:49.000Z",
-      "excerpt": "미국의 한 사립고가 상위 20위권 대학에 합격하지 못한 학생에게 조건부로 4년 치 등록금 약 8억6000만원을 환급해 주겠다는 파격적인 제도를 내놨다.지난 25일(현지 시간) 미국 월스트리트저널에 따르면 입시 상담 업체 크림슨 에듀케이션과 사립학교 그룹 알파 스쿨은 협력해 ‘알파 크림슨 스쿨’을 설립했다.알파 크림슨 스쿨의 연간 등록금은 15만 달러(약 2억157만원)로, 4년간 총 60만 달러에 달한다. 다만 대학 진학 결과…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Politics/article/all/20261127/135102412/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "열달만에 협의 재개했지만 빈손…與정년특위 “12월2일 전체회의”",
-      "url": "https://www.donga.com/news/Politics/article/all/20261127/135102412/1",
-      "publishedAt": "2026-11-27T03:09:12.000Z",
-      "excerpt": "더불어민주당 정년연장특별위원회는 27일 약 10개월 만에 노사 협의를 재개하고 정년 연장 관련 합의안 도출을 시도했으나 불발됐다.특위 간사인 김주영 의원은 이날 국회에서 열린 특위 회의 뒤 기자들과 만나 “정년 연장 문제에 대해 노사가 합의된 내용이 아직 없다”며 “여전히 접점을 찾기 어려운 문제”라고 밝혔다.특위는 12월 2일 오전 10시 전체회의를 마지막으로 열고 활동을 마무리할 방침이다.(서울=뉴스1)"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/It/article/all/20261127/135102408/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[스타트업-ing] 인포플라, ‘Selto’에서 ‘FLA CUA’로 브랜드 개편, 온프레미스 AI 기반 자동화 승부수",
-      "url": "https://www.donga.com/news/It/article/all/20261127/135102408/1",
-      "publishedAt": "2026-11-27T03:08:35.000Z",
-      "excerpt": "인공지능(AI) 에이전트 시장이 단순 기술 시연 단계를 넘어 실제 기업 현장에 안착해 실질적인 생산성을 증명해야 하는 국면에 접어들었다. 글로벌 빅테크 기업들이 클라우드 기반의 범용 AI 자동화 도구를 앞다퉈 내놓는 가운데, 국내 스타트업들은 보안 규제와 기업별 고유 시스템이라는 현장의 틈새를 파고들며 생존 전략을 구체화하고 있다.이러한 흐름 속에서 비전 AI 기반 온프레미스 업무 자동화 솔루션을 개발해 온 인포플라(Infof…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Inter/article/all/20261127/135102364/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "동료 뒷담화에 무단 대외활동…미인대회 우승자, 왕관 박탈",
-      "url": "https://www.donga.com/news/Inter/article/all/20261127/135102364/2",
-      "publishedAt": "2026-11-27T03:05:00.000Z",
-      "excerpt": "2026 미스 유니버스 베트남 우승자가 동료 참가자를 모욕하는 발언을 하고 무단 대외 활동 등의 논란 끝에 왕관을 박탈당했다.26일(현지 시간) 베트남 현지 매체인 Vn익스프레스 등에 따르면 ‘2026 미스 유니버스 베트남’ 조직위원회는 18일 유니버스 우승자인 응우옌 꾸인 아인(27)의 우승 타이틀을 취소했다. 그가 우승한 지 47일 만이다. 매체는 “이번 결정은 베트남 주요 미인대회에서 전례가 없는 조치”라며 “조직위는 후…"
     },
     {
       "id": "yna-pol:https://www.yna.co.kr/view/AKR20261127077900001",
@@ -646,18 +1018,6 @@
       "excerpt": "(서울=연합뉴스) 김수연 기자 = 배달 애플리케이션(앱) 입점 음식점 10곳 중 7곳은 같은 메뉴를 매장 주문 때보다 배달 주문 때 더 비싸게 ..."
     },
     {
-      "id": "donga:https://www.donga.com/news/Society/article/all/20261127/135101881/2",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "환자 구하러 간 구조대마저…레바논 남부 민간인·의료체계 ‘붕괴’",
-      "url": "https://www.donga.com/news/Society/article/all/20261127/135101881/2",
-      "publishedAt": "2026-11-27T02:58:06.000Z",
-      "excerpt": "이스라엘의 공격으로 레바논 남부 의료체계가 한계에 내몰렸다. 의료진과 응급 구조대까지 피해를 입으면서 일반 진료에도 차질이 빚어지고 있다."
-    },
-    {
       "id": "yna-local:https://www.yna.co.kr/view/AKR20261127078700007",
       "sourceId": "yna-local",
       "sourceName": "연합뉴스 전국",
@@ -752,18 +1112,6 @@
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865889",
       "publishedAt": "2026-11-27T02:55:00.000Z",
       "excerpt": "최근 AI 부정행위 의혹이 잇따라 화제가 되고 있죠.이런 가운데 의사와 간호사 국가시험 일부 과목에서 만점자가 크게 늘어난 것으로 나타났습니다.…"
-    },
-    {
-      "id": "donga:https://www.donga.com/news/Economy/article/all/20261127/135102079/1",
-      "sourceId": "donga",
-      "sourceName": "동아일보",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "임팩티브AI, 강남제비스코 AI 수요예측 프로젝트서 예측 오차 지표 약 15% 개선",
-      "url": "https://www.donga.com/news/Economy/article/all/20261127/135102079/1",
-      "publishedAt": "2026-11-27T02:55:00.000Z",
-      "excerpt": "AI 수요예측 기업 임팩티브에이아이(대표 정두희, 이하 임팩티브AI)는 도료 기업 강남제비스코와 진행한 AI 수요예측 프로젝트의 평가에서 예측 오차 관련 지표가 기존 방식 대비 약 15% 개선됐다고 밝혔다. 임팩티브AI는 이를 바탕으로 과잉재고와 결품 감소 등 생산·재고 운영 효율화 가능성을 확인했다고 설명했다.건축용·공업용·선박용·PCM 도료를 생산하는 강남제비스코는 제품별로 다른 수요 흐름에 대응하고 생산·재고 계획에 활용…"
     },
     {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008866604",
@@ -886,30 +1234,6 @@
       "excerpt": "(서울=연합뉴스) 이성한 기자 = 중국 대표 기술 기업 화웨이 창업자 겸 최고경영자(CEO) 런정페이(82)가 화웨이와 중국을 자립의 시대로 이..."
     },
     {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127076300056",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "제주교육청, 'AI 부정행위' 금속탐지기로 전수 검사…151대 투입",
-      "url": "https://www.yna.co.kr/view/AKR20261127076300056",
-      "publishedAt": "2026-11-27T02:37:49.000Z",
-      "excerpt": "(제주=연합뉴스) 김호천 기자 = 제주도교육청은 스마트안경 등을 활용한 '인공지능(AI) 부정행위'와 관련 모든 고등학교에서 금속탐속지기를 활용..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127074600704",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[영상] 영국軍, 전략 예비군 10만명에 \"소집 대비하라\"…\"냉전 후 처음\"",
-      "url": "https://www.yna.co.kr/view/AKR20261127074600704",
-      "publishedAt": "2026-11-27T02:37:44.000Z",
-      "excerpt": "(서울=연합뉴스) 영국 육군, 해군, 공군 참모총장 명의로 26일(현지시간) 전략 예비군에 발송된 서한입니다."
-    },
-    {
       "id": "geeknews:https://news.hada.io/topic?id=37933&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "sourceId": "geeknews",
       "sourceName": "GeekNews",
@@ -958,54 +1282,6 @@
       "excerpt": ""
     },
     {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127076700062",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "'상대 후보 허위 사실 공표 혐의' 이병선 속초시장 불기소",
-      "url": "https://www.yna.co.kr/view/AKR20261127076700062",
-      "publishedAt": "2026-11-27T02:34:38.000Z",
-      "excerpt": "(속초=연합뉴스) 박영서 류호준 기자 = 6·3 지방선거를 앞두고 선거 운동 과정에서 상대 후보에 대한 허위 사실을 공표한 혐의로 고발된 이병선..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261127076100003",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "산업장관 \"노동특례, 첨단 연구개발 인력 한정…오해 없어야\"",
-      "url": "https://www.yna.co.kr/view/AKR20261127076100003",
-      "publishedAt": "2026-11-27T02:32:18.000Z",
-      "excerpt": "(서울=연합뉴스) 신창용 기자 = 산업통상부 김정관 장관이 초광역특구법에서 논의 중인 연구개발 인력의 주 52시간제 특례 적용 필요성을 거듭 강..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127074400073",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "日, 작년 학내 괴롭힘 79만건 역대 최다…온라인 괴롭힘도 3만건",
-      "url": "https://www.yna.co.kr/view/AKR20261127074400073",
-      "publishedAt": "2026-11-27T02:31:57.000Z",
-      "excerpt": "(도쿄=연합뉴스) 이도연 특파원 = 2025년도 일본의 학교 내 괴롭힘 건수가 79만건을 넘어 역대 최다를 기록했으며 온라인 괴롭힘도 3만건을 ..."
-    },
-    {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127075200055",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "비정규직 파업으로 전북 392개 학교 급식 차질",
-      "url": "https://www.yna.co.kr/view/AKR20261127075200055",
-      "publishedAt": "2026-11-27T02:31:47.000Z",
-      "excerpt": "(전주=연합뉴스) 홍인철 기자 = 전국 학교 비정규직 노동자들의 총파업으로 27일 전북에서도 학교 급식과 초등 돌봄교실 운영에 차질이 빚어졌다...."
-    },
-    {
       "id": "geeknews:https://news.hada.io/topic?id=37932&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "sourceId": "geeknews",
       "sourceName": "GeekNews",
@@ -1042,30 +1318,6 @@
       "excerpt": "(서울=연합뉴스) 최평천 정연솔 기자 = 더불어민주당 윤리심판원이 27일 최민희 최고위원 징계 안건 논의에 들어가자 친청(친정청래)계는 최 최고..."
     },
     {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261127075400003",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[게시판] 현대건설, '스마트건설 챌린지' 3개 분야 혁신상",
-      "url": "https://www.yna.co.kr/view/AKR20261127075400003",
-      "publishedAt": "2026-11-27T02:29:48.000Z",
-      "excerpt": "▲ 현대건설은 이달 25일 국토교통부가 주최한 '2026 스마트건설 챌린지'에서 3개 분야의 혁신상을 받았다고 27일 밝혔다. 수상 분야는 단지..."
-    },
-    {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261127075300030",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "벤처기업협회 회원사 2만개 돌파…기업 교류·맞춤형 지원 확대",
-      "url": "https://www.yna.co.kr/view/AKR20261127075300030",
-      "publishedAt": "2026-11-27T02:29:40.000Z",
-      "excerpt": "(서울=연합뉴스) 구정모 기자 = 벤처기업협회는 회원사가 2만개를 넘어선 것을 계기로 회원사 간 교류와 협력을 확대하고 기업별 성장 단계와 수요..."
-    },
-    {
       "id": "techinasia:https://www.techinasia.com/news/binance-restores-withdrawals-after-6-3b-crypto-hack-recovery",
       "sourceId": "techinasia",
       "sourceName": "Tech in Asia",
@@ -1084,7 +1336,7 @@
       "domain": "news",
       "lang": "ko",
       "kind": "article",
-      "title": "머스크 “모든 미국 어린이에 매년 스페이스X 주식 추가 기부”",
+      "title": "역사상 최대 규모 증여 약속···머스크 “모든 미국 어린이에 매년 스페이스X 주식 추가 기부”",
       "url": "https://www.khan.co.kr/article/202611271126001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
       "publishedAt": "2026-11-27T02:26:00.000Z",
       "excerpt": "전날 “모든 어린이에 주식 2주 기부” 약속 이어일론 머스크 스페이스X 최고경영자(CEO). 로이터연합뉴스일론 머스크 스페이스X 최고경영자(CEO)가 “미국의 모든 어린이에게 매년 스페이스X 주식을 추가로 기부할 것”이라고 밝혔다.머스크는 추수감사절인 26일(현지시간) 소셜미디어 엑스에 올린 글에서 이 같이 밝혔다. 전날 미국 어린이 1명당 스페이스X 주식···"
@@ -1102,54 +1354,6 @@
       "excerpt": "(서울=연합뉴스) 황윤기 기자 = 류덕현 청와대 재정기획보좌관은 27일 정부가 추진하는 미래대응기금에 관한 비판에 \"책임 있는 재정 운용\"이라며..."
     },
     {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127071600061",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "화물차 돌출 적재물에 퇴근길 스리랑카 노동자 2명 숨져",
-      "url": "https://www.yna.co.kr/view/AKR20261127071600061",
-      "publishedAt": "2026-11-27T02:24:13.000Z",
-      "excerpt": "(화성=연합뉴스) 김지원 기자 = 경기 화성시에서 퇴근 후 기숙사로 돌아가던 외국인 노동자 2명이 화물차 적재함 밖으로 튀어나온 물건에 맞아 숨..."
-    },
-    {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127073100055",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "익산역 증축 사업 318억원→480억원 증액…면적 대폭 확장",
-      "url": "https://www.yna.co.kr/view/AKR20261127073100055",
-      "publishedAt": "2026-11-27T02:22:56.000Z",
-      "excerpt": "(익산=연합뉴스) 정경재 기자 = 호남 철도교통의 핵심 거점인 전북 익산역 증축공사가 당초 계획보다 대폭 확대된다."
-    },
-    {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127073500056",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "제주도 문화상 수상자 8명 선정…내달 18일 시상식",
-      "url": "https://www.yna.co.kr/view/AKR20261127073500056",
-      "publishedAt": "2026-11-27T02:22:52.000Z",
-      "excerpt": "(제주=연합뉴스) 변지철 기자 = 제주도는 제주 문화와 지역사회 발전에 기여한 8명을 올해 제주도 문화상 수상자로 선정했다고 27일 밝혔다."
-    },
-    {
-      "id": "yna-pol:https://www.yna.co.kr/view/AKR20261127072700504",
-      "sourceId": "yna-pol",
-      "sourceName": "연합뉴스 정치",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "[게시판] 병무청, 한국생명존중희망재단과 업무협약",
-      "url": "https://www.yna.co.kr/view/AKR20261127072700504",
-      "publishedAt": "2026-11-27T02:22:36.000Z",
-      "excerpt": "▲ 병무청(청장 홍소영)은 병역판정검사 과정에서 자살 위험이 높다고 확인된 청년에 전문적 상담을 지원하기 위해 한국생명존중희망재단과 27일 업무..."
-    },
-    {
       "id": "wowtale:https://wowtale.net/2026/11/27/268766/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%2584%25b8%25eb%25ac%25b4%25ed%258a%25b9%25ea%25b3%25b5%25eb%258c%2580-ai-%25ec%2584%25b8%25eb%25ac%25b4-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25ec%2584%25b8%25ed%258a%25b9%25ec%259d%25b4-%25ea%25b0%259c%25ed%258e%25b8%25c2%25b7api-%25ea%25b0%259c%25eb%25b0%25a9",
       "sourceId": "wowtale",
       "sourceName": "와우테일",
@@ -1162,18 +1366,6 @@
       "excerpt": "세무특공대가 사업자용 세무관리 시스템을 AI 세무 에이전트 세특이로 확정하고 대시보드를 개편했으며, 세무 데이터 API를 열어 외부 AI 도구와 연동할 수 있게 했다."
     },
     {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127071900064",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "충북도, 내년 축사 현대화·산란계 사육공간 확충에 328억 투입",
-      "url": "https://www.yna.co.kr/view/AKR20261127071900064",
-      "publishedAt": "2026-11-27T02:21:35.000Z",
-      "excerpt": "(청주=연합뉴스) 김형우 기자 = 충북도는 내년 도내 축산농가 9곳의 축사시설 현대화와 산란계 농가 5곳의 사육공간 확충에 328억원을 투입한다..."
-    },
-    {
       "id": "khan:https://www.khan.co.kr/article/202611271121001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
       "sourceId": "khan",
       "sourceName": "경향신문",
@@ -1184,18 +1376,6 @@
       "url": "https://www.khan.co.kr/article/202611271121001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
       "publishedAt": "2026-11-27T02:21:00.000Z",
       "excerpt": "정점식 국민의힘 원내대표가 27일 국회에서 열린 원내대책회의에서 발언하고 있다. 연합뉴스정점식 국민의힘 원내대표가 27일 “법관 여러분이 권력의 횡포에 맞서 행동하지 않고 침묵한다면 여러분도 사법부 독립 훼손의 공범이 될 것”이라고 말했다. 국민의힘이 더불어민주당의 조희대 대법원장 탄핵 추진과 조작기소특검법을 겨냥해 총공세에 나선 가운데 사법부를 향해서도 ···"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127072600009",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"북한 해커, 바이낸스 탈취한 암호화폐 온라인서 본격 세탁\"",
-      "url": "https://www.yna.co.kr/view/AKR20261127072600009",
-      "publishedAt": "2026-11-27T02:20:41.000Z",
-      "excerpt": "(서울=연합뉴스) 임화섭 기자 = 북한 해커들이 암호화폐 거래소 바이낸스에서 탈취한 암호화폐를 온라인 서비스들을 통해 본격적으로 세탁하기 시작했..."
     },
     {
       "id": "khan:https://www.khan.co.kr/article/202611271119001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
@@ -1220,78 +1400,6 @@
       "url": "https://wowtale.net/2026/11/27/268763/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%2597%2590%25ec%259d%25b4%25eb%2594%2594%25ec%2597%2590%25ec%258a%25a4-ai-%25ec%2595%2588%25ea%25b2%25bd%25ec%259a%25a9-%25ed%2595%25b5%25ec%258b%25ac-%25ea%25b8%25b0%25ec%2588%25a0-%25ed%2599%2595%25eb%25b3%25b4%25ec%2596%2591%25ec%2582%25b0-%25ea%25b2%2580%25ec%25a6%259d-%25ec%25b6%2594%25ec%25a7%2584",
       "publishedAt": "2026-11-27T02:16:18.000Z",
       "excerpt": "에이디에스가 AI 안경·XR용 RGB 증착마스크의 핵심 미세 패턴 기술을 확보하고 3,000ppi급 제품의 양산 적용 가능성 검증에 착수했다."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611271116001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "울산, ‘공장 1대지 1허가 원칙 완화’ 등 규제합리화 우수사례 6건 선정",
-      "url": "https://www.khan.co.kr/article/202611271116001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-27T02:16:00.000Z",
-      "excerpt": "울산시청사 전경. 울산시 제공울산시는 ‘2026년 규제합리화 우수사례’ 6건을 선정했다고 27일 밝혔다.울산시는 지난해 7월부터 1년 간 추진된 규제혁신 사례 14건을 대상으로 심사를 벌였다. 이를 통해 최우수 1건과 우수 2건, 장려 3건을 각각 골랐다.최우수 사례는 시 건축정책과의 ‘대규모 공장 1대지 1허가 원칙 규제 완화로 기업의 신속한 투자 및 경···"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127066500009",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "프랑스 분노의 시위에 불 댕긴 건 '역사적 수준' 구매력 위축",
-      "url": "https://www.yna.co.kr/view/AKR20261127066500009",
-      "publishedAt": "2026-11-27T02:14:48.000Z",
-      "excerpt": "(서울=연합뉴스) 이신영 기자 = 프랑스에서 고물가에 항의하는 반정부 시위가 한 달 넘게 이어지고 있는 배경에는 실질임금 하락과 구매력 위축이 ..."
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611271111001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "올해 수능 부정행위 70% 급증…스마트기기 적발 작년의 3.6배",
-      "url": "https://www.khan.co.kr/article/202611271111001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-27T02:11:00.000Z",
-      "excerpt": "2027학년도 대학수학능력시험일인 19일 서울 양천구 목동 종로학원 상황실에서 강사들이 수능 국어 영역 문제 분석을 하고 있다. 한수빈 기자인공지능(AI)을 이용한 부정행위 우려에 정부가 시험 관리·감독을 대폭 강화한 올해 대학수학능력시험에서 적발된 부정행위가 지난해보다 70% 급증한 것으로 나타났다.27일 교육부가 국회 교육위원회에 제출한 업무보고 자료에···"
-    },
-    {
-      "id": "khan:https://www.khan.co.kr/article/202611271107001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "sourceId": "khan",
-      "sourceName": "경향신문",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "미투 이후의 원칙을 무너뜨린, 젠슨 황의 화려한 복귀 [플랫]",
-      "url": "https://www.khan.co.kr/article/202611271107001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-      "publishedAt": "2026-11-27T02:07:00.000Z",
-      "excerpt": "엔비디아 최고경영자 젠슨 황. AFP연합뉴스2017년 ‘미투(#MeToo)’ 해시태그와 함께 확산한 미투 운동이 바꾸려 한 것은 성 비위 당사자에 대한 처벌만이 아니었다. 권력 격차를 이용한 관계를 용인하고 성공한 남성에게 예외를 허용해온 조직 문화를 바꾸는 일이었다.약 10년 뒤, 성 비위 의혹으로 물러났던 젠슨 황 엔비디아 최고경영자(CEO)가 도널드 ···"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127068200104",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "인도, 넷플릭스에 '앙숙' 파키스탄 드라마 자국내 방영금지 요청",
-      "url": "https://www.yna.co.kr/view/AKR20261127068200104",
-      "publishedAt": "2026-11-27T02:06:26.000Z",
-      "excerpt": "(자카르타=연합뉴스) 손현규 특파원 = 인도 정부가 오랜 앙숙인 이웃 나라 파키스탄에서 만든 드라마가 자국에서는 방영되지 않게 해 달라고 글로벌..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261127065300009",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "\"'젠슨황 복귀 미공개정보로 떼돈 벌었다더라' 소문, 근거없어\"",
-      "url": "https://www.yna.co.kr/view/AKR20261127065300009",
-      "publishedAt": "2026-11-27T02:05:17.000Z",
-      "excerpt": "(서울=연합뉴스) 이지헌 기자 = 젠슨 황의 엔비디아 최고경영자(CEO) 복귀 발표 직전 내부자 거래로 의심되는 파생금융상품 매매로 수천억원을 ..."
     },
     {
       "id": "techinasia:https://www.techinasia.com/news/tcs-survey-finds-singapore-firms-struggle-to-scale-ai",
@@ -1340,30 +1448,6 @@
       "url": "https://www.techinasia.com/sales-team-saved-time-ai",
       "publishedAt": "2026-11-27T02:00:04.000Z",
       "excerpt": "Gong explores how revenue AI can help sales teams focus on what matters."
-    },
-    {
-      "id": "techinasia:https://www.techinasia.com/whos-investing-indias-fintech-startups",
-      "sourceId": "techinasia",
-      "sourceName": "Tech in Asia",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Who’s investing in India’s fintech startups?",
-      "url": "https://www.techinasia.com/whos-investing-indias-fintech-startups",
-      "publishedAt": "2026-11-27T02:00:00.000Z",
-      "excerpt": "We've compiled a list of investors pouring money into India’s fintech startups."
-    },
-    {
-      "id": "techinasia:https://www.techinasia.com/news/shein-struggles-to-regain-traction-in-india-with-reliance",
-      "sourceId": "techinasia",
-      "sourceName": "Tech in Asia",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Shein struggles to regain traction in India with Reliance",
-      "url": "https://www.techinasia.com/news/shein-struggles-to-regain-traction-in-india-with-reliance",
-      "publishedAt": "2026-11-27T01:58:26.000Z",
-      "excerpt": "Its comeback has been hampered by supply chain problems, leadership turnover, and limited access to the proprietary trend-spotting technology."
     },
     {
       "id": "wowtale:https://wowtale.net/2026/11/27/268762/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%25a7%2588%25ed%2585%258c%25ec%2598%25a4ai%25ec%258a%25a4%25ed%258a%259c%25eb%2594%2594%25ec%2598%25a4-ai-%25ec%25bd%2598%25ed%2585%2590%25ec%25b8%25a0-%25ed%258e%2598%25ec%258a%25a4%25ed%258b%25b0%25eb%25b2%258c%25ec%2584%259c-%25ec%259d%25b8%25ed%2584%25b0%25eb%25a0%2589%25ed%258b%25b0%25eb%25b8%258c",
@@ -1510,16 +1594,40 @@
       "excerpt": "▲ 올해 1월 이란 수도 테헤란에서 열린 반정부 시위 모습올해 초 이란 반정부 시위와 관련해 최소 6명의 여성에게 사형이 선고됐습니다…"
     },
     {
-      "id": "techinasia:https://www.techinasia.com/news/israeli-chipmaker-altair-raises-100m-series",
-      "sourceId": "techinasia",
-      "sourceName": "Tech in Asia",
-      "domain": "tech",
-      "lang": "en",
+      "id": "platum:https://platum.kr/archives/299655?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ed%258c%2590%25ec%259d%2584-%25ea%25b9%2590-%25ea%25b3%25b3-%25eb%25b6%2588%25ec%259d%2584-%25eb%25b6%2599%25ec%259d%25b8-%25ea%25b3%25b3-%25ec%2597%25b0%25ea%25b2%25b0%25ed%2595%259c-%25ec%2582%25ac%25eb%259e%258c-%25ec%2598%25ac%25ed%2595%25b4%25ec%259d%2598-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8",
+      "sourceId": "platum",
+      "sourceName": "플래텀",
+      "domain": "startup",
+      "lang": "ko",
       "kind": "article",
-      "title": "Israeli chipmaker Altair raises $100m in series A",
-      "url": "https://www.techinasia.com/news/israeli-chipmaker-altair-raises-100m-series",
-      "publishedAt": "2026-11-27T01:03:14.000Z",
-      "excerpt": "Altair is targeting devices such as wearables and smart glasses that could connect to cloud-based AI services without relying on a smartphone."
+      "title": "판을 깐 곳, 불을 붙인 곳, 연결한 사람… 올해의 스타트업 생태계 촉매자 3인",
+      "url": "https://platum.kr/archives/299655?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ed%258c%2590%25ec%259d%2584-%25ea%25b9%2590-%25ea%25b3%25b3-%25eb%25b6%2588%25ec%259d%2584-%25eb%25b6%2599%25ec%259d%25b8-%25ea%25b3%25b3-%25ec%2597%25b0%25ea%25b2%25b0%25ed%2595%259c-%25ec%2582%25ac%25eb%259e%258c-%25ec%2598%25ac%25ed%2595%25b4%25ec%259d%2598-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8",
+      "publishedAt": "2026-11-27T01:20:39.000Z",
+      "excerpt": "창업가를 길러 낸 공익재단, 딥테크가 주목받기 전부터 대학 연구실 기술에 투자한 액셀러레이터, 스타트업과 사람과 정보를 이어 온 벤처캐피털 그로스팀장이 올해 스타트업 생태계의 ‘촉매자’로 꼽혔다. 스타트업얼라이언스는 ‘스타트업 캐털리스트 어워드 2026’ 수상자로 빌더 부문 아산나눔재단, 이그나이터 부문 블루포인트파트너스, 인테그레이터 부문 정인혜 알토스벤처스 그로스팀장을 선정했다. 이 상은 한국 스타트업 생태계의 성장을 뒤에…"
+    },
+    {
+      "id": "platum:https://platum.kr/archives/299648?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ea%25b5%25ad%25eb%2582%25b4-%25eb%258c%2580%25ed%2598%2595-%25ec%2597%25ac%25ed%2596%2589-%25ed%2594%258c%25eb%259e%25ab%25ed%258f%25bc-ai-%25eb%258b%25b5%25eb%25b3%2580-%25ec%259d%25b8%25ec%259a%25a9%25ec%259d%2580-0-06%25ea%25b2%2580%25ec%2583%2589-%25eb%2585%25b8%25ec%25b6%259c-%25ed%258f%25ad",
+      "sourceId": "platum",
+      "sourceName": "플래텀",
+      "domain": "startup",
+      "lang": "ko",
+      "kind": "article",
+      "title": "국내 대형 여행 플랫폼, AI 답변 인용은 0.06%…검색 노출 폭과 콘텐츠 근거에서 차이",
+      "url": "https://platum.kr/archives/299648?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ea%25b5%25ad%25eb%2582%25b4-%25eb%258c%2580%25ed%2598%2595-%25ec%2597%25ac%25ed%2596%2589-%25ed%2594%258c%25eb%259e%25ab%25ed%258f%25bc-ai-%25eb%258b%25b5%25eb%25b3%2580-%25ec%259d%25b8%25ec%259a%25a9%25ec%259d%2580-0-06%25ea%25b2%2580%25ec%2583%2589-%25eb%2585%25b8%25ec%25b6%259c-%25ed%258f%25ad",
+      "publishedAt": "2026-11-27T01:15:35.000Z",
+      "excerpt": "챗GPT, 제미나이, 클로드, 퍼플렉시티에 일본 호텔을 묻는 질문을 1,200번 던졌더니 답변에 붙은 인용 2만1,226건 가운데 국내 대형 온라인 여행 플랫폼 콘텐츠는 12건(0.06%)이었다. 같은 질문에서 글로벌 여행 플랫폼 한 곳은 1,678건(7.9%)이 인용됐다. AI 마케팅 엔지니어링 기업 엔엔티(NNT)가 27일 발간한 리서치 리포트 ‘누구나 아는 우리 브랜드, 왜 AI 답변에는 인용되지 않을까요?’에 따르면, …"
+    },
+    {
+      "id": "platum:https://platum.kr/archives/299645?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%25b2%25a4%25ec%25b2%2598%25ea%25b8%25b0%25ec%2597%2585%25ed%2598%2591%25ed%259a%258c-%25ed%259a%258c%25ec%259b%2590%25ec%2582%25ac-2%25eb%25a7%258c-%25ea%25b3%25b3-%25eb%2584%2598%25ec%2596%25b4-%25eb%258b%25a4%25ec%259d%258c-%25eb%258b%25ac-%25ed%259a%258c%25ec%259b%2590-%25ea%25b5%2590%25eb%25a5%2598-%25ed%2596%2589",
+      "sourceId": "platum",
+      "sourceName": "플래텀",
+      "domain": "startup",
+      "lang": "ko",
+      "kind": "article",
+      "title": "벤처기업협회 회원사 2만 곳 넘어, 다음 달 회원 교류 행사",
+      "url": "https://platum.kr/archives/299645?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%25b2%25a4%25ec%25b2%2598%25ea%25b8%25b0%25ec%2597%2585%25ed%2598%2591%25ed%259a%258c-%25ed%259a%258c%25ec%259b%2590%25ec%2582%25ac-2%25eb%25a7%258c-%25ea%25b3%25b3-%25eb%2584%2598%25ec%2596%25b4-%25eb%258b%25a4%25ec%259d%258c-%25eb%258b%25ac-%25ed%259a%258c%25ec%259b%2590-%25ea%25b5%2590%25eb%25a5%2598-%25ed%2596%2589",
+      "publishedAt": "2026-11-27T01:11:44.000Z",
+      "excerpt": "벤처기업협회는 회원사가 2만 개사를 넘어섰다고 27일 밝혔다. 협회는 늘어난 회원 기반을 바탕으로 회원기업 간 교류 프로그램을 늘리고, 기업의 성장 단계와 수요에 맞춘 회원 서비스를 넓힐 계획이다. 첫 행사는 다음 달 열리는 ‘2026 벤처기업 주간’에 맞춰 마련됐다. 협회는 12월 1일부터 나흘간 이어지는 벤처기업 주간의 마지막 날인 4일, 정기 회원 네트워킹 행사 ‘KOVA MEMBERS DAY’를 연다. 행사에서는 ...…"
     },
     {
       "id": "mk:https://www.mk.co.kr/news/economy/12219955",
@@ -1532,6 +1640,18 @@
       "url": "https://www.mk.co.kr/news/economy/12219955",
       "publishedAt": "2026-11-27T01:01:42.000Z",
       "excerpt": "올들어 주택 매수자금으로 신고된 금융자산 매각대금 5개월새 70% ‘뚝’ 30억 이상 고가 주택서 비중 확 줄어올해 상반기 증시 호황을 타고 늘었던 ‘주식 팔아 집 사기’ 흐름이.."
+    },
+    {
+      "id": "platum:https://platum.kr/archives/299644?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%2582%25b4-pc-%25ed%258f%25b4%25eb%258d%2594%25eb%25a5%25bc-%25eb%25a7%25a1%25ea%25b8%25b0%25eb%25a9%25b4-ai%25ea%25b0%2580-%25ed%258c%258c%25ec%259d%25bc%25ec%259d%2584-%25ec%25a7%2581%25ec%25a0%2591-%25ea%25b3%25a0%25ec%25b9%259c%25eb%258b%25a4-%25eb%259e%2598%25eb%25b8%2594%25ec%2597%2585-%25eb%25a1%259c",
+      "sourceId": "platum",
+      "sourceName": "플래텀",
+      "domain": "startup",
+      "lang": "ko",
+      "kind": "article",
+      "title": "내 PC 폴더를 맡기면 AI가 파일을 직접 고친다, 래블업 로컬 AI 앱 ‘AI:GO 2.0’",
+      "url": "https://platum.kr/archives/299644?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%2582%25b4-pc-%25ed%258f%25b4%25eb%258d%2594%25eb%25a5%25bc-%25eb%25a7%25a1%25ea%25b8%25b0%25eb%25a9%25b4-ai%25ea%25b0%2580-%25ed%258c%258c%25ec%259d%25bc%25ec%259d%2584-%25ec%25a7%2581%25ec%25a0%2591-%25ea%25b3%25a0%25ec%25b9%259c%25eb%258b%25a4-%25eb%259e%2598%25eb%25b8%2594%25ec%2597%2585-%25eb%25a1%259c",
+      "publishedAt": "2026-11-27T01:01:11.000Z",
+      "excerpt": "클라우드에 파일을 올리지 않고 개인 PC 안에서 AI 모델과 에이전트를 돌리는 데스크톱 앱이 새 버전으로 나왔다. AI 인프라 소프트웨어 기업 래블업은 로컬 AI 데스크톱 앱 ‘AI:GO(에이아이고) 2.0’을 출시했다고 27일 밝혔다. 래블업이 올해 1월 CES 2026에서 ‘Backend.AI:GO’라는 이름으로 공개한 제품으로, 이번 버전부터 이름을 AI:GO로 바꾸고 실제 파일과 도구, 일정을 다루는 에이전트 작업 공간…"
     },
     {
       "id": "sedaily:https://www.sedaily.com/article/20119704",
@@ -1618,6 +1738,42 @@
       "excerpt": "부산창조경제혁신센터(부산창경)가 11월 25일 부산에서 글로벌 진출 지원 스타트업 34개사 등 약 45명이 참석한 ‘Plug in : Alliance Networking Party #16’을 열고 해외진출 경험을 공유했다."
     },
     {
+      "id": "platum:https://platum.kr/archives/299639?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%2584%25b7%25ed%2594%258c%25eb%25a6%25ad%25ec%258a%25a4%25c2%25b7%25ec%259c%25a0%25ed%258a%259c%25eb%25b8%258c%25eb%25a1%259c-%25eb%259c%25ac-%25eb%25ac%25bc%25eb%25b2%2594-%25ec%2595%25a0%25eb%258b%2588-%25ec%2594%25b0%25eb%25a3%25a9-%25ec%259d%25bc%25eb%25b3%25b8-%25ec%2588%2598%25ec%25a1%25b1%25ea%25b4%2580",
+      "sourceId": "platum",
+      "sourceName": "플래텀",
+      "domain": "startup",
+      "lang": "ko",
+      "kind": "article",
+      "title": "넷플릭스·유튜브로 뜬 물범 애니 ‘씰룩’, 일본 수족관·유럽 패션으로 사업 넓힌다",
+      "url": "https://platum.kr/archives/299639?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%2584%25b7%25ed%2594%258c%25eb%25a6%25ad%25ec%258a%25a4%25c2%25b7%25ec%259c%25a0%25ed%258a%259c%25eb%25b8%258c%25eb%25a1%259c-%25eb%259c%25ac-%25eb%25ac%25bc%25eb%25b2%2594-%25ec%2595%25a0%25eb%258b%2588-%25ec%2594%25b0%25eb%25a3%25a9-%25ec%259d%25bc%25eb%25b3%25b8-%25ec%2588%2598%25ec%25a1%25b1%25ea%25b4%2580",
+      "publishedAt": "2026-11-27T00:53:53.000Z",
+      "excerpt": "대사 없이 몸짓과 유머로 풀어 가는 물범 애니메이션 ‘씰룩(SEALOOK)’이 화면 밖 사업으로 나선다. 더핑크퐁컴퍼니는 씰룩을 앞세워 일본 수족관 기획전, 유럽 패션 라이선싱, 해외 포토부스 협업 등 오프라인 사업을 넓힌다고 27일 밝혔다. 씰룩은 지구 끝에서 만난 물범들의 이야기를 말 대신 연출과 유머로 그린 작품이다. 언어 장벽이 낮은 덕에 해외 반응이 빨랐다. 회사에 따르면 씰룩은 11개국 넷플릭스 ... 더 읽기"
+    },
+    {
+      "id": "platum:https://platum.kr/archives/299622?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ea%25b0%2595%25eb%2582%25a8%25ea%25b5%25ac-%25eb%25af%25b8%25eb%259e%2598%25ec%2582%25b0%25ec%2597%2585-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-8%25ea%25b3%25b3-%25eb%258d%25b0%25eb%25aa%25a8%25eb%258d%25b0%25ec%259d%25b4-6%25ea%25b3%25b3-109%25ec%2596%25b5-%25ec%259b%2590-%25ed%2588%25ac",
+      "sourceId": "platum",
+      "sourceName": "플래텀",
+      "domain": "startup",
+      "lang": "ko",
+      "kind": "article",
+      "title": "강남구 미래산업 스타트업 8곳 데모데이, 6곳 109억 원 투자 유치",
+      "url": "https://platum.kr/archives/299622?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ea%25b0%2595%25eb%2582%25a8%25ea%25b5%25ac-%25eb%25af%25b8%25eb%259e%2598%25ec%2582%25b0%25ec%2597%2585-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-8%25ea%25b3%25b3-%25eb%258d%25b0%25eb%25aa%25a8%25eb%258d%25b0%25ec%259d%25b4-6%25ea%25b3%25b3-109%25ec%2596%25b5-%25ec%259b%2590-%25ed%2588%25ac",
+      "publishedAt": "2026-11-27T00:52:08.000Z",
+      "excerpt": "강남구가 미래산업 분야 스타트업을 골라 5개월간 지원한 사업의 데모데이가 지난 20일 서울 강남구 디캠프 선릉에서 열렸다. ‘2026 강남구 미래산업 기반기업 활성화 지원사업’은 강남구청이 주최하고 초기투자사 더인벤션랩이 주관했으며, 참여 기업 8곳 가운데 6곳이 사업 기간에 모두 약 109억 원의 투자를 유치했다. 올해 상반기 모집에는 AI·빅데이터, 헬스케어·바이오, 금융·핀테크, 클라우드·DX, 로봇·모빌리티, ICT 융…"
+    },
+    {
+      "id": "platum:https://platum.kr/archives/299632?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%2584%259c%25ec%259a%25b8-%25eb%25af%25bc%25ea%25b0%2584-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25ec%2584%25bc%25ed%2584%25b0%25ec%2597%2590-54%25ed%2581%2590%25eb%25b9%2584%25ed%258a%25b8-%25ec%2596%2591%25ec%259e%2590%25ec%25bb%25b4%25ed%2593%25a8%25ed%2584%25b0-%25eb%2593%25a4%25ec%2596%25b4%25ec%2584%25a0",
+      "sourceId": "platum",
+      "sourceName": "플래텀",
+      "domain": "startup",
+      "lang": "ko",
+      "kind": "article",
+      "title": "서울 민간 데이터센터에 54큐비트 양자컴퓨터 들어선다, QAI·IQM 공급 계약",
+      "url": "https://platum.kr/archives/299632?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%2584%259c%25ec%259a%25b8-%25eb%25af%25bc%25ea%25b0%2584-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25ec%2584%25bc%25ed%2584%25b0%25ec%2597%2590-54%25ed%2581%2590%25eb%25b9%2584%25ed%258a%25b8-%25ec%2596%2591%25ec%259e%2590%25ec%25bb%25b4%25ed%2593%25a8%25ed%2584%25b0-%25eb%2593%25a4%25ec%2596%25b4%25ec%2584%25a0",
+      "publishedAt": "2026-11-27T00:47:39.000Z",
+      "excerpt": "국내 기업과 연구기관이 장비를 사지 않고도 국내에 설치된 양자컴퓨터를 빌려 쓸 수 있는 민간 데이터센터가 서울에 생긴다. 퀀텀 테크 기업 큐에이아이(QAI)는 핀란드 양자컴퓨터 기업 IQM 퀀텀 컴퓨터스(IQM)와 54큐비트 초전도 양자컴퓨터 ‘IQM 래디언스(Radiance) R3’ 공급 계약을 맺었다고 27일 밝혔다. 시스템은 2027년 말까지 서울에 있는 QAI 데이터센터에 설치될 예정이다. 이번 계약은 장비를 고객 시설…"
+    },
+    {
       "id": "sedaily:https://www.sedaily.com/article/20119702",
       "sourceId": "sedaily",
       "sourceName": "서울경제 경제",
@@ -1630,16 +1786,16 @@
       "excerpt": ""
     },
     {
-      "id": "sedaily:https://www.sedaily.com/article/20119701",
-      "sourceId": "sedaily",
-      "sourceName": "서울경제 경제",
-      "domain": "korea",
+      "id": "platum:https://platum.kr/archives/299629?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%25b2%25ad%25eb%2585%2584-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b8%25b0%25ec%2597%2585-3%25eb%2585%2584%25ea%25b0%2584-%25eb%25b3%25b4%25ec%25a6%259d%25eb%25a3%258c-%25ec%2597%2586%25ec%259d%25b4-%25ec%259a%25b4%25ec%2598%2581%25ec%259e%2590%25ea%25b8%2588-%25eb%25b9%258c%25eb%25a6%25b0%25eb%258b%25a4",
+      "sourceId": "platum",
+      "sourceName": "플래텀",
+      "domain": "startup",
       "lang": "ko",
       "kind": "article",
-      "title": "엔비디아, ‘젠슨 황 리스크’에 신용 강등 위기…AI 투자 정점론 부상",
-      "url": "https://www.sedaily.com/article/20119701",
-      "publishedAt": "2026-11-27T00:45:31.000Z",
-      "excerpt": ""
+      "title": "청년 창업기업, 3년간 보증료 없이 운영자금 빌린다… 신보·신한은행 1,000억 원 보증 공급",
+      "url": "https://platum.kr/archives/299629?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%25b2%25ad%25eb%2585%2584-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b8%25b0%25ec%2597%2585-3%25eb%2585%2584%25ea%25b0%2584-%25eb%25b3%25b4%25ec%25a6%259d%25eb%25a3%258c-%25ec%2597%2586%25ec%259d%25b4-%25ec%259a%25b4%25ec%2598%2581%25ec%259e%2590%25ea%25b8%2588-%25eb%25b9%258c%25eb%25a6%25b0%25eb%258b%25a4",
+      "publishedAt": "2026-11-27T00:38:50.000Z",
+      "excerpt": "초기 청년 창업기업이 보증료 부담 없이 은행에서 운영자금을 빌릴 수 있는 협약보증이 1,000억 원 규모로 나온다. 신용보증기금은 신한은행과 ‘청년창업 도약사다리 금융지원 업무협약’을 26일 맺고, 신한은행의 출연금을 재원으로 유망 청년창업기업에 협약보증을 공급한다고 27일 밝혔다. 재원은 신한은행이 마련한다. 신한은행은 신보에 특별출연금 50억 원과 보증료 지원금 9억 원을 내고, 신보는 이를 바탕으로 출연금의 20배인 1,…"
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=37928&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -1701,30 +1857,6 @@
       "url": "https://outstanding.kr/aoki202611/",
       "publishedAt": "2026-11-27T00:20:53.000Z",
       "excerpt": "*이 글은 외부 필자인 금동우님의 기고입니다. 1964년 5월 사업 개시 이후 2026년 3월 말 현재 일본 전국에 673개 매장을 운영 중인 일본의 1등 정장 제조사 ‘아오야마상사’. 아마도 […]"
-    },
-    {
-      "id": "wowtale:https://wowtale.net/2026/11/27/268748/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ed%2581%2590%25ec%2596%25b4%25eb%25b2%2584%25ec%258a%25a4-%25ea%25b5%25ad%25ea%25b0%2580%25ec%258b%25a0%25ec%2595%25bd%25ea%25b0%259c%25eb%25b0%259c%25ec%2582%25ac%25ec%2597%2585-%25ed%259b%2584%25eb%25b3%25b4%25eb%25ac%25bc%25ec%25a7%2588-%25eb%258b%25a8%25ea%25b3%2584-cv-p-%25ea%25b3%25bc%25ec%25a0%259c-%25ec%2584%25a0",
-      "sourceId": "wowtale",
-      "sourceName": "와우테일",
-      "domain": "startup",
-      "lang": "ko",
-      "kind": "article",
-      "title": "큐어버스, 국가신약개발사업 후보물질 단계 CV-P 과제 선정",
-      "url": "https://wowtale.net/2026/11/27/268748/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ed%2581%2590%25ec%2596%25b4%25eb%25b2%2584%25ec%258a%25a4-%25ea%25b5%25ad%25ea%25b0%2580%25ec%258b%25a0%25ec%2595%25bd%25ea%25b0%259c%25eb%25b0%259c%25ec%2582%25ac%25ec%2597%2585-%25ed%259b%2584%25eb%25b3%25b4%25eb%25ac%25bc%25ec%25a7%2588-%25eb%258b%25a8%25ea%25b3%2584-cv-p-%25ea%25b3%25bc%25ec%25a0%259c-%25ec%2584%25a0",
-      "publishedAt": "2026-11-27T00:12:00.000Z",
-      "excerpt": "큐어버스가 국가신약개발사업 후보물질 단계에 선정돼 PPARδ 작용제 CV-P로 신장 섬유화 질환 신약 파이프라인 확장에 나선다."
-    },
-    {
-      "id": "sedaily:https://www.sedaily.com/article/20119669",
-      "sourceId": "sedaily",
-      "sourceName": "서울경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "내년 韓경제 4% 성장 가능할까…반도체 훈풍, 가계까지? [Pick코노미]",
-      "url": "https://www.sedaily.com/article/20119669",
-      "publishedAt": "2026-11-27T00:00:26.000Z",
-      "excerpt": ""
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-26/tokyo-inflation-accelerates-keeping-boj-wary-of-price-pressure",
@@ -1920,7 +2052,7 @@
       "title": "AI made self-hosting fun again",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
       "publishedAt": "2026-11-26T21:47:45.000Z",
-      "excerpt": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 388 # Comments: 211"
+      "excerpt": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 429 # Comments: 233"
     },
     {
       "id": "hn:https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
@@ -1932,7 +2064,7 @@
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
       "publishedAt": "2026-11-26T21:08:05.000Z",
-      "excerpt": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 274 # Comments: 52"
+      "excerpt": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 292 # Comments: 64"
     },
     {
       "id": "inc:https://www.inc.com/kevin-haynes/want-to-live-longer-one-thing-is-more-important-than-a-healthy-diet/91443459",
@@ -1945,30 +2077,6 @@
       "url": "https://www.inc.com/kevin-haynes/want-to-live-longer-one-thing-is-more-important-than-a-healthy-diet/91443459",
       "publishedAt": "2026-11-26T20:59:32.000Z",
       "excerpt": "A new study finds exercise has a far stronger link to longevity than diet. Just 2,000 steps a day was associated with up to a 50 percent lower mortality risk among sedentary people."
-    },
-    {
-      "id": "mk:https://www.mk.co.kr/news/economy/12219492",
-      "sourceId": "mk",
-      "sourceName": "매일경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "“1억1000만원 넣으면 평생 월 296만원” … 국민연금으로 ‘금퇴족’ 되는 법",
-      "url": "https://www.mk.co.kr/news/economy/12219492",
-      "publishedAt": "2026-11-26T20:00:00.000Z",
-      "excerpt": "60세 넘어서도 보험료 납부해 연금액 키워 “건강·소득·생활비 따져 수령 시기 정해야”‘100세 시대, 그리고 은퇴.’ 상당수 직장인은 이 말을 들으면 설렘보다는 덜컥 걱정부터 .."
-    },
-    {
-      "id": "mk:https://www.mk.co.kr/news/economy/12219637",
-      "sourceId": "mk",
-      "sourceName": "매일경제 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "환율, 물가, 마지막은 주가 … 한은 총재가 통화정책에 고려하는 우선 순위",
-      "url": "https://www.mk.co.kr/news/economy/12219637",
-      "publishedAt": "2026-11-26T20:00:00.000Z",
-      "excerpt": "신현송 총재 취임 후 성적표‘환율 →물가 →주가’ 신현송 한국은행 총재가 통화정책을 펼 때 고려하는 순서로 관측되는 부분이다. 한국은행 금융통화위원회는 11월 26일 올해 마지막 .."
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-26/turkey-central-bank-suspends-repo-auctions-as-reserves-shrink",
@@ -2016,7 +2124,7 @@
       "title": "Show HN: Fuck_data_brokers.py",
       "url": "https://github.com/gary23w/f-ck_data_brokers",
       "publishedAt": "2026-11-26T18:37:21.000Z",
-      "excerpt": "Article URL: https://github.com/gary23w/f-ck_data_brokers Comments URL: https://news.ycombinator.com/item?id=50658191 Points: 224 # Comments: 45"
+      "excerpt": "Article URL: https://github.com/gary23w/f-ck_data_brokers Comments URL: https://news.ycombinator.com/item?id=50658191 Points: 225 # Comments: 46"
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-26/milei-s-overhaul-of-argentina-s-central-bank-wins-final-approval-in-congress",
@@ -2052,7 +2160,7 @@
       "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
       "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "publishedAt": "2026-11-26T17:47:45.000Z",
-      "excerpt": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 225 # Comments: 99"
+      "excerpt": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 240 # Comments: 103"
     },
     {
       "id": "hn:https://github.com/antonpictures/youtube-punisher",
@@ -2064,7 +2172,7 @@
       "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
       "url": "https://github.com/antonpictures/youtube-punisher",
       "publishedAt": "2026-11-26T17:36:47.000Z",
-      "excerpt": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 290 # Comments: 374"
+      "excerpt": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 311 # Comments: 383"
     },
     {
       "id": "hn:https://devnull.land/amd-specific-llama-cpp",
@@ -2076,7 +2184,7 @@
       "title": "AMD-specific fork of llama.cpp",
       "url": "https://devnull.land/amd-specific-llama-cpp",
       "publishedAt": "2026-11-26T17:11:29.000Z",
-      "excerpt": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 300 # Comments: 73"
+      "excerpt": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 307 # Comments: 75"
     },
     {
       "id": "inc:https://www.inc.com/dan-schawbel/bath-body-works-has-a-new-strategy-and-it-starts-with-listening/91441393",
@@ -2304,7 +2412,7 @@
       "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
       "url": "https://michidk.github.io/sidebyside/",
       "publishedAt": "2026-11-26T15:00:06.000Z",
-      "excerpt": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 118 # Comments: 26"
+      "excerpt": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 123 # Comments: 27"
     },
     {
       "id": "inc:https://www.inc.com/paula-conway/vidantaworld-luxury-resort/91442823",
@@ -2340,7 +2448,7 @@
       "title": "Tell HN: Happy Thanksgiving",
       "url": "https://news.ycombinator.com/item?id=50655664",
       "publishedAt": "2026-11-26T14:26:54.000Z",
-      "excerpt": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 633 # Comments: 138"
+      "excerpt": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 651 # Comments: 139"
     },
     {
       "id": "bbg-econ:https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video",
@@ -2514,18 +2622,6 @@
       "excerpt": "폐업 위기에 놓였거나 경영난을 겪는 소상공인의 재기를 지원하는 정부 사업에서 한국경영기술지도사회가 서울·강원 권역 주요 실적 목표를 모두 넘어섰다. 재기진단부터 교육, 사업화 지원까지 전 단계에서 당초 계획보다 많은 실적을 기록했으며, 추가경정예산으로 편성된 긴급 컨설팅도 목표치를 초과했다.한국경영기술지도사회(회장 권형남)는 2026년 희망리턴패키지 재기사업화 지원사업의 서울·강원 권역 주관기관으로서 재기진단, 실전교육, 사업…"
     },
     {
-      "id": "bbg-econ:https://www.bloomberg.com/news/articles/2026-11-26/brazil-tightens-consumer-lending-rules-as-household-debt-soars",
-      "sourceId": "bbg-econ",
-      "sourceName": "Bloomberg Economics",
-      "domain": "global",
-      "lang": "en",
-      "kind": "article",
-      "title": "Brazil Tightens Consumer Lending Rules as Family Debt Soars",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/brazil-tightens-consumer-lending-rules-as-household-debt-soars",
-      "publishedAt": "2026-11-26T12:54:50.000Z",
-      "excerpt": "Brazil’s central bank unveiled measures to curb excessive consumer borrowing as President Luiz Inácio Lula da Silva grows concerned about soaring household debt."
-    },
-    {
       "id": "startupn:https://www.startupn.kr/news/articleView.html?idxno=60823",
       "sourceId": "startupn",
       "sourceName": "스타트업엔",
@@ -2643,7 +2739,7 @@
       "title": "Nextcloud Office Desktop app",
       "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
       "publishedAt": "2026-11-26T11:50:49.000Z",
-      "excerpt": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 406 # Comments: 206"
+      "excerpt": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 410 # Comments: 209"
     },
     {
       "id": "startupn:https://www.startupn.kr/news/articleView.html?idxno=60816",
@@ -2742,7 +2838,7 @@
       "title": "Intel One Mono font (2023)",
       "url": "https://github.com/intel/intel-one-mono",
       "publishedAt": "2026-11-26T10:11:01.000Z",
-      "excerpt": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 480 # Comments: 243"
+      "excerpt": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 487 # Comments: 245"
     },
     {
       "id": "fastco:https://www.fastcompany.com/91648586/why-employees-are-habit-hugging-at-work",
@@ -2793,7 +2889,7 @@
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
       "publishedAt": "2026-11-26T09:44:23.000Z",
-      "excerpt": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 265 # Comments: 222"
+      "excerpt": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 282 # Comments: 237"
     },
     {
       "id": "byline:https://byline.network/2026/11/26-668/",
@@ -2883,18 +2979,6 @@
       "excerpt": "금융권이 모바일 플랫폼 경쟁력 강화에 나섰다. NH농협은행은 고객 데이터 기반의 맞춤형 마케팅으로 모바일 애플리케이션(앱) 이용자를 늘리는 한편 인공지능(AI) 에이전트 도입을 추진한다. KB국민은행은 KB스타뱅킹의 이용 대상을 개인사업자와 외국인까지 확대하고 비대면 금융 업무와 생활 서비스 연계를 강화해 슈퍼앱 경쟁력을 높인다는 전략이다."
     },
     {
-      "id": "hn:https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "OpenAI may be in cost control mode",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "publishedAt": "2026-11-26T07:33:12.000Z",
-      "excerpt": "Article URL: https://micjm.com/blog/openai-is-in-cost-control-mode/ Comments URL: https://news.ycombinator.com/item?id=50652527 Points: 295 # Comments: 296"
-    },
-    {
       "id": "producthunt:https://www.producthunt.com/products/fairwind",
       "sourceId": "producthunt",
       "sourceName": "Product Hunt",
@@ -2917,6 +3001,18 @@
       "url": "https://byline.network/2026/11/26-665/",
       "publishedAt": "2026-11-26T06:56:49.000Z",
       "excerpt": "중국 연계로 추정되는 해킹 조직이 인공지능(AI) 에이전트를 이용해 ‘알려지지 않은 보안 취약점(제로데이)’을 스스로 찾아내고 실제 서버를 장악한 사례가 확인됐다. 아마존웹서비스(AWS)는 지난 20일 공식 보안 블로그를 통해 중국 연계 위협 행위자가 자율형 AI 침투테스트 도구 ‘케언(Cairn)’을 활용해 동아시아 대학들을 공격한 사례를 공개했다."
+    },
+    {
+      "id": "hn:https://commandcode.ai/moat",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Moat: OpenRouter replacement",
+      "url": "https://commandcode.ai/moat",
+      "publishedAt": "2026-11-26T06:32:48.000Z",
+      "excerpt": "Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 262 # Comments: 150"
     },
     {
       "id": "byline:https://byline.network/2026/11/26_2983717/",
@@ -3200,42 +3296,6 @@
       "excerpt": "*이 글은 외부 필자인 강병호님의 기고입니다. 젠슨 황의 불륜과 사임, 그리고 복귀 지난 11월 12일, 엔비디아는 젠슨 황의 CEO 및 이사직 사임과 콜렛 크레스 CFO의 임시 CEO 선임을 […]"
     },
     {
-      "id": "platum:https://platum.kr/archives/299524?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%258b%2588%25eb%258d%2594-%25ea%25b8%2589%25ea%25b5%25ac-2026%25eb%2585%2584-110%25ec%259b%2594-30%25eb%258c%2580-%25ea%25b7%25bc%25eb%25ac%25b4-%25ec%2599%2584%25eb%25a3%258c-%25ea%25b1%25b4%25ec%2588%2598-%25ec%25a0%2584%25eb%2585%2584%25eb%25b9%2584-72-%25ec%25a6%259d%25ea%25b0%2580",
-      "sourceId": "platum",
-      "sourceName": "플래텀",
-      "domain": "startup",
-      "lang": "ko",
-      "kind": "article",
-      "title": "니더 급구, 2026년 1~10월 30대 근무 완료 건수 전년비 72% 증가",
-      "url": "https://platum.kr/archives/299524?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%258b%2588%25eb%258d%2594-%25ea%25b8%2589%25ea%25b5%25ac-2026%25eb%2585%2584-110%25ec%259b%2594-30%25eb%258c%2580-%25ea%25b7%25bc%25eb%25ac%25b4-%25ec%2599%2584%25eb%25a3%258c-%25ea%25b1%25b4%25ec%2588%2598-%25ec%25a0%2584%25eb%2585%2584%25eb%25b9%2584-72-%25ec%25a6%259d%25ea%25b0%2580",
-      "publishedAt": "2026-11-26T00:37:23.000Z",
-      "excerpt": "실시간 단기 일자리 매칭 플랫폼 ‘급구’를 운영하는 니더가 올해 1~10월 연령대별 앱 이용 데이터를 분석한 결과, 단기 알바 이용층이 20대 중심에서 30대까지 확대되는 추세인 것으로 나타났다. 30대의 근무 완료 건수가 전년 동기 대비 72% 증가하며 전체 평균 증가율(51%)과 20대 증가율(39%)을 모두 웃돌았다. 이번 분석에서 가장 두드러진 변화는 30대의 실제 근무 참여 증가다. 30대 구직자의 지원 ... 더 읽…"
-    },
-    {
-      "id": "platum:https://platum.kr/archives/299520?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ed%2581%25ac%25eb%25a6%25bf%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ed%2595%259c%25ea%25b5%25ad-%25ec%259b%25b9%25ed%2588%25b0-ip-%25ec%259d%25bc%25eb%25b3%25b8-%25ec%2582%25ac%25ec%2597%2585%25ed%2599%2594-%25ea%25b8%25b0%25ec%2597%2585-%25ed%2581%25b4%25eb%25a7%2581%25ed%2581%25ac%25ec%2597%2590",
-      "sourceId": "platum",
-      "sourceName": "플래텀",
-      "domain": "startup",
-      "lang": "ko",
-      "kind": "article",
-      "title": "크릿벤처스, 한국 웹툰 IP 일본 사업화 기업 ‘클링크’에 후속 투자",
-      "url": "https://platum.kr/archives/299520?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ed%2581%25ac%25eb%25a6%25bf%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ed%2595%259c%25ea%25b5%25ad-%25ec%259b%25b9%25ed%2588%25b0-ip-%25ec%259d%25bc%25eb%25b3%25b8-%25ec%2582%25ac%25ec%2597%2585%25ed%2599%2594-%25ea%25b8%25b0%25ec%2597%2585-%25ed%2581%25b4%25eb%25a7%2581%25ed%2581%25ac%25ec%2597%2590",
-      "publishedAt": "2026-11-26T00:04:41.000Z",
-      "excerpt": "벤처캐피탈 크릿벤처스가 한국 웹툰·웹소설 IP의 일본 사업화를 맡는 콘텐츠 IP 기업 클링크(CLINK)에 후속 투자했다고 26일 밝혔다. 투자 금액은 공개하지 않았다. 클링크는 일본에 법인을 둔 국외창업기업으로, 한국 웹툰·웹소설 IP를 애니메이션과 게임, 캐릭터 굿즈로 확장하는 기획·제작 사업을 한다. 마혁민 대표를 비롯한 핵심 인력은 대원미디어, 덴츠 등 한·일 콘텐츠 기업 출신으로 일본 제작위원회 운영과 콘텐츠 유통, …"
-    },
-    {
-      "id": "platum:https://platum.kr/archives/299518?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%2597%2591%25ec%258a%25a4%25ec%2597%2598%25ec%2597%2590%25ec%259d%25b4%25ed%258a%25b8-%25ec%259d%2598%25ed%2595%2599%25c2%25b7%25ec%2588%2598%25ec%259d%2598%25ed%2595%2599-%25ed%2595%2599%25ec%2588%25a0%25ed%2596%2589%25ec%2582%25ac%25ec%2597%2590-ai-%25ed%2586%25b5%25eb%25b2%2588%25ec%2597%25ad-%25ec%259d%25b4",
-      "sourceId": "platum",
-      "sourceName": "플래텀",
-      "domain": "startup",
-      "lang": "ko",
-      "kind": "article",
-      "title": "엑스엘에이트, 의학·수의학 학술행사에 AI 통번역 ‘이벤트캣’ 잇따라 공급",
-      "url": "https://platum.kr/archives/299518?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%2597%2591%25ec%258a%25a4%25ec%2597%2598%25ec%2597%2590%25ec%259d%25b4%25ed%258a%25b8-%25ec%259d%2598%25ed%2595%2599%25c2%25b7%25ec%2588%2598%25ec%259d%2598%25ed%2595%2599-%25ed%2595%2599%25ec%2588%25a0%25ed%2596%2589%25ec%2582%25ac%25ec%2597%2590-ai-%25ed%2586%25b5%25eb%25b2%2588%25ec%2597%25ad-%25ec%259d%25b4",
-      "publishedAt": "2026-11-26T00:03:53.000Z",
-      "excerpt": "AI 동시 통번역 기업 엑스엘에이트(XL8)가 실시간 AI 통번역 솔루션 ‘이벤트캣(EventCAT)’을 최근 한 달 사이 의학·바이오·수의학·스포츠의학 분야 행사 6곳에 공급했다고 26일 밝혔다. 회사는 이를 계기로 헬스케어 분야 행사 공급을 본격화한다는 계획이다. 공급은 10월 30일 서울대병원에서 열린 한국 소아청소년 완화의료 전문가 라운드테이블에서 시작됐다. 이후 한국의과대학·의학전문대학원협회, 한국최소침습췌장수술연구회…"
-    },
-    {
       "id": "entrepreneur:https://www.entrepreneur.com/business-news/stop-using-ai-as-an-excuse-for-layoffs-heres-how-to-use-ai-to-retain-talent-instead",
       "sourceId": "entrepreneur",
       "sourceName": "Entrepreneur",
@@ -3246,18 +3306,6 @@
       "url": "https://www.entrepreneur.com/business-news/stop-using-ai-as-an-excuse-for-layoffs-heres-how-to-use-ai-to-retain-talent-instead",
       "publishedAt": "2026-11-26T00:00:00.000Z",
       "excerpt": "How to use AI to make your team more capable, not smaller."
-    },
-    {
-      "id": "platum:https://platum.kr/archives/299458?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%25bd%2594-%25eb%25ac%25b4%25eb%258a%25ac%25eb%25a1%259c-%25eb%25b0%2598%25eb%25a0%25a4%25ea%25b2%25ac-%25eb%25b3%25b8%25ec%259d%25b8-%25ed%2599%2595%25ec%259d%25b8-%25ed%258e%25ab%25eb%2582%2598%25ec%259a%25b0-%25ec%259d%25b4%25ec%25a7%2591%25ed%258a%25b8-%25ed%258e%25ab-%25ec%259d%25b8%25ec%258a%2588",
-      "sourceId": "platum",
-      "sourceName": "플래텀",
-      "domain": "startup",
-      "lang": "ko",
-      "kind": "article",
-      "title": "코 무늬로 반려견 ‘본인 확인’, 펫나우 이집트 펫 인슈어테크에 식별 기술 공급",
-      "url": "https://platum.kr/archives/299458?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%25bd%2594-%25eb%25ac%25b4%25eb%258a%25ac%25eb%25a1%259c-%25eb%25b0%2598%25eb%25a0%25a4%25ea%25b2%25ac-%25eb%25b3%25b8%25ec%259d%25b8-%25ed%2599%2595%25ec%259d%25b8-%25ed%258e%25ab%25eb%2582%2598%25ec%259a%25b0-%25ec%259d%25b4%25ec%25a7%2591%25ed%258a%25b8-%25ed%258e%25ab-%25ec%259d%25b8%25ec%258a%2588",
-      "publishedAt": "2026-11-26T00:00:00.000Z",
-      "excerpt": "반려동물 생체인식 기업 펫나우가 이집트 인슈어테크 기업 레오나 펫플랜(Leona Pet Plan)과 반려동물 식별 솔루션 공급 계약을 맺었다고 26일 밝혔다. 레오나는 제휴 동물병원과 함께 반려동물 케어플랜을 운영하는 회사로, 펫나우의 기술은 케어플랜에 가입한 반려동물이 병원에 왔을 때 같은 동물인지 확인하는 데 쓰인다. 레오나의 케어플랜 가입자는 앱에서 반려동물 ID와 건강기록을 관리하고, 케어카드를 제시해 제휴 병원 진료비…"
     },
     {
       "id": "tldr:https://tldr.tech/tech/2026-11-26",
@@ -3297,18 +3345,6 @@
       "excerpt": "search inside anything on your Mac Discussion | Link"
     },
     {
-      "id": "platum:https://platum.kr/archives/299512?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=30%25eb%258c%2580%25eb%25a1%259c-%25eb%2584%2593%25ec%2596%25b4%25ec%25a7%2584-%25eb%258b%25a8%25ea%25b8%25b0-%25ec%2595%258c%25eb%25b0%2594-%25ea%25b7%25bc%25eb%25ac%25b4-%25ea%25b1%25b4%25ec%2588%2598-%25ec%25a6%259d%25ea%25b0%2580%25ec%259c%25a8-20%25eb%258c%2580-%25ec%2595%259e%25ec%25a7%2588%25eb%259f%25ac",
-      "sourceId": "platum",
-      "sourceName": "플래텀",
-      "domain": "startup",
-      "lang": "ko",
-      "kind": "article",
-      "title": "30대로 넓어진 단기 알바, 근무 건수 증가율 20대 앞질러",
-      "url": "https://platum.kr/archives/299512?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=30%25eb%258c%2580%25eb%25a1%259c-%25eb%2584%2593%25ec%2596%25b4%25ec%25a7%2584-%25eb%258b%25a8%25ea%25b8%25b0-%25ec%2595%258c%25eb%25b0%2594-%25ea%25b7%25bc%25eb%25ac%25b4-%25ea%25b1%25b4%25ec%2588%2598-%25ec%25a6%259d%25ea%25b0%2580%25ec%259c%25a8-20%25eb%258c%2580-%25ec%2595%259e%25ec%25a7%2588%25eb%259f%25ac",
-      "publishedAt": "2026-11-25T23:54:45.000Z",
-      "excerpt": "단기 아르바이트 시장에서 30대의 근무가 20대보다 빠르게 늘고 있다. 실시간 단기 일자리 매칭 플랫폼 ‘급구’를 운영하는 니더가 2025년과 2026년 1~10월 연령대별 앱 이용 데이터를 비교한 결과, 30대의 근무 완료 건수는 전년 같은 기간보다 72% 증가해 20대 증가율(39%)과 20대 이상 전체 평균(51%)을 웃돌았다. 같은 기간 급구에서 일자리에 지원한 30대 구직자 수는 20% 늘어 20대 이상 전체 ... …"
-    },
-    {
       "id": "producthunt:https://www.producthunt.com/products/doodle-5",
       "sourceId": "producthunt",
       "sourceName": "Product Hunt",
@@ -3319,66 +3355,6 @@
       "url": "https://www.producthunt.com/products/doodle-5",
       "publishedAt": "2026-11-25T23:52:43.000Z",
       "excerpt": "The stick figure on your taskbar that answers questions Discussion | Link"
-    },
-    {
-      "id": "platum:https://platum.kr/archives/299507?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%258c%2580%25ea%25b8%25b0%25ec%2597%2585-%25eb%25b2%2595%25eb%25ac%25b4%25ed%258c%2580%25ec%2597%2590-%25eb%2593%25a4%25ec%2596%25b4%25ea%25b0%2584-%25eb%25b2%2595%25eb%25a5%25a0-ai-20%25eb%258c%2580-%25ea%25b7%25b8%25eb%25a3%25b9-%25eb%258c%2580%25eb%25b6%2580%25eb%25b6%2584%25ec%259d%25b4-%25ec%2593%25b4",
-      "sourceId": "platum",
-      "sourceName": "플래텀",
-      "domain": "startup",
-      "lang": "ko",
-      "kind": "article",
-      "title": "대기업 법무팀에 들어간 법률 AI, 20대 그룹 대부분이 쓴다… 슈퍼로이어 기업 도입 성과",
-      "url": "https://platum.kr/archives/299507?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%258c%2580%25ea%25b8%25b0%25ec%2597%2585-%25eb%25b2%2595%25eb%25ac%25b4%25ed%258c%2580%25ec%2597%2590-%25eb%2593%25a4%25ec%2596%25b4%25ea%25b0%2584-%25eb%25b2%2595%25eb%25a5%25a0-ai-20%25eb%258c%2580-%25ea%25b7%25b8%25eb%25a3%25b9-%25eb%258c%2580%25eb%25b6%2580%25eb%25b6%2584%25ec%259d%25b4-%25ec%2593%25b4",
-      "publishedAt": "2026-11-25T23:48:27.000Z",
-      "excerpt": "국내 20대 그룹 가운데 18곳의 법무 조직이 법률 AI ‘슈퍼로이어’를 쓰고 있다. 한 계열사에서 쓰기 시작하면 다른 계열사로 번지는 경우가 많았다. 리걸테크 기업 로앤컴퍼니는 슈퍼로이어의 기업 도입 성과를 26일 공개했다. 로앤컴퍼니는 2024년 9월부터 사내 변호사 등 법률 전문가가 있는 기업 법무 조직에 슈퍼로이어를 공급해 왔다. 올해 3분기 말 기준 슈퍼로이어를 쓰는 기업은 189곳으로, 1년 전보다 ... 더 읽기"
-    },
-    {
-      "id": "platum:https://platum.kr/archives/299505?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%25a0%259c%25ec%25a3%25bc%25ea%25b0%2580-%25ec%2595%2588%25ea%25b3%25a0-%25ec%259e%2588%25eb%258a%2594-%25ec%25a7%2580%25ec%2597%25ad-%25ea%25b3%25bc%25ec%25a0%259c-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2582%25ac%25ec%2597%2585%25ec%259c%25bc%25eb%25a1%259c-%25ed%2591%25bc%25eb%258b%25a4",
-      "sourceId": "platum",
-      "sourceName": "플래텀",
-      "domain": "startup",
-      "lang": "ko",
-      "kind": "article",
-      "title": "제주가 안고 있는 지역 과제, 스타트업 사업으로 푼다… 코스포·제주도 ‘창업도시’ 협약",
-      "url": "https://platum.kr/archives/299505?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%25a0%259c%25ec%25a3%25bc%25ea%25b0%2580-%25ec%2595%2588%25ea%25b3%25a0-%25ec%259e%2588%25eb%258a%2594-%25ec%25a7%2580%25ec%2597%25ad-%25ea%25b3%25bc%25ec%25a0%259c-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2582%25ac%25ec%2597%2585%25ec%259c%25bc%25eb%25a1%259c-%25ed%2591%25bc%25eb%258b%25a4",
-      "publishedAt": "2026-11-25T23:45:38.000Z",
-      "excerpt": "지역 현안을 스타트업의 사업 기회로 연결하겠다는 제주의 ‘창업도시’ 구상에 스타트업 단체가 민간 파트너로 합류한다. 코리아스타트업포럼(코스포)은 25일 서울 강남구 마루360에서 제주특별자치도와 ‘창업도시 제주 실현을 위한 업무협약’을 맺었다고 26일 밝혔다. 두 기관의 협력은 지난 9월부터 이어져 왔다. 당시 제주시 한경면 조수리 일대에서 ‘스타트업이 제주를 그리다’ 행사를 함께 열어 제주의 주요 현안을 공유하고 스타트업이 …"
-    },
-    {
-      "id": "platum:https://platum.kr/archives/299503?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ed%2595%25b5%25ec%259c%25b5%25ed%2595%25a9%25eb%25a1%259c-%25eb%25b8%2594%25eb%259e%2591%25ec%25bc%2593-%25ec%2597%25b0%25ea%25b5%25ac%25ec%258b%25a4-%25ea%25b8%25b0%25ec%2588%25a0%25ec%259d%2584-%25ec%2582%25b0%25ec%2597%2585%25c2%25b7%25ec%25b0%25bd%25ec%2597%2585%25ec%259c%25bc%25eb%25a1%259c-%25ec%259e%2587",
-      "sourceId": "platum",
-      "sourceName": "플래텀",
-      "domain": "startup",
-      "lang": "ko",
-      "kind": "article",
-      "title": "핵융합로 ‘블랑켓’, 연구실 기술을 산업·창업으로 잇는 논의 열린다",
-      "url": "https://platum.kr/archives/299503?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ed%2595%25b5%25ec%259c%25b5%25ed%2595%25a9%25eb%25a1%259c-%25eb%25b8%2594%25eb%259e%2591%25ec%25bc%2593-%25ec%2597%25b0%25ea%25b5%25ac%25ec%258b%25a4-%25ea%25b8%25b0%25ec%2588%25a0%25ec%259d%2584-%25ec%2582%25b0%25ec%2597%2585%25c2%25b7%25ec%25b0%25bd%25ec%2597%2585%25ec%259c%25bc%25eb%25a1%259c-%25ec%259e%2587",
-      "publishedAt": "2026-11-25T23:43:06.000Z",
-      "excerpt": "핵융합로 안에서 플라즈마를 감싸는 부품 ‘블랑켓(Blanket)’을 산업과 창업으로 연결하는 방안을 연구자, 기업, 투자자가 함께 논의하는 자리가 대전에서 열린다. 딥테크 액셀러레이터 블루포인트파트너스는 한국핵융합가속기기술산업협회(KAFAT), 과학기술사업화진흥원(COMPA)과 함께 다음 달 2일 대전 호텔 인터시티에서 ‘2026년 핵융합 퓨전 빌더스 1차 세미나’를 연다고 26일 밝혔다. 블랑켓은 핵융합 반응에서 나오는 중성…"
-    },
-    {
-      "id": "platum:https://platum.kr/archives/299500?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%2588%2598%25eb%258a%25a5-%25eb%2581%259d%25eb%2582%259c-%25ea%25b3%25a03-%25ec%25b2%25ab-%25ec%2595%258c%25eb%25b0%2594%25eb%25a1%259c-%25ea%25b0%2580%25ec%259e%25a5-%25eb%25a7%258e%25ec%259d%25b4-%25ea%25b3%25a0%25eb%25a5%25b8-%25ea%25b1%25b4-%25ec%2584%259c%25eb%25b9%2599",
-      "sourceId": "platum",
-      "sourceName": "플래텀",
-      "domain": "startup",
-      "lang": "ko",
-      "kind": "article",
-      "title": "수능 끝난 고3, 첫 알바로 가장 많이 고른 건 ‘서빙’",
-      "url": "https://platum.kr/archives/299500?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25ec%2588%2598%25eb%258a%25a5-%25eb%2581%259d%25eb%2582%259c-%25ea%25b3%25a03-%25ec%25b2%25ab-%25ec%2595%258c%25eb%25b0%2594%25eb%25a1%259c-%25ea%25b0%2580%25ec%259e%25a5-%25eb%25a7%258e%25ec%259d%25b4-%25ea%25b3%25a0%25eb%25a5%25b8-%25ea%25b1%25b4-%25ec%2584%259c%25eb%25b9%2599",
-      "publishedAt": "2026-11-25T23:39:45.000Z",
-      "excerpt": "수능을 마친 고3 수험생들이 시험 직후 일주일 동안 가장 많이 지원한 아르바이트는 음식점 서빙이었다. 지역 기반 구인구직 서비스 당근알바가 수능 당일부터 일주일간(11월 19~25일) 고3 수험생 연령대인 2008년생 이용자의 알바 지원 데이터를 분석한 결과를 26일 공개했다. 수능이 끝나자 지원은 한꺼번에 몰렸다. 수능 직후 일주일간 2008년생 이용자의 알바 지원 건수는 직전 일주일(11월 12~18일)보다 95% 늘었다.…"
-    },
-    {
-      "id": "platum:https://platum.kr/archives/299497?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%25b3%25b8%25ec%2582%25ac-%25ec%2588%25ab%25ec%259e%2590-%25eb%258c%2580%25ec%258b%25a0-%25ec%258b%25a4%25eb%25a7%25a4%25ec%25b6%259c%25eb%25a1%259c-%25ea%25b3%25a0%25eb%25a5%25b4%25eb%258a%2594-%25ed%2594%2584%25eb%259e%259c%25ec%25b0%25a8%25ec%259d%25b4%25ec%25a6%2588-%25ec%25ba%2590%25ec%258b%259c%25eb%2585%25b8",
-      "sourceId": "platum",
-      "sourceName": "플래텀",
-      "domain": "startup",
-      "lang": "ko",
-      "kind": "article",
-      "title": "본사 숫자 대신 실매출로 고르는 프랜차이즈, 캐시노트 ‘창업 시뮬레이터’ 출시",
-      "url": "https://platum.kr/archives/299497?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%25b3%25b8%25ec%2582%25ac-%25ec%2588%25ab%25ec%259e%2590-%25eb%258c%2580%25ec%258b%25a0-%25ec%258b%25a4%25eb%25a7%25a4%25ec%25b6%259c%25eb%25a1%259c-%25ea%25b3%25a0%25eb%25a5%25b4%25eb%258a%2594-%25ed%2594%2584%25eb%259e%259c%25ec%25b0%25a8%25ec%259d%25b4%25ec%25a6%2588-%25ec%25ba%2590%25ec%258b%259c%25eb%2585%25b8",
-      "publishedAt": "2026-11-25T23:34:11.000Z",
-      "excerpt": "소상공인 경영관리 서비스 캐시노트를 운영하는 한국신용데이터(KCD)가 프랜차이즈 창업을 준비하는 예비 창업자를 위한 ‘창업 시뮬레이터’를 26일 출시했다. 원하는 상권과 업종, 예산을 입력하면 약 300개 상권과 2,000개 브랜드 가운데 조건에 맞는 프랜차이즈를 추천하고, 예상 순이익과 투자금 회수 기간을 담은 리포트를 만들어 준다. 캐시노트는 전국 230만 곳 이상의 사업장이 쓰는 서비스다. KCD는 이번 서비스를 예비 창…"
     },
     {
       "id": "fastco:https://www.fastcompany.com/91649101/are-ai-companies-glosslighting-you-with-misleading-jargon-this-report-says-yes",
@@ -4006,7 +3982,7 @@
       "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
       "url": "https://gpu-demo-gallery.pages.dev/",
       "publishedAt": "2026-11-25T04:31:48.000Z",
-      "excerpt": "Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 353 # Comments: 80"
+      "excerpt": "Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 354 # Comments: 80"
     },
     {
       "id": "trendsvc:https://trends.vc/whats-1000-of-new-mrr-actually-worth/",
@@ -6495,7 +6471,7 @@
       {
         "id": "hn",
         "count": 10,
-        "parsed": 13
+        "parsed": 12
       },
       {
         "id": "tldr",
