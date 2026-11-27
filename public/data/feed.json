@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T18:54:56.267Z",
+  "generatedAt": "2026-11-27T19:40:54.431Z",
   "domains": [
     {
       "id": "local",
@@ -222,7 +222,7 @@
       "kind": "article",
       "title": "인터넷우체국 등기우편 고객정보 유출…하루치만 11만3천명 확인",
       "url": "https://www.hani.co.kr/arti/society/society_general/1289501.html",
-      "publishedAt": "2026-11-27T18:54:54.530Z",
+      "publishedAt": "2026-11-27T19:40:52.836Z",
       "excerpt": ""
     },
     {
@@ -234,7 +234,7 @@
       "kind": "article",
       "title": "젤렌스키, 푸틴 ‘친구’라 부른 트럼프에 “히틀러 친구라는 것과 같다”",
       "url": "https://www.hani.co.kr/arti/international/international_general/1289500.html",
-      "publishedAt": "2026-11-27T18:54:54.530Z",
+      "publishedAt": "2026-11-27T19:40:52.836Z",
       "excerpt": ""
     },
     {
@@ -246,7 +246,7 @@
       "kind": "article",
       "title": "법사위 당정 충돌 왜…박홍근 “상원이냐” vs 서영교 “이런 장관 처음”",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1289499.html",
-      "publishedAt": "2026-11-27T18:54:54.530Z",
+      "publishedAt": "2026-11-27T19:40:52.836Z",
       "excerpt": ""
     },
     {
@@ -258,7 +258,7 @@
       "kind": "article",
       "title": "[사설] 최민희 중징계 결정, ‘당내 내전’으로 이어져선 안돼",
       "url": "https://www.hani.co.kr/arti/opinion/editorial/1289498.html",
-      "publishedAt": "2026-11-27T18:54:54.530Z",
+      "publishedAt": "2026-11-27T19:40:52.836Z",
       "excerpt": ""
     },
     {
@@ -270,7 +270,7 @@
       "kind": "article",
       "title": "초광역특구법 사회적 대화, 기간제 노동자 ‘공정수당’ 놓고 또 평행선",
       "url": "https://www.hani.co.kr/arti/society/labor/1289497.html",
-      "publishedAt": "2026-11-27T18:54:54.530Z",
+      "publishedAt": "2026-11-27T19:40:52.836Z",
       "excerpt": ""
     },
     {
@@ -282,7 +282,7 @@
       "kind": "article",
       "title": "김승수 “강유정 후보자 논문 자기 표절”…강 후보자 쪽 “연구윤리 위반 아냐”",
       "url": "https://www.hani.co.kr/arti/culture/culture_general/1289496.html",
-      "publishedAt": "2026-11-27T18:54:54.530Z",
+      "publishedAt": "2026-11-27T19:40:52.836Z",
       "excerpt": ""
     },
     {
@@ -294,7 +294,7 @@
       "kind": "article",
       "title": "경찰, 류희림 전 방심위원장 ‘민원사주’ 혐의 송치…고발 2년10개월 만",
       "url": "https://www.hani.co.kr/arti/society/society_general/1289495.html",
-      "publishedAt": "2026-11-27T18:54:54.530Z",
+      "publishedAt": "2026-11-27T19:40:52.836Z",
       "excerpt": ""
     },
     {
@@ -306,7 +306,7 @@
       "kind": "article",
       "title": "최민희 ‘당원 정지 2년’ 중징계에 “수용 하기 어렵다”…민주 내홍 격화",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1289494.html",
-      "publishedAt": "2026-11-27T18:54:54.530Z",
+      "publishedAt": "2026-11-27T19:40:52.836Z",
       "excerpt": ""
     },
     {
@@ -318,7 +318,7 @@
       "kind": "article",
       "title": "공소청, 김범수 ‘SM 시세조종 혐의’ 상고 포기…무죄 확정",
       "url": "https://www.hani.co.kr/arti/society/society_general/1289493.html",
-      "publishedAt": "2026-11-27T18:54:54.530Z",
+      "publishedAt": "2026-11-27T19:40:52.836Z",
       "excerpt": ""
     },
     {
@@ -330,8 +330,92 @@
       "kind": "article",
       "title": "국민연금 1∼9월 국내주식 수익률 66%…상반기 견주면 반토막",
       "url": "https://www.hani.co.kr/arti/economy/finance/1289492.html",
-      "publishedAt": "2026-11-27T18:54:54.530Z",
+      "publishedAt": "2026-11-27T19:40:52.836Z",
       "excerpt": ""
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261128005200091",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "젠슨 황 '디올 재킷' 복귀에 패션계 \"470만원짜리 겸손 연출\"",
+      "url": "https://www.yna.co.kr/view/AKR20261128005200091",
+      "publishedAt": "2026-11-27T19:29:50.000Z",
+      "excerpt": "(샌프란시스코=연합뉴스) 권영전 특파원 = 혼외관계 스캔들 등으로 사임했다가 돌아온 젠슨 황 엔비디아 최고경영자(CEO)가 트레이드마크였던 검은..."
+    },
+    {
+      "id": "yna-local:https://www.yna.co.kr/view/AKR20261128001452034",
+      "sourceId": "yna-local",
+      "sourceName": "연합뉴스 전국",
+      "domain": "local",
+      "lang": "ko",
+      "kind": "article",
+      "title": "세종 전동면 야산서 불…1시간 58분 만에 진화(종합2보)",
+      "url": "https://www.yna.co.kr/view/AKR20261128001452034",
+      "publishedAt": "2026-11-27T19:04:45.000Z",
+      "excerpt": "(세종=연합뉴스) 김소연 변선진 기자 = 27일 오후 11시 32분께 세종시 전동면 노장리 한 야산에서 불이 났다."
+    },
+    {
+      "id": "entrepreneur:https://www.entrepreneur.com/building-a-business/a-bigger-business-isnt-automatically-a-better-one-heres-what-to-ask-before-scaling",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "A Bigger Business Isn’t Automatically a Better One. Here’s What to Ask Before Scaling.",
+      "url": "https://www.entrepreneur.com/building-a-business/a-bigger-business-isnt-automatically-a-better-one-heres-what-to-ask-before-scaling",
+      "publishedAt": "2026-11-27T19:00:00.000Z",
+      "excerpt": "Scaling a business isn't just about hiring more people and increasing revenue. Growth brings new management challenges, operational complexity and the risk of losing sight of customers."
+    },
+    {
+      "id": "entrepreneur:https://www.entrepreneur.com/business-news/tech/stop-building-ai-into-your-product-let-your-customers-bring-their-own",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "Stop Building AI Into Your Product. Let Your Customers Bring Their Own.",
+      "url": "https://www.entrepreneur.com/business-news/tech/stop-building-ai-into-your-product-let-your-customers-bring-their-own",
+      "publishedAt": "2026-11-27T19:00:00.000Z",
+      "excerpt": "Your B2B customers already pay for an AI assistant. \"Bring your own agent\" lets you plug into it instead of competing with it."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261128004851072",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261128004851072",
+      "publishedAt": "2026-11-27T18:59:19.000Z",
+      "excerpt": "(뉴욕=연합뉴스) 임수정 특파원 = 미국 뉴욕증시의 3대 주요 주가지수가 27일(현지시간) 인공지능(AI) 투자에 대한 우려가 완화되면서 일제히..."
+    },
+    {
+      "id": "fastco:https://www.fastcompany.com/91649530/a-popular-password-manager-was-hacked-heres-what-you-need-to-know",
+      "sourceId": "fastco",
+      "sourceName": "Fast Company",
+      "domain": "career",
+      "lang": "en",
+      "kind": "article",
+      "title": "A popular password manager was hacked. Here’s what you need to know",
+      "url": "https://www.fastcompany.com/91649530/a-popular-password-manager-was-hacked-heres-what-you-need-to-know",
+      "publishedAt": "2026-11-27T18:55:44.000Z",
+      "excerpt": "Password managers are the safest way short of secret sticky notes to keep track of the hundreds of logins in your life, but even they don’t have perfect security. Popular Password manager 1Password disclosed this week that hackers breached …"
+    },
+    {
+      "id": "geeknews:https://news.hada.io/topic?id=37966&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "sourceId": "geeknews",
+      "sourceName": "GeekNews",
+      "domain": "tech",
+      "lang": "ko",
+      "kind": "article",
+      "title": "뉴욕과 캘리포니아, 새해부터 연령 기반 접근 제한 규칙 시행",
+      "url": "https://news.hada.io/topic?id=37966&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+      "publishedAt": "2026-11-27T18:33:55.000Z",
+      "excerpt": "2027년 1월 , 캘리포니아와 뉴욕에서 소셜미디어의 개인화 피드와 야간 알림 등을 연령과 동의 여부에 따라 제한하는 법률과 규정이 시행될 예정임 캘리포니아는 18세 미만 에게 알고리듬 피드와 야간 알림을 제공하려면 검증 가능한 부모 동의를 요구하며, 16세 미만 에게는 부모 동의가 있어도 개인화 추천, 자동 재생, 무한 스크롤 등을 금지함 뉴욕에서는 연령을 확인하지 않거나 18세 미만으로 추정된 이용자 가 개인화 추천과 야간…"
     },
     {
       "id": "inc:https://www.inc.com/bill-murphy-jr/online-customers-are-half-as-likely-to-buy-if-they-use-a-smartphone-new-research-explains-why/91443514",
@@ -380,6 +464,18 @@
       "url": "https://www.yna.co.kr/view/AKR20261128004300099",
       "publishedAt": "2026-11-27T18:11:27.000Z",
       "excerpt": "(요하네스버그=연합뉴스) 나확진 특파원 = 블라디미르 푸틴 러시아 대통령은 27일(현지시간) 극초음속 미사일 '치르콘'을 탑재한 신행 핵추진 잠..."
+    },
+    {
+      "id": "entrepreneur:https://www.entrepreneur.com/building-a-business/how-to-finance-your-businesss-next-stage-of-growth",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "How to Finance Your Business’s Next Stage of Growth",
+      "url": "https://www.entrepreneur.com/building-a-business/how-to-finance-your-businesss-next-stage-of-growth",
+      "publishedAt": "2026-11-27T18:00:00.000Z",
+      "excerpt": "The right financing strategy funds expansion, balances risk, preserves flexibility, and establishes clear upsides for investors and the company."
     },
     {
       "id": "fastco:https://www.fastcompany.com/91649518/elon-musk-is-giving-away-nearly-18-billion-in-spacex-stock-heres-who-can-get-it",
@@ -536,30 +632,6 @@
       "url": "https://news.hada.io/topic?id=37962&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "publishedAt": "2026-11-27T17:04:23.000Z",
       "excerpt": "락 오염(lock poisoning) 은 임계 구역에서 패닉이 발생한 뒤, 불변식이 깨졌을 수 있는 공유 데이터를 다른 스레드가 조용히 사용하는 일을 막는 탐지 장치임 언와인드 시 자식 스레드의 패닉은 프로그램 전체를 종료하지 않으며, join 결과 등을 처리하지 않으면 놓치기 쉬움. 이때 오염 상태가 임계 구역 실패의 유일한 신호 일 수 있음 모든 패닉이 데이터를 손상시키지는 않지만, 코드 변경에도 언와인드 안전성을 유지하기…"
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261128003100079",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "이스라엘 총리 후보 아이젠코트 \"남은 8일 이내 연정 구성할 것\"",
-      "url": "https://www.yna.co.kr/view/AKR20261128003100079",
-      "publishedAt": "2026-11-27T16:57:21.000Z",
-      "excerpt": "(카이로=연합뉴스) 김상훈 특파원 = 이스라엘 차기 정부 구성 권한을 쥔 가디 아이젠코트 야샤르당 대표가 조각 시한을 8일 앞두고, 대통령에게 ..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261128002800099",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "조지아, 튀르키예 축구팬 구금…양국 외교갈등으로 번져",
-      "url": "https://www.yna.co.kr/view/AKR20261128002800099",
-      "publishedAt": "2026-11-27T16:52:49.000Z",
-      "excerpt": "(요하네스버그=연합뉴스) 나확진 특파원 = 조지아에서 열린 튀르키예와 이스라엘 프로축구 팀 간 시합 중 조지아 당국이 튀르키예 팬들을 구금하는 ..."
     },
     {
       "id": "donga:https://www.donga.com/news/Sports/article/all/20261128/135106131/2",
@@ -730,6 +802,18 @@
       "excerpt": "Dana Telsey of Telsey Advisory Group expects holiday sales to rise 5% to 5.5% this year, down from 6.9% last year. But she says it will still be a strong year for retailers. She speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)"
     },
     {
+      "id": "hn:https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "publishedAt": "2026-11-27T15:40:31.000Z",
+      "excerpt": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 207 # Comments: 122"
+    },
+    {
       "id": "yna-local:https://www.yna.co.kr/view/AKR20261128001400034",
       "sourceId": "yna-local",
       "sourceName": "연합뉴스 전국",
@@ -776,6 +860,18 @@
       "url": "https://www.fastcompany.com/91649464/it-was-talk-playground-googles-ai-features-blocked-la-school-officials",
       "publishedAt": "2026-11-27T15:31:06.000Z",
       "excerpt": "School districts are taking steps to block Google’s artificial intelligence features and are considering dropping Google products entirely unless the company gives them a permanent AI workaround, pitting them against the tech giant whose Ch…"
+    },
+    {
+      "id": "entrepreneur:https://www.entrepreneur.com/business-news/your-career-is-probably-ignoring-your-strongest-leadership-training-community",
+      "sourceId": "entrepreneur",
+      "sourceName": "Entrepreneur",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "Your Career Is Probably Ignoring Your Strongest Leadership Training: Community",
+      "url": "https://www.entrepreneur.com/business-news/your-career-is-probably-ignoring-your-strongest-leadership-training-community",
+      "publishedAt": "2026-11-27T15:30:00.000Z",
+      "excerpt": "Community involvement can be a powerful source of leadership skills, professional connections and career opportunities. By recognizing the value of their community experiences, building genuine relationships and making clear requests for su…"
     },
     {
       "id": "yna-local:https://www.yna.co.kr/view/AKR20261127169800371",
@@ -1388,7 +1484,7 @@
       "title": "US Air Force's cloud computing platform hacked",
       "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
       "publishedAt": "2026-11-27T12:54:11.000Z",
-      "excerpt": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 236 # Comments: 141"
+      "excerpt": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 255 # Comments: 156"
     },
     {
       "id": "yna-local:https://www.yna.co.kr/view/AKR20261118180858007",
@@ -1449,18 +1545,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261126129251007",
       "publishedAt": "2026-11-27T12:30:20.000Z",
       "excerpt": "◇ 27일 전적"
-    },
-    {
-      "id": "geeknews:https://news.hada.io/topic?id=37955&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "sourceId": "geeknews",
-      "sourceName": "GeekNews",
-      "domain": "tech",
-      "lang": "ko",
-      "kind": "article",
-      "title": "Show GN: IdeaPulse - 아이디어 한 줄과 가장 큰 고민을 고르면 다음 한 걸음을 알려 주는 도구",
-      "url": "https://news.hada.io/topic?id=37955&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-      "publishedAt": "2026-11-27T12:24:18.000Z",
-      "excerpt": "가입 없이 바로 써 볼 수 있습니다. 아이디어를 한 줄 적고 고민 9가지 중 지금 가장 큰 것을 고르면, 그 고민에서 내 위치(0~3단계)에 맞는 \"다음 한 걸음\" 1개와 바로 쓸 도구(예: 아이디어를 설명하지 않고 묻는 질문 5개)를 보여 줍니다. 실제 기능 고민 키트 9가지 × 4단계. 아이디어를 적지 않아도 /kits 에서 전부 읽을 수 있습니다. 키트는 미리 써 둔 글이라 AI가 만들지 않습니다. 아이디어를 커뮤니티에 …"
     },
     {
       "id": "yna-local:https://www.yna.co.kr/view/AKR20261127166900007",
@@ -1586,18 +1670,6 @@
       "excerpt": "홍익표 통일부 장관 후보자가 지난 26일 인사청문회 준비 사무실이 마련된 서울 종로구 남북회담본부에서 도어 스테핑을 하고 있다. 문재원 기자홍익표 통일부 장관 후보자가 자신과 배우자 등 명의로 64억9300여만원의 재산을 신고했다.27일 국회에 접수된 인사청문요청안에 따르면 홍 후보자는 본인 명의 재산으로 서울 성동구 행당동 아파트 지분 절반인 6억3150···"
     },
     {
-      "id": "yna-local:https://www.yna.co.kr/view/AKR20261127166400007",
-      "sourceId": "yna-local",
-      "sourceName": "연합뉴스 전국",
-      "domain": "local",
-      "lang": "ko",
-      "kind": "article",
-      "title": "'실바 30점' GS칼텍스, 흥국생명 꺾고 5연승…선두 탈환",
-      "url": "https://www.yna.co.kr/view/AKR20261127166400007",
-      "publishedAt": "2026-11-27T11:57:09.000Z",
-      "excerpt": "(인천=연합뉴스) 김동한 기자 = 여자 프로배구 GS칼텍스가 고비마다 득점을 책임진 지젤 실바(등록명 실바)를 앞세워 5연승을 달리며 선두를 되..."
-    },
-    {
       "id": "yna-pol:https://www.yna.co.kr/view/AKR20261127166500004",
       "sourceId": "yna-pol",
       "sourceName": "연합뉴스 정치",
@@ -1704,18 +1776,6 @@
       "url": "https://www.fastcompany.com/91641672/a-fashion-reporters-favorite-things-of-2026",
       "publishedAt": "2026-11-27T11:00:00.000Z",
       "excerpt": "I’ll admit it. Being a fashion reporter can be a lot of fun. I get to sit across from some the most brilliant minds in the industry and peek at gorgeous collections seasons before they hit stores—long before they start shaping what we will …"
-    },
-    {
-      "id": "fastco:https://www.fastcompany.com/91648022/5-ways-to-tidy-up-your-tech-setup",
-      "sourceId": "fastco",
-      "sourceName": "Fast Company",
-      "domain": "career",
-      "lang": "en",
-      "kind": "article",
-      "title": "5 ways to tidy up your tech setup",
-      "url": "https://www.fastcompany.com/91648022/5-ways-to-tidy-up-your-tech-setup",
-      "publishedAt": "2026-11-27T11:00:00.000Z",
-      "excerpt": "One of the greatest tech-related purchases I’ve made of late is a product with no technology in it. I was feeling overwhelmed by the assortment of laptops, tablets, and other gadgets accumulating around the house and finally decided to do s…"
     },
     {
       "id": "thedaily:76bdd747-3b71-4ed8-b303-d18ffd19d512",
@@ -2213,7 +2273,7 @@
       "title": "Claude sabotaging ML research tasks?",
       "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "publishedAt": "2026-11-27T08:28:08.000Z",
-      "excerpt": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 374 # Comments: 189"
+      "excerpt": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 412 # Comments: 210"
     },
     {
       "id": "techinasia:https://www.techinasia.com/news/swiggys-instamart-plans-340-job-cuts-restructuring",
@@ -2421,7 +2481,7 @@
       "title": "Group chat where your AI talks behind your back",
       "url": "https://construct22.com/",
       "publishedAt": "2026-11-27T06:44:34.000Z",
-      "excerpt": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 602 # Comments: 253"
+      "excerpt": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 611 # Comments: 260"
     },
     {
       "id": "byline:https://byline.network/2026/11/27-712/",
@@ -2517,7 +2577,7 @@
       "title": "Buy Nothing Day – Friday November 27th 2026",
       "url": "https://www.buynothingday.co.uk/",
       "publishedAt": "2026-11-27T05:52:42.000Z",
-      "excerpt": "Article URL: https://www.buynothingday.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50663261 Points: 298 # Comments: 96"
+      "excerpt": "Article URL: https://www.buynothingday.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50663261 Points: 320 # Comments: 103"
     },
     {
       "id": "venturesquare:https://www.venturesquare.net/1132231/",
@@ -2601,7 +2661,7 @@
       "title": "The need for a formally verifiable mainstream programming language",
       "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
       "publishedAt": "2026-11-27T05:22:06.000Z",
-      "excerpt": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 253 # Comments: 261"
+      "excerpt": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 265 # Comments: 272"
     },
     {
       "id": "wowtale:https://wowtale.net/2026/11/27/268777/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%25b2%25a4%25ec%25b2%2598%25ed%2598%2591-%25ec%25b0%25bd%25ec%2597%2585%25eb%25b2%25a4%25ec%25b2%2598%25ea%25b7%259c%25ec%25a0%259c%25ed%2598%2581%25ec%258b%25a0%25ec%259c%2584%25ec%259b%2590%25ed%259a%258c-%25ec%25b6%259c%25eb%25b2%2594-%25ed%2599%2598%25ec%2598%2581-%25ea%25b8%25b0%25ec%25a4%2580%25ea%25b5%25ad",
@@ -2817,7 +2877,7 @@
       "title": "Hard Drive pricing has gotten bad",
       "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
       "publishedAt": "2026-11-27T01:13:49.000Z",
-      "excerpt": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 516 # Comments: 444"
+      "excerpt": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 527 # Comments: 449"
     },
     {
       "id": "platum:https://platum.kr/archives/299645?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25eb%25b2%25a4%25ec%25b2%2598%25ea%25b8%25b0%25ec%2597%2585%25ed%2598%2591%25ed%259a%258c-%25ed%259a%258c%25ec%259b%2590%25ec%2582%25ac-2%25eb%25a7%258c-%25ea%25b3%25b3-%25eb%2584%2598%25ec%2596%25b4-%25eb%258b%25a4%25ec%259d%258c-%25eb%258b%25ac-%25ed%259a%258c%25ec%259b%2590-%25ea%25b5%2590%25eb%25a5%2598-%25ed%2596%2589",
@@ -2978,7 +3038,7 @@
       "title": "AI made self-hosting fun again",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
       "publishedAt": "2026-11-26T21:47:45.000Z",
-      "excerpt": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 1007 # Comments: 476"
+      "excerpt": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 1021 # Comments: 486"
     },
     {
       "id": "hn:https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
@@ -2990,7 +3050,7 @@
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
       "publishedAt": "2026-11-26T21:08:05.000Z",
-      "excerpt": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 483 # Comments: 123"
+      "excerpt": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 486 # Comments: 124"
     },
     {
       "id": "producthunt:https://www.producthunt.com/products/ploid",
@@ -3038,7 +3098,7 @@
       "title": "Show HN: Fuck_data_brokers.py",
       "url": "https://github.com/gary23w/f-ck_data_brokers",
       "publishedAt": "2026-11-26T18:37:21.000Z",
-      "excerpt": "Article URL: https://github.com/gary23w/f-ck_data_brokers Comments URL: https://news.ycombinator.com/item?id=50658191 Points: 242 # Comments: 53"
+      "excerpt": "Article URL: https://github.com/gary23w/f-ck_data_brokers Comments URL: https://news.ycombinator.com/item?id=50658191 Points: 244 # Comments: 53"
     },
     {
       "id": "entrepreneur:https://www.entrepreneur.com/business-news/should-you-run-your-own-ai-or-pay-a-provider-heres-how-to-decide",
@@ -3051,18 +3111,6 @@
       "url": "https://www.entrepreneur.com/business-news/should-you-run-your-own-ai-or-pay-a-provider-heres-how-to-decide",
       "publishedAt": "2026-11-26T18:00:00.000Z",
       "excerpt": "Open-weight models finally give businesses a real choice between running AI on their own servers or renting it from the cloud."
-    },
-    {
-      "id": "hn:https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "publishedAt": "2026-11-26T17:47:45.000Z",
-      "excerpt": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 326 # Comments: 158"
     },
     {
       "id": "axios:https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics",
@@ -3830,18 +3878,6 @@
       "excerpt": "How Barry McGowan has turned the nearly 50-year-old churrascaria inspired chain into one of the nation’s most exciting growth stories."
     },
     {
-      "id": "entrepreneur:https://www.entrepreneur.com/building-a-business/i-paid-my-team-a-bonus-for-doing-more-and-the-work-got-worse-heres-what-it-taught-me",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "I Paid My Team a Bonus for Doing More — and the Work Got Worse. Here’s What It Taught Me.",
-      "url": "https://www.entrepreneur.com/building-a-business/i-paid-my-team-a-bonus-for-doing-more-and-the-work-got-worse-heres-what-it-taught-me",
-      "publishedAt": "2026-11-25T19:30:00.000Z",
-      "excerpt": "I paid my team a cash bonus for hitting a video target. Complaints rose, and cancellations hit 13%. Here is what the data showed and what fixed it."
-    },
-    {
       "id": "axios:https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
       "sourceId": "axios",
       "sourceName": "Axios",
@@ -3864,18 +3900,6 @@
       "url": "https://www.nrn.com/restaurant-technology/tech-tracker-opentable-to-acquire-australia-s-me-u",
       "publishedAt": "2026-11-25T19:07:31.000Z",
       "excerpt": "Also, Resy adds rewards for AmEx members, Square and SpotOn launch new AI agents, and Toast names a new CFO."
-    },
-    {
-      "id": "entrepreneur:https://www.entrepreneur.com/building-a-business/your-plan-for-next-year-could-be-in-trouble-before-it-even-begins-unless-you-ask-the-right-question",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Your Plan for Next Year Could Be in Trouble Before It Even Begins — Unless You Ask the Right Question",
-      "url": "https://www.entrepreneur.com/building-a-business/your-plan-for-next-year-could-be-in-trouble-before-it-even-begins-unless-you-ask-the-right-question",
-      "publishedAt": "2026-11-25T19:00:00.000Z",
-      "excerpt": "Unfinished work from this year consumes next year's people and budget without appearing among the new priorities leaders are asked to rank."
     },
     {
       "id": "nrn:https://www.nrn.com/independent-restaurants/mexican-steakhouse-norte-is-now-open-in-new-york-city-s-flatiron-district",
@@ -3905,18 +3929,6 @@
       "imageUrl": "https://files.flightcast.com/workspaces/pe8n3o18vo7kub4qa750g9lw/01KMN6S0ZP5JW4MSZ631M78NKB/podcast_cover__2_.jpg"
     },
     {
-      "id": "entrepreneur:https://www.entrepreneur.com/building-a-business/a-finished-project-could-still-be-costing-your-business-heres-where-to-look",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "A Finished Project Could Still Be Costing Your Business. Here’s Where to Look.",
-      "url": "https://www.entrepreneur.com/building-a-business/a-finished-project-could-still-be-costing-your-business-heres-where-to-look",
-      "publishedAt": "2026-11-25T18:00:00.000Z",
-      "excerpt": "Successfully completing a project doesn't always mean the work is over. Here's why."
-    },
-    {
       "id": "tc-startups:https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
       "sourceId": "tc-startups",
       "sourceName": "TechCrunch Startups",
@@ -3942,18 +3954,6 @@
       "excerpt": "Katelyn Lesse explains how Anthropic rewrote Claude’s API in Rust and how AI agents are changing engineering at the company.",
       "audioUrl": "https://api.substack.com/feed/podcast/226291266/48f1ade2511a24d25234b3abca7031c0.mp3",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!eod5!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27076b05-e3f4-4d05-9621-3da4f7f189cd_300x300.png"
-    },
-    {
-      "id": "entrepreneur:https://www.entrepreneur.com/business-news/eva-longoria-best-advice-for-entrepreneurs-this-small-business-saturday",
-      "sourceId": "entrepreneur",
-      "sourceName": "Entrepreneur",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "Eva Longoria Knows ‘What It Takes to Turn an Idea Into Something Real.’ Here’s Her Best Advice for Entrepreneurs This Small Business Saturday.",
-      "url": "https://www.entrepreneur.com/business-news/eva-longoria-best-advice-for-entrepreneurs-this-small-business-saturday",
-      "publishedAt": "2026-11-25T17:30:00.000Z",
-      "excerpt": "The actress, entrepreneur and investor shares why she's backing small business owners — and the advice she gives founders who call her for help."
     },
     {
       "id": "nrn:https://www.nrn.com/menu-trends/menu-tracker-new-items-from-firehouse-subs-papa-johns-and-potbelly",
@@ -5166,19 +5166,6 @@
       "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "publishedAt": "2026-11-20T19:53:41.000Z",
       "excerpt": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
-    },
-    {
-      "id": "stratechery:https://stratechery.com/2026/down-in-dc/",
-      "sourceId": "stratechery",
-      "sourceName": "Stratechery",
-      "domain": "tech",
-      "deep": true,
-      "lang": "en",
-      "kind": "article",
-      "title": "2026.47: Down in DC",
-      "url": "https://stratechery.com/2026/down-in-dc/",
-      "publishedAt": "2026-11-20T19:09:57.000Z",
-      "excerpt": "The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo."
     },
     {
       "id": "hardfork:0ef0dda2-c60e-44d1-8d24-60d48e6d64fd",
@@ -6446,7 +6433,7 @@
       {
         "id": "hn",
         "count": 10,
-        "parsed": 14
+        "parsed": 16
       },
       {
         "id": "tldr",
@@ -6455,7 +6442,7 @@
       },
       {
         "id": "stratechery",
-        "count": 3,
+        "count": 2,
         "parsed": 10
       },
       {
