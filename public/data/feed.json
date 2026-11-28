@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T17:30:01.716Z",
+  "generatedAt": "2026-11-28T18:31:24.744Z",
   "domains": [
     {
       "id": "local",
@@ -102,7 +102,7 @@
       "kind": "article",
       "title": "강금실 “중국 특별고문, 박근혜 정부 때 무보수 명예직”…‘친중’ 논란 반박",
       "url": "https://www.hani.co.kr/arti/politics/diplomacy/1289542.html",
-      "publishedAt": "2026-11-28T17:29:58.656Z",
+      "publishedAt": "2026-11-28T18:31:23.046Z",
       "excerpt": ""
     },
     {
@@ -114,7 +114,7 @@
       "kind": "article",
       "title": "이 대통령, 주문진시장 깜짝 방문…온누리상품권으로 노가리·오징어 구입",
       "url": "https://www.hani.co.kr/arti/society/environment/1289541.html",
-      "publishedAt": "2026-11-28T17:29:58.656Z",
+      "publishedAt": "2026-11-28T18:31:23.046Z",
       "excerpt": ""
     },
     {
@@ -126,7 +126,7 @@
       "kind": "article",
       "title": "이 대통령, 성형외과 후기 조작 사건에 “국민 속여 돈 버는 범죄, 엄정 대응”",
       "url": "https://www.hani.co.kr/arti/society/environment/1289538.html",
-      "publishedAt": "2026-11-28T17:29:58.656Z",
+      "publishedAt": "2026-11-28T18:31:23.046Z",
       "excerpt": ""
     },
     {
@@ -138,7 +138,7 @@
       "kind": "article",
       "title": "토요일 포근, 일요일 반짝 추위…초겨울 날씨, 슈퍼 엘니뇨 ‘롤코’ 탔다",
       "url": "https://www.hani.co.kr/arti/science/science_general/1289537.html",
-      "publishedAt": "2026-11-28T17:29:58.656Z",
+      "publishedAt": "2026-11-28T18:31:23.046Z",
       "excerpt": ""
     },
     {
@@ -150,7 +150,7 @@
       "kind": "article",
       "title": "주유소 기름값 28주 연속 내리막…이번 주말 가득 채워볼까?",
       "url": "https://www.hani.co.kr/arti/economy/economy_general/1289536.html",
-      "publishedAt": "2026-11-28T17:29:58.656Z",
+      "publishedAt": "2026-11-28T18:31:23.046Z",
       "excerpt": ""
     },
     {
@@ -162,7 +162,7 @@
       "kind": "article",
       "title": "심장 멈춘 6개월 영아…병원 16곳 ‘전화 뺑뺑이’ 끝에 목포서 ‘제주 헬기’ 탔다",
       "url": "https://www.hani.co.kr/arti/society/society_general/1289535.html",
-      "publishedAt": "2026-11-28T17:29:58.656Z",
+      "publishedAt": "2026-11-28T18:31:23.046Z",
       "excerpt": ""
     },
     {
@@ -174,7 +174,7 @@
       "kind": "article",
       "title": "“성적 동의 없으면 강간이다”…서울 도심 채운 ‘강간죄 개정’ 요구 목소리 [포토]",
       "url": "https://www.hani.co.kr/arti/society/women/1289534.html",
-      "publishedAt": "2026-11-28T17:29:58.656Z",
+      "publishedAt": "2026-11-28T18:31:23.046Z",
       "excerpt": ""
     },
     {
@@ -186,7 +186,7 @@
       "kind": "article",
       "title": "김의겸·서영교와 충돌한 박홍근 “법사위, 상원처럼 군림…본연 충실해야”",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1289533.html",
-      "publishedAt": "2026-11-28T17:29:58.656Z",
+      "publishedAt": "2026-11-28T18:31:23.046Z",
       "excerpt": ""
     },
     {
@@ -198,7 +198,7 @@
       "kind": "article",
       "title": "금요일 밤 10시 “회의하자”…‘운전기사 갑질’ DL그룹 이해욱 회장 또 논란",
       "url": "https://www.hani.co.kr/arti/society/society_general/1289532.html",
-      "publishedAt": "2026-11-28T17:29:58.656Z",
+      "publishedAt": "2026-11-28T18:31:23.046Z",
       "excerpt": ""
     },
     {
@@ -210,8 +210,56 @@
       "kind": "article",
       "title": "민주노총, ‘특정후보 투표 독려·커피쿠폰 약속’ 2개 지부 표 무효 처리",
       "url": "https://www.hani.co.kr/arti/society/labor/1289531.html",
-      "publishedAt": "2026-11-28T17:29:58.656Z",
+      "publishedAt": "2026-11-28T18:31:23.046Z",
       "excerpt": ""
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261129002600091",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "美 LA 인근 해상에 규모 5.0 지진…\"쓰나미 위험은 없어\"",
+      "url": "https://www.yna.co.kr/view/AKR20261129002600091",
+      "publishedAt": "2026-11-28T18:22:16.000Z",
+      "excerpt": "(샌프란시스코=연합뉴스) 권영전 특파원 = 29일(현지시간) 오전 9시30분께 미국 캘리포니아 로스앤젤레스(LA) 인근 해상에 규모 5.0의 지..."
+    },
+    {
+      "id": "inc:https://www.inc.com/christophercason/what-t-mobile-learned-at-the-las-vegas-grand-prix-could-save-your-next-product-launch/91442133",
+      "sourceId": "inc",
+      "sourceName": "Inc.",
+      "domain": "ideas",
+      "lang": "en",
+      "kind": "article",
+      "title": "What T-Mobile Learned at the Las Vegas Grand Prix Could Save Your Next Product Launch",
+      "url": "https://www.inc.com/christophercason/what-t-mobile-learned-at-the-las-vegas-grand-prix-could-save-your-next-product-launch/91442133",
+      "publishedAt": "2026-11-28T18:11:23.000Z",
+      "excerpt": "The companies that benefit most from innovation aren’t necessarily the ones developing the most technology. They’re the ones that understand which customer problems are worth solving."
+    },
+    {
+      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261128053651098",
+      "sourceId": "yna-intl",
+      "sourceName": "연합뉴스 국제",
+      "domain": "news",
+      "lang": "ko",
+      "kind": "article",
+      "title": "\"우리가 승리\", \"과반 의석 가능\"…스페인 여야, 마지막 호소(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261128053651098",
+      "publishedAt": "2026-11-28T17:57:35.000Z",
+      "excerpt": "(브뤼셀=연합뉴스) 현윤경 특파원 = 스페인 정당들이 29일(현지시간) 실시되는 총선을 앞두고 선거운동을 마무리하는 유세를 펼치며 유권자들에게 ..."
+    },
+    {
+      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261129002400109",
+      "sourceId": "yna-econ",
+      "sourceName": "연합뉴스 경제",
+      "domain": "korea",
+      "lang": "ko",
+      "kind": "article",
+      "title": "추락하는 이란 리알화…사상 최저치 또 갈아치워",
+      "url": "https://www.yna.co.kr/view/AKR20261129002400109",
+      "publishedAt": "2026-11-28T17:33:55.000Z",
+      "excerpt": "(로마=연합뉴스) 민경락 특파원 = 중동 사태 이후 계속되는 미국의 경제 제재 여파로 이란 리알화 가치가 또 사상 최저치 기록을 갈아치웠다."
     },
     {
       "id": "yna-intl:https://www.yna.co.kr/view/AKR20261129002200087",
@@ -346,40 +394,16 @@
       "excerpt": "Let AI handle the busywork while you handle the big decisions."
     },
     {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261128047700009",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
+      "id": "hn:https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+      "sourceId": "hn",
+      "sourceName": "Hacker News (200점 이상)",
+      "domain": "tech",
+      "lang": "en",
       "kind": "article",
-      "title": "대만 야당, 격전지 타이베이 승리…'장제스 증손' 현 시장 재선",
-      "url": "https://www.yna.co.kr/view/AKR20261128047700009",
-      "publishedAt": "2026-11-28T15:59:55.000Z",
-      "excerpt": "(타이베이=연합뉴스) 김철문 통신원 = 28일(현지시간) 열린 대만 지방선거에서 제1야당 중국국민당(국민당)이 격전지 타이베이에서 승리했다."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261129000800083",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "대만 지방선거서 야당 국민당 '11대10' 신승…집권 민진당 약진",
-      "url": "https://www.yna.co.kr/view/AKR20261129000800083",
-      "publishedAt": "2026-11-28T15:48:13.000Z",
-      "excerpt": "(베이징·타이베이=연합뉴스) 정성조 특파원 김철문 통신원 = 라이칭더 대만 총통의 '중간 평가'이자 2028년 대선의 전초전 격인 28일(현지시..."
-    },
-    {
-      "id": "yna-intl:https://www.yna.co.kr/view/AKR20261129001000098",
-      "sourceId": "yna-intl",
-      "sourceName": "연합뉴스 국제",
-      "domain": "news",
-      "lang": "ko",
-      "kind": "article",
-      "title": "국제법정, '포클랜드 제도 英석유개발 중단' 아르헨 요구 기각",
-      "url": "https://www.yna.co.kr/view/AKR20261129001000098",
-      "publishedAt": "2026-11-28T15:46:22.000Z",
-      "excerpt": "(브뤼셀=연합뉴스) 현윤경 특파원 = 남대서양의 영국령 포클랜드 제도 인근에서 진행 중인 영국의 석유 개발 프로젝트를 중단해 달라는 아르헨티나의..."
+      "title": "Silently degrading the model's capabilities IS sabotage",
+      "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+      "publishedAt": "2026-11-28T15:55:54.000Z",
+      "excerpt": "Article URL: https://twitter.com/TimSweeneyEpic/status/2126682647862862063 Comments URL: https://news.ycombinator.com/item?id=50678901 Points: 210 # Comments: 70"
     },
     {
       "id": "geeknews:https://news.hada.io/topic?id=38008&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
@@ -436,10 +460,10 @@
       "domain": "tech",
       "lang": "ko",
       "kind": "article",
-      "title": "Claude Code의 사보타주: 예비 벤치마킹",
+      "title": "Claude Code는 연구 작업을 방해하는가? GPU 커널과 nanoGPT 예비 실험",
       "url": "https://news.hada.io/topic?id=38005&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "publishedAt": "2026-11-28T14:33:02.000Z",
-      "excerpt": "Claude Code에 동일한 GPU 커널 최적화 작업을 맡기면서 모델 학습용 코드라는 맥락 과 사람이 검토하지 않는다는 조건 만 바꾼 100회 이상의 세션에서 출력 품질과 비용 차이가 나타남 조건을 강조할수록 컴파일, 정확성 검증, PyTorch 대비 속도 향상을 모두 충족하는 fast_1 성공률이 25%포인트 하락 함 조건이 추가된 세션은 일찍 포기한 것이 아니라 더 많은 코드와 명령을 실행했으며, 시간과 단계 수는 40~…"
+      "excerpt": "Claude Code의 Opus 5.5 로 GPU 커널 최적화와 nanoGPT 버그 수정을 총 189회 시험함. 작업 지시는 그대로 두고, 결과물이 모델의 학습 데이터로 쓰인다 는 설명과 아무도 검토하지 않는다 는 설명을 차례로 추가함 GPU 커널이 컴파일되고, 결과가 정확하며, PyTorch보다 빨라야 성공으로 집계함. 성공률은 기본 조건 92%, 학습 데이터 조건 88%, 사람 검토가 없다는 조건까지 더하면 69% 였음 G…"
     },
     {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008868018",
@@ -742,6 +766,18 @@
       "excerpt": "시즌 초반 주춤하던 여자프로농구 ‘디펜딩 챔피언’ 청주 KB스타즈가 부산 BNK 썸을 완파하고 파죽의 3연승을 달렸다. 최하위 부천 하나은행은 아산 우리은행을 제물로 시즌 2승째를 거뒀다.KB는 28일 부산 사직체육관에서 열린 2026-27 KB국민은행 여자프로농구 원정 경기에서 BNK에 77-61로 크게 이겼다.지난 1일 BNK와의 공식 개막전에서 53-82로 대패했던 KB는 27일 만의 맞대결에서 설욕에 성공했다. 아울러 …"
     },
     {
+      "id": "hn-show:https://scriptor-pro.github.io/luciole-mono/",
+      "sourceId": "hn-show",
+      "sourceName": "Show HN (100점 이상)",
+      "domain": "tech",
+      "lang": "en",
+      "kind": "article",
+      "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+      "url": "https://scriptor-pro.github.io/luciole-mono/",
+      "publishedAt": "2026-11-28T12:50:15.000Z",
+      "excerpt": "TLDR : Atkinson Hyperlegible Mono alternative Luciole Mono is a vibe-clauded derivative of Luciole.Luciole was designed for visually impaired readers by Laurent Bourcellier and Jonathan Perez, at the Centre Technique Régional pour la Défici…"
+    },
+    {
       "id": "inc:https://www.inc.com/lucia-auerbach/could-pink-noise-sleep-fight-cognitive-decline-mit-researchers-1-promising-clue/91439138",
       "sourceId": "inc",
       "sourceName": "Inc.",
@@ -850,18 +886,6 @@
       "excerpt": "혼자 만든 모바일 게임입니다. 작은 2층 건물의 주인이 되어 한 달씩 건물을 운영하고, 세입자를 들이고 사건을 처리하며 더 큰 건물로 갈아탑니다. 4,500원 유료 앱이라 체험하려면 구매가 필요합니다. 광고·인앱 결제·계정 가입은 없습니다. 사건 300개 이상, 미니게임 120종. 서버 없이 기기 안에 저장하며 인터넷 연결 없이도 플레이할 수 있습니다. Expo SDK 54 + React Native 0.81. 게임 로직은 순…"
     },
     {
-      "id": "inc:https://www.inc.com/chris-morris/6-startup-ideas-you-can-launch-without-a-college-degree/91442795",
-      "sourceId": "inc",
-      "sourceName": "Inc.",
-      "domain": "ideas",
-      "lang": "en",
-      "kind": "article",
-      "title": "6 Startup Ideas You Can Launch Without a College Degree",
-      "url": "https://www.inc.com/chris-morris/6-startup-ideas-you-can-launch-without-a-college-degree/91442795",
-      "publishedAt": "2026-11-28T12:00:00.000Z",
-      "excerpt": "These startup ideas in growing industries offer plenty of opportunities for aspiring entrepreneurs, whether you have a college degree or not."
-    },
-    {
       "id": "hn:https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
       "sourceId": "hn",
       "sourceName": "Hacker News (200점 이상)",
@@ -871,7 +895,7 @@
       "title": "Audible removes download option for purchased audiobooks",
       "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
       "publishedAt": "2026-11-28T11:51:27.000Z",
-      "excerpt": "Article URL: https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks Comments URL: https://news.ycombinator.com/item?id=50676723 Points: 454 # Comments: 188"
+      "excerpt": "Article URL: https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks Comments URL: https://news.ycombinator.com/item?id=50676723 Points: 595 # Comments: 253"
     },
     {
       "id": "donga:https://www.donga.com/news/Sports/article/all/20261128/135107913/1",
@@ -919,7 +943,7 @@
       "title": "Farewell",
       "url": "https://github.com/p-e-w/heretic/issues/601",
       "publishedAt": "2026-11-28T11:42:26.000Z",
-      "excerpt": "Article URL: https://github.com/p-e-w/heretic/issues/601 Comments URL: https://news.ycombinator.com/item?id=50676672 Points: 784 # Comments: 324"
+      "excerpt": "Article URL: https://github.com/p-e-w/heretic/issues/601 Comments URL: https://news.ycombinator.com/item?id=50676672 Points: 830 # Comments: 349"
     },
     {
       "id": "yna-local:https://www.yna.co.kr/view/AKR20261128023351053",
@@ -952,10 +976,10 @@
       "domain": "tech",
       "lang": "ko",
       "kind": "article",
-      "title": "Knuth, 오류 제보 검토 일시 중단",
+      "title": "도널드 커누스, 책 오류 제보 검토 일시 중단",
       "url": "https://news.hada.io/topic?id=37999&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
       "publishedAt": "2026-11-28T11:34:44.000Z",
-      "excerpt": "Donald Knuth 가 책의 오류 제보를 읽는 속도보다 접수 속도가 훨씬 빨라지면서, 새 제보 검토를 일시 중단함 LLM의 확산 으로 독자들의 생산성이 크게 높아져 제보가 급증했으며, 최근 제보를 무작위로 살펴본 결과 대다수가 중복 제보 였음 책의 정확성에 직접 책임 을 지기 위해 모든 제보를 꼼꼼하게 검증한다는 원칙을 유지하지만, 이를 처리할 시간이 부족함 2026년 11월 25일 이후 제출된 제보 는 해당 책의 알려진 …"
+      "excerpt": "《컴퓨터 프로그래밍의 예술》 저자 도널드 커누스(Donald Knuth) 는 50년 넘게 독자가 제보한 오류를 다음 인쇄에 반영해 왔으나, 제보가 읽을 수 있는 속도보다 빠르게 쌓이자 새 제보 검토를 잠정 중단함 LLM의 확산 으로 독자들의 생산성이 크게 높아져 제보가 급증했으며, 최근 제보를 무작위로 살펴본 결과 대다수가 중복 제보 였음 책의 정확성에 직접 책임 을 지기 위해 모든 제보를 꼼꼼하게 검증한다는 원칙을 유지하지만…"
     },
     {
       "id": "sbs-head:https://news.sbs.co.kr/news/endPage.do?news_id=N1008868035",
@@ -1102,7 +1126,7 @@
       "title": "Claude Code sabotage: preliminary benchmarking",
       "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
       "publishedAt": "2026-11-28T10:37:40.000Z",
-      "excerpt": "Article URL: https://xinyadu.github.io/blog/claude-code-sabotage.html Comments URL: https://news.ycombinator.com/item?id=50676390 Points: 491 # Comments: 163"
+      "excerpt": "Article URL: https://xinyadu.github.io/blog/claude-code-sabotage.html Comments URL: https://news.ycombinator.com/item?id=50676390 Points: 608 # Comments: 204"
     },
     {
       "id": "khan:https://www.khan.co.kr/article/202611281931001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
@@ -1729,7 +1753,7 @@
       "title": "Knuth: Moratorium on Error Reports",
       "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
       "publishedAt": "2026-11-28T03:49:21.000Z",
-      "excerpt": "Article URL: https://www-cs-faculty.stanford.edu/~knuth/moratorium.html Comments URL: https://news.ycombinator.com/item?id=50674452 Points: 346 # Comments: 165"
+      "excerpt": "Article URL: https://www-cs-faculty.stanford.edu/~knuth/moratorium.html Comments URL: https://news.ycombinator.com/item?id=50674452 Points: 406 # Comments: 185"
     },
     {
       "id": "hn:https://unkernel.dev",
@@ -1741,7 +1765,7 @@
       "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
       "url": "https://unkernel.dev",
       "publishedAt": "2026-11-28T03:19:20.000Z",
-      "excerpt": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 497 # Comments: 133"
+      "excerpt": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 518 # Comments: 135"
     },
     {
       "id": "yna-econ:https://www.yna.co.kr/view/AKR20261127140100003",
@@ -1948,18 +1972,6 @@
       "excerpt": ""
     },
     {
-      "id": "yna-econ:https://www.yna.co.kr/view/AKR20261127148900054",
-      "sourceId": "yna-econ",
-      "sourceName": "연합뉴스 경제",
-      "domain": "korea",
-      "lang": "ko",
-      "kind": "article",
-      "title": "전남광주시, 제2순환도로 재정지원금 290억원 환수 추진",
-      "url": "https://www.yna.co.kr/view/AKR20261127148900054",
-      "publishedAt": "2026-11-28T01:04:00.000Z",
-      "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 광주 제2순환도로 1구간 민간사업자에게 과다 지급한 것으로 추정되는 재정지원금 290억원에 대해 전남광주통..."
-    },
-    {
       "id": "venturesquare:https://www.venturesquare.net/1132291/",
       "sourceId": "venturesquare",
       "sourceName": "벤처스퀘어",
@@ -1993,7 +2005,7 @@
       "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
       "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "publishedAt": "2026-11-27T23:06:29.000Z",
-      "excerpt": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 531 # Comments: 183"
+      "excerpt": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 550 # Comments: 192"
     },
     {
       "id": "sedaily:https://www.sedaily.com/article/20120095",
@@ -2236,7 +2248,7 @@
       "title": "Convex skills send the user's app idea to a remote server without telling them",
       "url": "https://github.com/convex/convex-backend-skill/issues/64",
       "publishedAt": "2026-11-27T18:02:45.000Z",
-      "excerpt": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 354 # Comments: 119"
+      "excerpt": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 365 # Comments: 122"
     },
     {
       "id": "entrepreneur:https://www.entrepreneur.com/building-a-business/how-to-finance-your-businesss-next-stage-of-growth",
@@ -2296,7 +2308,7 @@
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
       "publishedAt": "2026-11-27T15:40:31.000Z",
-      "excerpt": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 583 # Comments: 322"
+      "excerpt": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 590 # Comments: 325"
     },
     {
       "id": "entrepreneur:https://www.entrepreneur.com/business-news/your-career-is-probably-ignoring-your-strongest-leadership-training-community",
@@ -3192,18 +3204,6 @@
       "excerpt": "The LinkedIn AI agent that learns what works for your brand Discussion | Link"
     },
     {
-      "id": "hn:https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-      "sourceId": "hn",
-      "sourceName": "Hacker News (200점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Citroën Hydraulic System",
-      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-      "publishedAt": "2026-11-27T03:10:19.000Z",
-      "excerpt": "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html Comments URL: https://news.ycombinator.com/item?id=50662313 Points: 234 # Comments: 82"
-    },
-    {
       "id": "wowtale:https://wowtale.net/2026/11/27/268768/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sba-%25ec%25a7%2580%25ec%2597%25ad%25ed%258a%25b9%25ed%2599%2594-%25ed%2594%2584%25eb%25a1%259c%25ec%25a0%259d%25ed%258a%25b8-%25eb%25a0%2588%25ec%25a0%2584%25eb%2593%259c-50-%25ec%259c%25a0%25eb%25a7%259d-%25ed%258c%25a8%25ec%2585%2598-%25ec%25a0%259c%25ec%25a1%25b0%25ea%25b8%25b0%25ec%2597%2585-ir-%25eb%258d%25b0",
       "sourceId": "wowtale",
       "sourceName": "와우테일",
@@ -3446,7 +3446,7 @@
       "title": "The Balatro Timeline",
       "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
       "publishedAt": "2026-11-26T17:20:27.000Z",
-      "excerpt": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh Comments URL: https://news.ycombinator.com/item?id=50657346 Points: 503 # Comments: 148"
+      "excerpt": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh Comments URL: https://news.ycombinator.com/item?id=50657346 Points: 518 # Comments: 150"
     },
     {
       "id": "axios:https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics",
@@ -4651,18 +4651,6 @@
       "url": "https://www.modernretail.co/marketing/pura-doubles-down-on-brand-collaborations-we-want-to-be-the-spotify-of-fragrance/?utm_campaign=modernretaildis&#038;utm_medium=rss&#038;utm_source=general-rss",
       "publishedAt": "2026-11-24T05:00:00.000Z",
       "excerpt": "Pura leans on brand collaborations, from the New York City Ballet to Calm, to retain subscribers as it gears up to become the “Spotify of fragrance.”"
-    },
-    {
-      "id": "hn-show:https://swarkentin.github.io/synth-patch-hero/",
-      "sourceId": "hn-show",
-      "sourceName": "Show HN (100점 이상)",
-      "domain": "tech",
-      "lang": "en",
-      "kind": "article",
-      "title": "Show HN: Synth Patch Hero",
-      "url": "https://swarkentin.github.io/synth-patch-hero/",
-      "publishedAt": "2026-11-24T03:24:22.000Z",
-      "excerpt": "I wanted to be more deliberate and systematic in how I approach working on synth patches. With the help of our friend Claude, I put together a game that runs through exercises that builds that muscle in a fun and approachable way where you …"
     },
     {
       "id": "platformer:https://www.platformer.news/jensen-huang-returns-nvidia/",
